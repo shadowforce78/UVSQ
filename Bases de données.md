@@ -137,5 +137,148 @@ COMPTE
 
 3) Donner les numéros de comptes et le client dont le solde est entre 600 et 4000€
 
-<code>SELECT numC, numeroClient FROM COMPTE WHERE solde BETWEEN '600' AND '4000'</code>
+```sql
+SELECT numC, numeroClient FROM COMPTE WHERE solde BETWEEN '600' AND '4000'
+```
 
+# Comment créer une base de donnée conceptuelle ?
+
+Définition : 
+	Un ensemble d'attributs
+	Un ensemble de domaines (ou type, ou valeurs)
+	Un ensemble de nom de tables
+
+Schéma de relation
+
+Schéma de relation R : ensemble fini de la forme
+	R = {A<sub>1</sub>:dom(A<sub>1</sub>),...,A<sub>n</sub>:dom(A<sub>n</sub>)}
+	où A<sub>i</sub> est un attribut et dom(A<sub>i</sub>) le domaine de A<sub>i</sub> noté R={A<sub>1</sub>,.....,A<sub>n</sub>}
+N-uplets et relation
+
+Exemple : 
+```sql
+	R = {num:integer;nom:varchar(20);prenom:varchar(30)}
+```
+Un n-uplet t sur R est une fonction qui associe à chaque attribut de A<sub>i</sub> de R une valeur de son domaine dom(A<sub>i</sub>)
+
+Un relation r sur R est un ensemble de n-uplets sur R
+	- R est appelé schéma de R, et noté sch(r)
+	Exemple :
+		t<sub>1</sub>(num) = 1                       t<sub>2</sub>(num)=2
+		t<sub>1</sub>(nom)='Dupont'             t<sub>2</sub>(nom)='Durand'
+		t<sub>2</sub>(prenom)='Jean'             t<sub>2</sub>(prenom)='Jacques'
+
+## Relation : 
+
+r<sub>1</sub>={t<sub>1</sub>,t<sub>2</sub>}
+r<sub>1</sub>={
+	(1,'Dupont','Jean')
+	(2,'Durand','Jacques')
+}
+
+r<sub>2</sub>={t<sub>1</sub>}
+r<sub>3</sub>={NULL}
+
+Un schéma de base de données S est un ensemble fini de tables, où chaque table T est associée à un schéma de relation sch(T)
+	Un attribut peut appartenir a plusieurs tables
+	Plusieurs tables peuvent avoir le même schéma
+
+```sql
+S = {
+		client(num:int;nom:varchar(20);prenom:varchar(30));
+		compte(numcompte:int;type:varchar(10);solde:float;numclient:int);
+	}
+```
+
+Soit S = {T1,....,Tn}. Une base de données $\delta$ sur S est une fonction qui associe à chaque table Ti une relation finie $\delta$(Ti) sur sch(Ti)
+
+Exemple :
+```sql
+	$\delta$(client) = {(1,'Dupont','Jean';(2,'Durand','Jacques'))}
+	$\delta$(compte) = {(42,'cc',380.20,1);(56,'LA',2000,2)}
+```
+
+client :
+
+| num | nom    | prenom  |
+| --- | ------ | ------- |
+| 1   | Dupont | Jean    |
+| 2   | Durand | Jacques |
+
+compte : 
+
+| numcompte | type | solde  | numclient |
+| --------- | :--: | :----: | --------- |
+| 42        |  cc  | 380.20 | 1         |
+| 56        |  la  |  2000  | 2         |
+
+# 2. Mis a jour
+
+- Insertion
+- Modification
+- Suppression
+d'un ou plusieurs n-uplets dans une relation donnée
+
+> Pas de difficulté au niveau conceptuel
+
+# 3. Consultation
+
+Deux type de langages :
+	- Langage fondé sur l'algèbre relationnelle
+		- impératifs
+	- Langage fondés sur le calcul relationnel
+		- déclaratifs
+
+Il existe 6 opérations : 
+- Union : 
+	argument : 2 relations r et s
+		telles que sch(r)=sch(s)
+	
+	résultat : une relation r $\cup$ s telle que : 
+		sch(r $\cup$ s) = sch(r)
+		r $\cup$ s = {t | t $\in$ r ou t $\in$ s}
+
+- Différence : 
+	argument : 2 relations r et s
+		telles que sch(r)=sch(s)
+	
+	résultat : une relation r - s telle que :
+		sch(r-s)=sch(r)
+		r-s = {t | t $\in$ r }
+		
+- Projection
+	argument : une relation r et un ensemble d'attribut X tel que X $\subseteq$ sch(r)
+
+	résultat : une relation $\pi$<sub>x</sub>(r) telle que:
+		sch($\pi$<sub>x</sub>(r)) = X 
+		ou t(X) est la projection de t sur X
+		
+- Sélection :
+	comparaison basé sur des égalités, on peut les combiner avec des conjonctions, (ou, ... et ....)
+	(le WHERE en SQL)
+
+- Produit : 
+	produit cartésien, il ne faut pas qu'il y est des lignes commun, toutes les lignes d'une table combinée a toutes les lignes d'une autre tables
+
+| A   | B   |
+| --- | --- |
+| 1   | 1   |
+| 2   | 2   |
+
+| C   | D   |
+| --- | --- |
+| 3   | 3   |
+| 4   | 4   |
+
+r<sub>1</sub> X r<sub>2</sub>
+
+A|B|C|D
+-|---|---|---
+1|1|3|3
+1|1|4|4
+2|2|3|3
+2|2|4|4
+
+
+- Renommage :
+	changer le nom d'une table, d'une colonne
