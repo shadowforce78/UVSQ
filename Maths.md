@@ -32,8 +32,9 @@ p|q|$\bar p$|$\bar q$|(p+$\bar q$)|($\bar p$+q)|p=q|(p+$\bar q$)($\bar p$+q)
 ## Distributivité
 
 ou = +
-ou exclusif = $\oplus$ 
+ou exclusif = $\oplus$ (un seul des deux doit être vrai)
 et = .
+a implique b = $a \implies b$ (si a = 0 alors vrai, si a = 1 et que b = 0 alors faux)
 
 	a+bc = (a+b).(a+c)
 
@@ -50,6 +51,8 @@ et = .
 
 D'après la table, a+bc = (a+b).(a+c)
 
+Exercice 12 :
+
 Une semaine compte 7 jours ET un mois compte 24 heures : Faux
 Une semaine compte 7 jours OU un mois compte 24 heures : Vrai
 Une semaine compte 7 jours ET un jour compte 24 heures : Vrai
@@ -61,4 +64,29 @@ On pose :
 	e  = "je m'entraine"
 	p = "je progresse"
 	s = "je suis souffrant"
-Donc P = ($e \implies p$ ) et ( s \oplus{e} ) et $\overline s$ $\implies p$
+Donc P = ($e \implies p$ ) et ($s \oplus{e}$ ) et $\overline s$ $\implies p$
+
+| e   | p   | s   | $\overline s$ | $e \implies p$ | $s \oplus e$ | ($e \implies p$) . ($s \oplus e$) . $\overline s$ | [] $\implies p$ |
+| --- | --- | --- | ------------- | -------------- | ------------ | ------------------------------------------------- | --------------- |
+| 0   | 0   | 0   | 1             | 1              | 0            | 0                                                 | 1               |
+| 0   | 0   | 1   | 0             | 1              | 1            | 0                                                 | 1               |
+| 0   | 1   | 0   | 1             | 1              | 0            | 0                                                 | 1               |
+| 0   | 1   | 1   | 0             | 1              | 1            | 0                                                 | 1               |
+| 1   | 0   | 0   | 1             | 0              | 1            | 0                                                 | 1               |
+| 1   | 0   | 1   | 0             | 0              | 0            | 0                                                 | 1               |
+| 1   | 1   | 0   | 1             | 1              | 1            | 1                                                 | 1               |
+| 1   | 1   | 1   | 0             | 1              | 0            | 0                                                 | 1               |
+Donc vrai
+
+Exercice 13 : 
+
+(( $p \implies q$ ) p ) $\implies q$
+$\overline p \implies (p \implies q)$
+($p \implies q) p \overline q$ 
+
+| p   | q   | $p \implies q$ | $(p \implies q) . p$ | $[ ] \impliesq$ |
+| --- | --- | -------------- | -------------------- | --------------- |
+| 0   | 0   |                |                      |                 |
+| 0   | 1   |                |                      |                 |
+| 1   | 0   |                |                      |                 |
+| 1   | 1   |                |                      |                 |
