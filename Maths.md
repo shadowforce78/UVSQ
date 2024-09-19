@@ -32,6 +32,7 @@ p|q|$\bar p$|$\bar q$|(p+$\bar q$)|($\bar p$+q)|p=q|(p+$\bar q$)($\bar p$+q)
 ## Distributivité
 
 ou = +
+ou exclusif = $\oplus$ 
 et = .
 
 	a+bc = (a+b).(a+c)
@@ -48,3 +49,16 @@ et = .
 | 1 1 1 | 1   | 1    | 1   | 1   | 1           |
 
 D'après la table, a+bc = (a+b).(a+c)
+
+Une semaine compte 7 jours ET un mois compte 24 heures : Faux
+Une semaine compte 7 jours OU un mois compte 24 heures : Vrai
+Une semaine compte 7 jours ET un jour compte 24 heures : Vrai
+Si 2 est un diviseur de 6, ALORS 3 est un diviseur de 39 : Vrai
+Si 7 est plus grand que 3, alors 4 est plus petit que $\dfrac {\pi}{2}$ : Faux
+Si le carré d'un nombre réel est strictement négatif, alors 3 + 2 = 5 : Vrai
+Si votre enseignant de TD est Brad Pitt, alors $5 \geq 12$ : Vrai
+On pose : 
+	e  = "je m'entraine"
+	p = "je progresse"
+	s = "je suis souffrant"
+Donc P = ($e \implies p$ ) et ( s \oplus{e} ) et $\overline s$ $\implies p$
