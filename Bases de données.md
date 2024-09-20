@@ -282,3 +282,41 @@ A|B|C|D
 
 - Renommage :
 	changer le nom d'une table, d'une colonne
+
+# Algèbre relationnelle
+
+## 6 opérations, 
+	
+Union : U
+Différence : -
+Projection : $\pi$
+Sélection : $\sigma$ 
+Produit : x
+Renommage : $\rho$ 
+
+
+Ensemble R
+
+ABC = Schéma de relation
+B, C ou D = attributs
+l'ensemble est constitué de n-uplets
+
+| A   | B   | C   |
+| --- | --- | --- |
+| a   | b   | c   |
+| a'  | b   | c   |
+| a   | b'  | c   |
+
+| B   | C   | D   |
+| --- | --- | --- |
+| b   | c   | d   |
+| b   | c'  | d'  |
+| b'  | c'  | d'  |
+
+$\pi$<sub>BC</sub>(r) = 
+Projection sur BC de la relation r
+
+$\sigma$<sub>A=a'</sub>(r) = a' b c
+Sélection dans r par rapport à A = a'
+
+$\sigma$<sub>B=b ^ > D=d'</sub>(A) = b c' d'
