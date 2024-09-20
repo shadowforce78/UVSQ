@@ -386,3 +386,31 @@ b'|c
 # Produit cartésien :
 
 $\mathbb{N}$² = $\mathbb{N}*\mathbb{N}$
+
+$\rho$<sub>B->E</sub>(r) = 
+
+| A   | E   | C   |
+| --- | --- | --- |
+| a   | b   | c   |
+| a'  | b   | c   |
+| a   | b'  | c   |
+
+$\rho$<sub>B->r.B(r) ET C->r.C(r)</sub> X $\rho$<sub>B->A.B(A) ET C->A.C(A)</sub>
+
+| A   | r.B | r.C | A.B | A.C | D   |
+| --- | --- | --- | --- | --- | --- |
+| a   | b   | c   | b   | c   | d   |
+| a   | b   | c   | b   | c'  | d'  |
+| a   | b   | c   | b'  | c'  | d'  |
+| a'  | b   | c   | b   | c   | d   |
+| a'  | b   | c   | b   | c'  | d'  |
+| a'  | b   | c   | b'  | c'  | d'  |
+| a   | b'  | c   | b   | c   | d   |
+| a   | b'  | c   | b   | c'  | d'  |
+| a   | b'  | c   | b'  | c'  | d'  |
+
+```sql
+select ename from emp where job="manager"
+```
+
+$\pi$<sub>ename</sub>($\sigma$<sub>job="manager"</sub>(emp))
