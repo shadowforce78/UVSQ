@@ -301,11 +301,15 @@ ABC = Schéma de relation
 B, C ou D = attributs
 l'ensemble est constitué de n-uplets
 
+Ensemble R
+
 | A   | B   | C   |
 | --- | --- | --- |
 | a   | b   | c   |
 | a'  | b   | c   |
 | a   | b'  | c   |
+
+Ensemble A
 
 | B   | C   | D   |
 | --- | --- | --- |
@@ -314,9 +318,39 @@ l'ensemble est constitué de n-uplets
 | b'  | c'  | d'  |
 
 $\pi$<sub>BC</sub>(r) = 
+
+| B     | C     |
+| ----- | ----- |
+| b     | c     |
+| ~~b~~ | ~~c~~ |
+| b'    | c     |
 Projection sur BC de la relation r
+On ne sélectionne que les lignes B et C
 
-$\sigma$<sub>A=a'</sub>(r) = a' b c
+
+$\sigma$<sub>A=a'</sub>(r) = 
+
+| A   | B   | C   |
+| --- | --- | --- |
+| a'  | b   | c   |
+
 Sélection dans r par rapport à A = a'
+On en sélectionne que la ligne qui remplie la condition A = a'
 
-$\sigma$<sub>B=b ^ > D=d'</sub>(A) = b c' d'
+
+^ = et
+v = ou
+\> = non
+
+$\sigma$<sub>B=b ^ > D=d'</sub>(A) = 
+
+| B   | C   | D   |
+| --- | --- | --- |
+| b   | c   | d   |
+
+Sélection dans A par rapport a B = b et D ne pas être égale a d'
+On sélectionne la ligne qui remplie la condition B = b' et qui ne remplie pas D = d'
+
+r U A = IMPOSSIBLE, car sch(r) != sch(A)
+
+$\pi$<sub>BC</sub>(r) U $\pi$<sub>BC</sub>()
