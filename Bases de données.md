@@ -353,4 +353,36 @@ On sélectionne la ligne qui remplie la condition B = b' et qui ne remplie pas D
 
 r U A = IMPOSSIBLE, car sch(r) != sch(A)
 
-$\pi$<sub>BC</sub>(r) U $\pi$<sub>BC</sub>()
+$\pi$<sub>BC</sub>(r) $\cup$ $\pi$<sub>BC</sub>(A) = 
+
+| B   | C   |
+| --- | --- |
+| b   | c   |
+| b'  | c   |
+
+| B   | C   |
+| --- | --- |
+| b   | c   |
+| b   | c'  |
+| b'  | c'  |
+
+Donc :
+
+| B   | C   |
+| --- | --- |
+| b   | c   |
+| b'  | c   |
+| b   | c'  |
+| b'  | c'  |
+
+
+$\pi$<sub>BC</sub>(r) - $\pi$<sub>BC</sub>(A) = 
+
+B|C
+-|-
+b'|c
+
+
+# Produit cartésien :
+
+$\mathbb{N}$² = $\mathbb{N}*\mathbb{N}$
