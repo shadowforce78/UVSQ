@@ -431,6 +431,6 @@ SELECT nom, prenom, note FROM Etudiant, Resultat WHERE note > 10 AND Etudiant.nu
 
 Etape 1 : produit des tables Etudiant et Résultat
 Etape 2 : Filtrage des lignes (note > 10 et numéro étudiant = numéro résultat)
-Etape 3 : On projette sur les colonnes du SELECT (nom, ren)
+Etape 3 : On projette sur les colonnes du SELECT (nom, prénom, note)
 
 
