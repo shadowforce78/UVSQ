@@ -414,3 +414,14 @@ select ename from emp where job="manager"
 ```
 
 $\pi$<sub>ename</sub>($\sigma$<sub>job="manager"</sub>(emp))
+
+# Le langage SQL
+
+
+	Mot clés -> en majuscule GRAS
+	Paramètres -> entre chevrons (ex: <table>)
+	Optionnel -> entre crochet (ex: [a])
+	Alternatives de syntaxes -> entre accolades séparés de barres (ex: { a | b })
+
+
+
