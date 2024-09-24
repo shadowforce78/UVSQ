@@ -14,6 +14,6 @@ Langage haut niveau = compréhensible pour l'Homme (python)
 Lors d'une affectation, x=y
 x est une nom que l'on donne a l'objet auquel le nom y fait reference
 A gauche du = (ici y) c'est une identifiant
-A droite du = (ici x) c'est soit un objet littéral (ex "23"), soit un nom qui fait référence a un objet, soit un expression ( melange operateurs, nom etc comme 2+3*x)
+A droite du = (ici x) c'est soit un objet littéral (ex "23"), soit un nom qui fait référence a un objet, soit un expression ( mélange operateurs, nom etc comme 2+3*x )
 
 
