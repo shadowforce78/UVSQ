@@ -111,4 +111,11 @@ $P\implies Q$ = $\overline P + Q$
 		= $\overline{\overline{\overline{P}+Q}}$
 		= $\overline{P + \overline {Q}}$
 		= $P \uparrow \overline Q$
-		= $P \uparrow (Q\uparrow Q$ 
+		= $P \uparrow (Q\uparrow Q)$
+
+$P \Leftrightarrow Q$ = PQ + $\overline {P} .\overline {Q}$ 
+		= $\overline{\overline{PQ + \overline{P}\overline{Q}}}$ 
+		= $\overline{\overline{PQ}\overline{P}.\overline{Q}}$ 
+		= $\overline{PQ}\uparrow \overline{\overline{P}.\overline{Q}}$
+		=  $(P\uparrow Q)\uparrow (\overline{P}\uparrow \overline{Q})$
+		= $(P\uparrow Q)\uparrow (P\uparrow Q)\uparrow $
