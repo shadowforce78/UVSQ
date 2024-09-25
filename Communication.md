@@ -56,7 +56,7 @@ Exercice 4: Remplacez les mots soulignés, par une formulation plus brève.
 Exercice 5: Recomposez les phrases suivantes de manière à supprimer l'incorrection. 
 
 1. Caché dans un tiroir, il n'a pas pu retrouver son revolver. => Il n'a pas pu retrouver son revolver caché dans un tiroir
-2. Affichant des prix excessifs, la clientèle de l'hôtel de l'Europe s'est réduite progressivement. 
+2. Affichant des prix excessifs, la clientèle de l'hôtel de l'Europe s'est réduite progressivement. => L'hôtel de l'Europe affichait des prix excessifs, alors ça clientèle a progressivement diminuée 
 3. Sérieusement blessé à l'épaule, son médecin lui a prescrit trente jours d'arrêt de travail.
 4. Ne répondant pas strictement aux besoins du service concerné, la direction a refusé l'achat du logiciel Petro.
 
