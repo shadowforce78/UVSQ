@@ -94,3 +94,13 @@ $p \oplus q$ =? $\overline{p <===> q}$
 | 1   | 0   | 1            | 0       | 1                    |
 | 1   | 1   | 0            | 1       | 0                    |
 d'après la table, $p \oplus q$ est bien égale a $\overline{p <===> q}$ 
+
+
+| p   | q   | $\overline p$ | $\overline q$ | pq  | $p \implies q$ | pq <===> p | $\overline q \implies \overline p$ |
+| --- | --- | ------------- | ------------- | --- | -------------- | ---------- | ---------------------------------- |
+| 0   | 0   | 1             | 1             | 0   | 1              | 1          | 1                                  |
+| 0   | 1   | 1             | 0             | 0   | 1              | 1          | 1                                  |
+| 1   | 0   | 0             | 1             | 0   | 0              | 0          | 0                                  |
+| 1   | 1   | 0             | 0             | 1   | 1              | 1          | 1                                  |
+
+d'après la table, ces trois forme son bien tautologiques
