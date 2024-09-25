@@ -105,4 +105,10 @@ d'après la table, $p \oplus q$ est bien égale a $\overline{p <===> q}$
 
 d'après la table, ces trois forme son bien tautologiques
 
-P+Q = 
+P+Q = $\overline{\overline{P+Q}}$ = $\overline{\overline{P} . \overline{Q}}$ = $\overline{P} \uparrow \overline{Q}$ = $(P\uparrow P)\uparrow (Q\uparrow Q)$ 
+
+$P\implies Q$ = $\overline P + Q$
+		= $\overline{\overline{\overline{P}+Q}}$
+		= $\overline{P + \overline {Q}}$
+		= $P \uparrow \overline Q$
+		= $P \uparrow (Q\uparrow Q$ 
