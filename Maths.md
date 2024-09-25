@@ -84,3 +84,13 @@ Exercice 13 :
 $\overline p \implies (p \implies q)$
 ($p \implies q) p \overline q$ 
 
+
+$p \oplus q$ =? $\overline{p <===> q}$
+
+| p   | q   | $p \oplus q$ | p<===>q | $\overline{p<===>q}$ |
+| --- | --- | ------------ | ------- | -------------------- |
+| 0   | 0   | 0            | 1       | 0                    |
+| 0   | 1   | 1            | 0       | 1                    |
+| 1   | 0   | 1            | 0       | 1                    |
+| 1   | 1   | 0            | 1       | 0                    |
+d'après la table, $p \oplus q$ est bien égale a $\overline{p <===> q}$ 
