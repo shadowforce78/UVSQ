@@ -84,9 +84,3 @@ Exercice 13 :
 $\overline p \implies (p \implies q)$
 ($p \implies q) p \overline q$ 
 
-| p   | q   | $p \implies q$ | $(p \implies q) . p$ | $[ ] \impliesq$ |
-| --- | --- | -------------- | -------------------- | --------------- |
-| 0   | 0   |                |                      |                 |
-| 0   | 1   |                |                      |                 |
-| 1   | 0   |                |                      |                 |
-| 1   | 1   |                |                      |                 |
