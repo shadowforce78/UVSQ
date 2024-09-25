@@ -104,3 +104,5 @@ d'après la table, $p \oplus q$ est bien égale a $\overline{p <===> q}$
 | 1   | 1   | 0             | 0             | 1   | 1              | 1          | 1                                  |
 
 d'après la table, ces trois forme son bien tautologiques
+
+P+Q = 
