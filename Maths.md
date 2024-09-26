@@ -127,3 +127,4 @@ $PQ = \overline{\overline{PQ}} = \overline{\overline{P}+\overline{Q}} = \overlin
 $P+Q = \overline{\overline{P+Q}} = \overline{P\downarrow Q} = (P\downarrow Q)\downarrow (P\downarrow Q)$
 $P\implies Q = \overline{P} + Q = \overline{\overline{\overline{P}+Q}} = \overline{\overline{P}\downarrow Q}= \overline{(P\downarrow Q) \downarrow Q} = ((P\downarrow P)\downarrow Q) \downarrow ((P\downarrow P) \downarrow Q)$ 
 $P \Leftrightarrow Q = \overline{P\oplus Q} = \overline{P\overline{Q} + \overline{P} Q} = (\overline{\overline{P\overline{Q}}})\downarrow(\overline{\overline{\overline{P}Q}}) = (\overline{P}\downarrow Q)\downarrow  (P \downarrow \overline{Q})$ 
+
