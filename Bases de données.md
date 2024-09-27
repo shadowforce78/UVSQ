@@ -286,7 +286,8 @@ A|B|C|D
 # Algèbre relationnelle
 
 ## 6 opérations, 
-	
+
+#symbole
 Union : U
 Différence : -
 Projection : $\pi$
@@ -432,3 +433,20 @@ SELECT nom, prenom, note FROM Etudiant, Resultat WHERE note > 10 AND Etudiant.nu
 Etape 1 : produit des tables Etudiant et Résultat
 Etape 2 : Filtrage des lignes (note > 10 et numéro étudiant = numéro résultat)
 Etape 3 : On projette sur les colonnes du SELECT (nom, prénom, note)
+
+# TD voir <a href></a>
+
+3 tables,
+	filme(titre, realisateur, acteur)
+	seance(numsalle, titre, horaires)
+	produit(titre, producteur)
+
+
+
+1) Donner les titres des films réalisé par Coppola ?
+		$\pi$<sub>titre</sub>($\sigma$<sub>realisateur='Coppola'</sub>(film))
+	
+2) Où peut-on voir le film 'le parrain' ?
+		$\pi$<sub>numsalle</sub>($\sigma$<sub>titre='le parrain'</sub>(seance))
+
+3) Où et a quelle heure peut-on voir le film 'le parrain' ?
