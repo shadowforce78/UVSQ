@@ -120,7 +120,7 @@ $P \Leftrightarrow Q$ = PQ + $\overline {P} .\overline {Q}$
 		=  $(P\uparrow Q)\uparrow (\overline{P}\uparrow \overline{Q})$
 		= $(P\uparrow Q)\uparrow ((P\uparrow P)\uparrow (Q \uparrow Q))$
 
-$P\oplus{Q} = \overline{P\Leftrightarrow Q}$ 
+	$P\oplus{Q} = \overline{P\Leftrightarrow Q}$ 
 
 $\overline{P} = \overline{P+P} = P\downarrow P$
 $PQ = \overline{\overline{PQ}} = \overline{\overline{P}+\overline{Q}} = \overline{P}\downarrow \overline{Q} = (P\downarrow P)\downarrow (Q\downarrow Q)$
