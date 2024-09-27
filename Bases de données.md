@@ -287,7 +287,7 @@ A|B|C|D
 
 ## 6 opérations, 
 
-#symbole
+{#symbole}
 Union : U
 Différence : -
 Projection : $\pi$
