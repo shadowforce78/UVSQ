@@ -452,5 +452,12 @@ Etape 3 : On projette sur les colonnes du SELECT (nom, prénom, note)
 3) Où et a quelle heure peut-on voir le film 'le parrain' ?
 		$\pi$<sub>numsalle, horaires</sub>($\sigma$<sub>titre='le parrain'</sub>(seance))
 		
-4) Où peut-on voir un film avec Brad Pitt?
-		$\pi$<sub>numsalle</sub>($\sigma$<sub></sub>)
+
+# Interrogation des données (syntaxe partielle)
+
+```
+SELECT <liste de colonnes dont on cherche la valeur>
+FROM <liste de tables dans lesquelles on sélectionne ces colonnes>
+[ WHERE <condition de sélection>]
+```
+
