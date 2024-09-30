@@ -461,3 +461,22 @@ FROM <liste de tables dans lesquelles on sélectionne ces colonnes>
 [ WHERE <condition de sélection>]
 ```
 
+| num | idcours | note |
+| --- | ------- | ---- |
+| 1   | BD      | 14   |
+| 2   | BD      | 16   |
+| 3   | BD      | 12   |
+| 1   | Algo    | 10   |
+| 2   | Algo    | 12   |
+| 3   | Algo    | 8    |
+| 1   | BDA     | 4    |
+| 2   | BDA     | 8    |
+| 3   | BDA     | 12   |
+
+| idcours | nom | coef | prof |
+| ------- | --- | ---- | ---- |
+| BD      | n1  | 4    | YL   |
+| Algo    | n2  | 3    | DA   |
+| BDA     | n3  | 4    | YL   |
+
+Quels sont les noms
