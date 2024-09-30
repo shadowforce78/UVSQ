@@ -461,6 +461,8 @@ FROM <liste de tables dans lesquelles on sélectionne ces colonnes>
 [ WHERE <condition de sélection>]
 ```
 
+Table Élève
+
 | num | idcours | note |
 | --- | ------- | ---- |
 | 1   | BD      | 14   |
@@ -473,10 +475,36 @@ FROM <liste de tables dans lesquelles on sélectionne ces colonnes>
 | 2   | BDA     | 8    |
 | 3   | BDA     | 12   |
 
+Table Cours
+
 | idcours | nom | coef | prof |
 | ------- | --- | ---- | ---- |
 | BD      | n1  | 4    | YL   |
 | Algo    | n2  | 3    | DA   |
 | BDA     | n3  | 4    | YL   |
 
-Quels sont les noms
+Quels sont les noms des cours de YL dont la moyenne est supérieure à 10 classés par ordre décroissant de la moyenne ?
+
+```sql
+SELECT nom as nomDuCours 
+FROM cours, eleve 
+WHERE cours.idcours = eleve.idcours AND prof = 'YL' 
+GROUP BY nom HAVING AVG(note) >= 10 
+ORDER BY AVG(note) DESC;
+```
+
+Donner les notes de l'élève 1 avec les noms et coef des cours
+
+```sql
+SELECT note, note, coef
+FROM cours, eleve
+WHERE eleve.idcours = cours.idcours AND num = 1;
+```
+
+Donner les noms des cours où il n'y a pas de note < 10
+
+```sql
+SELECT nom
+FROM cours
+WHERE ALL (select note from eleve where note >= 10)
+```
