@@ -506,5 +506,18 @@ Donner les noms des cours où il n'y a pas de note < 10
 ```sql
 SELECT nom
 FROM cours
-WHERE ALL (select note from eleve where note >= 10)
+WHERE idcours NOT IN (
+	SELECT idcours 
+	FROM eleve 
+	WHERE note<10
+)
+```
+```sql
+SELECT nom
+FROM cours
+WHERE NOT EXISTS (
+	SELECT *
+	FROM eleve
+	WHERE note < 10 AND cours.idcours = eleve.idcours
+)
 ```
