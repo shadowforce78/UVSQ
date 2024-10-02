@@ -128,3 +128,16 @@ $P+Q = \overline{\overline{P+Q}} = \overline{P\downarrow Q} = (P\downarrow Q)\do
 $P\implies Q = \overline{P} + Q = \overline{\overline{\overline{P}+Q}} = \overline{\overline{P}\downarrow Q}= \overline{(P\downarrow Q) \downarrow Q} = ((P\downarrow P)\downarrow Q) \downarrow ((P\downarrow P) \downarrow Q)$ 
 $P \Leftrightarrow Q = \overline{P\oplus Q} = \overline{P\overline{Q} + \overline{P} Q} = (\overline{\overline{P\overline{Q}}})\downarrow(\overline{\overline{\overline{P}Q}}) = (\overline{P}\downarrow Q)\downarrow  (P \downarrow \overline{Q})$ 
 
+
+### Exercice 18
+
+| x   | y   | z   | f(x;y;z) | g(x;y;z) | min terme de F                           | min terme de G                |
+| --- | --- | --- | -------- | -------- | ---------------------------------------- | ----------------------------- |
+| 0   | 0   | 0   | 1        | 0        | $\overline{X};\overline{Y};\overline{X}$ |                               |
+| 0   | 0   | 1   | 1        | 1        | $\overline{X};\overline{Y};Z$            | $\overline{X};\overline{Y};Z$ |
+| 0   | 1   | 0   | 0        | 0        |                                          |                               |
+| 0   | 1   | 1   | 0        | 1        |                                          | $\overline{X};Y;Z$            |
+| 1   | 0   | 0   | 1        | 0        | $X;\overline{Y};\overline{Z}$            |                               |
+| 1   | 0   | 1   | 0        | 0        |                                          |                               |
+| 1   | 1   | 0   | 1        | 0        | $X;Y;\overline{Z}$                       |                               |
+| 1   | 1   | 1   | 1        | 1        | $X;Y;Z$                                  | $X;Y;Z$                       |
