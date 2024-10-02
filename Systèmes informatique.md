@@ -98,9 +98,9 @@ Base 10 | Base 8
 (16)|20
 La base 8 (octal) sert notamment pour les droits Linux :
 
-RWX : Read Write Execute = 111<sub>(2)</sub> (1+2+4 = 7<sub>(10)</sub>)
+	RWX : Read Write Execute = 111<sub>(2)</sub> (1+2+4 = 7<sub>(10)</sub>)
 Si on dit préciser les droits du propriétaire, du groupe et des autres, on utilise 3 fois : 
 	RWX RWX RWX
 	111   111   111<sub>(2)</sub> = 777<sub>(8)</sub>
-Si on retire les droits d'execution (X)
+Si on retire les droits d'exécution (X)
 	110 110 110<sub>(2)</sub> = 666<sub>(8)</sub> 
