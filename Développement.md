@@ -2,7 +2,7 @@ David Auger david.auger@uvsq.fr
 
 Pour les compétence : Sacoche
 Pour rendre les projets/code : e-campus
-Pour les documents : discord
+Pour les documents : discord / e-campus
 
 
 Langage bas niveau = compréhensible pour la machine (binaire)
