@@ -127,3 +127,4 @@ se presenter par un souvenir :
 	preparez un petit discours sur l'un des sujets :
 		raconter un souvenir de vacances pendant 2 minutes
 	le rendre le plus captivant possible
+
