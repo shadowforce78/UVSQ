@@ -78,6 +78,7 @@ D3E(<sub>16</sub>) = 110100111110(<sub>2</sub>)
 
 
 Base 10 | Base 8
+--|-
 0|00
 1|01
 2|02
@@ -86,12 +87,20 @@ Base 10 | Base 8
 5|05
 6|06
 7|07
-8|08
-9|09
-10|
-11|
-12|
-13|
-14|
-15|
+8|10
+9|11
+10|12
+11|13
+12|14
+13|15
+14|16
+15|17
+(16)|20
+La base 8 (octal) sert notamment pour les droits Linux :
 
+RWX : Read Write Execute = 111<sub>(2)</sub> (1+2+4 = 7<sub>(10)</sub>)
+Si on dit préciser les droits du propriétaire, du groupe et des autres, on utilise 3 fois : 
+	RWX RWX RWX
+	111   111   111<sub>(2)</sub> = 777<sub>(8)</sub>
+Si on retire les droits d'execution (X)
+	110 110 110<sub>(2)</sub> = 666<sub>(8)</sub> 
