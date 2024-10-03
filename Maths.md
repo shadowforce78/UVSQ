@@ -146,4 +146,5 @@ $P \Leftrightarrow Q = \overline{P\oplus Q} = \overline{P\overline{Q} + \overlin
 $x\oplus{y}$ = $\overline{x}y+x\overline{y}$ = FnD
 	 = $\overline{xy+\overline{xy}}$
 	 = $\overline{xy}.\overline{\overline{x}\overline{y}}$
-	 = $(\overline{x}+\overline{y})(x+y)$ FnC (2 Max Termsx)
+	 = $(\overline{x}+\overline{y})(x+y)$ FnC (2 Max Terms)
+
