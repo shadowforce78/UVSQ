@@ -141,3 +141,4 @@ $P \Leftrightarrow Q = \overline{P\oplus Q} = \overline{P\overline{Q} + \overlin
 | 1   | 0   | 1   | 0        | 0        |                                          |                               |
 | 1   | 1   | 0   | 1        | 0        | $X;Y;\overline{Z}$                       |                               |
 | 1   | 1   | 1   | 1        | 1        | $X;Y;Z$                                  | $X;Y;Z$                       |
+
