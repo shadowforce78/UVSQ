@@ -150,4 +150,21 @@ $x\oplus{y}$ = $\overline{x}y+x\overline{y}$ = FnD
 
 ### Exercice 20
 
-g(a;b;c) = $abc+ab\overline{c}+\overline{a}bc+\overline{a}\overline{b}c+\overline{a}\overline{b}\overline{c}$ 
+g(a;b;c) = $abc+ab\overline{c}+\overline{a}bc+\overline{a}\overline{b}c+\overline{a}\overline{b}\overline{c}$ = $\overline{a}\overline{b}+bc$
+
+
+|                | $\overline{a}\overline{b}$ | $\overline{a}b$ | $ab$ | $a\overline{b}$ |
+| -------------- | -------------------------- | --------------- | ---- | --------------- |
+| $\overline{c}$ | X                          |                 | X    |                 |
+| $c$            | X                          | X               | X    |                 |
+
+
+
+h(a;b;c) = $ab\overline c\overline d+a\overline bcd+a\overline b\overline cd+\overline abc\overline d+\overline ab\overline c\overline d+\overline a\overline bcd+\overline a\overline b\overline cd$
+
+|                        | $\overline a\overline b$ | $\overline ab$ | $ab$ | $a\overline b$ |
+| ---------------------- | ------------------------ | -------------- | ---- | -------------- |
+| \overline c\overline d |                          |                |      |                |
+| \overline cd           |                          |                |      |                |
+| cd                     |                          |                |      |                |
+| $c\overline d$         |                          |                |      |                |
