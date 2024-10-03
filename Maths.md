@@ -148,3 +148,7 @@ $x\oplus{y}$ = $\overline{x}y+x\overline{y}$ = FnD
 	 = $\overline{xy}.\overline{\overline{x}\overline{y}}$
 	 = $(\overline{x}+\overline{y})(x+y)$ FnC (2 Max Terms)
 
+### Exercice 20
+
+1) f(a;b;c) = $ab\overline{c}+a\overline{b}c+\overline{a}c\overline{b}+\overline{a}\overline{b}c+\overline{a}\overline{b}\overline{c}$ 
+		 = 
