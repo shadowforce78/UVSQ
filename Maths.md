@@ -150,5 +150,4 @@ $x\oplus{y}$ = $\overline{x}y+x\overline{y}$ = FnD
 
 ### Exercice 20
 
-1) f(a;b;c) = $ab\overline{c}+a\overline{b}c+\overline{a}c\overline{b}+\overline{a}\overline{b}c+\overline{a}\overline{b}\overline{c}$ 
-		 = 
+g(a;b;c) = $abc+ab\overline{c}+\overline{a}bc+\overline{a}\overline{b}c+\overline{a}\overline{b}\overline{c}$ 
