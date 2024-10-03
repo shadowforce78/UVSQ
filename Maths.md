@@ -142,3 +142,8 @@ $P \Leftrightarrow Q = \overline{P\oplus Q} = \overline{P\overline{Q} + \overlin
 | 1   | 1   | 0   | 1        | 0        | $X;Y;\overline{Z}$                       |                               |
 | 1   | 1   | 1   | 1        | 1        | $X;Y;Z$                                  | $X;Y;Z$                       |
 
+### Exercice 19
+$x\oplus{y}$ = $\overline{x}y+x\overline{y}$ = FnD
+	 = $\overline{xy+\overline{xy}}$
+	 = $\overline{xy}.\overline{\overline{x}\overline{y}}$
+	 = $(\overline{x}+\overline{y})(x+y)$ FnC (2 Max Termsx)
