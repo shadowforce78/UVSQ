@@ -287,7 +287,7 @@ A|B|C|D
 
 ## 6 opérations, 
 
-{#symbole}
+<div id="symbole">les symboles</div>
 Union : U
 Différence : -
 Projection : $\pi$
@@ -434,7 +434,7 @@ Etape 1 : produit des tables Etudiant et Résultat
 Etape 2 : Filtrage des lignes (note > 10 et numéro étudiant = numéro résultat)
 Etape 3 : On projette sur les colonnes du SELECT (nom, prénom, note)
 
-# TD voir [Symbole]("#symbole") 
+# TD voir <a href="#symbole">symbole</a> 
 
 3 tables,
 	filme(titre, realisateur, acteur)
