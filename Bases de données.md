@@ -521,3 +521,20 @@ WHERE NOT EXISTS (
 	WHERE note < 10 AND cours.idcours = eleve.idcours
 )
 ```
+
+
+```sql
+ETUDIANT(num;nom;prenom;fromation)
+RESULTAT(num;idcours;note)
+COURS(idcours;intitulé;ceof;responsable)
+```
+
+1) Donner les noms et prénoms des étudiants du BUT INFO
+	select nom,prenom from etudiant where formation = "but info"
+	$\pi_{\text{nom, prenom}} (\sigma_{\text{formation} = \text{"but info"}} (\text{etudiant}))$
+
+2) Donner les noms, prenoms des etudiant de but info qui ont moins de 10 en BD (idcours)
+	select nom, prenom from etudiant, resultat where note > 10 and idcours ="BD"
+	$\pi_{\text{nom, prenom}} (\sigma_{\text{note} > 10 \land \text{idcours} = "BD"} (\text{etudiant} \times \text{resultat}))$
+
+3) 
