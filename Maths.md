@@ -168,3 +168,5 @@ h(a;b;c) = $ab\overline c\overline d+a\overline bcd+a\overline b\overline cd+\ov
 | $\overline cd$           | X                        |                |      | X              |
 | $cd$                     | X                        |                |      | X              |
 | $c\overline d$           |                          | X              |      |                |
+
+$S = [(pq)\implies{(\overline{q}r)}]\implies{[(p+q)\implies{\overline q}]}$ 
