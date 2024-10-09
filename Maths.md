@@ -179,4 +179,4 @@ $S = pqr + pq\overline{r}+\overline{p}q\overline{r}+p\overline{q}r+\overline{p}\
 | $r$            | X                           |                 | X    | X               |
 
 D'après le diagramme 
-$S = p + \overline q + \overline r$ (FnC)
+$S = p + \overline q + \overline r$ (FnC
