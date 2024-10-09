@@ -170,4 +170,10 @@ h(a;b;c) = $ab\overline c\overline d+a\overline bcd+a\overline b\overline cd+\ov
 | $c\overline d$           |                          | X              |      |                |
 
 $S = [(pq)\implies{(\overline{q}r)}]\implies{[(p+q)\implies{\overline q}]}$ 
-$S = 
+$S = pqr + pq\overline{r}+\overline{p}q\overline{r}+p\overline{q}r+\overline{p}\overline{q}r+p\overline{q}\overline{r}+\overline{p}\overline{q}\overline{r}$
+
+
+|                | $\overline{p}.\overline{q}$ | $\overline{p}q$ | $pq$ | $p\overline{q}$ |
+| -------------- | --------------------------- | --------------- | ---- | --------------- |
+| $\overline{r}$ | X                           | X               | X    | X               |
+| $r$            | X                           |                 | X    | X               |
