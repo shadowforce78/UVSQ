@@ -177,3 +177,6 @@ $S = pqr + pq\overline{r}+\overline{p}q\overline{r}+p\overline{q}r+\overline{p}\
 | -------------- | --------------------------- | --------------- | ---- | --------------- |
 | $\overline{r}$ | X                           | X               | X    | X               |
 | $r$            | X                           |                 | X    | X               |
+
+D'après le diagramme 
+$S = p + \overline q + \overline r$ (FnC)
