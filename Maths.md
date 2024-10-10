@@ -208,8 +208,5 @@ Soit \( E = \{1, 2, 3, 4, 5, 6, 7, 8\} \), \( A = \{1, 2, 3, 4, 5\} \) et \( B =
 8. **Symétrie différence entre A et B** :
    $A \oplus B = (A \setminus B) \cup (B \setminus A) = \{2, 4, 7\}$
 
-### Exercice 25
-1. $\overline{A\cap B}\cap (A\cup\overline{B})$ = $\overline B$
 
-2. $[A \ (B\cup C)]\cup (A\cap C)$ = $A\cap E = A$
-3. 
+Pour rappel : $\overline{C}\cup{C} = E$ 
