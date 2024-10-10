@@ -206,4 +206,4 @@ $Soit \( E = \{1, 2, 3, 4, 5, 6, 7, 8\} \), \( A = \{1, 2, 3, 4, 5\} \) et \( B 
 
 8. **Symétrie différence entre A et B** :
    $A \oplus B = (A \setminus B) \cup (B \setminus A) = \{2, 4, 7\}$
- 
+
