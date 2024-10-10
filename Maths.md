@@ -179,4 +179,31 @@ $S = pqr + pq\overline{r}+\overline{p}q\overline{r}+p\overline{q}r+\overline{p}\
 | $r$            | X                           |                 | X    | X               |
 
 D'après le diagramme 
-$S = p + \overline q + \overline r$ (FnC
+$S = p + \overline q + \overline r$ (FnC)
+
+
+# Les Ensembles
+
+$Soit \( E = \{1, 2, 3, 4, 5, 6, 7, 8\} \), \( A = \{1, 2, 3, 4, 5\} \) et \( B = \{1, 3, 5, 7\} \), voici les ensembles demandés :
+
+1. **Complémentaire de A dans E** :
+   $\overline{A} = E \setminus A = \{6, 7, 8\}$
+
+2. **Complémentaire de B dans E** :
+   $\overline{B} = E \setminus B = \{2, 4, 6, 8\}$
+
+3. **Intersection de A et B** :
+   $A \cap B = \{1, 3, 5\}$
+
+4. **Union de A et B** :
+   $A \cup B = \{1, 2, 3, 4, 5, 7\}$ 
+
+5. **Différence de A par B** :
+   $A \setminus B = \{2, 4\}$
+
+6. **Différence de B par A** :
+	$B \setminus A = \{7\}$
+
+8. **Symétrie différence entre A et B** :
+   $A \oplus B = (A \setminus B) \cup (B \setminus A) = \{2, 4, 7\}$
+ 
