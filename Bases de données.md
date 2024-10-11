@@ -539,4 +539,5 @@ COURS(idcours;intitulé;ceof;responsable)
 
 3) Donner les noms et prenom des étudiants de but info dont toutes les notes sont >= 10
 	SELECT nom, prenom FROM ETUDIANT WHERE formation = 'but info' AND NOT EXISTS (SELECT * FROM RESULTAT WHERE num = num AND note < 10)
-	$\pi_{\text{nom, prenom}} \left( \sigma_{\text{formation} = \text{"but info"}} \left( \text{ETUDIANT} \right) \div \pi_{\text{idcours}} \left( \sigma_{\text{note} \geq 10} \left( \text{RESULTAT} \right) \right) \right)$ 
+	$\pi_{\text{nom, prenom}} \left( \sigma_{\text{formation} = \text{"but info"}} \left( \text{ETUDIANT} \right) \div \pi_{\text{idcours}} \left( \sigma_{\text{note} \geq 10} \left( \text{RESULTAT} \right) \right) \right)$
+
