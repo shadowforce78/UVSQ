@@ -128,3 +128,5 @@ se presenter par un souvenir :
 		raconter un souvenir de vacances pendant 2 minutes
 	le rendre le plus captivant possible
 
+# Essai sur les influenceurs :
+Jusqu'à présent, la publicité inves
