@@ -211,5 +211,3 @@ Soit \( E = \{1, 2, 3, 4, 5, 6, 7, 8\} \), \( A = \{1, 2, 3, 4, 5\} \) et \( B =
 
 Pour rappel : $\overline{C}\cup{C} = E$ 
 
-
-E = {a;b;c} et F = {1;2}
