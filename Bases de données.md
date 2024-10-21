@@ -564,9 +564,9 @@ Processus appelé conception de schéma
 
 ## Description du processus
 
-Definition de l'univers U
-	De l'ensembes des dépnedances F
-	Decomposition successisves de U par rapport a F
-		Un ou plusieurs schema de BD
-	Decomposition de U : tout ensemble S = {R1,...,Rn} de schema de relation tel que U1<i<nRi = U
-S est un shema de base de données
+Définition de l'univers U
+De l'ensembles des dépendances F
+Décomposition successives de U par rapport a F
+		Un ou plusieurs schéma de BD
+Décomposition de U : tout ensemble S = {R1,...,Rn} de schéma de relation tel que U <1<i<nRi = U 
+S est un schéma de base de données
