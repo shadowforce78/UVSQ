@@ -541,3 +541,32 @@ COURS(idcours;intitulé;ceof;responsable)
 	SELECT nom, prenom FROM ETUDIANT WHERE formation = 'but info' AND NOT EXISTS (SELECT * FROM RESULTAT WHERE num = num AND note < 10)
 	$\pi_{\text{nom, prenom}} \left( \sigma_{\text{formation} = \text{"but info"}} \left( \text{ETUDIANT} \right) \div \pi_{\text{idcours}} \left( \sigma_{\text{note} \geq 10} \left( \text{RESULTAT} \right) \right) \right)$
 
+
+# 3 Conception de schéma de base de données
+## Introduction à la conception
+
+Le schéma change rarement
+	Importance du choix initial de regroupement des attributs
+	Respect de certains critères
+
+Processus appelé conception de schéma
+	Description d'une d'application $\rightarrow$ un "bon" schéma 
+
+
+## Description d'une application
+
+- Attributs : caractéristiques pertinentes des informations (nom, departement, numero....)
+- Univers : ensemble des attributs
+- Les liens sémantiques entre attributs, appelés dépendances de données
+	- Décrivent des propriétés que doivent satisfaire les données
+	- Imposent des restrictions sur les bases possibles
+	- Peuvent être considérées comme des contraintes d'intégrité
+
+## Description du processus
+
+Definition de l'univers U
+	De l'ensembes des dépnedances F
+	Decomposition successisves de U par rapport a F
+		Un ou plusieurs schema de BD
+	Decomposition de U : tout ensemble S = {R1,...,Rn} de schema de relation tel que U1<i<nRi = U
+S est un shema de base de données
