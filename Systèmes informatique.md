@@ -112,3 +112,10 @@ Si on retire les droits d'exécution (X)
 	(rwx rwx rwx) ols peuvent tous créer des fichiers dans ce repertoire, 
 	et ils peuvent supprimer les fichiers des autres utilisateurs
 	Pour empecher cette suppression, on place le sticky bit
+
+	mkidr ~/temp
+	chmod 777 ~/temp
+	chmod -t ~/temp
+
+	pour verifier :
+		ls -l ~/temp
