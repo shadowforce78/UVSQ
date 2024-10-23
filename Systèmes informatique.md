@@ -104,3 +104,11 @@ Si on dit préciser les droits du propriétaire, du groupe et des autres, on uti
 	111   111   111<sub>(2)</sub> = 777<sub>(8)</sub>
 Si on retire les droits d'exécution (X)
 	110 110 110<sub>(2)</sub> = 666<sub>(8)</sub> 
+
+
+### Sticky bit
+	C'est le bit "t", on l'applique sur un repertoire
+	Si tous les utilisateurs ont tous les droits sur le repertoire /temp,
+	(rwx rwx rwx) ols peuvent tous créer des fichiers dans ce repertoire, 
+	et ils peuvent supprimer les fichiers des autres utilisateurs
+	Pour empecher cette suppression, on place le sticky bit
