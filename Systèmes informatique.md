@@ -128,3 +128,12 @@ Si on retire les droits d'exécution (X)
 	Pour les répertoires les droits sont : 777-044 = 733 = rwx-wx-wx
 	Pour les fichiers les droits sont : 777-044 = 622 = rw-w-w
 
+	Avant l'application du umask (ou unmask = 000)
+	Pour les repertoires : 777
+	Pour les fichiers : 666 (on retire les x)
+	
+	Avec le umask = 023
+	Pour les repertoires : 754
+	Pour les fichiers : 644
+	Remarques, la commande umask 023 modifie les droits de maniere temporiare (le
+	temps de la session) 
