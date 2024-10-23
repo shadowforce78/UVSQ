@@ -137,3 +137,6 @@ Si on retire les droits d'exécution (X)
 	Pour les fichiers : 644
 	Remarques, la commande umask 023 modifie les droits de maniere temporiare (le
 	temps de la session) 
+
+	Pour les accès user lecure/Ecriture pour group et rien pour other : 017
+	
