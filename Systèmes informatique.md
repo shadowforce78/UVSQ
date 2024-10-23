@@ -119,3 +119,12 @@ Si on retire les droits d'exécution (X)
 
 	pour verifier :
 		ls -l ~/temp
+
+### Umask
+	La valeur umask définie les droits par défaut des futures fichiers et dossiers
+	modifier unmask ne change pas les droits des fichiers et dossiers actuels
+	la valeur de umask, donne le droits a retirer
+
+	Pour les répertoires les droits sont : 777-044 = 733 = rwx-wx-wx
+	Pour les fichiers les droits sont : 777-044 = 622 = rw-w-w
+
