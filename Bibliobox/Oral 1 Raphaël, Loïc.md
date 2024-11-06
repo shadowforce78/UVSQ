@@ -1,16 +1,21 @@
 
-Livre : Seul sur mars, publié en 2014
-Science fiction, écris par Anivers (50ans) qui est un passionnée d'info master info
-A dev warcraft 
-Un botaniste ingénieur va sur mars, on s'identifie facielement au personnage qui est humoristique, un film existe, livre peu ennuyant, facile a lire
 
-Histoire : dans un futur proche, un equipage va sur ares 3 et doit evacuer la planete d"urgence a cause d'une tempete, il est laisser pour mort et l'equipage se barre, mais il est vivant, très peut de stock pour vivre, mais grace a ses competence en botanie il arrive a faire de la bouffe, puis il esssaye de contacter la terre en modifiant la capacité de son rover, a un moment son habitacle explose et detruit son champs de pomme de terre, ceci alerte la nasa qui va essayé de le sauver, mais par manque de temps, la fusée de renvoie explose, il va donc rejoindre le lieu d'atterisage de ares 4 en prevision de la prohchaine mission
+Livre : _Seul sur Mars_, publié en 2011 et édité en 2014.  
+C'est un roman de science-fiction écrit par Andy Weir, passionné d'informatique avec un master dans ce domaine, âgé d'une cinquantaine d'années. Il a aussi contribué au développement de _Warcraft_.
 
-C'est une histoire assez detaillé, l'auteur a fait bcp de recherche pour completer ses dires
+L'intrigue suit un botaniste et ingénieur envoyé sur Mars. Le personnage, au caractère humoristique, est facilement identifiable, rendant le récit captivant et accessible. Le livre a été adapté en film, et se distingue par son rythme et sa lisibilité, ne s'avérant pas ennuyeux.
 
-Le livre est écrits sous forme de journal par exemple : 
+**Histoire :**  
+Dans un futur proche, une mission, _Arès 3_, débarque sur Mars, mais l'équipage doit évacuer d'urgence suite à une tempête. Le protagoniste, laissé pour mort, survit avec très peu de ressources. Grâce à ses connaissances en botanique, il parvient à cultiver de la nourriture. Il tente de rétablir la communication avec la Terre en modifiant son rover. Cependant, un incident survient : l'explosion de son habitat détruit ses cultures de pommes de terre, ce qui alerte la NASA. Les tentatives pour le secourir sont complexes ; l'une des fusées de ravitaillement explose, et il se voit contraint de rejoindre le lieu prévu pour l'atterrissage de la mission _Arès 4_, en attendant la prochaine expédition.
 
-	Jour X heure X
-		Blablablabla
+L'histoire est détaillée et repose sur des recherches approfondies de l'auteur pour garantir la vraisemblance scientifique.
 
-Grace a ça, l'auteur peut faire des allez et retour dans le temps, par exemple passer du jour 60 au 65, on se dit alors que qu'il s'est passer qlq chose qui sera raconter, l'histoire est completement a la premiere personne, c'est donc plus personel et
+Le récit est écrit sous forme de journal :
+
+- **Exemple :**  
+    _Jour X, heure X_  
+    _Blablablabla_
+
+Ce style permet des allers-retours temporels, comme des sauts du jour 60 au jour 65, suggérant que des événements non racontés se sont produits. Cette narration, à la première personne, apporte une touche personnelle et immersive.
+
+Enfin, l'auteur explore comment un premier voyage réel vers Mars pourrait se dérouler.
