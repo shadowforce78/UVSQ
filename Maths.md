@@ -211,3 +211,12 @@ Soit \( E = \{1, 2, 3, 4, 5, 6, 7, 8\} \), \( A = \{1, 2, 3, 4, 5\} \) et \( B =
 
 Pour rappel : $\overline{C}\cup{C} = E$ 
 
+
+### Exercice 36
+
+la fonction $f$ de E dans F est définie par $\forall x\in E, f(x) = x²$
+Dans chaque cas, est elle une application, Injection, Surjection Bijection ?
+a) E = F = $\mathbb{R}$ => Application
+b) E = $\mathbb R$ et F = $\mathbb R$<sub>+</sub> => Application et Surjection
+c) E = $\mathbb R$<sub>+</sub> et F = $\mathbb R$ => Pas une application
+d) E = F = $\mathbb R$<sub>+</sub> => Application, Injection, Surjection et Bijection
