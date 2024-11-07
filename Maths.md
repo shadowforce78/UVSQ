@@ -274,27 +274,26 @@ Ici, \( a = x \), \( b = 1 \) et \( n = 6 \).
    
 
 
-## Développement de \((2x - 3)^4\)
+## Développement de $(2x - 3)^4$ 
 
 Le développement est donné par :
 
 $$(2x - 3)^4 = \sum_{k=0}^{4} \binom{4}{k} (2x)^{4-k} (-3)^k$$
 
 1. **Premier terme** :  
-   $\binom{4}{0} (2x)^4 (-3)^0 = 1 \cdot (2x)^4 \cdot 1 = (2x)^4 = 16x^4$
-
-2. **Deuxième terme** :  
-   $\binom{4}{1} (2x)^3 (-3)^1 = 4 \cdot (2x)^3 \cdot (-3) = 4 \cdot 8x^3 \cdot (-3) = -96x^3$
-
-3. **Troisième terme** :  
-   $\binom{4}{2} (2x)^2 (-3)^2 = 6 \cdot (2x)^2 \cdot 9 = 6 \cdot 4x^2 \cdot 9 = 216x^2$
+   $\binom{4}{0} (2x)^4 (-3)^0 = 1 *(2x)^4* 1 = (2x)^4 = 16x^4$ 
+   
+1. **Deuxième terme** :  
+   $\binom{4}{1} (2x)^3 (-3)^1 = 4 * (2x)^3 * (-3) = 4 * 8x^3 * (-3) = -96x^3$
+   
+1. **Troisième terme** :  
+   $\binom{4}{2} (2x)^2 (-3)^2 = 6 * (2x)^2 * 9 = 6 * 4x^2 * 9 = 216x^2$
 
 4. **Quatrième terme** :  
-   $\binom{4}{3} (2x)^1 (-3)^3 = 4 \cdot (2x) \cdot (-27) = 4 \cdot 2x \cdot (-27) = -216x$
+   $\binom{4}{3} (2x)^1 (-3)^3 = 4 * (2x) * (-27) = 4 * 2x * (-27) = -216x$
 
 5. **Cinquième terme** :  
-   $\binom{4}{4} (2x)^0 (-3)^4 = 1 \cdot 1 \cdot 81 = 81$
-
+   $\binom{4}{4} (2x)^0 (-3)^4 = 1 * 1 * 81 = 81$ 
 
 $$(2x - 3)^4 = 16x^4 - 96x^3 + 216x^2 - 216x + 81$$
 
