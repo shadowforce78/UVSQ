@@ -257,3 +257,32 @@ b) Reprendre la question a) sachant que Monsieur Jecrains et Madame Ronchon ne d
 - ça fait donc 6 places - les 2 places voisines = 4 possibilités
 - il faut placer encore 5 convives : $5!$
 $N = 7*4*5! = 7*4*120=3360$ 
+
+### Exercice 44
+
+
+
+Formule du binôme de Newton : $$(a+b)^n = \sum_{k=0}^{n} \binom{n}{k} a^{n-k} b^k$$
+
+Ici, \( a = x \), \( b = 1 \) et \( n = 6 \).
+
+1. **Calcul des termes** :
+   $(x+1)^6 = \sum_{k=0}^{6} \binom{6}{k} x^{6-k} \cdot 1^k$
+   
+2. **Développement complet** :
+   $(x+1)^6 = x^6 + 6x^5 + 15x^4 + 20x^3 + 15x^2 + 6x + 1$
+
+
+Pour développer \( (2x-3)^4 \), on utilise également le binôme de Newton avec \( a = 2x \), \( b = -3 \) et \( n = 4 \).
+
+1. **Calcul des termes** :
+   $(2x-3)^4 = \sum_{k=0}^{4} \binom{4}{k} (2x)^{4-k} (-3)^k$
+
+2. **Développement complet** :
+   $(2x-3)^4 = 16x^4 - 96x^3 + 216x^2 - 216x + 81$
+
+#### Triangle de Pascale 
+
+### Triangle de Pascal
+
+$$ \begin{matrix} & & & & 1 & & & & \\ & & & 1 & & 1 & & & \\ & & 1 & & 2 & & 1 & & \\ & 1 & & 3 & & 3 & & 1 & \\ 1 & & 4 & & 6 & & 4 & & 1 \\ & 1 & & 5 & & 10 & & 5 & & 1 \\ 1 & & 6 & & 15 & & 20 & & 15 & & 6 & & 1 \\ \end{matrix} $$ 
