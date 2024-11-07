@@ -223,11 +223,17 @@ d) E = F = $\mathbb R$<sub>+</sub> => Application, Injection, Surjection et Bije
 
 ### Exercice 41
 
-
+$$A_{n}^{p}=\dfrac{n!}{(n-p)!}$$
+$$C_{n}^{p}=\binom{n}{p}=\binom{n}{n-p}$$
 	$$C_{n}^{p}=\binom{n}{p}=\dfrac{n!}{p!(n-p)!}$$
-$$A_{n}^{p}=\dfrac{n!}{(n-p)!}$$	
 
 
 $A_{3}^{11}$ = $\dfrac{11!}{(11-3)!}$=$\dfrac{11!}{8!}$=$\dfrac{1*2*3*4*5*6*7*8*9*10*11}{1*2*3*4*5*6*7*8}$=$9*10*11$=990
 
 $C_{11}^{8}$=$\dfrac{11!}{8!(11-8)!}$=$\dfrac{11!}{8!*3!}$=$\dfrac{11*10*9*8!}{8!*3!}$=$\dfrac{11*10*9}{3!}$=$\dfrac{990}{6}$=$165$ 
+
+### Exercice 42
+
+Six enfant font la course; il n'y a pas d'ex aequo. Combien y a t'il de classement possibles ?
+
+$N = 6! = 1*2*3*4*5*6 = 6*25*6$
