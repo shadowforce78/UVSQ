@@ -273,7 +273,7 @@ Ici, \( a = x \), \( b = 1 \) et \( n = 6 \).
    $(x+1)^6 = x^6 + 6x^5 + 15x^4 + 20x^3 + 15x^2 + 6x + 1$
 
 
-Pour développer \( (2x-3)^4 \), on utilise également le binôme de Newton avec \( a = 2x \), \( b = -3 \) et \( n = 4 \).
+Pour développer $( (2x-3)^4)$, on utilise également le binôme de Newton avec $( a = 2x )$, $( b = -3 )$ et $( n = 4 ).$
 
 1. **Calcul des termes** :
    $(2x-3)^4 = \sum_{k=0}^{4} \binom{4}{k} (2x)^{4-k} (-3)^k$
@@ -285,4 +285,13 @@ Pour développer \( (2x-3)^4 \), on utilise également le binôme de Newton avec
 
 ### Triangle de Pascal
 
-$$ \begin{matrix} & & & & 1 & & & & \\ & & & 1 & & 1 & & & \\ & & 1 & & 2 & & 1 & & \\ & 1 & & 3 & & 3 & & 1 & \\ 1 & & 4 & & 6 & & 4 & & 1 \\ & 1 & & 5 & & 10 & & 5 & & 1 \\ 1 & & 6 & & 15 & & 20 & & 15 & & 6 & & 1 \\ \end{matrix} $$ 
+	$$ \begin{matrix} & & & & 1 & & & & \\ & & & 1 & & 1 & & & \\ & & 1 & & 2 & & 1 & & \\ & 1 & & 3 & & 3 & & 1 & \\ 1 & & 4 & & 6 & & 4 & & 1\end{matrix} $$
+	 $$
+\begin{array}{cccccc}
+& & & & \binom{0}{0} & & & & \\
+& & & \binom{1}{0} & & \binom{1}{1} & & \\
+& & \binom{2}{0} & & \binom{2}{1} & & \binom{2}{2} & \\
+& \binom{3}{0} & & \binom{3}{1} & & \binom{3}{2} & & \binom{3}{3} \\
+\binom{4}{0} & & \binom{4}{1} & & \binom{4}{2} & & \binom{4}{3} && \binom{4}{4}  \\
+\end{array}
+$$
