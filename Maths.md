@@ -251,6 +251,9 @@ a) De combien de façons peut-on disposer les sept convives ?
 
 b) Reprendre la question a) sachant que Monsieur Jecrains et Madame Ronchon ne doivent surtout pas être cote a côté
 
-- Il faut faut faire un bloc de JC et R donc finalement il reste 6 places assises, 
+- Il faut faut faire un bloc de JC et R donc finalement il reste 6 places assises,
+- Place JC = 7
+- Place R = 4
 - ça fait donc 6 places - les 2 places voisines = 4 possibilités
-- il faut placer enco
+- il faut placer encore 5 convives : $5!$
+$N = 7*4*5! = 7*4*120=3360$ 
