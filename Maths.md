@@ -220,3 +220,12 @@ a) E = F = $\mathbb{R}$ => Application
 b) E = $\mathbb R$ et F = $\mathbb R$<sub>+</sub> => Application et Surjection
 c) E = $\mathbb R$<sub>+</sub> et F = $\mathbb R$ => Pas une application
 d) E = F = $\mathbb R$<sub>+</sub> => Application, Injection, Surjection et Bijection
+
+### Exercice 41
+
+
+	$C^p$
+
+
+$\binom{3}{11}$ = $\dfrac{11!}{(11-3)!}$=$\dfrac{11!}{8!}$=$\dfrac{1*2*3*4*5*6*7*8*9*10*11}{1*2*3*4*5*6*7*8}$=$9*10*11$=990
+$\binom{11}{8}$=$\dfrac{8!}{(11-8)!}$=$\dfrac{8!}{3!}$=$\dfrac{1*2*3*4*5*6*7*8}{1*2*3}$=$4*5*6*7*8$=$25*42*8$=$8400$ 
