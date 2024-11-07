@@ -236,4 +236,21 @@ $C_{11}^{8}$=$\dfrac{11!}{8!(11-8)!}$=$\dfrac{11!}{8!*3!}$=$\dfrac{11*10*9*8!}{8
 
 Six enfant font la course; il n'y a pas d'ex aequo. Combien y a t'il de classement possibles ?
 
-$N = 6! = 1*2*3*4*5*6 = 6*25*6$
+$N = 6! = 1*2*3*4*5*6 = 36*25 = 720$
+Il y a 720 classement possibles
+
+### Exercice 43
+Sept couverts sont disposés sur une table ronde.
+
+a) De combien de façons peut-on disposer les sept convives ?
+	Sur une table **non ronde** : 
+		$N = 7! = 1*2*3*4*5*6*7 = 720*7 = 5040$
+		Il y a 7! (5040) possibilité de disposer les couverts
+	Sur une table **ronde** : 
+		C'est pareil
+
+b) Reprendre la question a) sachant que Monsieur Jecrains et Madame Ronchon ne doivent surtout pas être cote a côté
+
+- Il faut faut faire un bloc de JC et R donc finalement il reste 6 places assises, 
+- ça fait donc 6 places - les 2 places voisines = 4 possibilités
+- il faut placer enco
