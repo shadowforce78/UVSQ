@@ -274,15 +274,29 @@ Ici, \( a = x \), \( b = 1 \) et \( n = 6 \).
    
 
 
-Pour développer $( (2x-3)^4)$, on utilise également le binôme de Newton avec $( a = 2x )$, $( b = -3 )$ et $( n = 4 ).$
+## Développement de \((2x - 3)^4\)
 
-1. **Calcul des termes** :
-   $(2x-3)^4 = \sum_{k=0}^{4} \binom{4}{k} (2x)^{4-k} (-3)^k$
+Le développement est donné par :
 
-2. **Développement complet** :
-   $(2x-3)^4 = 16x^4 - 96x^3 + 216x^2 - 216x + 81$
+$$(2x - 3)^4 = \sum_{k=0}^{4} \binom{4}{k} (2x)^{4-k} (-3)^k$$
 
-#### Triangle de Pascale 
+1. **Premier terme** :  
+   $\binom{4}{0} (2x)^4 (-3)^0 = 1 \cdot (2x)^4 \cdot 1 = (2x)^4 = 16x^4$
+
+2. **Deuxième terme** :  
+   $\binom{4}{1} (2x)^3 (-3)^1 = 4 \cdot (2x)^3 \cdot (-3) = 4 \cdot 8x^3 \cdot (-3) = -96x^3$
+
+3. **Troisième terme** :  
+   $\binom{4}{2} (2x)^2 (-3)^2 = 6 \cdot (2x)^2 \cdot 9 = 6 \cdot 4x^2 \cdot 9 = 216x^2$
+
+4. **Quatrième terme** :  
+   $\binom{4}{3} (2x)^1 (-3)^3 = 4 \cdot (2x) \cdot (-27) = 4 \cdot 2x \cdot (-27) = -216x$
+
+5. **Cinquième terme** :  
+   $\binom{4}{4} (2x)^0 (-3)^4 = 1 \cdot 1 \cdot 81 = 81$
+
+
+$$(2x - 3)^4 = 16x^4 - 96x^3 + 216x^2 - 216x + 81$$
 
 ### Triangle de Pascal
 
@@ -306,23 +320,4 @@ Pour développer $( (2x-3)^4)$, on utilise également le binôme de Newton avec 
 	& & \binom{5}{0} & & \binom{5}{1} & & \binom{5}{2} & & \binom{5}{3} & & \binom{5}{4} & & \binom{5}{5} & & \\
 	& \binom{6}{0} & & \binom{6}{1} & & \binom{6}{2} & & \binom{6}{3} & & \binom{6}{4} & & \binom{6}{5} & & \binom{6}{6} &
 \end{matrix}
-$$
-
-### Exemple : 
-$(a+2)^4 = 1a^4 2^0 + 4a^3 2^1 +6a^2 2^2 +4a^1 2^3 + 1a^0 2^4 = a^4 + 8a^3 + 24a^2 +32a +16$ 
-
-$$
-(a + 2)^4 = \binom{4}{0} a^4 2^0 + \binom{4}{1} a^3 2^1 + \binom{4}{2} a^2 2^2 + \binom{4}{3} a^1 2^3 + \binom{4}{4} a^0 2^4
-$$
-
-Simplifié :
-
-$$
-(a + 2)^4 = 1a^4 + 4a^3 \cdot 2 + 6a^2 \cdot 4 + 4a \cdot 8 + 1 \cdot 16
-$$
-
-Réponse finale :
-
-$$
-(a + 2)^4 = a^4 + 8a^3 + 24a^2 + 32a + 16
 $$
