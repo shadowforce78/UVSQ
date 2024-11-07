@@ -320,3 +320,42 @@ $$(2x - 3)^4 = 16x^4 - 96x^3 + 216x^2 - 216x + 81$$
 	& \binom{6}{0} & & \binom{6}{1} & & \binom{6}{2} & & \binom{6}{3} & & \binom{6}{4} & & \binom{6}{5} & & \binom{6}{6} &
 \end{matrix}
 $$
+
+## Exercice 45
+## Partie a) : Considération des sous-ensembles
+
+Soit $E$ un ensemble de cardinal $n$. Le nombre total de sous-ensembles de $E$ est donné par $2^n$, car chaque élément de $E$ peut soit appartenir, soit ne pas appartenir à un sous-ensemble.
+
+Un sous-ensemble de $E$ peut être décrit par son cardinal $k$, c'est-à-dire par le nombre d'éléments qu'il contient. Le nombre de sous-ensembles de cardinal $k$ est donné par la combinaison $\binom{n}{k}$, qui représente le nombre de façons de choisir $k$ éléments parmi $n$.
+
+Ainsi, le nombre total de sous-ensembles de $E$ peut être exprimé comme la somme des sous-ensembles de tous les cardinaux possibles :
+
+$$
+2^n = \sum_{k=0}^{n} \binom{n}{k}.
+$$
+
+### Partie b) : À l'aide de la formule du binôme de Newton
+
+La formule du binôme de Newton nous donne l'expansion suivante pour tout $x$ et $y$ :
+
+$$
+(x + y)^n = \sum_{k=0}^{n} \binom{n}{k} x^{n-k} y^k.
+$$
+
+En prenant $x = 1$ et $y = 1$, on obtient :
+
+$$
+(1 + 1)^n = \sum_{k=0}^{n} \binom{n}{k} 1^{n-k} 1^k.
+$$
+
+Comme $1^{n-k} = 1$ et $1^k = 1$ pour tous les entiers $n$ et $k$, cela simplifie à :
+
+$$
+2^n = \sum_{k=0}^{n} \binom{n}{k}.
+$$
+
+Ainsi, nous avons montré que :
+
+$$
+2^n = \sum_{k=0}^{n} \binom{n}{k}.
+$$
