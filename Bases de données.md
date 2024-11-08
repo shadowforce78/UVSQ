@@ -586,3 +586,22 @@ S est un schéma de base de données
 
 ## Clé d'une entités : un attributs (ou un ensemble d'attributs) qui permette d'identifier les objets de l'entité
 	remarque : souvent on ajoute un attribut comme identifié, numéro ou code
+
+## Cardinalité d'un couple Entité/Association
+couple d'entité (x, y) tel que
+- x est le nombre minimale d'utilisation de l'association pour chaque objet de l'entité
+- y est le nombre maximale d'utilisation de l'association pour chaque objet de l'entité
+	ex : client commente produit
+		client <=> commente = (0, N)
+		produit <=> commente = (0, N) 
+
+
+|  client  |                | produit   |
+|:--------:|:--------------:| --------- |
+| idclient | \<=commente=\> | idProduit |
+|   nomC   |    dateComm    | nomP      |
+| prenomC  |      text      | desc      |
+|  emailC  |      note      | prix      |
+client (0, 4)
+produit (0, 4)
+Mo Cnceptuel
