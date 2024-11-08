@@ -584,4 +584,5 @@ S est un schéma de base de données
 	ex : client : nom, prenom, adresse, tel, email, etc...
 			(entité) : (attributs)
 
-## Clé d'une entités : 
+## Clé d'une entités : un attributs (ou un ensemble d'attributs) qui permette d'identifier les objets de l'entité
+	remarque : souvent on ajoute un attribut comme identifié, numéro ou code
