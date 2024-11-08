@@ -604,4 +604,10 @@ couple d'entité (x, y) tel que
 |  emailC  |      note      | prix      |
 client (0, 4)
 produit (0, 4)
-Mo Cnceptuel
+Modèle Conceptuel de Données (MCP) 
+
+
+### Exemple :
+
+	Une agence immobilière dispose d'information sur des biens immobilier : adresse nature, la valeur, et des informations sur les propriétaires (nom, prenom, telephone, mail adresse). Elle sais aussi qu'elles sont les biens qui sont loué. 
+
