@@ -570,4 +570,18 @@ Décomposition successives de U par rapport a F
 		Un ou plusieurs schéma de BD
 Décomposition de U : tout ensemble S = {R1,...,Rn} de schéma de relation tel que U <1<i<nRi = U 
 S est un schéma de base de données
-	
+
+# Conceptions Entités/Associations
+
+## Entités : classe d'objets ou d'indications
+	ex : client, produit, etudiant, cours etc...
+
+## Associations : classe des liaisons entre les entités
+	ex : client, commante, produit
+			(enités) <= Associations => (entités) 
+
+## Attributs : caractéristiques des entités ou associations 
+	ex : client : nom, prenom, adresse, tel, email, etc...
+			(entité) : (attributs)
+
+## Clé d'une entités : 
