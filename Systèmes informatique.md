@@ -139,4 +139,26 @@ Si on retire les droits d'exécution (X)
 	temps de la session) 
 
 	Pour les accès user lecure/Ecriture pour group et rien pour other : 017
-	
+
+
+# TD 3 - Processus
+
+## Question 1 : Généralité
+- Un processus est un programme en cours d'exécution.
+- On distingue 2 types de processus : 
+	- Processus Systèmes : attaché a aucune terminal, créé au démarrage du système, c'est en partis ce que l'on voit au lancement de la machine
+
+	- Processus Utilisateurs : lancé par l'utilisateurs depuis un terminal (on oublie l'interface graphique), plusieurs processus peuvent être lancés en même temps
+- Le premier des processus s'appelle "init" (ou "systemd" pour CentOS) son PID est 1.
+- Le processus duquel dérivent d'autre processus s'appelle : Processus père
+- Tous les processus sont repérés par un numéro : le PID
+- Quelle est la commande pour lister les processus : 
+```sh
+$ps aux
+$pstree
+```
+
+## Question 2 : Entrées / Sorties
+- L'entrée standard correspond au clavier
+- Les sorties standard correspondent a l'écran
+- On peut rediriger le sentrées
