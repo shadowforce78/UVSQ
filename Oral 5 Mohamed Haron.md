@@ -1,0 +1,11 @@
+Livre : *Les Aveuglés*, roman de Loïc Nottet, 
+
+C'est une plongée dans un monde post-apocalyptique sombre et sans espoir, marqué par une réflexion profonde sur la société et ses travers. Dans cet univers, les personnages, qui se nomment "les Aveuglés", vivent littéralement dans l’obscurité : ils ont perdu la vue en raison d’un mystérieux événement qui a transformé la réalité en un cauchemar permanent. Ce manque de vision physique devient rapidement une métaphore des illusions et des préjugés qui influencent leur perception de la réalité.
+
+L’histoire suit plusieurs protagonistes, chacun d’eux ayant une personnalité et un passé distincts. Ils se retrouvent tous confrontés à des dilemmes moraux qui questionnent leurs valeurs et leur humanité dans un monde dévasté où l’espoir semble avoir disparu. Ce monde est fait d’ombres, d’obstacles invisibles et de dangers imprévisibles, forçant les personnages à naviguer dans une réalité où tout est caché, rendant chaque pas incertain. À mesure qu’ils avancent dans cet environnement oppressant, ils doivent faire face à leurs propres peurs, ainsi qu'à leurs idées préconçues sur ce qui est bien ou mal.
+
+Les thèmes explorés par Nottet sont riches et variés : l’individualisme, l’égoïsme, la recherche de vérité, mais aussi la force des liens qui unissent les êtres humains face à l’adversité. *Les Aveuglés* est une critique puissante des sociétés modernes, où la "cécité" des personnages peut être interprétée comme le reflet d’un monde où les gens sont souvent "aveugles" aux réalités et aux souffrances qui les entourent. Ce manque de vision devient une symbolique forte, illustrant la manière dont les préjugés et les illusions peuvent nous détourner de la vérité et nous isoler des autres.
+
+Au fur et à mesure que les protagonistes avancent dans leur quête, le lecteur est invité à questionner sa propre vision du monde et à se demander dans quelle mesure il est lui-même "aveuglé" par ses perceptions. Loïc Nottet propose ici une réflexion sur la résilience, la nécessité de briser les chaînes de l’ignorance et d’affronter nos propres zones d’ombre pour retrouver la lumière. 
+
+Dans *Les Aveuglés*, Nottet offre un récit intense et introspectif, mêlant des éléments de drame psychologique et de critique sociale.
