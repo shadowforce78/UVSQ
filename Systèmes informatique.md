@@ -161,4 +161,13 @@ $pstree
 ## Question 2 : Entrées / Sorties
 - L'entrée standard correspond au clavier
 - Les sorties standard correspondent a l'écran
-- On peut rediriger le sentrées
+- On peut rediriger les entrées / sorties d'un processus grâce à "<" et ">"  :
+	- Pour les entrées :
+		- 1er solution : "bash script.sh" lance le script, on fournit les 6 réponses au clavier
+		- 2ème solution : on écrit 6 réponses dans "data.txt" puis on lance "bash script.sh < data.txt"
+	- Pour les sorties :
+		- On utilise "bash script.sh > data.txt"
+		- On utilise >> pour écraser les données
+
+## Question 3 : Communication par tube
+Avec les tubes, la sortie d'un processus sert d'entrée à un second :
