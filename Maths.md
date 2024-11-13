@@ -364,4 +364,4 @@ $\sqrt{20} = \sqrt{4}*\sqrt{5} = 2\sqrt{5}$
 $$A = 5*\dfrac{13}{15}-7*\dfrac{6}{12} = \dfrac{65}{15}-\dfrac{7}{2}=\dfrac{130}{30}-\dfrac{105}{30} = \dfrac{130-105}{30} = \dfrac{5}{6}$$
 
 $$B = {\sqrt{2}}^3(\sqrt{6}+\sqrt{10})=4\sqrt{3}+4\sqrt{5}$$
-$$D=\dfrac{\sqrt{12}-5\sqrt{3}}{\sqrt{75}}=\dfrac{2\sqrt{3}-5\sqrt{3}}{\sqrt{75}}$$
+$$D=\dfrac{\sqrt{12}-5\sqrt{3}}{\sqrt{75}}=\dfrac{2\sqrt{3}-5\sqrt{3}}{\sqrt{75}}=\dfrac{-3}{5}$$ 
