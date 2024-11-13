@@ -1,0 +1,12 @@
+
+Livre : *Petit Pays* de Gaël Faye 
+
+C'est l’histoire de Gabriel, surnommé Gaby, un jeune garçon métis né d'un père français et d'une mère rwandaise. Il vit au Burundi dans les années 1990, une époque marquée par des tensions croissantes dans la région. Gaby grandit dans un quartier résidentiel à Bujumbura, entouré de ses amis, et mène une enfance relativement paisible. Avec ses copains, ils passent leurs journées à faire des bêtises, à explorer leur environnement et à découvrir le monde à travers leurs jeux. Ses préoccupations, au début, sont simples et innocentes, centrées sur les petites aventures de l’enfance.
+
+Cependant, cette tranquillité commence à se fissurer avec la montée des tensions politiques dans le pays et dans la région. Le Burundi se rapproche de plus en plus de la guerre civile, tandis que le Rwanda voisin est en proie à des tensions ethniques croissantes entre Hutus et Tutsis, qui culmineront dans le génocide rwandais de 1994. Au fur et à mesure que la violence se rapproche, Gaby est confronté à une réalité brutale qui fait voler en éclats son monde d’enfant.
+
+Le récit est aussi marqué par la séparation des parents de Gaby. Son père tente de maintenir une certaine stabilité et de préserver l’innocence de son fils, tandis que sa mère, elle-même Tutsie rwandaise, est hantée par le sort de sa famille restée au Rwanda et finit par être brisée par la violence et le poids des horreurs de la guerre. 
+
+À travers l’évolution de Gaby, le lecteur suit la perte de son innocence, alors qu’il doit affronter des dilemmes moraux bien trop lourds pour un enfant de son âge. Les choix auxquels il est confronté symbolisent les divisions et les tragédies qui affectent les adultes autour de lui, mais aussi un pays tout entier. La guerre finit par détruire tout ce qu’il connaissait, et Gaby est contraint de quitter le Burundi pour rejoindre la France. Même loin de la violence, il porte en lui le traumatisme de son passé.
+
+Dans *Petit Pays*, Gaël Faye livre une réflexion poignante sur l’enfance, la guerre, la mémoire, et le déracinement. Le livre est en grande partie autobiographique, et Faye y dépeint avec une grande sensibilité les ravages de la guerre sur un pays et sur l’âme humaine, en particulier celle d’un enfant.
