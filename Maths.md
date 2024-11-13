@@ -359,3 +359,6 @@ Ainsi, nous avons montré que :
 $$
 2^n = \sum_{k=0}^{n} \binom{n}{k}.
 $$
+
+$\sqrt{20} = \sqrt{4}*\sqrt{5} = 2\sqrt{5}$ 
+$$A = 5*\dfrac{13}{15}-7*\dfrac{6}{12} = \dfrac{65}{15}-\dfrac{7}{2}=\dfrac{130}{30}-\dfrac{105}{30} = \dfrac{130-105}{30} = \dfrac{5}{6}$$ 
