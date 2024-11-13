@@ -1,5 +1,14 @@
 
-Livre : Eighty-Six (Light Novel)
-Asato Asato en 2017
+Livre : *Eighty-Six*, écrit par Asato Asato, 
 
-A gagner des prix de light novel en 2023
+C'est un light novel qui se déroule dans un futur dystopique où la République de San Magnolia est en guerre contre l’Empire de Giad. Pour protéger la population et éviter les pertes humaines, la République prétend avoir développé une armée de drones autonomes appelés "Juggernauts". En réalité, ces machines de guerre ne sont pas autonomes : elles sont pilotées par des humains issus de la 86e zone, une région marginalisée et habitée par des citoyens que la République ne reconnaît pas comme les siens.
+
+Les habitants de la 86e zone, appelés les "Eighty-Six", sont victimes de discrimination et envoyés de force en première ligne, où ils combattent jusqu’à la mort, considérés comme des soldats jetables. Dans ce contexte, le récit suit deux personnages principaux : Vladilena "Lena" Milizé, une officier de l’armée de la République, et Shinei "Shin" Nouzen, un jeune commandant des Eighty-Six.
+
+Lena, idéaliste et pleine de compassion, travaille comme "manipulatrice" : elle dirige les unités de combat à distance via un réseau de communication, tout en étant physiquement éloignée du champ de bataille. Contrairement aux autres officiers, Lena refuse de fermer les yeux sur la souffrance des Eighty-Six et est déterminée à leur apporter du soutien, même si elle ne peut physiquement être à leurs côtés. Son empathie la rend rapidement impopulaire parmi ses collègues, mais elle persévère, formant un lien fragile avec Shin et son unité.
+
+Shin, quant à lui, est un vétéran endurci, surnommé le "Moissonneur" en raison de sa capacité unique à survivre à de nombreux combats. Il porte le poids des âmes des camarades tombés au combat, entendant leurs voix jusqu’à leur dernier souffle. Cette particularité donne à Shin une réputation presque surnaturelle, mais elle le ronge de l’intérieur, car il est hanté par la mort de ses proches. Shin et Lena finissent par nouer un lien complexe, Lena découvrant progressivement les horreurs subies par les Eighty-Six et la dure réalité de la guerre qu'elle ne pouvait comprendre depuis son poste d’officier protégé.
+
+À travers l’évolution de leur relation, *Eighty-Six* explore des thèmes comme le racisme, la déshumanisation, et la brutalité de la guerre. La République de San Magnolia, malgré son apparente modernité, est rongée par le mépris et la haine envers ceux qu'elle considère comme "inférieurs". Au fil du récit, Lena prend conscience de l’hypocrisie de son propre gouvernement et de la souffrance des Eighty-Six, tandis que Shin lutte pour maintenir son humanité face aux horreurs du champ de bataille. Le roman expose avec intensité la manière dont la guerre peut transformer les gens, aussi bien ceux qui la subissent directement que ceux qui la dirigent à distance.
+
+*Eighty-Six* est une œuvre captivante qui mêle action, drame, et réflexions profondes sur l’injustice sociale, la responsabilité et la résilience humaine.
