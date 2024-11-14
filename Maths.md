@@ -370,3 +370,20 @@ $$F=\dfrac{\sqrt{3}}{2-\sqrt{3}}=\dfrac{\sqrt{3}(2+\sqrt{3})}{(2-\sqrt{3})(2+\sq
 
 $$f(x)=(x+1)(2x+3)=2x^2+3x+2x+3=2x^2+5x+3$$
 $$g(a;b;c)=(a+2b+c)(3a-b)$$
+1. **Premier terme :** $(a \cdot (3a - b) = 3a^2 - ab)$
+2. **Deuxième terme :**$(2b \cdot (3a - b) = 6ab - 2b^2)$
+3. **Troisième terme :** $(c \cdot (3a - b) = 3ac - bc)$ 
+
+$$g(a; b; c) = 3a^2 - ab + 6ab - 2b^2 + 3ac - bc$$
+$$g(a; b; c) = 3a^2 + 5ab - 2b^2 + 3ac - bc$$
+$$\begin{array}{c|c}
+\text{Puissance} & \text{Coefficients binomiaux} \\
+\hline
+0 & 1 \\
+1 & 1 \quad 1 \\
+2 & 1 \quad 2 \quad 1 \\
+3 & 1 \quad 3 \quad 3 \quad 1 \\
+4 & 1 \quad 4 \quad 6 \quad 4 \quad 1 \\
+5 & 1 \quad 5 \quad 10 \quad 10 \quad 5 \quad 1 \\
+\end{array}$$
+$$i(x)=(x-2)^5=(x + 2)^5 = \sum_{k=0}^{5} \binom{5}{0} x^{5-k} (-2^)k.$$
