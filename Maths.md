@@ -386,4 +386,5 @@ $$\begin{array}{c|c}
 4 & 1 \quad 4 \quad 6 \quad 4 \quad 1 \\
 5 & 1 \quad 5 \quad 10 \quad 10 \quad 5 \quad 1 \\
 \end{array}$$
-$$i(x)=(x-2)^5=(x + 2)^5 = \sum_{k=0}^{5} \binom{5}{0} x^{5-k} (-2^)k.$$
+$$i(x)=(x-2)^5=(x - 2)^5 = \sum_{k=0}^{5} \binom{5}{k} x^{5-k} (-2)^k$$
+K = 0 : $$1\cdot x^5=x^5$$
