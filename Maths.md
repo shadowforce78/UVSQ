@@ -360,8 +360,13 @@ $$
 2^n = \sum_{k=0}^{n} \binom{n}{k}.
 $$
 
-$\sqrt{20} = \sqrt{4}*\sqrt{5} = 2\sqrt{5}$ 
+$$\sqrt{20} = \sqrt{4}*\sqrt{5} = 2\sqrt{5}$$ 
 $$A = 5*\dfrac{13}{15}-7*\dfrac{6}{12} = \dfrac{65}{15}-\dfrac{7}{2}=\dfrac{130}{30}-\dfrac{105}{30} = \dfrac{130-105}{30} = \dfrac{5}{6}$$
 
 $$B = {\sqrt{2}}^3(\sqrt{6}+\sqrt{10})=4\sqrt{3}+4\sqrt{5}$$
-$$D=\dfrac{\sqrt{12}-5\sqrt{3}}{\sqrt{75}}=\dfrac{2\sqrt{3}-5\sqrt{3}}{\sqrt{75}}=\dfrac{-3}{5}$$ $$E=\dfrac{(\sqrt{5}-2)^2 + 2\sqrt{20}}{(\sqrt{7}-2)(\sqrt{7}+2)}=\dfrac{(\sqrt{5}​)^2−2×\sqrt{5}​×2+2^2+2×\sqrt{4×5}}{(\sqrt{7})^2-2^2}=\dfrac{9-4\sqrt{5}+4\sqrt{5}}{7-4}=\dfrac{9}{3}=3$$
+$$D=\dfrac{\sqrt{12}-5\sqrt{3}}{\sqrt{75}}=\dfrac{2\sqrt{3}-5\sqrt{3}}{\sqrt{75}}=\dfrac{-3}{5}$$ $$E=\dfrac{(\sqrt{5}-2)^2 + 2\sqrt{20}}{(\sqrt{7}-2)(\sqrt{7}+2)}=\dfrac{(\sqrt{5}​)^2−2×\sqrt{5}​×2+2^2+2×\sqrt{4×5}}{(\sqrt{7})^2-2^2}=\dfrac{9-4\sqrt{5}+4\sqrt{5}}{7-4}=\dfrac{9}{3}=3$$ 
+$$F=\dfrac{\sqrt{3}}{2-\sqrt{3}}=\dfrac{\sqrt{3}(2+\sqrt{3})}{(2-\sqrt{3})(2+\sqrt{3})}=2\sqrt{3}+3$$
+
+
+$$f(x)=(x+1)(2x+3)=2x^2+3x+2x+3=2x^2+5x+3$$
+$$g(a;b;c)=(a+2b+c)(3a-b)$$
