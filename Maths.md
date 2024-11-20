@@ -449,4 +449,7 @@ si $\Delta$ < 0 On ne peut pas factoriser dans $\mathbb{R}$
 
 c) $$2t^2=6t+4$$
 $$<=> 2t^2-6t=4$$
-	$$<=>2(t^2-3t)=4$$
+	$$<=>2(t^2-3t-2)=0$$
+	$$<=>t^2-3t-2=0$$
+	$$\Delta = b^2-4ac$$
+	
