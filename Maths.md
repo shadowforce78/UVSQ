@@ -360,8 +360,9 @@ $$
 2^n = \sum_{k=0}^{n} \binom{n}{k}.
 $$
 
-$$\sqrt{20} = \sqrt{4}*\sqrt{5} = 2\sqrt{5}$$ 
-$$A = 5*\dfrac{13}{15}-7*\dfrac{6}{12} = \dfrac{65}{15}-\dfrac{7}{2}=\dfrac{130}{30}-\dfrac{105}{30} = \dfrac{130-105}{30} = \dfrac{5}{6}$$
+	$$\sqrt{20} = \sqrt{4}*\sqrt{5} = 2\sqrt{5}$$ 
+	
+	$$A = 5*\dfrac{13}{15}-7*\dfrac{6}{12} = \dfrac{65}{15}-\dfrac{7}{2}=\dfrac{130}{30}-\dfrac{105}{30} = \dfrac{130-105}{30} = \dfrac{5}{6}$$
 
 $$B = {\sqrt{2}}^3(\sqrt{6}+\sqrt{10})=4\sqrt{3}+4\sqrt{5}$$
 $$D=\dfrac{\sqrt{12}-5\sqrt{3}}{\sqrt{75}}=\dfrac{2\sqrt{3}-5\sqrt{3}}{\sqrt{75}}=\dfrac{-3}{5}$$ $$E=\dfrac{(\sqrt{5}-2)^2 + 2\sqrt{20}}{(\sqrt{7}-2)(\sqrt{7}+2)}=\dfrac{(\sqrt{5}​)^2−2×\sqrt{5}​×2+2^2+2×\sqrt{4×5}}{(\sqrt{7})^2-2^2}=\dfrac{9-4\sqrt{5}+4\sqrt{5}}{7-4}=\dfrac{9}{3}=3$$ 
@@ -386,7 +387,7 @@ $$\begin{array}{c|c}
 4 & 1 \quad 4 \quad 6 \quad 4 \quad 1 \\
 5 & 1 \quad 5 \quad 10 \quad 10 \quad 5 \quad 1 \\
 \end{array}$$
-$$i(x)=(x-2)^5=(x - 2)^5 = \sum_{k=0}^{5} \binom{5}{k} x^{5-k} (-2)^k$$
+$$i(x)=(x-2)^5=(x - 2)^5 = \sum_{k=0}^{5} \binom{5}{k} x^{5-k} (-2)^k$$ 
 K = 0 : $$\binom{5}{0}x^5(-2)^0=x^5 $$
 K = 1 : $$\binom{5}{1}x^4(-2)^1=-10x^4 $$
 K = 2 : $$\binom{5}{2}x^3(-2)^2=40x^3 $$
