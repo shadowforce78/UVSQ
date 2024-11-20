@@ -447,4 +447,6 @@ si $\Delta$ < 0 On ne peut pas factoriser dans $\mathbb{R}$
 
 ## Exercice 4 résoudre dans $\mathbb{R}$ 
 
-a) $$2x+\sqrt{3}=5\sqrt{12}$$
+c) $$2t^2=6t+4$$
+$$<=> 2t^2-6t=4$$
+	$$<=>2(t^2-3t)=4$$
