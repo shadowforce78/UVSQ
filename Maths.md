@@ -433,3 +433,18 @@ Exemple : $$3x^2-18x+24=0$$
 $$<=>3(x²-6x+8)=0$$
 $$<=> x²-6x+8=0$$$$<=> (x-3)^2-9+8 =0$$
 $$<=>(x-3)^2 -1=0$$
+$$<=> (x-4)(x-2)=0$$
+$$S={2;4}$$
+
+## Généralisation
+
+$$p(x)=ax²+bx+c (a!=0)$$
+si $\Delta >0$ $x$ et $x²$ sont 2 racines
+$$p(x) = a (x-x_2)(x-x_2)$$
+si $\Delta$ = 0 $x_0$ est la racine obtenue 
+$$p(x)=a(x-x_0)^2$$
+si $\Delta$ < 0 On ne peut pas factoriser dans $\mathbb{R}$ 
+
+## Exercice 4 résoudre dans $\mathbb{R}$ 
+
+a) $$2x+\sqrt{3}=5\sqrt{12}$$
