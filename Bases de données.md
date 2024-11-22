@@ -572,4 +572,6 @@ Modèle Conceptuel de Données (MCP)
 
 ### Exemple :
 
-    Exo 1 : On a des chefs cuisiniers dont on connais les infos (nom,prenom,adresse,telephone,restaurant) qui preparent des plats (nomPlat, naturePlat(entrée desert), originePlat, ingrédients(nom,quantité,nature,origine))
+Exo 1 : On a des chefs cuisiniers dont on connais les infos (nom,prenom,adresse,telephone,restaurant) qui preparent des plats (nomPlat, naturePlat(entrée desert), originePlat, ingrédients(nom,quantité,nature,origine))
+
+Exo 2 : Base de donnée de forum, catégorie, sous catégorie, utilisateurs, message, réponses, 
