@@ -489,6 +489,7 @@ $$
 3&5
 \end{pmatrix}
 $$
+
 $$
 \begin{pmatrix}
 1&5\\
@@ -500,3 +501,66 @@ $$
 5&4
 \end{pmatrix}
 $$
+
+Addition :
+
+$$
+\begin{pmatrix}
+	1&2&3\\
+	1&8&5
+\end{pmatrix}
++
+\begin{pmatrix}
+	2&3&4\\
+	3&4&5
+\end{pmatrix}
+=
+\begin{pmatrix}
+	3&5&7\\
+	4&12&10
+\end{pmatrix}
+$$
+
+Multiplication :
+
+$$
+
+-3
+\begin{pmatrix}
+1&1&3\\
+-2&5&4
+\end{pmatrix}
+=
+\begin{pmatrix}
+-3&-3&-9\\
+6&-15&-12
+\end{pmatrix}
+$$
+
+Exemple :
+$$ 
+\begin{pmatrix}
+0&1&2\\
+1&2&3\\
+2&3&4
+\end{pmatrix}
+\begin{pmatrix}
+5&6\\
+7&8\\
+9&10
+\end{pmatrix}
+=
+\begin{pmatrix}
+0*5+1*7+2*9&0*6+1*8+2*10\\
+1*5+2*7+3*9&1*6+2*8+3*10\\
+2*5+3*7+4*9&2*6+3*8+4*10
+\end{pmatrix}
+=
+\begin{pmatrix}
+	25&28\\
+	46&52\\
+	67&76
+\end{pmatrix}
+$$
+
+Remarque : Ch
