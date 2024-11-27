@@ -489,7 +489,7 @@ $$
 3&5
 \end{pmatrix}
 $$
-	
+
 $$
 \begin{pmatrix}
 1&5\\
@@ -575,19 +575,23 @@ $\begin{pmatrix}0&1\\1&2\\2&3\end{pmatrix}\times \begin{pmatrix}5&6\\7&8\\9&10\e
 Propriétés
 
 Matrice Nulle $O_{n,p}$
+
 $$
-A + O = A\\ 
+A + O = A\\
 A + (-A) = O\\
 (A+B)+C = A+(B+C)\\
-A+B = B+A$$
+A+B = B+A
+$$
+
 $$
 \begin{cases}
 	k(A+B) = kA+kB\\
-	
+
 \end{cases}
 $$
 
-Triangulaire Inférieur : 
+Triangulaire Inférieur :
+
 $$
 A = \begin{pmatrix}
    1&0&0\\
@@ -599,7 +603,9 @@ A = \begin{pmatrix}
    2&3&4
 \end{pmatrix}
 $$
+
 Triangulaire Supérieur :
+
 $$
 B = \begin{pmatrix}
    1&8&0\\
@@ -608,11 +614,12 @@ B = \begin{pmatrix}
 \end{pmatrix} => ou \ bien \begin{pmatrix}
    4&1&2\\
    0&2&3\\
-   0&0&4 
+   0&0&4
 \end{pmatrix}
 $$
 
 Diagonale :
+
 $$
 C = \begin{pmatrix}
    1&0&0\\
@@ -625,7 +632,9 @@ C = \begin{pmatrix}
 $$
 
 ## Matrice Symétrique $t_A = A$
-Exemple : 
+
+Exemple :
+
 $$
 A \begin{pmatrix}
    0&1&2\\
@@ -633,9 +642,10 @@ A \begin{pmatrix}
    2&3&4
 \end{pmatrix}
 t_A = A
-$$ 
+$$
 
 ## Matrice identité
+
 $$
 I_3 = \begin{pmatrix}
    1&0&0\\
@@ -643,9 +653,220 @@ I_3 = \begin{pmatrix}
    0&0&1
 \end{pmatrix} => Matrice \ diagonale \ avec \ 1 \ sur \ la \ diagonale
 $$
+
 $$
 I_2 = \begin{pmatrix}
    1&0\\
    0&1
+\end{pmatrix}
+$$
+
+## Exercice 5
+
+Soient les matrices suivantes :
+
+$$
+A = \begin{pmatrix}
+   4&1&-2\\
+   0&1&1\\
+   1&-2&0
+\end{pmatrix}, \ \
+B = \begin{pmatrix}
+   2&-1&1\\
+   0&1&0
+\end{pmatrix}, \ \
+C = \begin{pmatrix}
+   3&-1\\
+   1&0\\
+   0&1
+\end{pmatrix}
+$$
+
+Déterminer :
+$t_A$ = A
+$t_B$ = B
+$t_C$ = C
+
+$$
+B + t_C = \begin{pmatrix}
+   2&-1&1\\
+   0&1&0
+\end{pmatrix} + \begin{pmatrix}
+   3&1&0\\
+   -1&0&1
+\end{pmatrix} = \begin{pmatrix}
+   5&0&1\\
+   -1&1&1
+\end{pmatrix}
+$$
+
+$$
+C+3t_B = \begin{pmatrix}
+   3&-1\\
+   1&0\\
+   0&1
+\end{pmatrix} + 3\begin{pmatrix}
+   2&-1&1\\
+   0&1&0
+\end{pmatrix} = Impossible
+$$
+
+$$
+A \times B = \begin{pmatrix}
+   4&1&-2\\
+   0&1&1\\
+   1&-2&0
+\end{pmatrix} \times \begin{pmatrix}
+   2&-1&1\\
+   0&1&0
+\end{pmatrix} = Impossible
+$$
+
+$$
+A \times C = \begin{pmatrix}
+   4&1&-2\\
+   0&1&1\\
+   1&-2&0
+\end{pmatrix} \times \begin{pmatrix}
+   3&-1\\
+   1&0\\
+   0&1
+\end{pmatrix} = \begin{pmatrix}
+   4*3+1*1+(-2)*0&4*(-1)+1*0+(-2)*1\\
+   0*3+1*1+1*0&0*(-1)+1*0+1*1\\
+   1*3+(-2)*1+0*0&1*(-1)+(-2)*0+0*1
+\end{pmatrix} = \begin{pmatrix}
+   12&-6\\
+   1&1\\
+   1&-1
+\end{pmatrix}
+$$
+
+$$
+B \times A = \begin{pmatrix}
+   2&-1&1\\
+   0&1&0
+\end{pmatrix} \times \begin{pmatrix}
+   4&1&-2\\
+   0&1&1\\
+   1&-2&0
+\end{pmatrix} = \begin{pmatrix}
+   2*4+(-1)*0+1*1&2*1+(-1)*1+1*(-2)&2*(-2)+(-1)*1+1*0\\
+   0*4+1*0+0*1&0*1+1*1+0*(-2)&0*(-2)+1*1+0*0
+\end{pmatrix} = \begin{pmatrix}
+   9&-3&-3\\
+   0&1&1
+\end{pmatrix}
+$$
+
+$$
+B \times C = \begin{pmatrix}
+   2&-1&1\\
+   0&1&0
+\end{pmatrix} \times \begin{pmatrix}
+   3&-1\\
+   1&0\\
+   0&1
+\end{pmatrix} = \begin{pmatrix}
+   2*3+(-1)*1+1*0&2*(-1)+(-1)*0+1*1\\
+   0*3+1*1+0*0&0*(-1)+1*0+0*1
+\end{pmatrix} = \begin{pmatrix}
+   5&-1\\
+   1&0
+\end{pmatrix}
+$$
+
+$$
+C \times A = \begin{pmatrix}
+   3&-1\\
+   1&0\\
+   0&1
+\end{pmatrix} \times \begin{pmatrix}
+   4&1&-2\\
+   0&1&1\\
+   1&-2&0
+\end{pmatrix} = \begin{pmatrix}
+   3*4+(-1)*0&3*1+(-1)*1&3*(-2)+(-1)*(-2)\\
+   1*4+0*0&1*1+0*1&1*(-2)+0*(-2)\\
+   0*4+1*0&0*1+1*1&0*(-2)+1*(-2)
+\end{pmatrix} = \begin{pmatrix}
+   12&2&-4\\
+   4&1&-2\\
+   0&1&-2
+\end{pmatrix}
+$$
+
+$$
+C \times B = \begin{pmatrix}
+   3&-1\\
+   1&0\\
+   0&1
+\end{pmatrix} \times \begin{pmatrix}
+   2&-1&1\\
+   0&1&0
+\end{pmatrix} = \begin{pmatrix}
+   3*2+(-1)*0&3*(-1)+(-1)*1&3*1+(-1)*0\\
+   1*2+0*0&1*(-1)+0*1&1*1+0*0\\
+   0*2+1*0&0*(-1)+1*1&0*1+1*0
+\end{pmatrix} = \begin{pmatrix}
+   6&-4&3\\
+   2&-1&1\\
+   0&1&0
+\end{pmatrix}
+$$
+$$
+C \times B = \begin{pmatrix}
+   3&-1\\
+   1&0\\
+   0&1
+\end{pmatrix} \times \begin{pmatrix}
+   2&-1&1\\
+   0&1&0
+\end{pmatrix} = \begin{pmatrix}
+   3*2+(-1)*0&3*(-1)+(-1)*1&3*1+(-1)*0\\
+   1*2+0*0&1*(-1)+0*1&1*1+0*0\\
+   0*2+1*0&0*(-1)+1*1&0*1+1*0
+\end{pmatrix} = \begin{pmatrix}
+   6&-4&3\\
+   2&-1&1\\
+   0&1&0
+\end{pmatrix}
+$$
+$$
+A^2 = \begin{pmatrix}
+   4&1&-2\\
+   0&1&1\\
+   1&-2&0 
+\end{pmatrix} \times \begin{pmatrix}
+   4&1&-2\\
+   0&1&1\\
+   1&-2&0
+\end{pmatrix} = \begin{pmatrix}
+   4*4+1*0+(-2)*1&4*1+1*1+(-2)*(-2)&4*(-2)+1*1+(-2)*0\\
+   0*4+1*0+1*1&0*1+1*1+1*(-2)&0*(-2)+1*1+1*0\\
+   1*4+(-2)*0+0*1&1*1+(-2)*1+0*(-2)&1*(-2)+(-2)*1+0*0
+\end{pmatrix} = \begin{pmatrix}
+   16&9&-7\\
+   0&-1&1\\
+   4&-3&-1
+\end{pmatrix}
+$$
+$$
+A \times t_A = \begin{pmatrix}
+   4&1&-2\\
+   0&1&1\\
+   1&-2&0
+\end{pmatrix} \times \begin{pmatrix}
+   4&0&1\\
+   1&1&-2\\
+   -2&1&0
+\end{pmatrix} = \begin{pmatrix}
+   4*4+1*1+(-2)*(-2)&4*0+1*1+(-2)*1&4*1+1*(-2)+(-2)*0\\
+   0*4+1*1+1*(-2)&0*0+1*1+1*1&0*1+1*(-2)+1*0\\
+   1*4+(-2)*1+0*(-2)&1*0+(-2)*1+0*1&1*1+(-2)*(-2)+0*0
+\end{pmatrix} = \begin{pmatrix}
+   21&3&2\\
+   -1&2&-2\\
+   2&-1&1
 \end{pmatrix}
 $$
