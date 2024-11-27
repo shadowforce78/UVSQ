@@ -472,3 +472,31 @@ $$
 -> Très grands systèmes non linéaires (plusieurs systèmes linéaires)
 -> Simulation de phénomènes physiques (mécanique des fluides, électromagnétisme, etc.)
 . Transformation de Fourier discrète (traitement du signal cd audio => mp3)
+. Analyses de données
+-> Statistiques + Matrices
+
+Transposez :
+
+$$
+\begin{pmatrix}
+1&2&3\\
+1&8&5
+\end{pmatrix}
+=
+\begin{pmatrix}
+1&1\\
+2&8\\
+3&5
+\end{pmatrix}
+$$
+$$
+\begin{pmatrix}
+1&5\\
+3&4
+\end{pmatrix}
+=
+\begin{pmatrix}
+1&3\\
+5&4
+\end{pmatrix}
+$$
