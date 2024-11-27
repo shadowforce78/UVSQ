@@ -678,7 +678,7 @@ B = \begin{pmatrix}
 C = \begin{pmatrix}
    3&-1\\
    1&0\\
-   0&1
+   0&2
 \end{pmatrix}
 $$
 
@@ -687,13 +687,17 @@ $$t_A = \begin{pmatrix}
    4&0&1\\
    1&1&-2\\
    -2&1&0
-   \end{pmatrix}
-
-$$t_B = \begin{pmatrix}
+   \end{pmatrix}, \ \
+t_B = \begin{pmatrix}
    2&0\\
    -1&1\\
    1&0
-$$t_C = C$$
+\end{pmatrix}, \ \
+t_C = \begin{pmatrix}
+   3&1&0\\
+   -1&0&2
+\end{pmatrix}
+$$
 
 $$
 B + t_C = \begin{pmatrix}
@@ -702,7 +706,13 @@ B + t_C = \begin{pmatrix}
 \end{pmatrix} + \begin{pmatrix}
    3&1&0\\
    -1&0&1
-\end{pmatrix} = Impossible
+\end{pmatrix} = \begin{pmatrix}
+   2+3&-1+1&1+0\\
+   0+(-1)&1+0&0+1
+\end{pmatrix} = \begin{pmatrix}
+   5&0&1\\
+   -1&1&1
+\end{pmatrix}
 $$
 
 $$
@@ -711,9 +721,18 @@ C+3t_B = \begin{pmatrix}
    1&0\\
    0&1
 \end{pmatrix} + 3\begin{pmatrix}
-   2&-1&1\\
-   0&1&0
-\end{pmatrix} = Impossible
+   2&0\\
+   -1&1\\
+   1&0
+\end{pmatrix} =  \begin{pmatrix}
+   3+6&-1+0\\
+   1-3&0+3\\
+   0+3&1+0
+\end{pmatrix} = \begin{pmatrix} 
+   9&-1\\
+   -2&3\\
+   3&1
+\end{pmatrix}
 $$
 
 $$
@@ -724,7 +743,7 @@ A \times B = \begin{pmatrix}
 \end{pmatrix} \times \begin{pmatrix}
    2&-1&1\\
    0&1&0
-\end{pmatrix} = Impossible
+\end{pmatrix} = Impossible \ car \ nombre \ de \ colonnes \ de \ A \ != \ nombre \ de \ lignes \ de \ B
 $$
 
 $$
@@ -741,8 +760,8 @@ A \times C = \begin{pmatrix}
    0*3+1*1+1*0&0*(-1)+1*0+1*1\\
    1*3+(-2)*1+0*0&1*(-1)+(-2)*0+0*1
 \end{pmatrix} = \begin{pmatrix}
-   12&-6\\
-   1&1\\
+   13&-8\\
+   1&2\\
    1&-1
 \end{pmatrix}
 $$
@@ -759,7 +778,7 @@ B \times A = \begin{pmatrix}
    2*4+(-1)*0+1*1&2*1+(-1)*1+1*(-2)&2*(-2)+(-1)*1+1*0\\
    0*4+1*0+0*1&0*1+1*1+0*(-2)&0*(-2)+1*1+0*0
 \end{pmatrix} = \begin{pmatrix}
-   9&-3&-3\\
+   8&1&-3\\
    0&1&1
 \end{pmatrix}
 $$
@@ -776,7 +795,7 @@ B \times C = \begin{pmatrix}
    2*3+(-1)*1+1*0&2*(-1)+(-1)*0+1*1\\
    0*3+1*1+0*0&0*(-1)+1*0+0*1
 \end{pmatrix} = \begin{pmatrix}
-   5&-1\\
+   5&0\\
    1&0
 \end{pmatrix}
 $$
