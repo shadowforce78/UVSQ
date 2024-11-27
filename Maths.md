@@ -587,3 +587,65 @@ $$
 \end{cases}
 $$
 
+Triangulaire Inférieur : 
+$$
+A = \begin{pmatrix}
+   1&0&0\\
+   7&3&0\\
+   6&8&5
+\end{pmatrix} => ou \ bien \begin{pmatrix}
+   4&0&0\\
+   1&2&0\\
+   2&3&4
+\end{pmatrix}
+$$
+Triangulaire Supérieur :
+$$
+B = \begin{pmatrix}
+   1&8&0\\
+   0&0&5\\
+   0&0&7
+\end{pmatrix} => ou \ bien \begin{pmatrix}
+   4&1&2\\
+   0&2&3\\
+   0&0&4 
+\end{pmatrix}
+$$
+
+Diagonale :
+$$
+C = \begin{pmatrix}
+   1&0&0\\
+   0&5&0\\
+   0&0&7
+\end{pmatrix} => ou \ bien \begin{pmatrix}
+   3&0\\
+   0&-2
+\end{pmatrix}
+$$
+
+## Matrice Symétrique $t_A = A$
+Exemple : 
+$$
+A \begin{pmatrix}
+   0&1&2\\
+   1&2&3\\
+   2&3&4
+\end{pmatrix}
+t_A = A
+$$ 
+
+## Matrice identité
+$$
+I_3 = \begin{pmatrix}
+   1&0&0\\
+   0&1&0\\
+   0&0&1
+\end{pmatrix} => Matrice \ diagonale \ avec \ 1 \ sur \ la \ diagonale
+$$
+$$
+I_2 = \begin{pmatrix}
+   1&0\\
+   0&1
+\end{pmatrix}
+$$
