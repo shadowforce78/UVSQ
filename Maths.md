@@ -454,3 +454,10 @@ $$<=> 2t^2-6t=4$$
 	$$<=>t^2-3t-2=0$$
 	$$\Delta = b^2-4ac$$
 
+
+# Calcul matriciel 
+
+$$M_{n,P} = \begin{pmatrix} 
+a_{1,1} & a_{1,P} \\
+a_{n,1} & a_{n,p}
+\end{pmatrix}$$
