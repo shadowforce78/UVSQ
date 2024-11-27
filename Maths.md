@@ -489,7 +489,7 @@ $$
 3&5
 \end{pmatrix}
 $$
-
+	
 $$
 \begin{pmatrix}
 1&5\\
@@ -538,7 +538,8 @@ $$
 $$
 
 Exemple :
-$$ 
+
+$$
 \begin{pmatrix}
 0&1&2\\
 1&2&3\\
@@ -563,4 +564,25 @@ $$
 \end{pmatrix}
 $$
 
-Remarque : Ch
+Remarque : Chaque coefficiant de C est le produit :
+
+- d'une ligne de A
+- par colonne de B
+
+Remarque : Il faut que le nombre de colonnes de A = le nombre de lignes de B
+$\begin{pmatrix}0&1\\1&2\\2&3\end{pmatrix}\times \begin{pmatrix}5&6\\7&8\\9&10\end{pmatrix} = Impossible$
+
+Propriétés
+
+Matrice Nulle $O_{n,p}$
+$$
+A + O = A\\ 
+A + (-A) = O\\
+(A+B)+C = A+(B+C)\\
+A+B = B+A$$
+$$
+\begin{cases}
+	k(A+B) = kA+kB\\
+	
+\end{cases}
+$$
