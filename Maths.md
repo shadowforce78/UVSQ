@@ -683,9 +683,17 @@ C = \begin{pmatrix}
 $$
 
 Déterminer :
-$t_A$ = A
-$t_B$ = B
-$t_C$ = C
+$$t_A = \begin{pmatrix}
+   4&0&1\\
+   1&1&-2\\
+   -2&1&0
+   \end{pmatrix}
+
+$$t_B = \begin{pmatrix}
+   2&0\\
+   -1&1\\
+   1&0
+$$t_C = C$$
 
 $$
 B + t_C = \begin{pmatrix}
@@ -694,10 +702,7 @@ B + t_C = \begin{pmatrix}
 \end{pmatrix} + \begin{pmatrix}
    3&1&0\\
    -1&0&1
-\end{pmatrix} = \begin{pmatrix}
-   5&0&1\\
-   -1&1&1
-\end{pmatrix}
+\end{pmatrix} = Impossible
 $$
 
 $$
@@ -869,4 +874,23 @@ A \times t_A = \begin{pmatrix}
    -1&2&-2\\
    2&-1&1
 \end{pmatrix}
+$$
+$$
+t_A \times A = \begin{pmatrix}
+   4&0&1\\
+   1&1&-2\\
+   -2&1&0
+\end{pmatrix} \times \begin{pmatrix}
+   4&1&-2\\
+   0&1&1\\
+   1&-2&0
+\end{pmatrix} = \begin{pmatrix}
+   4*4+0*0+1*1&4*1+0*1+1*(-2)&4*(-2)+0*(-2)+1*0\\
+   1*4+1*0+(-2)*1&1*1+1*1+(-2)*(-2)&1*(-2)+1*(-2)+(-2)*0\\
+   -2*4+1*0+0*1&-2*1+1*1+0*1&-2*(-2)+1*(-2)+0*0
+\end{pmatrix} = \begin{pmatrix}
+   17&2&-8\\
+   2&6&0\\
+   -8&-3&4
+\end{pmatrix} 
 $$
