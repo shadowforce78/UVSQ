@@ -809,15 +809,7 @@ C \times A = \begin{pmatrix}
    4&1&-2\\
    0&1&1\\
    1&-2&0
-\end{pmatrix} = \begin{pmatrix}
-   3*4+(-1)*0&3*1+(-1)*1&3*(-2)+(-1)*(-2)\\
-   1*4+0*0&1*1+0*1&1*(-2)+0*(-2)\\
-   0*4+1*0&0*1+1*1&0*(-2)+1*(-2)
-\end{pmatrix} = \begin{pmatrix}
-   12&2&-4\\
-   4&1&-2\\
-   0&1&-2
-\end{pmatrix}
+\end{pmatrix} = Impossible \ car \ nombre \ de \ colonnes \ de \ C \ != \ nombre \ de \ lignes \ de \ A
 $$
 
 $$
