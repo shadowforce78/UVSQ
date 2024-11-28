@@ -1,8 +1,7 @@
 import numpy as np
 
-A = np.matrix("4 1 -2; 0 1 1; 1 -2 0")
-B = np.matrix("2 -1 1; 0 1 0")
-C = np.matrix("3 -1; 1 0; 0 2")
+A = np.matrix("2 1 2; 1 1 3; 2 2 1")
+B = np.matrix('1 0 1; 2 1 1; 0 1 1')
 
 
 def transpose(matrix):
@@ -11,7 +10,6 @@ def transpose(matrix):
 
 t_a = transpose(A)
 t_b = transpose(B)
-t_c = transpose(C)
 
 
 def add_matrices(matrix1, matrix2):
@@ -34,8 +32,9 @@ def phrase(matrix1, matrix2, operation):
 
 
 def get_matrix(choice):
-    matrices = {"1": A, "2": B, "3": C, "4": t_a, "5": t_b, "6": t_c}
+    matrices = {"1": A, "2": B, "3": t_a, "4": t_b}
     return matrices.get(choice, None)
+
 
 
 def menu():
