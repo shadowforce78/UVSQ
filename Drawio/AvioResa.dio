@@ -1,65 +1,101 @@
 <mxfile host="65bd71144e">
     <diagram id="Yz_EynQUVSp3QQwZoXLM" name="Page-1">
-        <mxGraphModel dx="1002" dy="563" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2336" pageHeight="1654" math="0" shadow="0">
+        <mxGraphModel dx="756" dy="593" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
             <root>
                 <mxCell id="0"/>
                 <mxCell id="1" parent="0"/>
-                <mxCell id="2" value="Utilisateurs" style="swimlane;whiteSpace=wrap;html=1;rounded=1;fillColor=#A9C4FF;strokeColor=#6C8CD5;" parent="1" vertex="1" connectable="0">
-                    <mxGeometry x="20" y="40" width="140" height="180" as="geometry"/>
+                <mxCell id="2" value="Utilisateur" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;html=1;" vertex="1" parent="1">
+                    <mxGeometry y="520" width="140" height="208" as="geometry"/>
                 </mxCell>
-                <mxCell id="3" value="id (PK), nom_utilisateur, email, mot_de_passe, créé_le, mis_à_jour_le" style="text;html=1;whiteSpace=wrap;rounded=0;fillColor=none;strokeColor=none;" parent="2" vertex="1" connectable="0">
-                    <mxGeometry x="0.1" y="0.3" width="0.8" height="0.6" as="geometry"/>
+                <mxCell id="3" value="ID_user" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="2">
+                    <mxGeometry y="26" width="140" height="26" as="geometry"/>
                 </mxCell>
-                <mxCell id="4" value="Vols" style="swimlane;whiteSpace=wrap;html=1;rounded=1;fillColor=#A9C4FF;strokeColor=#6C8CD5;" parent="1" vertex="1" connectable="0">
-                    <mxGeometry x="180" y="40" width="140" height="180" as="geometry"/>
+                <mxCell id="4" value="Nom" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="2">
+                    <mxGeometry y="52" width="140" height="26" as="geometry"/>
                 </mxCell>
-                <mxCell id="5" value="id (PK), numéro_vol, id_aéroport_départ (FK), id_aéroport_arrivée (FK), date_départ, date_arrivée, prix, statut, créé_le, mis_à_jour_le" style="text;html=1;whiteSpace=wrap;rounded=0;fillColor=none;strokeColor=none;" parent="4" vertex="1" connectable="0">
-                    <mxGeometry x="0.1" y="0.3" width="0.8" height="0.6" as="geometry"/>
+                <mxCell id="5" value="Prenom" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="2">
+                    <mxGeometry y="78" width="140" height="26" as="geometry"/>
                 </mxCell>
-                <mxCell id="6" value="Aéroports" style="swimlane;whiteSpace=wrap;html=1;rounded=1;fillColor=#A9C4FF;strokeColor=#6C8CD5;" parent="1" vertex="1" connectable="0">
-                    <mxGeometry x="340" y="40" width="140" height="180" as="geometry"/>
+                <mxCell id="9" value="Email" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="2">
+                    <mxGeometry y="104" width="140" height="26" as="geometry"/>
                 </mxCell>
-                <mxCell id="7" value="id (PK), nom, ville, pays, créé_le, mis_à_jour_le" style="text;html=1;whiteSpace=wrap;rounded=0;fillColor=none;strokeColor=none;" parent="6" vertex="1" connectable="0">
-                    <mxGeometry x="0.1" y="0.3" width="0.8" height="0.6" as="geometry"/>
+                <mxCell id="8" value="Adresse" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="2">
+                    <mxGeometry y="130" width="140" height="26" as="geometry"/>
                 </mxCell>
-                <mxCell id="8" value="Réservations" style="swimlane;whiteSpace=wrap;html=1;rounded=1;fillColor=#A9C4FF;strokeColor=#6C8CD5;" parent="1" vertex="1" connectable="0">
-                    <mxGeometry x="20" y="220" width="140" height="180" as="geometry"/>
+                <mxCell id="7" value="Telephone" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="2">
+                    <mxGeometry y="156" width="140" height="26" as="geometry"/>
                 </mxCell>
-                <mxCell id="9" value="id (PK), id_utilisateur (FK), id_vol (FK), numéro_siège, date_réservation, statut, prix_total" style="text;html=1;whiteSpace=wrap;rounded=0;fillColor=none;strokeColor=none;" parent="8" vertex="1" connectable="0">
-                    <mxGeometry x="0.1" y="0.3" width="0.8" height="0.6" as="geometry"/>
+                <mxCell id="6" value="Password" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="2">
+                    <mxGeometry y="182" width="140" height="26" as="geometry"/>
                 </mxCell>
-                <mxCell id="10" value="Paiements" style="swimlane;whiteSpace=wrap;html=1;rounded=1;fillColor=#A9C4FF;strokeColor=#6C8CD5;" parent="1" vertex="1" connectable="0">
-                    <mxGeometry x="180" y="220" width="140" height="180" as="geometry"/>
+                <mxCell id="10" value="Vol" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="240" y="520" width="140" height="234" as="geometry"/>
                 </mxCell>
-                <mxCell id="11" value="id (PK), id_réservation (FK), date_paiement, montant, méthode_paiement, statut_paiement" style="text;html=1;whiteSpace=wrap;rounded=0;fillColor=none;strokeColor=none;" parent="10" vertex="1" connectable="0">
-                    <mxGeometry x="0.1" y="0.3" width="0.8" height="0.6" as="geometry"/>
+                <mxCell id="11" value="ID_vol" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="10">
+                    <mxGeometry y="26" width="140" height="26" as="geometry"/>
                 </mxCell>
-                <mxCell id="12" value="HorairesVols" style="swimlane;whiteSpace=wrap;html=1;rounded=1;fillColor=#A9C4FF;strokeColor=#6C8CD5;" parent="1" vertex="1" connectable="0">
-                    <mxGeometry x="340" y="220" width="120" height="160" as="geometry"/>
+                <mxCell id="12" value="Numéro_Vol" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="10">
+                    <mxGeometry y="52" width="140" height="26" as="geometry"/>
                 </mxCell>
-                <mxCell id="13" value="id (PK), id_vol (FK), heure_départ, heure_arrivée" style="text;html=1;whiteSpace=wrap;rounded=0;fillColor=none;strokeColor=none;" parent="12" vertex="1" connectable="0">
-                    <mxGeometry x="0.1" y="0.3" width="0.8" height="0.6" as="geometry"/>
+                <mxCell id="13" value="Aeroport_Depart" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="10">
+                    <mxGeometry y="78" width="140" height="26" as="geometry"/>
                 </mxCell>
-                <mxCell id="14" value="CompagniesAériennes" style="swimlane;whiteSpace=wrap;html=1;rounded=1;fillColor=#A9C4FF;strokeColor=#6C8CD5;" parent="1" vertex="1" connectable="0">
-                    <mxGeometry x="500" y="40" width="120" height="160" as="geometry"/>
+                <mxCell id="14" value="Aeroport_Arrivé" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="10">
+                    <mxGeometry y="104" width="140" height="26" as="geometry"/>
                 </mxCell>
-                <mxCell id="15" value="id (PK), nom, pays, créé_le, mis_à_jour_le" style="text;html=1;whiteSpace=wrap;rounded=0;fillColor=none;strokeColor=none;" parent="14" vertex="1" connectable="0">
-                    <mxGeometry x="0.1" y="0.3" width="0.8" height="0.6" as="geometry"/>
+                <mxCell id="15" value="Date_Heure_Depart" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="10">
+                    <mxGeometry y="130" width="140" height="26" as="geometry"/>
                 </mxCell>
-                <mxCell id="16" value="VolsCompagnies" style="swimlane;whiteSpace=wrap;html=1;rounded=1;fillColor=#A9C4FF;strokeColor=#6C8CD5;" parent="1" vertex="1" connectable="0">
-                    <mxGeometry x="500" y="220" width="120" height="160" as="geometry"/>
+                <mxCell id="16" value="Date_Heure_Arrivée" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="10">
+                    <mxGeometry y="156" width="140" height="26" as="geometry"/>
                 </mxCell>
-                <mxCell id="17" value="id (PK), id_vol (FK), id_compagnie (FK)" style="text;html=1;whiteSpace=wrap;rounded=0;fillColor=none;strokeColor=none;" parent="16" vertex="1" connectable="0">
-                    <mxGeometry x="0.1" y="0.3" width="0.8" height="0.6" as="geometry"/>
+                <mxCell id="17" value="Prix" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="10">
+                    <mxGeometry y="182" width="140" height="26" as="geometry"/>
                 </mxCell>
-                <mxCell id="18" value="Relations" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;entryX=0.5;entryY=0" parent="1" source="2" target="8" edge="1">
-                    <mxGeometry relative="1" as="geometry"/>
+                <mxCell id="18" value="Nombre_De_Places_Disponible" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="10">
+                    <mxGeometry y="208" width="140" height="26" as="geometry"/>
                 </mxCell>
-                <mxCell id="19" value="Relations" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;entryX=0.5;entryY=0" parent="1" source="4" target="6" edge="1">
-                    <mxGeometry relative="1" as="geometry"/>
+                <mxCell id="19" value="Reservations" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="440" y="520" width="140" height="182" as="geometry"/>
                 </mxCell>
-                <mxCell id="20" value="Relations" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;entryX=0.5;entryY=0" parent="1" source="6" target="10" edge="1">
-                    <mxGeometry relative="1" as="geometry"/>
+                <mxCell id="20" value="ID_reservation" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="19">
+                    <mxGeometry y="26" width="140" height="26" as="geometry"/>
+                </mxCell>
+                <mxCell id="21" value="Date_Reservation" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="19">
+                    <mxGeometry y="52" width="140" height="26" as="geometry"/>
+                </mxCell>
+                <mxCell id="22" value="ID_user" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="19">
+                    <mxGeometry y="78" width="140" height="26" as="geometry"/>
+                </mxCell>
+                <mxCell id="23" value="ID_vol" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="19">
+                    <mxGeometry y="104" width="140" height="26" as="geometry"/>
+                </mxCell>
+                <mxCell id="24" value="Nombre_Passagers" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="19">
+                    <mxGeometry y="130" width="140" height="26" as="geometry"/>
+                </mxCell>
+                <mxCell id="25" value="Statut" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="19">
+                    <mxGeometry y="156" width="140" height="26" as="geometry"/>
+                </mxCell>
+                <mxCell id="28" value="Passager" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="440" y="800" width="140" height="182" as="geometry"/>
+                </mxCell>
+                <mxCell id="29" value="ID_Passager" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="28">
+                    <mxGeometry y="26" width="140" height="26" as="geometry"/>
+                </mxCell>
+                <mxCell id="30" value="ID_reservation" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="28">
+                    <mxGeometry y="52" width="140" height="26" as="geometry"/>
+                </mxCell>
+                <mxCell id="31" value="Nom" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="28">
+                    <mxGeometry y="78" width="140" height="26" as="geometry"/>
+                </mxCell>
+                <mxCell id="32" value="Prenom" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="28">
+                    <mxGeometry y="104" width="140" height="26" as="geometry"/>
+                </mxCell>
+                <mxCell id="33" value="Date_Naissance" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="28">
+                    <mxGeometry y="130" width="140" height="26" as="geometry"/>
+                </mxCell>
+                <mxCell id="34" value="Baga" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="28">
+                    <mxGeometry y="156" width="140" height="26" as="geometry"/>
                 </mxCell>
             </root>
         </mxGraphModel>
