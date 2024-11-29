@@ -850,6 +850,7 @@ A^2 = \begin{pmatrix}
 \end{pmatrix}
 $$
 $$
+
 A \times t_A = \begin{pmatrix}
    4&1&-2\\
    0&1&1\\
@@ -887,3 +888,26 @@ t_A \times A = \begin{pmatrix}
    -8&-3&4
 \end{pmatrix} 
 $$
+
+
+## Exercice 6 
+
+$$
+A \begin{pmatrix}
+2&1&1\\
+1&1&3\\
+2&2&1
+\end{pmatrix}, 
+\ B \begin{pmatrix}
+1&0&1\\
+2&1&1\\
+0&1&1
+\end{pmatrix}
+$$
+
+ $C = A \times B$ 
+ $$C = \begin{pmatrix} 4 & 2 & 4 \\ 3 & 4 & 5 \\ 6 & 3 & 5 \end{pmatrix}$$
+ $D = B \times A$
+ $$D = \begin{pmatrix} 4 & 3 & 2 \\ 7 & 5 & 6 \\ 3 & 3 & 4 \end{pmatrix}$$
+ Comme C != D, B et A ne commutent donc pas
+ 
