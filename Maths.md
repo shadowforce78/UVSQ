@@ -911,3 +911,38 @@ $$
  $$D = \begin{pmatrix} 4 & 3 & 2 \\ 7 & 5 & 6 \\ 3 & 3 & 4 \end{pmatrix}$$
  Comme C != D, B et A ne commutent donc pas
 
+# Exercice : Analyse des matrices A et B
+
+- Les matrices **A** et **B** **ne commutent pas**.
+- Déterminants :  
+  $(\det(C) = \det(D) = \det(A) \times \det(B))$ 
+
+## Inversibilité
+- **A est inversible** : ✅ `True`
+- **B est inversible** : ✅ `True`
+- **C est inversible** : ✅ `True`
+- **D est inversible** : ✅ `True`
+
+## Inverses des matrices
+$$
+A^{-1} :
+
+\begin{bmatrix}
+ 1 & -0.6 & -0.2 \\
+-1 &  0.4 &  0.8 \\
+ 0 &  0.4 & -0.2
+\end{bmatrix}
+
+
+B^{-1} :
+
+\begin{bmatrix}
+  0 &  0.5 & -0.5 \\
+ -1 &  0.5 &  0.5 \\
+  1 & -0.5 &  0.5
+\end{bmatrix}
+
+
+- C^{-1} \neq B^{-1} \times A^{-1}  
+- D^{-1} \neq A^{-1} \times B^{-1}
+$$
