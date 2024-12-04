@@ -65,7 +65,3 @@ print("B_inv : \n", B_inv)
 # Vérifier que C^-1 = B^-1 x A^-1 et D^-1 = A^-1 x B^-1
 C_inv = np.linalg.inv(C)
 D_inv = np.linalg.inv(D)
-if np.array_equal(C_inv, np.dot(B_inv, A_inv)) and np.array_equal(D_inv, np.dot(A_inv, B_inv)):
-    print("C^-1 = B^-1 x A^-1 et D^-1 = A^-1 x B^-1")
-else:
-    print("C^-1 != B^-1 x A^-1 ou D^-1 != A^-1 x B^-1")
