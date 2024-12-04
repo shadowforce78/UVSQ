@@ -910,3 +910,4 @@ $$
  $D = B \times A$
  $$D = \begin{pmatrix} 4 & 3 & 2 \\ 7 & 5 & 6 \\ 3 & 3 & 4 \end{pmatrix}$$
  Comme C != D, B et A ne commutent donc pas
+
