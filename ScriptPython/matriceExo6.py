@@ -65,3 +65,5 @@ print("B_inv : \n", B_inv)
 # Vérifier que C^-1 = B^-1 x A^-1 et D^-1 = A^-1 x B^-1
 C_inv = np.linalg.inv(C)
 D_inv = np.linalg.inv(D)
+print("C_inv : \n", C_inv)
+print("D_inv : \n", D_inv)
