@@ -19,4 +19,10 @@ L'entreprise Happychic a décidé de fermé plusieurs boutique et donc de suppri
 
 ## Question 9)
 
-L'entreprise dispose de ressources et compétences et en fonction de ses dernières et de l'environnement dans lequel elle évolue   
+L'entreprise dispose de ressources et compétences et en fonction de ses dernières et de l'environnement dans lequel elle évolue que la stratégie est mis en œuvre, ainsi l'organisation s'appuie sur ces ressources pour déployer sa stratégie
+
+## Question 10)
+
+Une compétence c'est un savoir faire acquis par une entreprise, une core compétence c'est un savoir faire qui permet a la firme de disposer d'un avantage concurrentiel, elle permet a l'entreprise de ce différentier des autres 
+
+## E
