@@ -44,3 +44,10 @@ La chaine de valeur permet d'identifier et de distinguer les activités principa
 La core compétence principale d'Amazone c'est leur logistique très complète, cela les différencies pas mal de leur concurrent ce qui lui donne un avantage concurrentiel 
 
 ## Question 16) 
+
+| Forces                                                                                                                           | Faiblesses                                 |
+| -------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------ |
+| Diversification (hôtels, cafés, mode, label de musique)<br>Concept original de l'alliance mode/cafés/musique<br>Bonne réputation | Difficulté de financement du développement |
+## Question 17)
+
+Un avantage concurrentiel qui lui permet de se démarquer des ses concurrent, la maison kitsune propose un concept unique, elle a des compétences distinctive
