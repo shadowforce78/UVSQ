@@ -25,4 +25,19 @@ L'entreprise dispose de ressources et compétences et en fonction de ses derniè
 
 Une compétence c'est un savoir faire acquis par une entreprise, une core compétence c'est un savoir faire qui permet a la firme de disposer d'un avantage concurrentiel, elle permet a l'entreprise de ce différentier des autres 
 
-## E
+## Question 11)
+
+Apple : Design, modernité, performance, marketing
+Ikea : Qualité, facilité d'assemblage, marketing 
+
+
+## Question 12)
+
+Ses core compétence créé un avantage concurrentiel qui permet de se démarquer des concurrents
+
+## Question 13)
+
+La chaine de valeur permet d'identifier et de distinguer les activités principales des activités de soutiens, l'entreprise doit absolument développer ses compétences sur les activités principale (qui génère de la valeur)
+
+## Question 14)
+
