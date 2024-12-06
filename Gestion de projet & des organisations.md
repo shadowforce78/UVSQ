@@ -39,5 +39,8 @@ Ses core compétence créé un avantage concurrentiel qui permet de se démarque
 
 La chaine de valeur permet d'identifier et de distinguer les activités principales des activités de soutiens, l'entreprise doit absolument développer ses compétences sur les activités principale (qui génère de la valeur)
 
-## Question 14)
+## Question 14/15)
 
+La core compétence principale d'Amazone c'est leur logistique très complète, cela les différencies pas mal de leur concurrent ce qui lui donne un avantage concurrentiel 
+
+## Question 16) 
