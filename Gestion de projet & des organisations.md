@@ -96,4 +96,16 @@ Le concept Maison & Lumière est bien issue de ce diagnostic car il répond bien
 
 La stratégie global du Club Med est une différenciation par le haut qui se caractérise par des prestation haute gamme voir de luxe qui apportent un différentiel de valeur pour le client, ça se caractérise aussi par un prix nettement supérieure au concurrents 
 
-## Question 2)
+## Question 3)
+
+
+Différentiation (par le haut)
+
+| Avantages                                                                                          | Incovénnients                                                                                                |
+| -------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------ |
+| - Une clientèle aisée<br>- Bénéfice l'élément de monopole<br>- Moyen élevées<br>- Images de marque | - Une clientèle limitées<br>- Clientèle exigeante<br>- Investissement importants<br>- Innovations constantes |
+Différentiation par le bas (low cost)
+
+| +                                                | -                                                                       |
+| ------------------------------------------------ | ----------------------------------------------------------------------- |
+| - large clientèle<br>- Clientèle moins exigeante | - Faibles moyen<br>- Problème d'image (prix faibles = faibles quantité) |
