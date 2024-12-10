@@ -89,3 +89,6 @@ Les FCS sont les éléments indispensable pour évoluer dans un environnement co
 
 ## Question 22)
 Le concept Maison & Lumière est bien issue de ce diagnostic car il répond bien au demande pour remplir un facteur succès, cela amène les clients a découvrir les différents univers de la marque 
+
+# TD7
+
