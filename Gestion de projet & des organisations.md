@@ -71,3 +71,15 @@ Les FCS sont les éléments indispensable pour évoluer dans un environnement co
 | Technologique | - Développement du E-Commerce (M)                                                                                                                                                                                                                                                                                          |
 | Ecologique    | - Développement des filières de recyclage (M)<br>- Développement des filières bois (M)                                                                                                                                                                                                                                     |
 | Legal         | $\emptyset$                                                                                                                                                                                                                                                                                                                |
+2) Déterminer des forces et faiblesses de Keria (Diagnostic Interne)
+	Force : 
+		Keria diversifié, présente sur plusieurs marchés
+		Compétences reconnues par des marques "réputées", Keria, Tousalon, Place de la Literie
+		Réseaux de boutique
+		
+	Faiblesses : 
+		Notoriété limitée
+		Boutiques segmentée par type de produit
+		E commerce à développer (?)
+
+=> Facteur clés de succès (FCS) de Keria 
