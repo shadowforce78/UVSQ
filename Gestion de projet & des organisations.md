@@ -51,3 +51,13 @@ La core compétence principale d'Amazone c'est leur logistique très complète, 
 ## Question 17)
 
 Un avantage concurrentiel qui lui permet de se démarquer des ses concurrent, la maison kitsune propose un concept unique, elle a des compétences distinctive
+
+![[Drawing 2024-12-10 10.11.14.excalidraw]] SWOT (Strengt, Weaknesses, Opportunities, Threats)
+
+=> Etablir les facteurs clés de succès (FCS) 
+
+## Question 19)
+
+Les FCS sont les éléments indispensable pour évoluer dans un environnement concurrentiel et c'est le degré d'atteinte de ces FCS qui confèrent ensuite a ces entreprises un avantage concurrentiel lui permettant de se différentier de ses concurrents
+
+## Exemple d'application - 
