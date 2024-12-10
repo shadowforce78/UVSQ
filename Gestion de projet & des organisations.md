@@ -92,3 +92,8 @@ Le concept Maison & Lumière est bien issue de ce diagnostic car il répond bien
 
 # TD7
 
+## Question 1)
+
+La stratégie global du Club Med est une différenciation par le haut qui se caractérise par des prestation haute gamme voir de luxe qui apportent un différentiel de valeur pour le client, ça se caractérise aussi par un prix nettement supérieure au concurrents 
+
+## Question 2)
