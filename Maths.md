@@ -959,3 +959,45 @@ B^{-1} :
 - D^{-1} \neq A^{-1} \times B^{-1}
 $$
 	
+
+# Exercice 9
+$$
+S = 
+\begin{cases}
+2x + y + 2z = 6 \\
+x + y + 3z = 6 \\
+2x + 2y + z = 7
+\end{cases}
+$$
+$$
+A \cdot X = B
+$$
+
+$$
+A = 
+\begin{pmatrix}
+2 & 1 & 2 \\\\
+1 & 1 & 3 \\\\
+2 & 2 & 1
+\end{pmatrix}, \quad
+X =
+\begin{pmatrix}
+x \\\\ y \\\\ z
+\end{pmatrix}, \quad
+B = 
+\begin{pmatrix}
+6 \\\\ 6 \\\\ 7
+\end{pmatrix}.
+$$
+
+$$ A^-1\begin{pmatrix}
+1&\dfrac{-3}{5}&\dfrac{-1}{5}\\
+-1&\dfrac{}
+\end{pmatrix} $$
+
+$$
+X = A^{-1} \cdot B
+$$
+$$
+x = 1, \quad y = 2, \quad z = 1
+$$
