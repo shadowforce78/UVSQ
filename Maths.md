@@ -992,7 +992,8 @@ $$
 
 $$ A^-1\begin{pmatrix}
 1&\dfrac{-3}{5}&\dfrac{-1}{5}\\
--1&\dfrac{}
+-1&\dfrac{2}{5}&\dfrac{4}{5}\\
+0&\dfrac{2}{5}&\dfrac{-1}{5}
 \end{pmatrix} $$
 
 $$
