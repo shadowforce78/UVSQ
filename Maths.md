@@ -894,7 +894,7 @@ $$
 
 $$
 A \begin{pmatrix}
-2&1&1\\
+2&1&2\\
 1&1&3\\
 2&2&1
 \end{pmatrix}, 
@@ -909,7 +909,19 @@ $$
  $$C = \begin{pmatrix} 4 & 2 & 4 \\ 3 & 4 & 5 \\ 6 & 3 & 5 \end{pmatrix}$$
  $D = B \times A$
  $$D = \begin{pmatrix} 4 & 3 & 2 \\ 7 & 5 & 6 \\ 3 & 3 & 4 \end{pmatrix}$$
- Comme C != D, B et A ne commutent donc pas
+Comme C != D, B et A ne commutent donc pas
+
+Inverse A et B 
+$$A^-1=\begin{pmatrix} 
+1&\dfrac{-3}{5}&\dfrac{-1}{5}\\
+-1&\dfrac{2}{5}&\dfrac{4}{5}\\
+0&\dfrac{2}{5}&\dfrac{-1}{5}
+\end{pmatrix} $$
+$$B^-1=\begin{pmatrix} 
+0&\dfrac{1}{2}&\dfrac{-1}{2}\\
+-1&\dfrac{1}{2}&\dfrac{1}{2}\\
+1&\dfrac{-1}{2}&\dfrac{1}{2}
+\end{pmatrix} $$ 
 
 # Exercice : Analyse des matrices A et B
 
