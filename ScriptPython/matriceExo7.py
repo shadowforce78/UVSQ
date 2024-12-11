@@ -1,4 +1,4 @@
-# Soit les matrices : 
+# Soit les matrices :
 import numpy as np
 
 M = np.matrix("0 1 0; 2 0 0; -2 0 1")
