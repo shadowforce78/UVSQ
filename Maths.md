@@ -1020,5 +1020,9 @@ $$ Ces matrices  sont-elles inversible ?
 $$det(E) = +1 \begin{vmatrix} -1&1\\0&1 \end{vmatrix} - 2 \begin{vmatrix} 1&1\\0&1 \end{vmatrix} + 3 \begin{vmatrix} 1&1\\-&1 \end{vmatrix} = -1 -2+6 = 3$$
 Donc E est inversible
 
-$$det(F) = +1 \begin{vmatrix} 1&1\\1&-1 \end{vmatrix} - 2 \begin{vmatrix} 0&1\\2&-1 \end{vmatrix} + 1 \begin{vmatrix} 0&1\\2&1 \end{vmatrix} = -1 -2+1 = -2$$
+$$det(F) = +1 \begin{vmatrix} 1&1\\1&-1 \end{vmatrix} -0+ 2 \begin{vmatrix} 2&1\\1&1 \end{vmatrix} = -2-0+2 = 0$$
 Donc F n'est pas inversible
+On ne peut pas calculer l'inverse de F
+
+Calculer l'inverse de E
+$$E^{-1} = \dfrac{1}{det(E)} \begin{pmatrix} -1&1&-1\\0&1&-1\\3&0&1 \end{pmatrix} = \dfrac{1}{3} \begin{pmatrix} -1&1&-1\\0&1&-1\\3&0&1 \end{pmatrix} = \begin{pmatrix} -1/3&1/3&-1/3\\0&1/3&-1/3\\1&0&1/3 \end{pmatrix}$$ 
