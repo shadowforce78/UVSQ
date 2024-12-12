@@ -1002,3 +1002,23 @@ $$
 $$
 x = 1, \quad y = 2, \quad z = 1
 $$
+
+$$
+E=
+\begin{pmatrix}
+1&1&1\\
+2&-1&1\\
+3&0&1
+\end{pmatrix}
+F=
+\begin{pmatrix}
+1&2&1\\
+0&1&1\\
+2&1&-1
+\end{pmatrix}
+$$ Ces matrices  sont-elles inversible ?
+$$det(E) = +1 \begin{vmatrix} -1&1\\0&1 \end{vmatrix} - 2 \begin{vmatrix} 1&1\\0&1 \end{vmatrix} + 3 \begin{vmatrix} 1&1\\-&1 \end{vmatrix} = -1 -2+6 = 3$$
+Donc E est inversible
+
+$$det(F) = +1 \begin{vmatrix} 1&1\\1&-1 \end{vmatrix} - 2 \begin{vmatrix} 0&1\\2&-1 \end{vmatrix} + 1 \begin{vmatrix} 0&1\\2&1 \end{vmatrix} = -1 -2+1 = -2$$
+Donc F n'est pas inversible
