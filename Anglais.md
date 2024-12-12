@@ -51,3 +51,21 @@ What type of memory is temporary ?
 What type of memory is permanent?
 	The ROM (READ ONLY MEMORY) is permanent, I contains all the information for your pc to boot up like for example, the BIOS operations
 
+How RAM can be increased?
+	You can buy another RAM boards to increase it
+
+What term is used to refer to the main printed circuit board?
+	its the Motherboard
+
+What is a bus ?
+	its eletrical channels wich allow devices insed the computer to communicate with each other, you can names thoses "Ports" too
+
+What is the benefit of having expansion slots?
+	You can always add components to respond to higher demand from your pc
+### Part B
+**This** is built into a single chip (line 2) : CPU
+... **wich** executes program instructions and coordinates ... (line 3) : CHIP
+... **that** is being executed (line 22) : INSTRUCTIONS
+... performance of a computer is partly determined by the speed of **its** processor (line 25
+... the CPU looks for **it** on the hard disk... (line 35)
+... inside the computer to communicate with **each other** (line 52)
