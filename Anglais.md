@@ -66,6 +66,20 @@ What is the benefit of having expansion slots?
 **This** is built into a single chip (line 2) : CPU
 ... **wich** executes program instructions and coordinates ... (line 3) : CHIP
 ... **that** is being executed (line 22) : INSTRUCTIONS
-... performance of a computer is partly determined by the speed of **its** processor (line 25
-... the CPU looks for **it** on the hard disk... (line 35)
-... inside the computer to communicate with **each other** (line 52)
+... performance of a computer is partly determined by the speed of **its** processor (line 25) : COMPUTER
+... the CPU looks for **it** on the hard disk... (line 35) : PROGRAMS
+... inside the computer to communicate with **each other** (line 52) : BUSES
+
+
+## Exercice 3)
+1) That
+2) wich
+3) who
+4) that
+5) wich
+6) who
+
+## Exercice 4)
+### Part A
+
+### Part B
