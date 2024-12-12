@@ -91,4 +91,4 @@ What is the benefit of having expansion slots?
 2) Megabyte
 3) Kilobyte 
 4) Gigabyte
-5) byte
+5) Byte
