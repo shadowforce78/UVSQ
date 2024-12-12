@@ -130,3 +130,6 @@ se presenter par un souvenir :
 
 # Essai sur les influenceurs :
 	Jusqu'à présent, la publicité investissait en priorité les supports traditionnels (télévision, affichage dans l'espace public, distribution de  flyers, envoi de courriers cibles etc...). Mais, de plus en plus, les marques se tournent vers les influenceurs du Web pour représenter leurs produits et leurs services. Que pensez-vous de ce phénomène qui influe de plus en plus sur la vie et les comportements du public à travers sa diffusion sur internet et les réseaux sociaux ? (Vous répondrez à cette question dans un essai argumenté, en vous appuyant sur le dossier suivant ainsi que sur votre culture personnelle.)
+
+
+
