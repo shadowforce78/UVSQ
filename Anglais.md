@@ -81,5 +81,14 @@ What is the benefit of having expansion slots?
 
 ## Exercice 4)
 ### Part A
-
+1) 2
+2) A 0 or a 1
+3) A byte
+4) American Standard Code for Information Interchange
+5) Normalize all the standards characters 
 ### Part B
+1) Terabyte
+2) Megabyte
+3) Kilobyte 
+4) Gigabyte
+5) byte
