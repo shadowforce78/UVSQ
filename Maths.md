@@ -1026,3 +1026,24 @@ On ne peut pas calculer l'inverse de F
 
 Calculer l'inverse de E
 $$E^{-1} = \dfrac{1}{det(E)} \begin{pmatrix} -1&1&-1\\0&1&-1\\3&0&1 \end{pmatrix} = \dfrac{1}{3} \begin{pmatrix} -1&1&-1\\0&1&-1\\3&0&1 \end{pmatrix} = \begin{pmatrix} -1/3&1/3&-1/3\\0&1/3&-1/3\\1&0&1/3 \end{pmatrix}$$ 
+$$S=\begin{cases}
+x+y+z=6\\
+2x-y+z=3\\
+3x+z=6
+\end{cases}
+<=>\begin{pmatrix}
+x\\y\\z
+\end{pmatrix}
+=
+\begin{pmatrix}
+1&1&1\\2&-1&1\\3&0&1
+\end{pmatrix}^{-1}
+\begin{pmatrix}
+6\\3\\6\end{pmatrix} =
+\begin{pmatrix}
+1\\2\\3
+\end{pmatrix}=
+\begin{cases}
+x=1\\y=2\\z=3
+\end{cases}
+$$
