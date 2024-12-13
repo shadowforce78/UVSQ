@@ -144,3 +144,15 @@ Cela consiste a étendre le périmètre de l'entreprises Amon et aval
 | ------------------------------------------------------------------------------------- | ---------------------------------------------------------------- |
 | - Moins de dépendance vis a vis des fournisseurs<br>- Meilleur maîtrise de la qualité | - Couts plus élevés / d'investissement<br>- nouvelle compétences |
 ## Question 13)
+L'externalisation consiste a faire appel a une entreprise extérieure pour réaliser
+une mission qui étais au paravent réalisé par l'entreprise elle même
+
+## Question 14/15)
+K-way pratique l'externalisation pour des coûts de production
+C'est la stratégie inverse de celle de Gucci, 
+l'externalisation s'oppose a l'intégration verticale
+
+
+| Avantages                                                                   | Inconvenients                                                                                                                                             |
+| --------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| - Souvent des coûts moins élevés<br>- Concentration sur le métier principal | - Dépendance des fournisseurs<br>- Moins de controles / qualité<br>- Risque l'image de marque (sous traitance)<br>- Risque social (grève, manifestations) |
