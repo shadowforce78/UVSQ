@@ -581,3 +581,52 @@ Exo 2 : Base de donnée de forum, catégorie, sous catégorie, utilisateurs, mes
 Exo 3 : Base de donnée d'une bibliothèque
 ![[Exo3bd.svg]]
 ![[basedonnée13-12-24]]
+```sql
+CREATE TABLE Utilisateurs (
+    id INT AUTO_INCREMENT PRIMARY KEY,
+    nom_utilisateur VARCHAR(50) NOT NULL,
+    email VARCHAR(100) NOT NULL UNIQUE,
+    mot_de_passe VARCHAR(255) NOT NULL,
+    date_inscription DATE NOT NULL
+);
+
+CREATE TABLE Groupes (
+    id INT AUTO_INCREMENT PRIMARY KEY,
+    nom VARCHAR(50) NOT NULL,
+    description TEXT,
+    date_creation DATE NOT NULL
+);
+
+CREATE TABLE Messages (
+    id INT AUTO_INCREMENT PRIMARY KEY,
+    contenu TEXT NOT NULL,
+    date_publication DATETIME NOT NULL,
+    utilisateur_id INT NOT NULL,
+    groupe_id INT NOT NULL,
+    FOREIGN KEY (utilisateur_id) REFERENCES Utilisateurs(id) ON DELETE CASCADE,
+    FOREIGN KEY (groupe_id) REFERENCES Groupes(id) ON DELETE CASCADE
+);
+
+CREATE TABLE Utilisateurs_Groupes (
+    utilisateur_id INT NOT NULL,
+    groupe_id INT NOT NULL,
+    PRIMARY KEY (utilisateur_id, groupe_id),
+    FOREIGN KEY (utilisateur_id) REFERENCES Utilisateurs(id) ON DELETE CASCADE,
+    FOREIGN KEY (groupe_id) REFERENCES Groupes(id) ON DELETE CASCADE
+);
+
+-- Exemple d'ajout de rôles spécifiques (administrateur et modérateur)
+CREATE TABLE Roles (
+    id INT AUTO_INCREMENT PRIMARY KEY,
+    nom_role VARCHAR(20) NOT NULL
+);
+
+INSERT INTO Roles (nom_role) VALUES ('Administrateur'), ('Modérateur'), ('Utilisateur');
+
+CREATE TABLE Utilisateurs_Roles (
+    utilisateur_id INT NOT NULL,
+    role_id INT NOT NULL,
+    PRIMARY KEY (utilisateur_id, role_id),
+    FOREIGN KEY (utilisateur_id) REFERENCES Utilisateurs(id) ON DELETE CASCADE,
+    FOREIGN KEY (role_id) REFERENCES Roles(id) ON DELETE CASCADE
+);```
