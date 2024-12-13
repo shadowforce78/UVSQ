@@ -132,4 +132,7 @@ Les différentes activité de Leclerc sont variées, Jardinage, Bricolage, Voyag
 | - Clientèle élargie<br>- Permet de se protéger si un secteur/marché est en difficulté<br>- Bonne image qui peut se répercuter sur les autres activités | - Nécessité de compétences adéquate et très variés<br>- Investissements importants sur les différents marché |
 
 ## Question 8)
-Siemens dit vouloir se restructurer en 3 parties, cela va donc créé des postes en double qui seront supprimén c'est une stratégie de spécialisé sur son cœur de métier
+Siemens dit vouloir se restructurer en 3 parties, cela va donc créé des postes en double qui seront supprimé c'est une stratégie de spécialisé sur son cœur de métier
+
+## Question 11)
+Gucci arrête la sous traitance au profit de l'intégration verticales Amont
