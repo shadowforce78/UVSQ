@@ -127,6 +127,9 @@ Les différentes activité de Leclerc sont variées, Jardinage, Bricolage, Voyag
 
 ## Question 7)
 
-| Avantages           | Inconvenients                                      |
-| ------------------- | -------------------------------------------------- |
-| - Clientèle élargie | - Nécessité de compétences adéquate et très variés |
+| Avantages                                                                                                                                              | Inconvenients                                                                                                |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------ |
+| - Clientèle élargie<br>- Permet de se protéger si un secteur/marché est en difficulté<br>- Bonne image qui peut se répercuter sur les autres activités | - Nécessité de compétences adéquate et très variés<br>- Investissements importants sur les différents marché |
+
+## Question 8)
+Siemens dit vouloir se restructurer en 3 parties, cela va donc créé des postes en double qui seront supprimén c'est une stratégie de spécialisé sur son cœur de métier
