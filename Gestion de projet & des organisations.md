@@ -109,3 +109,24 @@ Différentiation par le bas (low cost)
 | +                                                | -                                                                       |
 | ------------------------------------------------ | ----------------------------------------------------------------------- |
 | - large clientèle<br>- Clientèle moins exigeante | - Faibles moyen<br>- Problème d'image (prix faibles = faibles quantité) |
+
+## Question 4)
+
+L'objectif de la marque ici est d'accroitre sa présence sur le marché en proposant un téléphone de qualité correcte à un prix nettement inférieur à celui de la concurrence. Cette réduction des coûts est rendu possible grâce à une grande quantité de production (économie d'échelle ), il s'agit d'une stratégie de domination par les coûts.
+
+## Question 5)
+
+Stratégie de domination par les coûts 
+
+| Avantages                                 | Inconvenients                                    |
+| ----------------------------------------- | ------------------------------------------------ |
+| - Prix moins élevé car coûts moins élevés | - Risque d'image de mauvaise qualité / notoriété |
+
+## Question 6)
+Les différentes activité de Leclerc sont variées, Jardinage, Bricolage, Voyage... Ils ont optés pour une stratégie de diversification, même si ça reste de l'achat revente pour des particuliers, c'est donc une diversification liée ($\neq$ diversification conglomérale)
+
+## Question 7)
+
+| Avantages           | Inconvenients                                      |
+| ------------------- | -------------------------------------------------- |
+| - Clientèle élargie | - Nécessité de compétences adéquate et très variés |
