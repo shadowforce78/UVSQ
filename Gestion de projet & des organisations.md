@@ -136,3 +136,11 @@ Siemens dit vouloir se restructurer en 3 parties, cela va donc créé des postes
 
 ## Question 11)
 Gucci arrête la sous traitance au profit de l'intégration verticales Amont
+Cela consiste a étendre le périmètre de l'entreprises Amon et aval
+
+## Question 12)
+
+| Avantages                                                                             | Inconvénients                                                    |
+| ------------------------------------------------------------------------------------- | ---------------------------------------------------------------- |
+| - Moins de dépendance vis a vis des fournisseurs<br>- Meilleur maîtrise de la qualité | - Couts plus élevés / d'investissement<br>- nouvelle compétences |
+## Question 13)
