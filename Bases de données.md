@@ -580,3 +580,4 @@ Exo 2 : Base de donnée de forum, catégorie, sous catégorie, utilisateurs, mes
 
 Exo 3 : Base de donnée d'une bibliothèque
 ![[Exo3bd.svg]]
+![[basedonnée13-12-24]]
