@@ -169,3 +169,8 @@ L'entreprise Handcrafted suis le même chemin qu'Air France et cherche à s'inte
 
 Air France a choisis l'internationalisation contractuelle
 Et Roblox ne fait le choix que d'une simple exportation
+
+## Question 20)
+
+La croissance est un stratégie visant a accroitre sa présence sur un marché, elle peut revêtir différente formes : croissance externe, croissance interne ou croissance conjointe (cf. doc15 td7)
+L'objectif est d'être présent sur un marché plus important ou de tirer profit de synergies avec d'autres entreprises.
