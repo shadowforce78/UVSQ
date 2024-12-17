@@ -163,4 +163,9 @@ Air France ici décide de s'associer avec d'autres compagnies, notamment des com
 
 ## Question 17)
 
-L'entreprise Handcrafted suis le même chemin qu'Air France et cherche à s'internationalisé vers la Chine grâce a un grosse somme d'argent débloquer par  
+L'entreprise Handcrafted suis le même chemin qu'Air France et cherche à s'internationalisé vers la Chine grâce a un grosse somme d'argent débloqué par les investisseurs 
+
+## Question 18) 
+
+Air France a choisis l'internationalisation contractuelle
+Et Roblox ne fait le choix que d'une simple exportation
