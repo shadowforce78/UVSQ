@@ -156,3 +156,11 @@ l'externalisation s'oppose a l'intégration verticale
 | Avantages                                                                   | Inconvenients                                                                                                                                             |
 | --------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | - Souvent des coûts moins élevés<br>- Concentration sur le métier principal | - Dépendance des fournisseurs<br>- Moins de controles / qualité<br>- Risque l'image de marque (sous traitance)<br>- Risque social (grève, manifestations) |
+
+## Question 16) 
+
+Air France ici décide de s'associer avec d'autres compagnies, notamment des compagnies aérienne Chinoises ainsi qu'avec le gouvernement Chinois qui construit l'aéroport de Pékin. 
+
+## Question 17)
+
+L'entreprise Handcrafted suis le même chemin qu'Air France et cherche à s'internationalisé vers la Chine grâce a un grosse somme d'argent débloquer par  
