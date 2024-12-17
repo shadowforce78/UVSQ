@@ -182,3 +182,13 @@ Le groupe Fnac Darty a opté une croissance externe, la Fnac a racheté Darty qu
 ## Question 22)
 
 Les deux entreprises ont des avantages, Fnac va profiter du savoir faire de Darty sur les électroménagers  
+
+## Question 23)
+
+Klaxoon veut se développer a l'international et développer l'innovation ainsi qu'accélère ses projet de R&D
+
+## Question 24)
+
+Klaxoon a choisis une stratégie de croissance internet
+
+![[gpotd7.jpg]] 
