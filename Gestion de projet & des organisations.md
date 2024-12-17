@@ -174,3 +174,11 @@ Et Roblox ne fait le choix que d'une simple exportation
 
 La croissance est un stratégie visant a accroitre sa présence sur un marché, elle peut revêtir différente formes : croissance externe, croissance interne ou croissance conjointe (cf. doc15 td7)
 L'objectif est d'être présent sur un marché plus important ou de tirer profit de synergies avec d'autres entreprises.
+
+## Question 21) 
+
+Le groupe Fnac Darty a opté une croissance externe, la Fnac a racheté Darty qui est une entreprise externe
+
+## Question 22)
+
+Les deux entreprises ont des avantages, Fnac va profiter du savoir faire de Darty sur les électroménagers  
