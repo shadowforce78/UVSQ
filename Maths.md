@@ -683,7 +683,9 @@ C = \begin{pmatrix}
 $$
 
 Déterminer :
-$$t_A = \begin{pmatrix}
+
+$$
+t_A = \begin{pmatrix}
    4&0&1\\
    1&1&-2\\
    -2&1&0
@@ -728,7 +730,7 @@ C+3t_B = \begin{pmatrix}
    3+6&-1+0\\
    1-3&0+3\\
    0+3&1+0
-\end{pmatrix} = \begin{pmatrix} 
+\end{pmatrix} = \begin{pmatrix}
    9&-1\\
    -2&3\\
    3&1
@@ -830,11 +832,12 @@ C \times B = \begin{pmatrix}
    0&1&2
 \end{pmatrix}
 $$
+
 $$
 A^2 = \begin{pmatrix}
    4&1&-2\\
    0&1&1\\
-   1&-2&0 
+   1&-2&0
 \end{pmatrix} \times \begin{pmatrix}
    4&1&-2\\
    0&1&1\\
@@ -849,6 +852,7 @@ A^2 = \begin{pmatrix}
    4&-1&-4
 \end{pmatrix}
 $$
+
 $$
 
 A \times t_A = \begin{pmatrix}
@@ -869,6 +873,7 @@ A \times t_A = \begin{pmatrix}
    2&-1&1
 \end{pmatrix}
 $$
+
 $$
 t_A \times A = \begin{pmatrix}
    4&0&1\\
@@ -886,18 +891,17 @@ t_A \times A = \begin{pmatrix}
    17&2&-8\\
    2&6&0\\
    -8&-3&4
-\end{pmatrix} 
+\end{pmatrix}
 $$
 
-
-## Exercice 6 
+## Exercice 6
 
 $$
 A \begin{pmatrix}
 2&1&2\\
 1&1&3\\
 2&2&1
-\end{pmatrix}, 
+\end{pmatrix},
 \ B \begin{pmatrix}
 1&0&1\\
 2&1&1\\
@@ -905,37 +909,45 @@ A \begin{pmatrix}
 \end{pmatrix}
 $$
 
- $C = A \times B$ 
- $$C = \begin{pmatrix} 4 & 2 & 4 \\ 3 & 4 & 5 \\ 6 & 3 & 5 \end{pmatrix}$$
- $D = B \times A$
- $$D = \begin{pmatrix} 4 & 3 & 2 \\ 7 & 5 & 6 \\ 3 & 3 & 4 \end{pmatrix}$$
+$C = A \times B$
+$$C = \begin{pmatrix} 4 & 2 & 4 \\ 3 & 4 & 5 \\ 6 & 3 & 5 \end{pmatrix}$$
+$D = B \times A$
+$$D = \begin{pmatrix} 4 & 3 & 2 \\ 7 & 5 & 6 \\ 3 & 3 & 4 \end{pmatrix}$$
 Comme C != D, B et A ne commutent donc pas
 
-Inverse A et B 
-$$A^-1=\begin{pmatrix} 
+Inverse A et B
+
+$$
+A^-1=\begin{pmatrix}
 1&\dfrac{-3}{5}&\dfrac{-1}{5}\\
 -1&\dfrac{2}{5}&\dfrac{4}{5}\\
 0&\dfrac{2}{5}&\dfrac{-1}{5}
-\end{pmatrix} $$
-$$B^-1=\begin{pmatrix} 
+\end{pmatrix}
+$$
+
+$$
+B^-1=\begin{pmatrix}
 0&\dfrac{1}{2}&\dfrac{-1}{2}\\
 -1&\dfrac{1}{2}&\dfrac{1}{2}\\
 1&\dfrac{-1}{2}&\dfrac{1}{2}
-\end{pmatrix} $$ 
+\end{pmatrix}
+$$
 
 # Exercice : Analyse des matrices A et B
 
 - Les matrices **A** et **B** **ne commutent pas**.
 - Déterminants :  
-  $(\det(C) = \det(D) = \det(A) \times \det(B))$ 
+  $(\det(C) = \det(D) = \det(A) \times \det(B))$
 
 ## Inversibilité
+
 - **A est inversible** : ✅ `True`
 - **B est inversible** : ✅ `True`
 - **C est inversible** : ✅ `True`
 - **D est inversible** : ✅ `True`
 
 ## Inverses des matrices
+
 $$
 A^{-1} :
 
@@ -955,26 +967,27 @@ B^{-1} :
 \end{bmatrix}
 
 
-- C^{-1} \neq B^{-1} \times A^{-1}  
+- C^{-1} \neq B^{-1} \times A^{-1}
 - D^{-1} \neq A^{-1} \times B^{-1}
 $$
-	
 
 # Exercice 9
+
 $$
-S = 
+S =
 \begin{cases}
 2x + y + 2z = 6 \\
 x + y + 3z = 6 \\
 2x + 2y + z = 7
 \end{cases}
 $$
+
 $$
 A \cdot X = B
 $$
 
 $$
-A = 
+A =
 \begin{pmatrix}
 2 & 1 & 2 \\\\
 1 & 1 & 3 \\\\
@@ -984,21 +997,24 @@ X =
 \begin{pmatrix}
 x \\\\ y \\\\ z
 \end{pmatrix}, \quad
-B = 
+B =
 \begin{pmatrix}
 6 \\\\ 6 \\\\ 7
 \end{pmatrix}.
 $$
 
-$$ A^-1\begin{pmatrix}
+$$
+A^-1\begin{pmatrix}
 1&\dfrac{-3}{5}&\dfrac{-1}{5}\\
 -1&\dfrac{2}{5}&\dfrac{4}{5}\\
 0&\dfrac{2}{5}&\dfrac{-1}{5}
-\end{pmatrix} $$
+\end{pmatrix}
+$$
 
 $$
 X = A^{-1} \cdot B
 $$
+
 $$
 x = 1, \quad y = 2, \quad z = 1
 $$
@@ -1025,7 +1041,8 @@ Donc F n'est pas inversible
 On ne peut pas calculer l'inverse de F
 
 Calculer l'inverse de E
-$$E^{-1} = \dfrac{1}{det(E)} \begin{pmatrix} -1&1&-1\\0&1&-1\\3&0&1 \end{pmatrix} = \dfrac{1}{3} \begin{pmatrix} -1&1&-1\\0&1&-1\\3&0&1 \end{pmatrix} = \begin{pmatrix} -1/3&1/3&-1/3\\0&1/3&-1/3\\1&0&1/3 \end{pmatrix}$$ 
+$$E^{-1} = \dfrac{1}{det(E)} \begin{pmatrix} -1&1&-1\\0&1&-1\\3&0&1 \end{pmatrix} = \dfrac{1}{3} \begin{pmatrix} -1&1&-1\\0&1&-1\\3&0&1 \end{pmatrix} = \begin{pmatrix} -1/3&1/3&-1/3\\0&1/3&-1/3\\1&0&1/3 \end{pmatrix}$$
+
 $$S=\begin{cases}
 x+y+z=6\\
 2x-y+z=3\\
@@ -1046,4 +1063,13 @@ x\\y\\z
 \begin{cases}
 x=1\\y=2\\z=3
 \end{cases}
-$$ 
+$$
+
+$$M=
+\begin{pmatrix}
+   0&1&0&0\\
+   0&0&0&1\\
+   1&0&0&0\\
+   0&0&1&0
+\end{pmatrix}
+$$
