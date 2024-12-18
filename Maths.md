@@ -1067,7 +1067,8 @@ $$
 
 ## Exercice 8)
 
-$$M=
+$$
+M=
 \begin{pmatrix}
    0&1&0&0\\
    0&0&0&1\\
@@ -1075,7 +1076,11 @@ $$M=
    0&0&1&0
 \end{pmatrix}
 $$
-$$det(M)=
+
+### Calculer le det(M)
+
+$$
+det(M)=
 \begin{vmatrix}
 	0&1&0&0\\
 	0&0&0&1\\
@@ -1084,6 +1089,32 @@ $$det(M)=
 \end{vmatrix} = +0-1
 \begin{vmatrix}
 	0&0&1\\
-	
-\end{vmatrix}
+	1&0&0\\
+	0&1&0
+\end{vmatrix} = +0-0
+= - (+0-0+1\begin{vmatrix}
+   1&0\\
+   0&1
+\end{vmatrix}) = -1
+$$
+
+### Vérifier que M^-1 = t_M
+
+$$
+M^{-1} = \dfrac{1}{det(M)} \begin{pmatrix}
+   0&0&1&0\\
+   1&0&0&0\\
+   0&0&0&1\\
+   0&1&0&0
+\end{pmatrix} = -1 \begin{pmatrix}
+   0&0&1&0\\
+   1&0&0&0\\
+   0&0&0&1\\
+   0&1&0&0
+\end{pmatrix} = \begin{pmatrix}
+   0&0&-1&0\\
+   -1&0&0&0\\
+   0&0&0&-1\\
+   0&-1&0&0
+\end{pmatrix}
 $$
