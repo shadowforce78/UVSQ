@@ -1075,3 +1075,15 @@ $$M=
    0&0&1&0
 \end{pmatrix}
 $$
+$$det(M)=
+\begin{vmatrix}
+	0&1&0&0\\
+	0&0&0&1\\
+	1&0&0&0\\
+	0&0&1&0
+\end{vmatrix} = +0-1
+\begin{vmatrix}
+	0&0&1\\
+	
+\end{vmatrix}
+$$
