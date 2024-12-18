@@ -1076,6 +1076,10 @@ M=
    0&0&1&0
 \end{pmatrix}
 $$
+### Rappel : 
+B x A = I
+A x B = I
+Alors A^-1=B
 
 ### Calculer le det(M)
 
@@ -1101,20 +1105,77 @@ $$
 ### Vérifier que M^-1 = t_M
 
 $$
-M^{-1} = \dfrac{1}{det(M)} \begin{pmatrix}
+t_M = \begin{pmatrix}
    0&0&1&0\\
    1&0&0&0\\
    0&0&0&1\\
    0&1&0&0
-\end{pmatrix} = -1 \begin{pmatrix}
+\end{pmatrix}
+$$ 
+
+$$
+M^{-1} = t_M*M
+\begin{pmatrix}
    0&0&1&0\\
    1&0&0&0\\
    0&0&0&1\\
    0&1&0&0
+\end{pmatrix} \begin{pmatrix}
+   0&1&0&0\\
+   0&0&0&1\\
+   1&0&0&0\\
+   0&0&1&0
 \end{pmatrix} = \begin{pmatrix}
-   0&0&-1&0\\
-   -1&0&0&0\\
-   0&0&0&-1\\
-   0&-1&0&0
+   1&0&0&0\\
+   0&1&0&0\\
+   0&0&1&0\\
+   0&0&0&1
 \end{pmatrix}
 $$
+
+### Soit n appartient à $\mathbb{N}$; déterminer $M^n$ en fonction de n
+$$M^2 = M*M = \begin{pmatrix}
+   0&1&0&0\\
+   0&0&0&1\\
+   1&0&0&0\\
+   0&0&1&0
+\end{pmatrix} \begin{pmatrix}
+   0&1&0&0\\
+   0&0&0&1\\
+   1&0&0&0\\
+   0&0&1&0
+\end{pmatrix} = \begin{pmatrix}
+   0&0&1&0\\
+   1&0&0&0\\
+   0&0&0&1\\
+   0&1&0&0
+\end{pmatrix}
+$$
+$$M^3 = M^2*M = \begin{pmatrix}
+   0&0&1&0\\
+   1&0&0&0\\
+   0&0&0&1\\
+   0&1&0&0
+\end{pmatrix} \begin{pmatrix}
+   0&1&0&0\\
+   0&0&0&1\\
+   1&0&0&0\\
+   0&0&1&0
+\end{pmatrix} = \begin{pmatrix}
+   1&0&0&0\\
+   0&0&1&0\\
+   0&1&0&0\\
+   0&0&0&1
+\end{pmatrix}
+$$
+$$M^4 = M^3*M = \begin{pmatrix}
+   1&0&0&0\\
+   0&0&1&0\\
+   0&1&0&0\\
+   0&0&0&1
+\end{pmatrix} \begin{pmatrix}
+   0&1&0&0\\
+   0&0&0&1\\
+   1&0&0&0\\
+   0&0&1&0
+   
