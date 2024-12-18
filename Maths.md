@@ -1136,7 +1136,8 @@ M^{-1} = t_M*M
 $$
 
 ### Soit n appartient à $\mathbb{N}$; déterminer $M^n$ en fonction de n
-[SiteMagique](https://calculis.net/produit-matrices) 
+
+[SiteMagique](https://calculis.net/produit-matrices)
 
 $$
 M^2 = M*M = \begin{pmatrix}
@@ -1194,6 +1195,7 @@ M^4 = M^3*M = \begin{pmatrix}
  0&  0 & 0 & 1
 \end{pmatrix}
 $$
+
 $$
 M^5 = M^4*M = \begin{pmatrix}
  1  &0  &0  &0  \\
@@ -1211,4 +1213,4 @@ M^5 = M^4*M = \begin{pmatrix}
  1 & 0 & 0 & 0  \\
  0&  0 & 1 & 0
 \end{pmatrix}
-$$ 
+$$
