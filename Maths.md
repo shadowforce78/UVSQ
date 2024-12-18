@@ -1136,6 +1136,11 @@ M^{-1} = t_M*M
 $$
 
 ### Soit n appartient à $\mathbb{N}$; déterminer $M^n$ en fonction de n
+Rappel :
+$M^{4p} = (M^4)^p = I_4^p = I_4$
+$M^{4p+1} = M^{4p} * M = I_4 * M = M$
+$M^{4p+2} = M^{4p} * M^2 = I_4 * M^2 = M^2$
+$M^{4p+3} = M^{4p+2} * M = M^2 * M = M^3 = t_M$
 
 [SiteMagique](https://calculis.net/produit-matrices)
 
