@@ -1219,3 +1219,6 @@ M^5 = M^4*M = \begin{pmatrix}
  0&  0 & 1 & 0
 \end{pmatrix}
 $$
+
+# Partie 3 : Dérivabilité 
+
