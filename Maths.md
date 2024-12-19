@@ -181,7 +181,7 @@ $S = p + \overline q + \overline r$ (FnC)
 
 ### Exercice 24
 
-Soit \( E = \{1, 2, 3, 4, 5, 6, 7, 8\} \), \( A = \{1, 2, 3, 4, 5\} \) et \( B = \{1, 3, 5, 7\} \)
+Soit $E = \{1, 2, 3, 4, 5, 6, 7, 8\}$, $A = \{1, 2, 3, 4, 5\}$ et $B = \{1, 3, 5, 7\}$
 
 1. **Complémentaire de A dans E** :
    $\overline{A} = E \setminus A = \{6, 7, 8\}$
@@ -217,9 +217,9 @@ d) E = F = $\mathbb R$<sub>+</sub> => Application, Injection, Surjection et Bije
 
 ### Exercice 41
 
-$$A_{n}^{p}=\dfrac{n!}{(n-p)!}$$
-$$C_{n}^{p}=\binom{n}{p}=\binom{n}{n-p}$$
-$$C_{n}^{p}=\binom{n}{p}=\dfrac{n!}{p!(n-p)!}$$
+$A_{n}^{p}=\dfrac{n!}{(n-p)!}$
+$C_{n}^{p}=\binom{n}{p}=\binom{n}{n-p}$
+$C_{n}^{p}=\binom{n}{p}=\dfrac{n!}{p!(n-p)!}$
 
 $A_{3}^{11}$ = $\dfrac{11!}{(11-3)!}$=$\dfrac{11!}{8!}$=$\dfrac{1*2*3*4*5*6*7*8*9*10*11}{1*2*3*4*5*6*7*8}$=$9*10*11$=990
 
@@ -254,9 +254,9 @@ b) Reprendre la question a) sachant que Monsieur Jecrains et Madame Ronchon ne d
 
 ### Exercice 44
 
-Formule du binôme de Newton : $$(a+b)^n = \sum_{k=0}^{n} \binom{n}{k} a^{n-k} b^k$$
+Formule du binôme de Newton : $(a+b)^n = \sum_{k=0}^{n} \binom{n}{k} a^{n-k} b^k$
 
-Ici, \( a = x \), \( b = 1 \) et \( n = 6 \).
+Ici, $a = x$, $b = 1$ et $n = 6$.
 
 1. **Calcul des termes** :
    $(x+1)^6 = \sum_{k=0}^{6} \binom{6}{k} x^{6-k} \cdot 1^k$
@@ -267,7 +267,7 @@ Ici, \( a = x \), \( b = 1 \) et \( n = 6 \).
 
 Le développement est donné par :
 
-$$(2x - 3)^4 = \sum_{k=0}^{4} \binom{4}{k} (2x)^{4-k} (-3)^k$$
+$(2x - 3)^4 = \sum_{k=0}^{4} \binom{4}{k} (2x)^{4-k} (-3)^k$
 
 1. **Premier terme** :  
    $\binom{4}{0} (2x)^4 (-3)^0 = 1 *(2x)^4* 1 = (2x)^4 = 16x^4$
@@ -282,11 +282,11 @@ $$(2x - 3)^4 = \sum_{k=0}^{4} \binom{4}{k} (2x)^{4-k} (-3)^k$$
 1. **Cinquième terme** :  
    $\binom{4}{4} (2x)^0 (-3)^4 = 1 * 1 * 81 = 81$
 
-$$(2x - 3)^4 = 16x^4 - 96x^3 + 216x^2 - 216x + 81$$
+$(2x - 3)^4 = 16x^4 - 96x^3 + 216x^2 - 216x + 81$
 
 ### Triangle de Pascal
 
-    $$ \begin{matrix}
+    $ \begin{matrix}
     & & & & & & & 1 & & & & & & &  \\
     & & & & & & 1 & & 1 & & & & & &  \\
     & & & & & 1 & & 2 & & 1 & & & & & \\
@@ -294,7 +294,7 @@ $$(2x - 3)^4 = 16x^4 - 96x^3 + 216x^2 - 216x + 81$$
     & & & 1 & & 4 & & 6 & & 4 & & 1 & & & \\
     & & 1 & & 5 & & 10 & & 10 & & 5 & & 1 & & \\
     & 1 & & 6 & & 15 & & 20 & & 15 & & 6 & & 1 &
-    \end{matrix} $$
+    \end{matrix} $
 
 $$
 \begin{matrix}
@@ -318,55 +318,55 @@ Un sous-ensemble de $E$ peut être décrit par son cardinal $k$, c'est-à-dire p
 
 Ainsi, le nombre total de sous-ensembles de $E$ peut être exprimé comme la somme des sous-ensembles de tous les cardinaux possibles :
 
-$$
+$
 2^n = \sum_{k=0}^{n} \binom{n}{k}.
-$$
+$
 
 ### Partie b) : À l'aide de la formule du binôme de Newton
 
 La formule du binôme de Newton nous donne l'expansion suivante pour tout $x$ et $y$ :
 
-$$
+$
 (x + y)^n = \sum_{k=0}^{n} \binom{n}{k} x^{n-k} y^k.
-$$
+$
 
 En prenant $x = 1$ et $y = 1$, on obtient :
 
-$$
+$
 (1 + 1)^n = \sum_{k=0}^{n} \binom{n}{k} 1^{n-k} 1^k.
-$$
+$
 
 Comme $1^{n-k} = 1$ et $1^k = 1$ pour tous les entiers $n$ et $k$, cela simplifie à :
 
-$$
+$
 2^n = \sum_{k=0}^{n} \binom{n}{k}.
-$$
+$
 
 Ainsi, nous avons montré que :
 
-$$
+$
 2^n = \sum_{k=0}^{n} \binom{n}{k}.
-$$
+$
 
-    $$\sqrt{20} = \sqrt{4}*\sqrt{5} = 2\sqrt{5}$$
+    $\sqrt{20} = \sqrt{4}*\sqrt{5} = 2\sqrt{5}$
 
-    $$A = 5*\dfrac{13}{15}-7*\dfrac{6}{12} = \dfrac{65}{15}-\dfrac{7}{2}=\dfrac{130}{30}-\dfrac{105}{30} = \dfrac{130-105}{30} = \dfrac{5}{6}$$
+    $A = 5*\dfrac{13}{15}-7*\dfrac{6}{12} = \dfrac{65}{15}-\dfrac{7}{2}=\dfrac{130}{30}-\dfrac{105}{30} = \dfrac{130-105}{30} = \dfrac{5}{6}$
 
-$$B = {\sqrt{2}}^3(\sqrt{6}+\sqrt{10})=4\sqrt{3}+4\sqrt{5}$$
-$$D=\dfrac{\sqrt{12}-5\sqrt{3}}{\sqrt{75}}=\dfrac{2\sqrt{3}-5\sqrt{3}}{\sqrt{75}}=\dfrac{-3}{5}$$ $$E=\dfrac{(\sqrt{5}-2)^2 + 2\sqrt{20}}{(\sqrt{7}-2)(\sqrt{7}+2)}=\dfrac{(\sqrt{5}​)^2−2×\sqrt{5}​×2+2^2+2×\sqrt{4×5}}{(\sqrt{7})^2-2^2}=\dfrac{9-4\sqrt{5}+4\sqrt{5}}{7-4}=\dfrac{9}{3}=3$$
-$$F=\dfrac{\sqrt{3}}{2-\sqrt{3}}=\dfrac{\sqrt{3}(2+\sqrt{3})}{(2-\sqrt{3})(2+\sqrt{3})}=2\sqrt{3}+3$$
+$B = {\sqrt{2}}^3(\sqrt{6}+\sqrt{10})=4\sqrt{3}+4\sqrt{5}$
+$D=\dfrac{\sqrt{12}-5\sqrt{3}}{\sqrt{75}}=\dfrac{2\sqrt{3}-5\sqrt{3}}{\sqrt{75}}=\dfrac{-3}{5}$ $E=\dfrac{(\sqrt{5}-2)^2 + 2\sqrt{20}}{(\sqrt{7}-2)(\sqrt{7}+2)}=\dfrac{(\sqrt{5}​)^2−2×\sqrt{5}​×2+2^2+2×\sqrt{4×5}}{(\sqrt{7})^2-2^2}=\dfrac{9-4\sqrt{5}+4\sqrt{5}}{7-4}=\dfrac{9}{3}=3$
+$F=\dfrac{\sqrt{3}}{2-\sqrt{3}}=\dfrac{\sqrt{3}(2+\sqrt{3})}{(2-\sqrt{3})(2+\sqrt{3})}=2\sqrt{3}+3$
 
-$$f(x)=(x+1)(2x+3)=2x^2+3x+2x+3=2x^2+5x+3$$
-$$g(a;b;c)=(a+2b+c)(3a-b)$$
+$f(x)=(x+1)(2x+3)=2x^2+3x+2x+3=2x^2+5x+3$
+$g(a;b;c)=(a+2b+c)(3a-b)$
 
 1. **Premier terme :** $(a \cdot (3a - b) = 3a^2 - ab)$
 2. **Deuxième terme :**$(2b \cdot (3a - b) = 6ab - 2b^2)$
 3. **Troisième terme :** $(c \cdot (3a - b) = 3ac - bc)$
 
-$$g(a; b; c) = 3a^2 - ab + 6ab - 2b^2 + 3ac - bc$$
-$$g(a; b; c) = 3a^2 + 5ab - 2b^2 + 3ac - bc$$
+$g(a; b; c) = 3a^2 - ab + 6ab - 2b^2 + 3ac - bc$
+$g(a; b; c) = 3a^2 + 5ab - 2b^2 + 3ac - bc$
 
-$$
+$
 \begin{array}{c|c}
 \text{Puissance} & \text{Coefficients binomiaux} \\
 \hline
@@ -377,18 +377,18 @@ $$
 4 & 1 \quad 4 \quad 6 \quad 4 \quad 1 \\
 5 & 1 \quad 5 \quad 10 \quad 10 \quad 5 \quad 1 \\
 \end{array}
-$$
+$
 
-$$i(x)=(x-2)^5=(x - 2)^5 = \sum_{k=0}^{5} \binom{5}{k} x^{5-k} (-2)^k$$
-K = 0 : $$\binom{5}{0}x^5(-2)^0=x^5 $$
-K = 1 : $$\binom{5}{1}x^4(-2)^1=-10x^4 $$
-K = 2 : $$\binom{5}{2}x^3(-2)^2=40x^3 $$
-K = 3 : $$\binom{5}{3}x^2(-2)^3=-80x^2 $$
-K = 4 : $$\binom{5}{4}x^1(-2)^4=80x $$
-K = 5 : $$\binom{5}{5}x^0(-2)^5=-32 $$
-$$i(x)=(x-2)^5 =x^5-10x^4+40x^3-80x^2+80x-32$$
-$$ j(x) = (2\sqrt{2}-3)^2 = -12\sqrt{2}+17$$
- $$k(x)=(2\sqrt{x^2+3}-\sqrt{8})(\sqrt{x^2+3}+\sqrt{2})$$
+$i(x)=(x-2)^5=(x - 2)^5 = \sum_{k=0}^{5} \binom{5}{k} x^{5-k} (-2)^k$
+K = 0 : $\binom{5}{0}x^5(-2)^0=x^5 $
+K = 1 : $\binom{5}{1}x^4(-2)^1=-10x^4 $
+K = 2 : $\binom{5}{2}x^3(-2)^2=40x^3 $
+K = 3 : $\binom{5}{3}x^2(-2)^3=-80x^2 $
+K = 4 : $\binom{5}{4}x^1(-2)^4=80x $
+K = 5 : $\binom{5}{5}x^0(-2)^5=-32 $
+$i(x)=(x-2)^5 =x^5-10x^4+40x^3-80x^2+80x-32$
+$ j(x) = (2\sqrt{2}-3)^2 = -12\sqrt{2}+17$
+ $k(x)=(2\sqrt{x^2+3}-\sqrt{8})(\sqrt{x^2+3}+\sqrt{2})$
 
 - $a = 2\sqrt{x^2 + 3}$
 - $b = \sqrt{8}$
@@ -396,74 +396,74 @@ $$ j(x) = (2\sqrt{2}-3)^2 = -12\sqrt{2}+17$$
   $\left( 2\sqrt{x^2 + 3} \right)^2 = 4(x^2 + 3) = 4x^2 + 12$
   $(\sqrt{8})^2 = 8$
   $k(x) = 4x^2 + 12 - 8$
-  $$k(x)=2x^2+2$$
+  $k(x)=2x^2+2$
 
-$$f(t)=3t^2+6=3(t^2+2)$$ $$g(x)=4(x+1)-(x+1)^2=(x+1)(3-x)$$
+$f(t)=3t^2+6=3(t^2+2)$ $g(x)=4(x+1)-(x+1)^2=(x+1)(3-x)$
 
-$$h(t)=4t^2+12t+9-2(t+1)(2t+3)$$
+$h(t)=4t^2+12t+9-2(t+1)(2t+3)$
 
-$$
+$
 2(t + 1)(2t + 3) = 2(2t^2 + 5t + 3) = 4t^2 + 10t + 6
-$$
+$
 
-$$
+$
 h(t) = 4t^2 + 12t + 9 - (4t^2 + 10t + 6)
-$$
+$
 
-$$
+$
 h(t) = (4t^2 - 4t^2) + (12t - 10t) + (9 - 6)
-$$
+$
 
-$$
+$
 h(t) = 0 + 2t + 3
-$$
+$
 
-$$
+$
 h(t) = 2t + 3
-$$
+$
 
 # Cours construction des $\Delta$
 
-Exemple : $$3x^2-18x+24=0$$
-$$<=>3(x²-6x+8)=0$$
-$$<=> x²-6x+8=0$$$$<=> (x-3)^2-9+8 =0$$
-$$<=>(x-3)^2 -1=0$$
-$$<=> (x-4)(x-2)=0$$
-$$S={2;4}$$
+Exemple : $3x^2-18x+24=0$
+$<=>3(x²-6x+8)=0$
+$<=> x²-6x+8=0$$<=> (x-3)^2-9+8 =0$
+$<=>(x-3)^2 -1=0$
+$<=> (x-4)(x-2)=0$
+$S={2;4}$
 
 ## Généralisation
 
-$$p(x)=ax²+bx+c (a!=0)$$
+$p(x)=ax²+bx+c (a!=0)$
 si $\Delta >0$ $x$ et $x²$ sont 2 racines
-$$p(x) = a (x-x_2)(x-x_2)$$
+$p(x) = a (x-x_2)(x-x_2)$
 si $\Delta$ = 0 $x_0$ est la racine obtenue
-$$p(x)=a(x-x_0)^2$$
+$p(x)=a(x-x_0)^2$
 si $\Delta$ < 0 On ne peut pas factoriser dans $\mathbb{R}$
 
 ## Exercice 4 résoudre dans $\mathbb{R}$
 
-c) $$2t^2=6t+4$$
-$$<=> 2t^2-6t=4$$
-$$<=>2(t^2-3t-2)=0$$
-$$<=>t^2-3t-2=0$$
-$$\Delta = b^2-4ac$$
+c) $2t^2=6t+4$
+$<=> 2t^2-6t=4$
+$<=>2(t^2-3t-2)=0$
+$<=>t^2-3t-2=0$
+$\Delta = b^2-4ac$
 
 ## Calcul matriciel
 
-$$
+$
 M_{n,P} = \begin{pmatrix}
 a_{1,1} & a_{1,P} \\
 a_{n,1} & a_{n,p}
 \end{pmatrix}
-$$
+$
 
-$$
+$
 \begin{pmatrix}
 2 & -5 & \pi \\
 0 & 0 & e^2
 \end{pmatrix}
 \in M_{2,3}
-$$
+$
 
 ## Application
 
@@ -477,7 +477,7 @@ $$
 
 Transposez :
 
-$$
+$
 \begin{pmatrix}
 1&2&3\\
 1&8&5
@@ -488,9 +488,9 @@ $$
 2&8\\
 3&5
 \end{pmatrix}
-$$
+$
 
-$$
+$
 \begin{pmatrix}
 1&5\\
 3&4
@@ -500,30 +500,30 @@ $$
 1&3\\
 5&4
 \end{pmatrix}
-$$
+$
 
 Addition :
 
-$$
+$
 \begin{pmatrix}
-	1&2&3\\
-	1&8&5
+1&2&3\\
+1&8&5
 \end{pmatrix}
-+
-\begin{pmatrix}
-	2&3&4\\
-	3&4&5
-\end{pmatrix}
-=
-\begin{pmatrix}
-	3&5&7\\
-	4&12&10
-\end{pmatrix}
-$$
+
+- \begin{pmatrix}
+  2&3&4\\
+  3&4&5
+  \end{pmatrix}
+  =
+  \begin{pmatrix}
+  3&5&7\\
+  4&12&10
+  \end{pmatrix}
+  $
 
 Multiplication :
 
-$$
+$
 
 -3
 \begin{pmatrix}
@@ -535,11 +535,11 @@ $$
 -3&-3&-9\\
 6&-15&-12
 \end{pmatrix}
-$$
+$
 
 Exemple :
 
-$$
+$
 \begin{pmatrix}
 0&1&2\\
 1&2&3\\
@@ -562,7 +562,7 @@ $$
 	46&52\\
 	67&76
 \end{pmatrix}
-$$
+$
 
 Remarque : Chaque coefficiant de C est le produit :
 
@@ -576,23 +576,23 @@ Propriétés
 
 Matrice Nulle $O_{n,p}$
 
-$$
+$
 A + O = A\\
 A + (-A) = O\\
 (A+B)+C = A+(B+C)\\
 A+B = B+A
-$$
+$
 
-$$
+$
 \begin{cases}
-	k(A+B) = kA+kB\\
+k(A+B) = kA+kB\\
 
 \end{cases}
-$$
+$
 
 Triangulaire Inférieur :
 
-$$
+$
 A = \begin{pmatrix}
    1&0&0\\
    7&3&0\\
@@ -602,11 +602,11 @@ A = \begin{pmatrix}
    1&2&0\\
    2&3&4
 \end{pmatrix}
-$$
+$
 
 Triangulaire Supérieur :
 
-$$
+$
 B = \begin{pmatrix}
    1&8&0\\
    0&0&5\\
@@ -616,11 +616,11 @@ B = \begin{pmatrix}
    0&2&3\\
    0&0&4
 \end{pmatrix}
-$$
+$
 
 Diagonale :
 
-$$
+$
 C = \begin{pmatrix}
    1&0&0\\
    0&5&0\\
@@ -629,43 +629,43 @@ C = \begin{pmatrix}
    3&0\\
    0&-2
 \end{pmatrix}
-$$
+$
 
 ## Matrice Symétrique $t_A = A$
 
 Exemple :
 
-$$
+$
 A \begin{pmatrix}
    0&1&2\\
    1&2&3\\
    2&3&4
 \end{pmatrix}
 t_A = A
-$$
+$
 
 ## Matrice identité
 
-$$
+$
 I_3 = \begin{pmatrix}
    1&0&0\\
    0&1&0\\
    0&0&1
 \end{pmatrix} => Matrice \ diagonale \ avec \ 1 \ sur \ la \ diagonale
-$$
+$
 
-$$
+$
 I_2 = \begin{pmatrix}
    1&0\\
    0&1
 \end{pmatrix}
-$$
+$
 
 ## Exercice 5
 
 Soient les matrices suivantes :
 
-$$
+$
 A = \begin{pmatrix}
    4&1&-2\\
    0&1&1\\
@@ -680,11 +680,11 @@ C = \begin{pmatrix}
    1&0\\
    0&2
 \end{pmatrix}
-$$
+$
 
 Déterminer :
 
-$$
+$
 t_A = \begin{pmatrix}
    4&0&1\\
    1&1&-2\\
@@ -699,9 +699,9 @@ t_C = \begin{pmatrix}
    3&1&0\\
    -1&0&2
 \end{pmatrix}
-$$
+$
 
-$$
+$
 B + t_C = \begin{pmatrix}
    2&-1&1\\
    0&1&0
@@ -715,9 +715,9 @@ B + t_C = \begin{pmatrix}
    5&0&1\\
    -1&1&2
 \end{pmatrix}
-$$
+$
 
-$$
+$
 C+3t_B = \begin{pmatrix}
    3&-1\\
    1&0\\
@@ -735,9 +735,9 @@ C+3t_B = \begin{pmatrix}
    -2&3\\
    3&1
 \end{pmatrix}
-$$
+$
 
-$$
+$
 A \times B = \begin{pmatrix}
    4&1&-2\\
    0&1&1\\
@@ -746,9 +746,9 @@ A \times B = \begin{pmatrix}
    2&-1&1\\
    0&1&0
 \end{pmatrix} = Impossible \ car \ nombre \ de \ colonnes \ de \ A \ != \ nombre \ de \ lignes \ de \ B
-$$
+$
 
-$$
+$
 A \times C = \begin{pmatrix}
    4&1&-2\\
    0&1&1\\
@@ -766,9 +766,9 @@ A \times C = \begin{pmatrix}
    1&2\\
    1&-1
 \end{pmatrix}
-$$
+$
 
-$$
+$
 B \times A = \begin{pmatrix}
    2&-1&1\\
    0&1&0
@@ -783,9 +783,9 @@ B \times A = \begin{pmatrix}
    9&-1&-5\\
    0&1&1
 \end{pmatrix}
-$$
+$
 
-$$
+$
 B \times C = \begin{pmatrix}
    2&-1&1\\
    0&1&0
@@ -800,9 +800,9 @@ B \times C = \begin{pmatrix}
    5&0\\
    1&0
 \end{pmatrix}
-$$
+$
 
-$$
+$
 C \times A = \begin{pmatrix}
    3&-1\\
    1&0\\
@@ -812,9 +812,9 @@ C \times A = \begin{pmatrix}
    0&1&1\\
    1&-2&0
 \end{pmatrix} = Impossible \ car \ nombre \ de \ colonnes \ de \ C \ != \ nombre \ de \ lignes \ de \ A
-$$
+$
 
-$$
+$
 C \times B = \begin{pmatrix}
    3&-1\\
    1&0\\
@@ -831,9 +831,9 @@ C \times B = \begin{pmatrix}
    2&-1&1\\
    0&1&2
 \end{pmatrix}
-$$
+$
 
-$$
+$
 A^2 = \begin{pmatrix}
    4&1&-2\\
    0&1&1\\
@@ -851,30 +851,30 @@ A^2 = \begin{pmatrix}
    1&-1&1\\
    4&-1&-4
 \end{pmatrix}
-$$
+$
 
-$$
+$
 
 A \times t_A = \begin{pmatrix}
-   4&1&-2\\
-   0&1&1\\
-   1&-2&0
+4&1&-2\\
+0&1&1\\
+1&-2&0
 \end{pmatrix} \times \begin{pmatrix}
-   4&0&1\\
-   1&1&-2\\
-   -2&1&0
+4&0&1\\
+1&1&-2\\
+-2&1&0
 \end{pmatrix} = \begin{pmatrix}
-   4*4+1*1+(-2)*(-2)&4*0+1*1+(-2)*1&4*1+1*(-2)+(-2)*0\\
-   0*4+1*1+1*(-2)&0*0+1*1+1*1&0*1+1*(-2)+1*0\\
-   1*4+(-2)*1+0*(-2)&1*0+(-2)*1+0*1&1*1+(-2)*(-2)+0*0
+4*4+1*1+(-2)*(-2)&4*0+1*1+(-2)*1&4*1+1*(-2)+(-2)*0\\
+0*4+1*1+1*(-2)&0*0+1*1+1*1&0*1+1*(-2)+1*0\\
+1*4+(-2)*1+0*(-2)&1*0+(-2)*1+0*1&1*1+(-2)*(-2)+0\*0
 \end{pmatrix} = \begin{pmatrix}
-   21&3&2\\
-   -1&2&-2\\
-   2&-1&1
+21&3&2\\
+-1&2&-2\\
+2&-1&1
 \end{pmatrix}
-$$
+$
 
-$$
+$
 t_A \times A = \begin{pmatrix}
    4&0&1\\
    1&1&-2\\
@@ -892,11 +892,11 @@ t_A \times A = \begin{pmatrix}
    2&6&0\\
    -8&-3&4
 \end{pmatrix}
-$$
+$
 
 ## Exercice 6
 
-$$
+$
 A \begin{pmatrix}
 2&1&2\\
 1&1&3\\
@@ -907,31 +907,31 @@ A \begin{pmatrix}
 2&1&1\\
 0&1&1
 \end{pmatrix}
-$$
+$
 
 $C = A \times B$
-$$C = \begin{pmatrix} 4 & 2 & 4 \\ 3 & 4 & 5 \\ 6 & 3 & 5 \end{pmatrix}$$
+$C = \begin{pmatrix} 4 & 2 & 4 \\ 3 & 4 & 5 \\ 6 & 3 & 5 \end{pmatrix}$
 $D = B \times A$
-$$D = \begin{pmatrix} 4 & 3 & 2 \\ 7 & 5 & 6 \\ 3 & 3 & 4 \end{pmatrix}$$
+$D = \begin{pmatrix} 4 & 3 & 2 \\ 7 & 5 & 6 \\ 3 & 3 & 4 \end{pmatrix}$
 Comme C != D, B et A ne commutent donc pas
 
 Inverse A et B
 
-$$
+$
 A^-1=\begin{pmatrix}
 1&\dfrac{-3}{5}&\dfrac{-1}{5}\\
 -1&\dfrac{2}{5}&\dfrac{4}{5}\\
 0&\dfrac{2}{5}&\dfrac{-1}{5}
 \end{pmatrix}
-$$
+$
 
-$$
+$
 B^-1=\begin{pmatrix}
 0&\dfrac{1}{2}&\dfrac{-1}{2}\\
 -1&\dfrac{1}{2}&\dfrac{1}{2}\\
 1&\dfrac{-1}{2}&\dfrac{1}{2}
 \end{pmatrix}
-$$
+$
 
 # Exercice : Analyse des matrices A et B
 
@@ -948,45 +948,43 @@ $$
 
 ## Inverses des matrices
 
-$$
+$
 A^{-1} :
 
 \begin{bmatrix}
- 1 & -0.6 & -0.2 \\
--1 &  0.4 &  0.8 \\
- 0 &  0.4 & -0.2
+1 & -0.6 & -0.2 \\
+-1 & 0.4 & 0.8 \\
+0 & 0.4 & -0.2
 \end{bmatrix}
-
 
 B^{-1} :
 
 \begin{bmatrix}
-  0 &  0.5 & -0.5 \\
- -1 &  0.5 &  0.5 \\
-  1 & -0.5 &  0.5
+0 & 0.5 & -0.5 \\
+-1 & 0.5 & 0.5 \\
+1 & -0.5 & 0.5
 \end{bmatrix}
-
 
 - C^{-1} \neq B^{-1} \times A^{-1}
 - D^{-1} \neq A^{-1} \times B^{-1}
-$$
+  $
 
 # Exercice 9
 
-$$
+$
 S =
 \begin{cases}
 2x + y + 2z = 6 \\
 x + y + 3z = 6 \\
 2x + 2y + z = 7
 \end{cases}
-$$
+$
 
-$$
+$
 A \cdot X = B
-$$
+$
 
-$$
+$
 A =
 \begin{pmatrix}
 2 & 1 & 2 \\\\
@@ -1001,25 +999,25 @@ B =
 \begin{pmatrix}
 6 \\\\ 6 \\\\ 7
 \end{pmatrix}.
-$$
+$
 
-$$
+$
 A^-1\begin{pmatrix}
 1&\dfrac{-3}{5}&\dfrac{-1}{5}\\
 -1&\dfrac{2}{5}&\dfrac{4}{5}\\
 0&\dfrac{2}{5}&\dfrac{-1}{5}
 \end{pmatrix}
-$$
+$
 
-$$
+$
 X = A^{-1} \cdot B
-$$
+$
 
-$$
+$
 x = 1, \quad y = 2, \quad z = 1
-$$
+$
 
-$$
+$
 E=
 \begin{pmatrix}
 1&1&1\\
@@ -1032,18 +1030,18 @@ F=
 0&1&1\\
 2&1&-1
 \end{pmatrix}
-$$ Ces matrices  sont-elles inversible ?
-$$det(E) = +1 \begin{vmatrix} -1&1\\0&1 \end{vmatrix} - 2 \begin{vmatrix} 1&1\\0&1 \end{vmatrix} + 3 \begin{vmatrix} 1&1\\-&1 \end{vmatrix} = -1 -2+6 = 3$$
+$ Ces matrices sont-elles inversible ?
+$det(E) = +1 \begin{vmatrix} -1&1\\0&1 \end{vmatrix} - 2 \begin{vmatrix} 1&1\\0&1 \end{vmatrix} + 3 \begin{vmatrix} 1&1\\-&1 \end{vmatrix} = -1 -2+6 = 3$
 Donc E est inversible
 
-$$det(F) = +1 \begin{vmatrix} 1&1\\1&-1 \end{vmatrix} -0+ 2 \begin{vmatrix} 2&1\\1&1 \end{vmatrix} = -2-0+2 = 0$$
+$det(F) = +1 \begin{vmatrix} 1&1\\1&-1 \end{vmatrix} -0+ 2 \begin{vmatrix} 2&1\\1&1 \end{vmatrix} = -2-0+2 = 0$
 Donc F n'est pas inversible
 On ne peut pas calculer l'inverse de F
 
 Calculer l'inverse de E
-$$E^{-1} = \dfrac{1}{det(E)} \begin{pmatrix} -1&1&-1\\0&1&-1\\3&0&1 \end{pmatrix} = \dfrac{1}{3} \begin{pmatrix} -1&1&-1\\0&1&-1\\3&0&1 \end{pmatrix} = \begin{pmatrix} -1/3&1/3&-1/3\\0&1/3&-1/3\\1&0&1/3 \end{pmatrix}$$
+$E^{-1} = \dfrac{1}{det(E)} \begin{pmatrix} -1&1&-1\\0&1&-1\\3&0&1 \end{pmatrix} = \dfrac{1}{3} \begin{pmatrix} -1&1&-1\\0&1&-1\\3&0&1 \end{pmatrix} = \begin{pmatrix} -1/3&1/3&-1/3\\0&1/3&-1/3\\1&0&1/3 \end{pmatrix}$
 
-$$S=\begin{cases}
+$S=\begin{cases}
 x+y+z=6\\
 2x-y+z=3\\
 3x+z=6
@@ -1063,11 +1061,11 @@ x\\y\\z
 \begin{cases}
 x=1\\y=2\\z=3
 \end{cases}
-$$
+$
 
 ## Exercice 8)
 
-$$
+$
 M=
 \begin{pmatrix}
    0&1&0&0\\
@@ -1075,7 +1073,7 @@ M=
    1&0&0&0\\
    0&0&1&0
 \end{pmatrix}
-$$
+$
 
 ### Rappel :
 
@@ -1085,7 +1083,7 @@ Alors A^-1=B
 
 ### Calculer le det(M)
 
-$$
+$
 det(M)=
 \begin{vmatrix}
 	0&1&0&0\\
@@ -1102,20 +1100,20 @@ det(M)=
    1&0\\
    0&1
 \end{vmatrix}) = -1
-$$
+$
 
 ### Vérifier que M^-1 = t_M
 
-$$
+$
 t_M = \begin{pmatrix}
    0&0&1&0\\
    1&0&0&0\\
    0&0&0&1\\
    0&1&0&0
 \end{pmatrix}
-$$
+$
 
-$$
+$
 M^{-1} = t_M*M
 \begin{pmatrix}
    0&0&1&0\\
@@ -1133,9 +1131,10 @@ M^{-1} = t_M*M
    0&0&1&0\\
    0&0&0&1
 \end{pmatrix}
-$$
+$
 
 ### Soit n appartient à $\mathbb{N}$; déterminer $M^n$ en fonction de n
+
 Rappel :
 $M^{4p} = (M^4)^p = I_4^p = I_4$
 $M^{4p+1} = M^{4p} * M = I_4 * M = M$
@@ -1144,7 +1143,7 @@ $M^{4p+3} = M^{4p+2} * M = M^2 * M = M^3 = t_M$
 
 [SiteMagique](https://calculis.net/produit-matrices)
 
-$$
+$
 M^2 = M*M = \begin{pmatrix}
    0&1&0&0\\
    0&0&0&1\\
@@ -1161,9 +1160,9 @@ M^2 = M*M = \begin{pmatrix}
 0&1&0&0\\
 1&0&0&0
 \end{pmatrix}
-$$
+$
 
-$$
+$
 M^3 = M^2*M = \begin{pmatrix}
 0&0&0&1\\
 0&0&1&0\\
@@ -1180,9 +1179,9 @@ M^3 = M^2*M = \begin{pmatrix}
  0  &0 & 0 & 1 \\
  0 & 1 & 0&  0 \\
 \end{pmatrix}
-$$
+$
 
-$$
+$
 M^4 = M^3*M = \begin{pmatrix}
 0  &0  &1  &0\\
  1  &0 & 0 & 0 \\
@@ -1199,9 +1198,9 @@ M^4 = M^3*M = \begin{pmatrix}
  0 & 0 & 1 & 0  \\
  0&  0 & 0 & 1
 \end{pmatrix}
-$$
+$
 
-$$
+$
 M^5 = M^4*M = \begin{pmatrix}
  1  &0  &0  &0  \\
  0 & 1&  0  &0  \\
@@ -1218,11 +1217,84 @@ M^5 = M^4*M = \begin{pmatrix}
  1 & 0 & 0 & 0  \\
  0&  0 & 1 & 0
 \end{pmatrix}
-$$
+$
 
-# Partie 3 : Dérivabilité 
+# Partie 3 : Dérivabilité
 
 ## Exercice 10
 
-$$ f(x)=5x^4-3x^3+\dfrac{x^2}{2}-\dfrac{2}{3}x+1
-$$
+$
+f(x)=5x^4-3x^3+\dfrac{x^2}{2}-\dfrac{2}{3}x+1
+$
+
+### **Étape 1 : Domaine de dérivabilité**
+
+- $f(x)$ est une somme de termes polynomiaux et rationnels simples ($\frac{x^2}{2}$ et $\frac{2}{3}x$ sont aussi des polynômes).
+- Les polynômes sont dérivables partout sur $\mathbb{R}$
+- Par conséquent, $f(x)$ est dérivable sur tout $\mathbb{R}$
+
+Ainsi, l'ensemble de dérivabilité est :
+$D = \mathbb{R}$
+
+---
+
+### **Étape 2 : Calcul de $f'(x)$**
+
+La dérivée de $f(x)$ s'obtient en dérivant chaque terme séparément :
+
+1. $\frac{d}{dx}(5x^4) = 20x^3$
+2. $\frac{d}{dx}(-3x^3) = -9x^2$
+3. $\frac{d}{dx}\left(\frac{x^2}{2}\right) = x$
+4. $\frac{d}{dx}\left(-\frac{2}{3}x\right) = -\frac{2}{3}$
+5. $\frac{d}{dx}(1) = 0$
+
+Ainsi :
+
+$
+f'(x) = 20x^3 - 9x^2 + x - \frac{2}{3}
+$
+
+---
+
+### **Étape 3 : $f'(a)$ pour $a \in D$**
+
+Puisque $D = \mathbb{R}$, la dérivée $f'(a)$ pour $a \in \mathbb{R}$ est donnée par :
+
+$
+f'(a) = 20a^3 - 9a^2 + a - \frac{2}{3}
+$
+
+## Analyse de la fonction et dérivabilité
+
+$f(x)=x^3-5cos(x)+e^{sin(x)}$
+
+### **Étape 1 : Domaine de dérivabilité**
+
+- $x^3$ est un polynôme, donc dérivable sur tout $\mathbb{R}$.
+- $\cos(x)$ et $\sin(x)$ sont des fonctions trigonométriques, dérivables sur tout $\mathbb{R}$.
+- $e^{\sin(x)}$ est une composition de fonctions exponentielle et trigonométrique, donc dérivable sur tout $\mathbb{R}$.
+
+Ainsi, la fonction $f(x)$ est dérivable sur tout $\mathbb{R}$.
+
+L'ensemble de dérivabilité est :  
+$D = \mathbb{R}$
+
+---
+
+### **Étape 2 : Calcul de $f'(x)$**
+
+La dérivée de $f(x)$ s'obtient en dérivant chaque terme séparément :
+
+1. $\frac{d}{dx}(x^3) = 3x^2$
+2. $\frac{d}{dx}(-5\cos(x)) = 5\sin(x)$
+3. $\frac{d}{dx}(e^{\sin(x)}) = e^{\sin(x)} \cdot \cos(x)$
+
+Ainsi :  
+$f'(x) = 3x^2 + 5\sin(x) + e^{\sin(x)}\cos(x)$
+
+---
+
+### **Étape 3 : $f'(a)$ pour $a \in D$**
+
+Puisque $D = \mathbb{R}$, la dérivée $f'(a)$ pour $a \in \mathbb{R}$ est donnée par :  
+$f'(a) = 3a^2 + 5\sin(a) + e^{\sin(a)}\cos(a)$
