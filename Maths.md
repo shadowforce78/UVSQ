@@ -1222,5 +1222,7 @@ $$
 
 # Partie 3 : Dérivabilité 
 
-$$\lim\limits_{x \to t}\dfrac{x^2-t^2}{x-t} =\lim\limits_{x \to t} \dfrac{(x+t)(x-t)}{x-t} =\lim\limits_{x\to t}x+t =2t $$
-donc $$f'(t)=2t $$
+## Exercice 10
+
+$$ f(x)=5x^4-3x^3+\dfrac{x^2}{2}-\dfrac{2}{3}x+1
+$$
