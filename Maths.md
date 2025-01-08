@@ -1223,9 +1223,7 @@ $
 
 ## Exercice 10
 
-$
-f(x)=5x^4-3x^3+\dfrac{x^2}{2}-\dfrac{2}{3}x+1
-$
+$f(x)=5x^4-3x^3+\dfrac{x^2}{2}-\dfrac{2}{3}x+1$ 
 
 ### **Étape 1 : Domaine de dérivabilité**
 
@@ -1297,3 +1295,31 @@ $f'(x) = 3x^2 + 5\sin(x) + e^{\sin(x)}\cos(x)$
 
 Puisque $D = \mathbb{R}$, la dérivée $f'(a)$ pour $a \in \mathbb{R}$ est donnée par :  
 $f'(a) = 3a^2 + 5\sin(a) + e^{\sin(a)}\cos(a)$
+
+
+
+# DS thème : 
+- Calculs polynômes, racine, etc...
+	- Exercice 1,2,3 et 4
+
+- Matrices 
+	- Addition, produit, transposé, etc... (Ex 5)
+	- Déterminant, comatrices
+	- Gauss
+	- Systèmes linéaire
+		- Exercices 6,7,8 et 9
+
+- Dérivés 
+	- Exercices 10 et 11
+
+
+## Exercice 10
+
+e) 
+$f(x)=\cos(x^3)$ 
+$f$ est dérivable sur $\mathbb{R}$ comme composée de fonction dérivable sur $\mathbb{R}$ 
+$f'(x) =(x^3)' \times (-\sin(x^3))$ 
+
+f) 
+$f(x)=\cos^3(x)$ 
+$f$ est dérivable sur $\mathbb{R}$ comme composée de fonction dérivable sur $\mathbb{R}$ 
