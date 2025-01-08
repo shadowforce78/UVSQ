@@ -143,4 +143,4 @@ Le slogan “Et si on profitait de la crise pour s’arrêter et réfléchir ?�
 
 L’idée est de prendre conscience des dérives de ce système et de réévaluer nos priorités. 
 
-Ce document dénonce ainsi les effets négatifs de la société de consommation : gaspillage, pollution et surproduction. Mais il montre aussi que nous avons le pouvoir de changer nos habitudes. Bien que la consommation ait apporté innovation et confort, elle pousse souvent à l’excès. L’affiche appelle donc à une réflexion sur des pratiques plus responsables, comme acheter moins mais mieux, pour protéger la planète et adopter une vie plus équilibrée
+Ce document dénonce ainsi les effets négatifs de la société de consommation : gaspillage, pollution et surproduction. Mais il montre aussi que nous avons le pouvoir de changer nos habitudes. Bien que la consommation ait apporté innovation et confort, elle pousse souvent à l’excès. L’affiche appelle donc à une réflexion sur des pratiques plus responsables, comme acheter moins mais mieux, pour protéger la planète et adopter une vie plus équilibrée.
