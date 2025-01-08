@@ -133,3 +133,51 @@ se presenter par un souvenir :
 
 
 
+## Analyse de l’image :
+
+  
+
+L’affiche intitulée “Journée sans achat” invite à une réflexion sur la société de consommation. On y voit un homme assis sur une montagne d’objets, parmi lesquels figurent des voitures, des appareils électroniques, des jouets, des avions et des maisons. Ces objets symbolisent les produits surconsommés et les excès de notre société moderne. L’homme semble pensif, suggérant une introspection.
+
+  
+
+Le slogan en bas de l’image, “Et si on profitait de la crise pour s’arrêter et réfléchir ?”, relie le contexte économique ou environnemental à une opportunité de prendre du recul face à la consommation excessive.
+
+  
+
+### Idées principales tirées de l’affiche :
+
+1. Critique de la surconsommation : L’image met en avant les conséquences négatives d’une accumulation excessive de biens matériels.
+
+2. Invitation à la réflexion : Elle appelle à une prise de conscience sur nos habitudes d’achat et leur impact sur la planète.
+
+3. Consommation responsable : L’idée de boycotter les achats pour une journée symbolise un rejet du consumérisme et propose une démarche alternative.
+
+  
+
+### Regard positif sur la société de consommation :
+
+1. Accès au confort : La consommation a permis l’innovation, l’accès à des produits facilitant la vie quotidienne (électroménager, technologies).
+
+2. Stimulation de l’économie : La société de consommation génère des emplois et de la richesse.
+
+3. Diversité des choix : Elle offre une grande variété de biens et services, répondant à différents besoins.
+
+  
+
+### Regard négatif sur la société de consommation :
+
+1. Gaspillage et pollution : La surconsommation engendre des déchets, épuise les ressources naturelles et contribue au réchauffement climatique.
+
+2. Aliénation : Le consumérisme peut détourner les individus de valeurs essentielles comme les relations humaines ou la sobriété.
+
+3. Inégalités : Une société axée sur la consommation renforce les écarts entre ceux qui ont les moyens d’accéder à ces biens et ceux qui en sont exclus.
+
+  
+
+### Synthèse :
+
+###### hello nigg
+  
+
+L’affiche “Journée sans achat” critique les excès de la société de consommation tout en proposant une opportunité de réévaluer nos priorités. Elle soulève des questions essentielles sur notre rapport aux objets et invite à adopter une approche plus responsable et durable face à nos choix de consommation.
