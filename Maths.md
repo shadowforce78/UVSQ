@@ -1323,3 +1323,4 @@ $f'(x) =(x^3)' \times (-\sin(x^3))$
 f) 
 $f(x)=\cos^3(x)$ 
 $f$ est dérivable sur $\mathbb{R}$ comme composée de fonction dérivable sur $\mathbb{R}$ 
+$f'(x)=-3\sin(x)\cos^2(x)$ 
