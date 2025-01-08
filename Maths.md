@@ -1329,3 +1329,4 @@ k)
 $f(x)=\dfrac{\sqrt{x^5}}{e^{x\cos(x)}}$ 
 $f'(x)= \dfrac{(\sqrt{x^3})'e^{x\cos(x)}-\sqrt{x^3}(e^{x\cos(x)})'}{(e^{x\cos(x)})^2}$ 
 
+$$ \lim_{x\to a}=\dfrac{f(x)-f(a)}{x-a} $$
