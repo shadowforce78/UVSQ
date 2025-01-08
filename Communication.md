@@ -176,8 +176,6 @@ Le slogan en bas de l’image, “Et si on profitait de la crise pour s’arrê
   
 
 ### Synthèse :
-
-###### hello nigg
   
 
 L’affiche “Journée sans achat” critique les excès de la société de consommation tout en proposant une opportunité de réévaluer nos priorités. Elle soulève des questions essentielles sur notre rapport aux objets et invite à adopter une approche plus responsable et durable face à nos choix de consommation.
