@@ -1403,14 +1403,28 @@ $$com(M)=
 1&&2\\0&&-1
 \end{vmatrix}\\
 \end{pmatrix}
-$$ 
+$$
 
-| 1 2 0<br>0 -1  1<br>1 2 2 |     |
-| ------------------------- | --- |
-|                           |     |
-|                           |     |
-|                           |     |
+$$
+com(M)=-\dfrac{1}{2}\times\begin{pmatrix} 
+-4&&1&&1\\
+-4&&1&&0\\
+2&&-1&&-1
+\end{pmatrix}^t
+$$
 
+$$
+M^{-1}=-\dfrac{1}{2}\times\begin{pmatrix} 
+-4&&-4&&2\\
+-1&&2&&-1\\
+1&&0&&-1
+\end{pmatrix}
+$$
+
+
+
+AX=B
+B=7 -1 9
 
 $$
 S =\begin{cases}
