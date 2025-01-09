@@ -1327,6 +1327,9 @@ $f'(x)=-3\sin(x)\cos^2(x)$
 
 k)
 $f(x)=\dfrac{\sqrt{x^5}}{e^{x\cos(x)}}$ 
+
+$\boxed{\frac{1}{e^{x \cos x}} \left(\frac{5}{2} x^{3/2} - x^{5/2} \cos x + x^{7/2} \sin x\right)}$
+
 $f'(x)= \dfrac{(\sqrt{x^3})'e^{x\cos(x)}-\sqrt{x^3}(e^{x\cos(x)})'}{(e^{x\cos(x)})^2}$ 
 
 $$ \lim_{x\to a}=\dfrac{f(x)-f(a)}{x-a} $$
