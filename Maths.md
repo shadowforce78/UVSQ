@@ -1422,10 +1422,17 @@ M^{-1}=-\dfrac{1}{2}\times\begin{pmatrix}
 $$
 
 
+$$
 
-AX=B
-B=7 -1 9
-
+\begin{pmatrix}
+x\\y\\z
+\end{pmatrix}
+=
+\begin{pmatrix}
+7\\-1\\9
+\end{pmatrix}\times M^{-1}
+$$
+x = 3 y = 2 z = 1
 $$
 S =\begin{cases}
 x+2y=7\\
