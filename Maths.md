@@ -1367,3 +1367,27 @@ $$ \begin{pmatrix}
 \end{pmatrix} = \begin{pmatrix}
 1&&0&&0\\0&&1&&0\\0&&0&&1
 \end{pmatrix}$$ 
+SYSTEME
+$$ M = \begin{pmatrix}
+1&&2&&0\\0&&-1&&1\\1&&2&&2
+\end{pmatrix} $$
+
+$det(M)= (1*-1*2)+(2*1*1)+(0*2*0)-(0*-1*1)+(1*2*1)+(2*0*2) =0-2=-2$ 
+
+M est donc inversible car son déterminant est non-nul
+
+$$com(M)=
+\begin{pmatrix}
+\begin{vmatrix}
+-1&&1\\2&&2
+\end{vmatrix}
+\end{pmatrix}
+$$
+
+$$
+S =\begin{cases}
+x+2y=7\\
+-y+z=-1\\
+x+2y+2z=9
+\end{cases}
+$$
