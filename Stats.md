@@ -52,4 +52,15 @@ $\boxed{\sum^{P}_{i=1} f_i=1 = \sum^{P}_{i=1} = \dfrac{1}{N} \sum^{P}_{i=1} n_i 
 			1) Le mode d'une série statistique est la valeur ou les valeurs de la variables qui possède l'effectif ou la fréquence le plus élevé 
 			2) Exemple : ![[Drawing 2025-01-23 11.44.51.excalidraw]]
 		2) Médiane : 
-			1) Une valeur du charactere tel qie 50% des valeurs de la variables sont inferieures à 
+			1) Une valeur du caractère tel que 50% des valeurs de la variables sont inferieures à m et 50% des valeurs sont supérieures à m
+			2) Supposons que x et trié en ordre croissant,
+				1) Si N est pair $m=\dfrac{x_{\dfrac{N}{2}}+x_{\dfrac{N}{2}+1}}{2}$ 
+				2) Si N est impair $m=x_{\dfrac{N+1}{2}}$ 
+			3) Exemple : 
+
+| x   | 7   | 8   | 9   | 10  | 12  | 14  | 17  |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| n   | 1   | 2   | 3   | 5   | 5   | 3   | 2   |
+				N = 21 N est impair donc $x_{14}=10=m$ 
+			3) Moyenne arithmétique :
+				1) $\bar{x} = \dfrac{1}{N} \sum^{P}_{i=1} n_i;x_i = \sum^{P}_{i=1}f_i;x_i$  
