@@ -42,3 +42,5 @@ B)
 		- Créancier : celui qui reçoit l'argent
 		- Débiteur celui qui doit rembourser
 			- Prescription extinctive = a partir d'une certaine période, le créancier ne peut plus réclamer de paiement
+	- Les héritiers d'un terrain qui, pendant plus de trente ans, a servi de parking public, doivent céder celui-ci à la commune, qui en est devenue propriétaire par prescription
+		- Prescription acquisitive = Transfert automatique du droit de propriété si le propriétaire ne se manifeste pas 
