@@ -151,3 +151,8 @@ Ce document dénonce ainsi les effets négatifs de la société de consommation 
 ### ANALYSE D'UN SLOGAN
 ![[Pasted image 20250129154830.png]]
 Le slogan **"Faire pleurer un enfant, ça peut lui sauver la vie."** joue sur un contraste fort entre la souffrance immédiate et un bénéfice vital. Il interpelle en suggérant qu’un geste perçu comme négatif, comme une piqûre, est en réalité un acte de protection essentiel. L’image d’un enfant en pleurs face à une seringue illustre l’importance de la vaccination et des soins médicaux, soulignant qu’un simple vaccin peut éviter des maladies mortelles. Ce message percutant vise à sensibiliser et inciter au don pour soutenir l’accès aux soins, rappelant qu’un enfant meurt toutes les 17 secondes faute de traitement.
+
+
+
+![[Pasted image 20250129160000.png]]
+Le slogan **"#JeNeSupportePasLesBleus"** joue sur un double sens marquant. À première vue, il semble exprimer un rejet de l'équipe de France de football, mais il prend une tout autre signification en dénonçant les violences conjugales. L’utilisation du mot **"bleus"** fait référence aux ecchymoses laissées par ces violences, renforçant ainsi le message de sensibilisation. L’image d’un homme en maillot bleu, habituellement symbole de soutien sportif, sert ici à illustrer l’idée que s’opposer aux violences conjugales est un véritable engagement. Ce slogan puissant invite chacun à devenir un adversaire de ces violences, en brisant le silence et en agissant contre ce fléau.
