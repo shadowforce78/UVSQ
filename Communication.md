@@ -144,3 +144,10 @@ Le slogan “Et si on profitait de la crise pour s’arrêter et réfléchir ?�
 L’idée est de prendre conscience des dérives de ce système et de réévaluer nos priorités. 
 
 Ce document dénonce ainsi les effets négatifs de la société de consommation : gaspillage, pollution et surproduction. Mais il montre aussi que nous avons le pouvoir de changer nos habitudes. Bien que la consommation ait apporté innovation et confort, elle pousse souvent à l’excès. L’affiche appelle donc à une réflexion sur des pratiques plus responsables, comme acheter moins mais mieux, pour protéger la planète et adopter une vie plus équilibrée.
+
+
+
+
+### ANALYSE D'UN SLOGAN
+![[Pasted image 20250129154830.png]]
+Le slogan **"Faire pleurer un enfant, ça peut lui sauver la vie."** joue sur un contraste fort entre la souffrance immédiate et un bénéfice vital. Il interpelle en suggérant qu’un geste perçu comme négatif, comme une piqûre, est en réalité un acte de protection essentiel. L’image d’un enfant en pleurs face à une seringue illustre l’importance de la vaccination et des soins médicaux, soulignant qu’un simple vaccin peut éviter des maladies mortelles. Ce message percutant vise à sensibiliser et inciter au don pour soutenir l’accès aux soins, rappelant qu’un enfant meurt toutes les 17 secondes faute de traitement.
