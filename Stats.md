@@ -81,4 +81,10 @@ $y=x-\bar{x}$
 	2) Ecart interquartile
 		1) Quartile : Quartile 1 avant la médiane, Quartile 3 après la médiane
 		2) $e = Q_3-Q_1$ 
-		3) 
+		3) ![[Drawing 2025-01-30 11.20.39.excalidraw]]
+	3) Variance et écart type
+		1) $var(x) = \sigma ^2x = \dfrac{1}{N}\sum_{i=1}^{P}n_i(x_i-\bar{x})^2$  
+		2) $\sigma x=\sqrt{\sigma^2x}=\sqrt{var(x)}$ 
+		3) Propriétés : $$ \sigma ^2x = \dfrac{1}{N}\sum_{i=1}^{P}n_i(x_i-\bar{x})^2 = \dfrac{1}{N}\sum_{i=1}^{P}n_i x_i^2-(\bar{x})^2 $$ 
+		 o
+ 
