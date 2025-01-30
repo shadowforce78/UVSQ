@@ -86,5 +86,17 @@ $y=x-\bar{x}$
 		1) $var(x) = \sigma ^2x = \dfrac{1}{N}\sum_{i=1}^{P}n_i(x_i-\bar{x})^2$  
 		2) $\sigma x=\sqrt{\sigma^2x}=\sqrt{var(x)}$ 
 		3) Propriétés : $$ \sigma ^2x = \dfrac{1}{N}\sum_{i=1}^{P}n_i(x_i-\bar{x})^2 = \dfrac{1}{N}\sum_{i=1}^{P}n_i x_i^2-(\bar{x})^2 $$ 
-## Statistique et variables 
-1) 
+	
+
+#### Exercice 1
+
+| 4   | 5   | 6   | 7   | 8   | 9   | 10  | 11  | 12  | 14  | 16  | 18  | $x_i$                            |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | -------------------------------- |
+| 1   | 2   | 2   | 4   | 5   | 6   | 8   | 9   | 6   | 5   | 1   | 1   | $n_i$                            |
+| 1   | 3   | 5   | 9   | 14  | 20  | 28  | 37  | 43  | 48  | 49  | 50  | Effectifs cumulé croissant (ECC) |
+Il y a 12 modalités
+Il y a 50 individu (N=50) (pair)
+
+Médiane :  $\dfrac{25^{ème}note+26^{ème}note}{2} =\dfrac{10+10}{2} = 10$
+Remarque : si N=51 (impaire), Médiane = $26^{ème} Note$ 
+	
