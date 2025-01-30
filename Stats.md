@@ -64,3 +64,21 @@ $\boxed{\sum^{P}_{i=1} f_i=1 = \sum^{P}_{i=1} = \dfrac{1}{N} \sum^{P}_{i=1} n_i 
 				N = 21 N est impair donc $x_{14}=10=m$ 
 			3) Moyenne arithmétique :
 				1) $\bar{x} = \dfrac{1}{N} \sum^{P}_{i=1} n_i;x_i = \sum^{P}_{i=1}f_i;x_i$  
+
+
+<u>Propriété</u>: $y=ax+b \ ;  a\in b; \ b\in \mathbb{R}$   
+$\bar{y}=a\bar{x} +b$ 
+
+R = $x=c(2,4,3,7,8)$
+$y=2\times x+3$
+$y=c(2\times 2+3, 4\times 2+3,....)$ 
+
+= $$\bar{y}= a\dfrac{1}{N} \sum_{i=1}^{P}n_i x_i +b\dfrac{1}{N} \sum_{i=1}^{P}n_i$$
+$y=x-\bar{x}$
+6) Indicateurs de dispersion 
+	1) Etendue 
+		1) e = max(x)-min(x)
+	2) Ecart interquartile
+		1) Quartile : Quartile 1 avant la médiane, Quartile 3 après la médiane
+		2) $e = Q_3-Q_1$ 
+		3) 
