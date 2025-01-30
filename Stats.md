@@ -122,5 +122,10 @@ Ecart interquartile e = Q3-Q1 = 12-8 = 4
 Il y a 15 modalités
 Il y a 60 individu (N=60=pair)
 Médiane = $\dfrac{30^{ème}note+31^{ème}note}{2} = \dfrac{10+10}{2}=10$ 
-Q1 = $\dfrac{N}{2} 30^{ème} note$ 
-Q1 = 
+Q1 = $\dfrac{N}{2} =30^{ème} note =\dfrac{15^{ème}note+16^{ème}note}{2} =\dfrac{8+8}{2}=8$ 
+Q1 = 8
+
+Q3 = $\dfrac{45^{ème}note+46^{ème}note}{2}=\dfrac{11+12}{2}=11,5$ 
+Q3 = 11,5
+
+Ecart interquartile e = Q3-Q1 = 11,5 - 8 = 3,5
