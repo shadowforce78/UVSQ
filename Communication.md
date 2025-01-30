@@ -156,3 +156,7 @@ Le slogan **"Faire pleurer un enfant, ça peut lui sauver la vie."** joue sur un
 
 ![[Pasted image 20250129160000.png]]
 Le slogan **"#JeNeSupportePasLesBleus"** joue sur un double sens marquant. À première vue, il semble exprimer un rejet de l'équipe de France de football, mais il prend une tout autre signification en dénonçant les violences conjugales. L’utilisation du mot **"bleus"** fait référence aux ecchymoses laissées par ces violences, renforçant ainsi le message de sensibilisation. L’image d’un homme en maillot bleu, habituellement symbole de soutien sportif, sert ici à illustrer l’idée que s’opposer aux violences conjugales est un véritable engagement. Ce slogan puissant invite chacun à devenir un adversaire de ces violences, en brisant le silence et en agissant contre ce fléau.
+
+
+![[Pasted image 20250129160855.png]]
+Le slogan **"Le ridicule tue"** dénonce avec ironie et provocation l’industrie de la fourrure. L’image d’une femme portant un simple bandeau de fourrure en guise de vêtement met en évidence l’absurdité de tuer des animaux pour un accessoire de mode. Le contraste entre le luxe apparent du sac et la nudité partielle accentue le message : porter de la fourrure est non seulement inutile mais aussi moralement condamnable. L’ajout du chiffre **"50 millions d’animaux tués par an"** renforce l’impact en soulignant l’ampleur du massacre. Cette campagne vise à sensibiliser et inciter à renoncer à la fourrure pour des choix vestimentaires plus éthiques.
