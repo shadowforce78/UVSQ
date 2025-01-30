@@ -99,4 +99,14 @@ Il y a 50 individu (N=50) (pair)
 
 Médiane :  $\dfrac{25^{ème}note+26^{ème}note}{2} =\dfrac{10+10}{2} = 10$
 Remarque : si N=51 (impaire), Médiane = $26^{ème} Note$ 
-	
+Q1 = 13ème note ($\dfrac{N}{2}=25$ est impaire)
+Q1 = 8
+
+Q2 = 10
+
+Q3 = médiane des notes de 26 à 50
+Q3 = 38ème note
+Q3 = 12
+
+
+Ecart interquartile e = Q3-Q1 = 12-8 = 4
