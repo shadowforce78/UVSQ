@@ -119,6 +119,7 @@ Ecart interquartile e = Q3-Q1 = 12-8 = 4
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | ----- |
 | 1   | 3   | 1   | 2   | 2   | 4   | 5   | 6   | 10  | 11  | 6   | 5   | 1   | 1   | 2   | $n_i$ |
 | 1   | 4   | 5   | 7   | 9   | 13  | 18  | 24  | 34  | 45  | 51  | 56  | 57  | 58  | 60  | ECC   |
+
 Il y a 15 modalités
 Il y a 60 individu (N=60=pair)
 Médiane = $\dfrac{30^{ème}note+31^{ème}note}{2} = \dfrac{10+10}{2}=10$ 
@@ -129,3 +130,7 @@ Q3 = $\dfrac{45^{ème}note+46^{ème}note}{2}=\dfrac{11+12}{2}=11,5$
 Q3 = 11,5
 
 Ecart interquartile e = Q3-Q1 = 11,5 - 8 = 3,5
+
+
+#### Exercice 3
+
