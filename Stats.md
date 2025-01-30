@@ -86,5 +86,5 @@ $y=x-\bar{x}$
 		1) $var(x) = \sigma ^2x = \dfrac{1}{N}\sum_{i=1}^{P}n_i(x_i-\bar{x})^2$  
 		2) $\sigma x=\sqrt{\sigma^2x}=\sqrt{var(x)}$ 
 		3) Propriétés : $$ \sigma ^2x = \dfrac{1}{N}\sum_{i=1}^{P}n_i(x_i-\bar{x})^2 = \dfrac{1}{N}\sum_{i=1}^{P}n_i x_i^2-(\bar{x})^2 $$ 
-		 o
- 
+## Statistique et variables 
+1) 
