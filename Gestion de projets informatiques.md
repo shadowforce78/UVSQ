@@ -15,4 +15,3 @@ Exemple : ![[Voyage Pédagogique.png]]
 
 ![[Drawing 2025-01-31 10.34.51.excalidraw]]
 
-Il existe 4 types de liens 
