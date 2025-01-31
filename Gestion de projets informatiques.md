@@ -64,8 +64,9 @@ Autres taches critique : B -> D -> F -> G = Chemin critique
 | T4 : Déposer le tableau       | 3            | T1           | 2      |
 | T5 : Peindre les murs         | 10           | T1;T3;T4     | 3      |
 | T6 : Installer les bureaux    | 3            | T5           | 4      |
-| T7 : Faire câblage            | 6            | T1;T6;T2;T11 |        |
-| T8 : Installer vidéo          | 3            | T7           |        |
-| T9 : Installer ordinateurs    | 8            | T7           |        |
-| T10 : Installer tableaux      | 2            | T7           |        |
+| T7 : Faire câblage            | 6            | T1;T6;T2;T11 | 5      |
+| T8 : Installer vidéo          | 3            | T7           | 6      |
+| T9 : Installer ordinateurs    | 8            | T7           | 6      |
+| T10 : Installer tableaux      | 2            | T7           | 6      |
 | T11 : Changement luminaire    | 4            | T2           | 3      |
+![[Drawing 2025-01-31 11.26.42.excalidraw]] 
