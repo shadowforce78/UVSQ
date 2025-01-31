@@ -35,3 +35,4 @@ Les liens entre les taches représentent des contraintes
 ![[Drawing 2025-01-31 10.37.53.excalidraw]]
 
 2) Calculez pour chaque activité et pour le projet la date de début et de fin au plus tôt 
+	1) Durée max (au plus tôt du projet) = 24 jours
