@@ -15,3 +15,17 @@ Exemple : ![[Voyage Pédagogique.png]]
 
 ![[Drawing 2025-01-31 10.34.51.excalidraw]]
 
+Les liens entre les taches représentent des contraintes 
+
+## Exemple :
+
+
+|            | Taches | Il faut avoir terminé | Durée en jours |
+| ---------- | ------ | --------------------- | -------------- |
+| Pour faire | A      |                       | 3              |
+|            | B      |                       | 12             |
+|            | C      | A,B                   | 1              |
+|            | D      | B                     | 6              |
+|            | E      | C                     | 7              |
+|            | F      | C,D                   | 3              |
+|            | G      | F                     | 3              |
