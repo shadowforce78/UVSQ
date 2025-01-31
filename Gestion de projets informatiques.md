@@ -7,3 +7,12 @@ Dans un WBS : Je vérifie bien que :
 
 
 Exemple : ![[Voyage Pédagogique.png]] 
+### Diagramme d'ordonnancement
+
+- Les activités figurent en rectangles
+- Les flèches représentent les liens
+- Les ronds représentent des jalons = activité a durée nulle 
+
+![[Drawing 2025-01-31 10.34.51.excalidraw]]
+
+Il existe 4 types de liens 
