@@ -36,3 +36,8 @@ Les liens entre les taches représentent des contraintes
 
 2) Calculez pour chaque activité et pour le projet la date de début et de fin au plus tôt 
 	1) Durée max (au plus tôt du projet) = 24 jours
+
+
+Notion de marge et de tâches critiques :
+
+Tache C : Peut être réalisé au 
