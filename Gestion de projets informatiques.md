@@ -40,4 +40,32 @@ Les liens entre les taches représentent des contraintes
 
 Notion de marge et de tâches critiques :
 
-Tache C : Peut être réalisé au 
+Tache C : Peut être réalisée le jour 13,14,15,16,17 sans remettre en cause la durée minimale du projet 
+	Le chef du projet a de la marge sur cette tâche, marge = 4 jours :
+	(marge = 17_13j)
+
+Tache E : Peut être réalisée le jour 14 au jour 18 
+	marge = 18 - 14 ou 24-20 = 4 jours de marge
+
+Tache F : Doit impérativement être réalisée le jour 19
+	Pas de marge pour cette tâche = tâche critique (tâche qui retarde le jour max de fin)
+
+Autres taches critique : B -> D -> F -> G = Chemin critique
+
+
+## Exemple 2
+
+
+| Nom des tâches                | Durée heures | Antécédents  | Niveau |
+| ----------------------------- | ------------ | ------------ | ------ |
+| T1 : Désinstaller ordinateurs | 3            |              | 1      |
+| T2 : Déposer ancien vidéo     | 2            | T1           | 2      |
+| T3 : Enlever le mobiler       | 5            | T1           | 2      |
+| T4 : Déposer le tableau       | 3            | T1           | 2      |
+| T5 : Peindre les murs         | 10           | T1;T3;T4     | 3      |
+| T6 : Installer les bureaux    | 3            | T5           | 4      |
+| T7 : Faire câblage            | 6            | T1;T6;T2;T11 |        |
+| T8 : Installer vidéo          | 3            | T7           |        |
+| T9 : Installer ordinateurs    | 8            | T7           |        |
+| T10 : Installer tableaux      | 2            | T7           |        |
+| T11 : Changement luminaire    | 4            | T2           | 3      |
