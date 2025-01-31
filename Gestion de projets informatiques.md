@@ -20,12 +20,18 @@ Les liens entre les taches représentent des contraintes
 ## Exemple :
 
 
-|            | Taches | Il faut avoir terminé | Durée en jours |
-| ---------- | ------ | --------------------- | -------------- |
-| Pour faire | A      |                       | 3              |
-|            | B      |                       | 12             |
-|            | C      | A,B                   | 1              |
-|            | D      | B                     | 6              |
-|            | E      | C                     | 7              |
-|            | F      | C,D                   | 3              |
-|            | G      | F                     | 3              |
+|            | Taches | Il faut avoir terminé | Durée en jours | Niveau |
+| ---------- | ------ | --------------------- | -------------- | ------ |
+| Pour faire | A      |                       | 3              | 1      |
+|            | B      |                       | 12             | 1      |
+|            | C      | A,B                   | 1              | 2      |
+|            | D      | B                     | 6              | 2      |
+|            | E      | C                     | 7              | 3      |
+|            | F      | C,D                   | 3              | 3      |
+|            | G      | F                     | 3              | 4      |
+
+1) Construite le graphique d'ordonnancement 
+
+![[Drawing 2025-01-31 10.37.53.excalidraw]]
+
+2) Calculez pour chaque activité et pour le projet la date de début et de fin au plus tôt 
