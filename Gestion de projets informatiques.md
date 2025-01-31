@@ -70,3 +70,4 @@ Autres taches critique : B -> D -> F -> G = Chemin critique
 | T10 : Installer tableaux      | 2            | T7           | 6      |
 | T11 : Changement luminaire    | 4            | T2           | 3      |
 ![[Drawing 2025-01-31 11.26.42.excalidraw]] 
+Chemin critique = T1 -> T3 -> T5 -> T6 -> T7 -> T9
