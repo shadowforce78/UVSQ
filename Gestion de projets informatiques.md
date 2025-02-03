@@ -90,4 +90,3 @@ Chemin critique = T1 -> T3 -> T5 -> T6 -> T7 -> T9
 Chemin critique : A -> E -> H -> J
 
 ## Exemple 4
-	
