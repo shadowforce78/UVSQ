@@ -65,9 +65,21 @@
 ### 3) Les branches du droit
 
 1) En vous aidant du chapitre 1 du cours, replacez les situations suivantes dans les grandes divisions du droit
-	1) Cas n°1 : Droit Civil car il traite de la propriété.
+	1) Cas n°1 : Droit civil car il traite de la propriété.
 	2) Cas n°2 : Droit international public car il traite des Etats entre eux
 	3) Cas n°3 : Droit pénal car il traite d'un crimes (Assassinat)
 	4) Cas n°4 : Droit constitutionnel car il est traité par le Président de la République
 	5) Cas n°5 : Droit fiscal car il traite d'imposition 
-	6) Cas n°6 : 
+	6) Cas n°6 : Droit commercial car il traite d'une entreprise 
+	7) Cas n°7 : Droit administratif car il traite d'un problème de commune
+	8) Cas n°8 : Droit du travail car il traite d'un cas en entreprise
+	9) Cas n°9 : Droit pénal car il est jugé par le tribunal correctionnel
+	10) Cas n°10 : Droit international privé et civil car il traite de deux personnes mais de nationalités différentes 
+	11) Cas n°11 : Droit civil car il traite d'un transfert de propriété 
+
+2) Rattachez les différents aspects de sa situation juridique aux branches du droit
+	1) Monsieur Rivière a 28 ans : Droit civil
+	2) Il est marié et a 2 enfants : Droit civil
+	3) Son père vit et reçoit une retraite : Droit sécurité sociale 
+	4) Monsieur rivière lui verse une pension alimentaire : Droit civil
+	5) Mr Rivière est gérant d'une société : Droit 
