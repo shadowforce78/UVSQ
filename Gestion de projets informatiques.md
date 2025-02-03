@@ -85,3 +85,4 @@ Chemin critique = T1 -> T3 -> T5 -> T6 -> T7 -> T9
 | H - Livraison des portes et fenêtres        | 10             | E             | 3      |
 | I - Pose des murs, de la charpente, du toit | 4              | G             | 5      |
 | J - Mise en place des portes et fenêtres    | 1              | H,I           | 6      |
+![[Drawing 2025-02-03 11.26.56.excalidraw]]
