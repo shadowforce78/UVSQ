@@ -72,6 +72,7 @@ Autres taches critique : B -> D -> F -> G = Chemin critique
 ![[Drawing 2025-01-31 11.26.42.excalidraw]] 
 Chemin critique = T1 -> T3 -> T5 -> T6 -> T7 -> T9
 
+## Exemple 3
 
 | Taches                                      | Durée en jours | Prédécesseurs | Niveau |
 | ------------------------------------------- | -------------- | ------------- | ------ |
@@ -86,3 +87,7 @@ Chemin critique = T1 -> T3 -> T5 -> T6 -> T7 -> T9
 | I - Pose des murs, de la charpente, du toit | 4              | G             | 5      |
 | J - Mise en place des portes et fenêtres    | 1              | H,I           | 6      |
 ![[Drawing 2025-02-03 11.26.56.excalidraw]]
+Chemin critique : A -> E -> H -> J
+
+## Exemple 4
+	
