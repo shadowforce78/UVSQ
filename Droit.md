@@ -80,6 +80,13 @@
 2) Rattachez les différents aspects de sa situation juridique aux branches du droit
 	1) Monsieur Rivière a 28 ans : Droit civil
 	2) Il est marié et a 2 enfants : Droit civil
-	3) Son père vit et reçoit une retraite : Droit sécurité sociale 
-	4) Monsieur rivière lui verse une pension alimentaire : Droit civil
-	5) Mr Rivière est gérant d'une société : Droit 
+	3) Son père vit : Droit civil
+	4) Son père reçoit une faible retraite : Droit de la sécurité sociale 
+	5) Monsieur rivière lui verse une pension alimentaire : Droit civil
+	6) Mr Rivière est gérant d'une société : Droit commercial
+	7) Il y travaille avec sa femme et ses deux salarié : Droit du travail et civil
+	8) Cette activité lui procure des revenus confortables et imposable: Droit fiscale
+	9) Il est locataire : Droit civil
+	10) Il est propriétaire : Droit civil
+	11) Il a été candidat au législative : Droit administratif / constitutionnel
+	12) Il a eu un PV : Droit pénal 
