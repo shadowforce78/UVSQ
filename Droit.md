@@ -60,3 +60,14 @@
 - **Exemple 2** :  
   - Les héritiers d'un terrain qui, pendant plus de trente ans, a servi de parking public, doivent céder celui-ci à la commune, qui en est devenue propriétaire par prescription.  
   - **Prescription acquisitive** : Transfert automatique du droit de propriété si le propriétaire ne se manifeste pas.
+
+
+### 3) Les branches du droit
+
+1) En vous aidant du chapitre 1 du cours, replacez les situations suivantes dans les grandes divisions du droit
+	1) Cas n°1 : Droit Civil car il traite de la propriété.
+	2) Cas n°2 : Droit international public car il traite des Etats entre eux
+	3) Cas n°3 : Droit pénal car il traite d'un crimes (Assassinat)
+	4) Cas n°4 : Droit constitutionnel car il est traité par le Président de la République
+	5) Cas n°5 : Droit fiscal car il traite d'imposition 
+	6) Cas n°6 : 
