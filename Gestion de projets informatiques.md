@@ -71,3 +71,17 @@ Autres taches critique : B -> D -> F -> G = Chemin critique
 | T11 : Changement luminaire    | 4            | T2           | 3      |
 ![[Drawing 2025-01-31 11.26.42.excalidraw]] 
 Chemin critique = T1 -> T3 -> T5 -> T6 -> T7 -> T9
+
+
+| Taches                                      | Durée en jours | Prédécesseurs | Niveau |
+| ------------------------------------------- | -------------- | ------------- | ------ |
+| A - Acceptation des plans                   | 4              |               | 1      |
+| B - Préparation du terrain                  | 2              |               | 1      |
+| C - Commande de matériaux                   | 1              | A             | 2      |
+| D - Creusage des fondations                 | 1              | A,B           | 2      |
+| E - Commande des portes et fenêtres         | 2              | A             | 2      |
+| F - Livraison de matériaux                  | 2              | C             | 3      |
+| G - Coulage des fondations                  | 2              | D,F           | 4      |
+| H - Livraison des portes et fenêtres        | 10             | E             | 3      |
+| I - Pose des murs, de la charpente, du toit | 4              | G             | 5      |
+| J - Mise en place des portes et fenêtres    | 1              | H,I           | 6      |
