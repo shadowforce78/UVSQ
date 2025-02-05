@@ -132,5 +132,5 @@ Q3 = 11,5
 Ecart interquartile e = Q3-Q1 = 11,5 - 8 = 3,5
 
 
-#### Exercice 3
+#### Exercice 4
 
