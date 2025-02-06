@@ -132,5 +132,15 @@ Q3 = 11,5
 Ecart interquartile e = Q3-Q1 = 11,5 - 8 = 3,5
 
 
-#### Exercice 4
+## Statistique a 2 variables
+Cf snap
 
+
+Méthode des mendré carré 
+
+$S = \sum(M_iP_i)^2$ 
+$y = m x_i + P$
+$S = \sum^{n}_{i=1}(mx_i +p -y_i)^2$ 
+$= \sum^{n}_{i=1}((mx_i -y_i)+p)^2$ 
+$=\sum^{n}_{i=1}((mx_i)^2+2p(mx_i -y_i)+p^2)$
+$S(p)=A+2pB-np^2$ 
