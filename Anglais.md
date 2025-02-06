@@ -92,3 +92,19 @@ What is the benefit of having expansion slots?
 3) Kilobyte 
 4) Gigabyte
 5) Byte
+
+# Small talk
+
+## Exercice 1)
+1) Do you minde if I join you ?
+2) Do are you enjoying the conference ? 
+3) Is this your first time in Cologne?
+4) How long are you here for?
+5) What do you do, by the way?
+6) Where are you based?
+7) Have you always worked in the auto industry
+8) Do I get you a drink?
+9) What do you recommend?
+10) What a lovely weather
+11) Who's business?
+12) Have you been to Hong Kong
