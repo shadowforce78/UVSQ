@@ -96,6 +96,7 @@ What is the benefit of having expansion slots?
 # Small talk
 
 ## Exercice 1)
+
 1) Do you mind if I join you ?
 2) How are you enjoying the conference ? 
 3) Is this your first time in Cologne?
@@ -113,4 +114,10 @@ What is the benefit of having expansion slots?
 15) Where are you from originally?
 16) Have you seen much of the city?
 17) Who do you work for?
-18) What did you do before
+18) What did you do before?
+19) What about you?
+20) How interesting
+21) How was it like?
+22) What happened next?
+
+## Exercice 2)
