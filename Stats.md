@@ -154,4 +154,10 @@ $S=\sum^{n}_{i=1}(m(x_i+\bar{y})-(y_i-\bar{y}))$
 $\boxed{n=\dfrac{\sum^{n}_{i=1}(x_i-\bar{x})(y_i-\bar{y})}{\sum^{n}_{i=1}(x_i-\bar{x})^2}}$ 
 
 Covariance de x et y= $cov(x,y) = \sigma_{xy}=\dfrac{1}{n}\sum^{n}_{i=1}(x_i-\bar{x})(y_i-\bar{y})$ 
+$\boxed{r=\dfrac{\sigma_{xy}}{\sigma_x \sigma_y}} => \boxed{-1 < r < 1}$  
 
+Droite allométrique (Passe entre les deux droites)
+$y=mx+p$
+$|m|=\dfrac{\sigma_y}{\sigma_x}$
+$m\sigma_{xy}>0$ 
+$p=\bar{y}-m\bar{x}$ 
