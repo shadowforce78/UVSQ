@@ -96,15 +96,21 @@ What is the benefit of having expansion slots?
 # Small talk
 
 ## Exercice 1)
-1) Do you minde if I join you ?
-2) Do are you enjoying the conference ? 
+1) Do you mind if I join you ?
+2) How are you enjoying the conference ? 
 3) Is this your first time in Cologne?
 4) How long are you here for?
 5) What do you do, by the way?
 6) Where are you based?
-7) Have you always worked in the auto industry
-8) Do I get you a drink?
+7) Have you always worked in the auto industry?
+8) Can I get you a drink?
 9) What do you recommend?
 10) What a lovely weather
 11) Who's business?
-12) Have you been to Hong Kong
+12) Have you been to Hong Kong?
+13) Are you here for the conference?
+14) Do you know many people here?
+15) Where are you from originally?
+16) Have you seen much of the city?
+17) Who do you work for?
+18) What did you do before
