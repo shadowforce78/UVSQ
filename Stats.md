@@ -144,3 +144,14 @@ $S = \sum^{n}_{i=1}(mx_i +p -y_i)^2$
 $= \sum^{n}_{i=1}((mx_i -y_i)+p)^2$ 
 $=\sum^{n}_{i=1}((mx_i)^2+2p(mx_i -y_i)+p^2)$
 $S(p)=A+2pB-np^2$ 
+$p=\dfrac{-2B}{2n} = \dfrac{-B}{n}=\dfrac{\sum^{n}_{i=1}mx_i-y_i}{n}$
+$\boxed{p=\bar{y}-m\bar{x}}$ 
+Donc la droite de régression par la méthode des mendré carrés passe par le point moyen du nuage
+
+$S=\sum^{n}_{i=1}mx_i +p -y_i^2$ 
+$S=\sum^{n}_{i=1}(mx_i + \bar{y}-m\bar{x}-y_i)^2$ 
+$S=\sum^{n}_{i=1}(m(x_i+\bar{y})-(y_i-\bar{y}))$ 
+$\boxed{n=\dfrac{\sum^{n}_{i=1}(x_i-\bar{x})(y_i-\bar{y})}{\sum^{n}_{i=1}(x_i-\bar{x})^2}}$ 
+
+Covariance de x et y= $cov(x,y) = \sigma_{xy}=\dfrac{1}{n}\sum^{n}_{i=1}(x_i-\bar{x})(y_i-\bar{y})$ 
+
