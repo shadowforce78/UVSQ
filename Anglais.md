@@ -106,7 +106,7 @@ What is the benefit of having expansion slots?
 7) Have you always worked in the auto industry?
 8) Can I get you a drink?
 9) What do you recommend?
-10) What a lovely weather
+10) What a lovely weather!
 11) How's business?
 12) Have you been to Hong Kong?
 13) Are you here for the conference?
@@ -120,7 +120,17 @@ What is the benefit of having expansion slots?
 21) How was it like?
 22) What happened next?
 
+
 ## Exercice 2)
 1) 1
 2) 11
-3) 
+3) 4
+4) 9
+5) 10
+6) 5
+7) 3
+8) 12
+9) 8
+10) 2
+11) 6
+12) 7
