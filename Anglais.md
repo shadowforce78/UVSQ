@@ -134,3 +134,27 @@ What is the benefit of having expansion slots?
 10) 2
 11) 6
 12) 7
+
+## Exercice 4)
+1) Big isn't it? Yes massive
+2) Busy in here, ins't it? Yes crowed
+3) Interesting talk. Yes, fascinating
+4) Food's nice. Yes delicious
+
+## Exercice 5) 
+1) registration-  By the way
+2) ?
+3) ?
+4) ?
+5) ?
+6) mind - have - look
+7) happened - once
+8) want - for
+9) what 
+10) way - do
+11) wonderful - looking - forward
+12) someone - told
+13) ?
+14) reminds - me - time
+15) heard - amazing
+16) before
