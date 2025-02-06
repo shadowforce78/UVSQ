@@ -107,7 +107,7 @@ What is the benefit of having expansion slots?
 8) Can I get you a drink?
 9) What do you recommend?
 10) What a lovely weather
-11) Who's business?
+11) How's business?
 12) Have you been to Hong Kong?
 13) Are you here for the conference?
 14) Do you know many people here?
@@ -121,3 +121,6 @@ What is the benefit of having expansion slots?
 22) What happened next?
 
 ## Exercice 2)
+1) 1
+2) 11
+3) 
