@@ -89,4 +89,5 @@ Chemin critique = T1 -> T3 -> T5 -> T6 -> T7 -> T9
 ![[Drawing 2025-02-03 11.26.56.excalidraw]]
 Chemin critique : A -> E -> H -> J
 
-## Exemple 5 (GoT)
+
+# TD2
