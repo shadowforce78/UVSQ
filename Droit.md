@@ -90,3 +90,20 @@
 	10) Il est propriétaire : Droit civil
 	11) Il a été candidat au législative : Droit administratif / constitutionnel
 	12) Il a eu un PV : Droit pénal 
+
+
+## TD2
+
+1) Quelle est la date de la Constitution française actuelle ?
+	1) 4 Octobre 1958
+2) Quelle est la durée actuelle du mandat du Président de la République ?
+	1) 5 Ans
+3) Combien de mandats successifs un Président de la République peut-il exercer ?
+	1) 2 Mandats
+4) Quelle est la composition du Parlement ?
+	1) L'Assemblée Nationale et le Sénat
+5) Quelle est la durée du mandat des députés ? Des sénateurs ? Qui élit les sénateurs ? Les députés
+	1) Députés : 5 Ans, Elus par le peuple
+	2) Sénat : 6 Ans, Elus par les grands électeurs (Députés, délégués du conseil municipaux, conseillers régionaux et départementaux)
+6) Qui nomme les ministres ?
+	1) 
