@@ -149,5 +149,9 @@
 	
 3) Quelle est l'origine du drapeau tricolore ? de La Marseillaise ?
 	1) Le drapeau tricolore a été établie après la Révolution Française
-		1) Rouge et 
-	2) La Marseillaise est un chants de guerre
+		1) Rouge et Bleu pour Paris, Blanc pour la royauté => La paix
+	2) La Marseillaise est un chants de guerre 
+		1) Ecris par Rouget de Lisle
+
+4) Relevez les articles concernant les pouvoirs du Président de République vis-à-vis du Gouvernement de l'Assemblée nationale, de l'armée
+	1) Article 8 et 9
