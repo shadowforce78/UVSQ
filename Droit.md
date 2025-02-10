@@ -129,3 +129,12 @@
 	1) Le conseil constitutionnel 
 17) Qui assure l'intérim en cas de vacances de la Présidence de la République 
 	1) Président du Sénat
+18) Citez les noms et dates de mandat des présidents successifs de Vème République
+	1) **Charles de Gaulle** : 1958 -1965 - 1969
+	2) **Georges Pompidou** : 1969 - 1974
+	3) **Valéry Giscard d'Estaing** : 1974 - 1981
+	4) **François Mitterrand** : 1981 - 1988 - 1995
+	5) **Jacques Chirac** : 1995 - 2002 - 2007
+	6) **Nicolas Sarkozy** : 
+	7) **François Hollande** : 
+	8) **Emmanuel Macron** : 2017 - 2022 - 2027
