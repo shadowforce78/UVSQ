@@ -92,7 +92,7 @@
 	12) Il a eu un PV : Droit pénal 
 
 
-## TD2
+## TD2 (Partie 1)
 
 1) Quelle est la date de la Constitution française actuelle ?
 	1) 4 Octobre 1958
@@ -135,6 +135,19 @@
 	3) **Valéry Giscard d'Estaing** : 1974 - 1981
 	4) **François Mitterrand** : 1981 - 1988 - 1995
 	5) **Jacques Chirac** : 1995 - 2002 - 2007
-	6) **Nicolas Sarkozy** : 
-	7) **François Hollande** : 
+	6) **Nicolas Sarkozy** : 2007 - 2012
+	7) **François Hollande** : 2012 - 2017
 	8) **Emmanuel Macron** : 2017 - 2022 - 2027
+
+## TD2 (Partie 2)
+
+1) Article 1 : relevez les fondements de la République
+	1) Indivisible, laïque, démocratique et sociale
+	
+2) Article 2 : sur qui repose le principe de souveraineté nationale ?
+	1) Sur le peuple
+	
+3) Quelle est l'origine du drapeau tricolore ? de La Marseillaise ?
+	1) Le drapeau tricolore a été établie après la Révolution Française
+		1) Rouge et 
+	2) La Marseillaise est un chants de guerre
