@@ -106,4 +106,8 @@
 	1) Députés : 5 Ans, Elus par le peuple
 	2) Sénat : 6 Ans, Elus par les grands électeurs (Députés, délégués du conseil municipaux, conseillers régionaux et départementaux)
 6) Qui nomme les ministres ?
+	1) Le Président de la République a l'aide du Premier Ministre
+7) Qui préside le Conseil des ministres ?
+	1) Le Président de la République
+8) Qui vote les lois ?
 	1) 
