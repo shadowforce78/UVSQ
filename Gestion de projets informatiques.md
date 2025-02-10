@@ -92,3 +92,19 @@ Chemin critique : A -> E -> H -> J
 
 # TD2
 
+| A   |      | 1   |
+| --- | ---- | --- |
+| B   | A    | 2   |
+| C   | A    | 2   |
+| D   | K, B | 3   |
+| E   | C, B | 3   |
+| F   | H    | 6   |
+| G   | I    | 4   |
+| H   | G    | 5   |
+| I   | B, J | 3   |
+| J   |      | 1   |
+| K   | J    | 2   |
+| L   | E, G | 5   |
+
+
+![[Drawing 2025-02-10 11.24.38.excalidraw]]
