@@ -110,4 +110,14 @@
 7) Qui préside le Conseil des ministres ?
 	1) Le Président de la République
 8) Qui vote les lois ?
-	1) 
+	1) Le Parlement
+9) Qui met fin aux fonctions du Premier Ministre ?
+	1) Le Président de la République (Sur démission du premier ministre)
+10) Qui a l'initiative des lois?
+	1) Le gouvernement (Projet de loi), le Parlement (proposition de loi)
+11) Par qui est élu le Président de la République
+	1) Par le peuple
+12) Pourquoi le Président de la République ne peut-il pas pénétrer dans l'hémicycle de l'Assemblée Nationale ?
+	1) Pour respecter la séparation des pouvoirs
+13) Quand l'article 16 a-t-il été appliqué ?
+	1) Le Président de la République prend les pleins pouvoir
