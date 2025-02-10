@@ -120,4 +120,12 @@
 12) Pourquoi le Président de la République ne peut-il pas pénétrer dans l'hémicycle de l'Assemblée Nationale ?
 	1) Pour respecter la séparation des pouvoirs
 13) Quand l'article 16 a-t-il été appliqué ?
-	1) Le Président de la République prend les pleins pouvoir
+	1) Le Président de la République prend les pleins pouvoir (Charles de Gaulle en 1961)
+14) Qui peut renverser le Gouvernement ?
+	1) L'Assemblé Nationale
+15) Quelles sont les conséquences du renversement du Gouvernement ?
+	1) Nouveau premier ministre et nouveau Gouvernement, un nouveau gouvernement est nommé
+16) Quelle institution vérifie la conformité d'une loi à la Constitution
+	1) Le conseil constitutionnel 
+17) Qui assure l'intérim en cas de vacances de la Présidence de la République 
+	1) Président du Sénat
