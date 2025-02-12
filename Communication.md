@@ -196,4 +196,22 @@ Le slogan **"Le ridicule tue"** dénonce avec ironie et provocation l’industri
 	
 	Ainsi, la problématique centrale pourrait être : **Le vintage est-il un simple effet de mode ou reflète-t-il une mutation profonde des valeurs et des pratiques sociales ?**
 
-3) 
+3) Le **document 1** me paraît le plus riche pour commencer l’analyse, car il pose les bases sociologiques et culturelles du phénomène vintage.
+
+	### Pourquoi ?
+	
+	- **Il définit clairement le vintage** comme une tendance qui touche non seulement la mode, mais aussi le mobilier, la musique et la culture en général.
+	- **Il donne une perspective générationnelle**, en opposant la perception du vintage par la génération Y et celle des baby-boomers.
+	- **Il introduit des enjeux sociétaux** : nostalgie, recherche d’authenticité, équilibre entre modernité et passé.
+	- **Il est plus global et structurant**, permettant d’introduire les autres documents en complément (le document 2 sur la mode, le document 3 sur l’événementiel et le document 4 sur la critique du vintage).
+	
+	Ainsi, commencer par le **document 1** permettrait d’avoir une vision d’ensemble avant d’affiner l’analyse avec les autres textes.
+
+4) 
+
+|           | Indications de paratexte                                                           | Nature du texte                                    | Éléments à étudier et idées clés en lien avec la problématique                                                                                                                                                        |
+| --------- | ---------------------------------------------------------------------------------- | -------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Doc 1** | Philothée Gaymard, _Le vintage. Le monde expliqué aux vieux_, Éditions 10/18, 2013 | Extrait d’un essai sociologique                    | Définition du vintage et son ancrage générationnel. Opposition entre générations sur la perception du vintage. Vision du vintage comme un mode de vie plus qu’une simple mode.                                        |
+| **Doc 2** | Aude Lasjaunias, _M, le magazine du Monde_, 5 juillet 2012                         | Interview d’un spécialiste du vintage dans la mode | Le vintage comme phénomène de distinction sociale et de quête d’exclusivité. Critique des tendances éphémères de la mode contemporaine. Le vêtement vintage vu comme un patrimoine culturel.                          |
+| **Doc 3** | Affiche de l’édition 2014 de l’Anjou Vélo Vintage                                  | Document iconographique (affiche publicitaire)     | Illustration du vintage dans les événements culturels et sportifs. Mise en scène d’un mode de vie rétro valorisé. Preuve que le vintage est devenu un phénomène collectif et populaire.                               |
+| **Doc 4** | Nathalie Sarraute, _Le Planétarium_, Éditions Gallimard, 1959                      | Extrait de roman                                   | Regard critique sur l’obsession pour les objets anciens. Vision du vintage comme une fuite du réel et une perte de temps. Opposition entre passion pour le vintage et préoccupations matérielles et professionnelles. |
