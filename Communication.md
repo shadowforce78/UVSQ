@@ -160,3 +160,40 @@ Le slogan **"#JeNeSupportePasLesBleus"** joue sur un double sens marquant. À pr
 
 ![[Pasted image 20250129160855.png]]
 Le slogan **"Le ridicule tue"** dénonce avec ironie et provocation l’industrie de la fourrure. L’image d’une femme portant un simple bandeau de fourrure en guise de vêtement met en évidence l’absurdité de tuer des animaux pour un accessoire de mode. Le contraste entre le luxe apparent du sac et la nudité partielle accentue le message : porter de la fourrure est non seulement inutile mais aussi moralement condamnable. L’ajout du chiffre **"50 millions d’animaux tués par an"** renforce l’impact en soulignant l’ampleur du massacre. Cette campagne vise à sensibiliser et inciter à renoncer à la fourrure pour des choix vestimentaires plus éthiques.
+
+# Méthode note de synthèse 
+
+1) Le thème commun aux documents du dossier est le **vintage**. Plusieurs indices permettent de l’identifier :
+
+	- **Le titre du dossier** mentionne explicitement "DOSSIER THÉMATIQUE SUR LE VINTAGE".
+	- **Les documents analysent différents aspects du vintage** : son influence dans la mode (document 2), son impact culturel et sociologique (document 1), et même son rôle dans des événements comme l’Anjou Vélo Vintage (document 3).
+	- **Les références aux objets anciens** : meubles des années 50, vêtements haute couture d’époque, vinyles, vélos anciens, etc.
+	- **Les débats générationnels sur le vintage** : la perception différente entre les jeunes et leurs parents (document 1 et 4).
+	
+	En somme, le dossier explore comment le vintage est devenu un phénomène culturel, esthétique et économique dans la société contemporaine.
+
+2) La problématique qui se dégage du rapprochement de ces documents pourrait être :
+	
+	**"Le vintage est-il une simple mode nostalgique ou traduit-il une véritable transformation des valeurs et des modes de consommation contemporains ?"**
+	
+	### Justification :
+	
+	1. **Un phénomène culturel et sociologique** (Doc 1)
+	    
+	    - Le vintage est vu comme un mode de vie propre à la génération Y, qui mélange passé et modernité.
+	    - Il traduit une recherche d’authenticité et d’enracinement dans un monde ultra-connecté.
+	2. **Un choix esthétique et identitaire** (Doc 2)
+	    
+	    - Le vintage dans la mode est recherché pour son exclusivité et son intemporalité.
+	    - Il s’oppose aux diktats des tendances éphémères.
+	3. **Un phénomène valorisé par des événements et des pratiques** (Doc 3)
+	    
+	    - L’Anjou Vélo Vintage illustre l’engouement collectif pour les objets et les pratiques d’un autre temps.
+	4. **Un débat générationnel et une remise en question** (Doc 4)
+	    
+	    - Certains perçoivent le vintage comme une fuite du présent ou un attachement excessif au passé.
+	    - Il interroge sur l’opposition entre innovation et tradition.
+	
+	Ainsi, la problématique centrale pourrait être : **Le vintage est-il un simple effet de mode ou reflète-t-il une mutation profonde des valeurs et des pratiques sociales ?**
+
+3) 
