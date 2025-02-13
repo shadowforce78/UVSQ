@@ -162,52 +162,64 @@ What is the benefit of having expansion slots?
 
 # Small Talk /w Bryan
 
-**Bryan**: Hey Adam! Long time no see! How are you?
+**Bryan**: Hey, is this seat taken?
 
-**Adam**: Hey Bryan! I’m good, thanks. And you?
+**Adam**: Oh no, go ahead!
 
-**Bryan**: I’m good too. Just a bit busy with work.
+**Bryan**: Thanks! By the way, I’m Bryan.
 
-**Adam**: Yeah, me too. Work has been a little crazy.
+**Adam**: Nice to meet you, Bryan. I’m Adam.
 
-**Bryan**: I know what you mean. Do you have any plans for the weekend?
+**Bryan**: Nice to meet you too! Do you come here often?
 
-**Adam**: Not sure yet. Maybe I’ll stay at home and watch some movies or play video games. What about you?
+**Adam**: Yeah, sometimes. It’s a nice place to relax. What about you?
 
-**Bryan**: I might go to the park or meet some friends.
+**Bryan**: First time here, actually. I was just looking for a quiet spot.
 
-**Bryan** : Is Counter Strike still your favourite game ?
+**Adam**: Yeah, I get that. Do you live nearby?
 
-**Adam** : Yes it's still my favourite game despite the fact that I haven
+**Bryan**: Not really, I was just in the area. What about you?
 
-**Adam**: That sounds nice. The weather is good this weekend.
+**Adam**: I live a few blocks away. I like to come here to read or just chill.
 
-**Bryan**: Yeah! It’s a good time to go outside.
+**Bryan**: Oh, you like reading? What kind of books do you read?
 
-**Adam**: By the way, did you watch the game last night?
+**Adam**: Mostly fiction, sometimes sci-fi. How about you?
 
-**Bryan**: No, I missed it! Who won?
+**Bryan**: I don’t read a lot, but I do like sci-fi movies.
 
-**Adam**: Our team won! It was a great match!
+**Adam**: Oh, nice! Any favorites?
 
-**Bryan**: That’s awesome! I’ll check the highlights later.
+**Bryan**: Maybe _Interstellar_. I love space movies.
 
-**Adam**: Yeah, you should. So, how is your family?
+**Adam**: That’s a great one! Have you seen _Inception_?
 
-**Bryan**: They’re good, thanks for asking. And yours?
+**Bryan**: Yeah! Same director, right? It was mind-blowing.
 
-**Adam**: They’re good too. My sister just started a new job.
+**Adam**: Exactly! I love movies that make you think.
 
-**Bryan**: Oh, that’s great! What does she do?
+**Bryan**: Me too. By the way, do you play video games?
 
-**Adam**: She works in a small café. She really likes it.
+**Adam**: Yeah, sometimes. Mostly Counter-Strike, even if I haven’t played in a while.
 
-**Bryan**: That’s cool! Maybe I’ll visit one day.
+**Bryan**: No way! I used to play a lot too. We should play together sometime.
 
-**Adam**: Yeah, for sure! Anyway, I need to go now. It was nice talking to you!
+**Adam**: That would be cool!
 
-**Bryan**: Yeah! Let’s meet again soon!
+**Bryan**: What do you do for work, by the way?
 
-**Adam**: Definitely! See you later!
+**Adam**: I work in IT, mostly software stuff. What about you?
 
-**Bryan**: See you!
+**Bryan**: Oh, nice! I work in marketing. Very different, but interesting.
+
+**Adam**: Yeah, sounds cool. So, do you have any plans for the weekend?
+
+**Bryan**: Not sure yet. Maybe just relax, maybe go out. You?
+
+**Adam**: Same here. Maybe I’ll stay home and watch some movies.
+
+**Bryan**: If you’re up for a game, just let me know!
+
+**Adam**: Sure! It was nice meeting you, Bryan.
+
+**Bryan**: You too, Adam! See you around.
