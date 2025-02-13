@@ -215,3 +215,7 @@ Rappel : le trinôme $AX^2+BX+C$ (A>0)
 ## Exercice 8)
 
 $E(\dfrac{1}{x})$ 
+$\boxed{H=\dfrac{1}{E(\dfrac{1}{x})}}=\dfrac{N}{\sum^P_{i=1}\dfrac{n_i}{x_i}}$
+
+## Exercice 9) 
+
