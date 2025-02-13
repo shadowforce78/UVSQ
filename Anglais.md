@@ -162,3 +162,52 @@ What is the benefit of having expansion slots?
 
 # Small Talk /w Bryan
 
+**Bryan**: Hey Adam! Long time no see! How are you?
+
+**Adam**: Hey Bryan! I’m good, thanks. And you?
+
+**Bryan**: I’m good too. Just a bit busy with work.
+
+**Adam**: Yeah, me too. Work has been a little crazy.
+
+**Bryan**: I know what you mean. Do you have any plans for the weekend?
+
+**Adam**: Not sure yet. Maybe I’ll stay at home and watch some movies or play video games. What about you?
+
+**Bryan**: I might go to the park or meet some friends.
+
+**Bryan** : Is Counter Strike still your favourite game ?
+
+**Adam** : Yes it's still my favourite game despite the fact that I haven
+
+**Adam**: That sounds nice. The weather is good this weekend.
+
+**Bryan**: Yeah! It’s a good time to go outside.
+
+**Adam**: By the way, did you watch the game last night?
+
+**Bryan**: No, I missed it! Who won?
+
+**Adam**: Our team won! It was a great match!
+
+**Bryan**: That’s awesome! I’ll check the highlights later.
+
+**Adam**: Yeah, you should. So, how is your family?
+
+**Bryan**: They’re good, thanks for asking. And yours?
+
+**Adam**: They’re good too. My sister just started a new job.
+
+**Bryan**: Oh, that’s great! What does she do?
+
+**Adam**: She works in a small café. She really likes it.
+
+**Bryan**: That’s cool! Maybe I’ll visit one day.
+
+**Adam**: Yeah, for sure! Anyway, I need to go now. It was nice talking to you!
+
+**Bryan**: Yeah! Let’s meet again soon!
+
+**Adam**: Definitely! See you later!
+
+**Bryan**: See you!
