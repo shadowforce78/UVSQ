@@ -201,4 +201,17 @@ $\bar x = \dfrac{1}{N} \sum^{P}_{n=i}n_ix_i=\dfrac{1}{8}(2\times 2 +4\times 3 +1
 $\bar y= 5$ (à la maison)
 
 $\Gamma_x(a)=\sum^{4}_{i=1}n_i(a-x_i)^2$ 
-	$=\sum^{} $
+	$=\sum^{P}_{i=1}n_i(a^2-2a x_i+x_i^2)$
+	$=a^2\sum^{P}_{i=1}-2a\sum^{P}_{i=1}n_ix_i+\sum^P_{i=1}n_ix_i^2$ 
+$\Gamma_x(a)=Na^2-2N\bar x a + N E(x^2)$	 
+
+Donc : $\dfrac{\Gamma_x(a)}{N}=a^2-2\bar x a+E(x^2)$
+
+Rappel : le trinôme $AX^2+BX+C$ (A>0)
+	est min pour $X=-\dfrac{B}{2A}$
+	$\Gamma_x(a)$ est min pour $a=-\dfrac{-2\bar x}{2}=\bar x$ 
+	= var(x)
+
+## Exercice 8)
+
+$E(\dfrac{1}{x})$ 
