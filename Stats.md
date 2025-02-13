@@ -189,3 +189,16 @@ Si $a\in]2;3] \ \ S_x(a)=2(a-2)+4(3-a)+(4-a)+(6-a)=-4a+18$
 Si $a\in]3;4] \ \ S_x(a)=2(a-2)+4(a-3)+(4-a)+(6-a)=4a-6$ 
 Si $a\in]4;6] \ \ S_x(a) = 2(a-2)+4(a-3)+(a-4)+(6-a)=6a-14$
 Si $a>6 \ \ S_x(a)=2(a-2)+4(a-3)+(a-4)+(a-6)=8a-26$ 
+
+![[Pasted image 20250213151408.png]]
+
+$S_x(a)$ est min lorsqu'on choisit $a=M_x$ la médiane
+Alors : $\dfrac{1}{N}S_x(a=M_x)$ est la moyenne des valeurs absolue d'écart par rapport à la médiane 
+C'est un indicateur de dispersion
+
+Moyennes :
+$\bar x = \dfrac{1}{N} \sum^{P}_{n=i}n_ix_i=\dfrac{1}{8}(2\times 2 +4\times 3 +1 \times 4 +1 \times 6)=\dfrac{26}{8}=\dfrac{13}{4}=3.25$
+$\bar y= 5$ (à la maison)
+
+$\Gamma_x(a)=\sum^{4}_{i=1}n_i(a-x_i)^2$ 
+	$=\sum^{} $
