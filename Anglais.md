@@ -158,3 +158,7 @@ What is the benefit of having expansion slots?
 14) reminds - me - time
 15) heard - amazing
 16) before
+
+
+# Small Talk /w Bryan
+
