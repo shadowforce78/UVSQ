@@ -155,12 +155,34 @@
 
 4) Relevez les articles concernant les pouvoirs du Président de République vis-à-vis du Gouvernement de l'Assemblée nationale, de l'armée
 	1) Article 8 et 9
+	
 5) Que signifie l'article 16 ? Quelle est la différence avec l'état d'urgence ? Durant quelle période récente l'état d'urgence a-t-il été déclarer en France
 	1) Cf TD 2 part 1 q13
+	
 6) Quels sont les pouvoirs du Gouvernement vis-à-vis de l'administration ? de l'armée ?
 	1) Pour l'administration, il conduit la politique de la nation et est responsable devant le Parlement
 	2) Pour l'armée, il dispose de l'administration et de la force armée
+	
 7) Quelles sont les fonctions du premier ministre ?
 	1) Il dirige le Gouvernement, la défense nationale, l'exécution des lois.
+	
 8) Quel est le rôle du Parlement d'après la Constitution
-	1) Il vote la loi, contrôle l'action du Gouvernement, évalue les politiques du 
+	1) Il vote la loi, contrôle l'action du Gouvernement, évalue les politiques publiques.
+	
+9) Pourquoi les séances du Sénat et de l'Assemblé Nationale sont-elles publiques
+	1) Pour que le peuple puisse vérifier le fonctionnement du pays
+
+10) Qui peut être a l'origine d'une loi ?
+	1) Premier ministre et Parlement
+
+11) Que signifie le droit d'amendement (Article 44) ?
+	1) Le parlement peut modifier un projet de loi (Amendement = modification)
+
+12) Quel peut être l'intérêt de légiférer par ordonnance ?
+	1) Pour accélérer le processus législatif
+
+13) Comment un Gouvernement peut-il être renversé d'après la Constitution (articles 49 et 50) ? Donnez un exemple récent
+	1) Avec une motion de censure, exemple de Michel Barnier fin 2024
+
+14) Quel est le rôle du Conseil constitutionnel d'après l'article 61 ?
+	1) 
