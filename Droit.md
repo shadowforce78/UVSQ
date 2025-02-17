@@ -185,4 +185,7 @@
 	1) Avec une motion de censure, exemple de Michel Barnier fin 2024
 
 14) Quel est le rôle du Conseil constitutionnel d'après l'article 61 ?
-	1) 
+	1) Déférée les lois avant la promulgation
+
+15) Que signifie la première phrase de l'article 62 ?
+	1) Que les décisions ne peuvent être changées
