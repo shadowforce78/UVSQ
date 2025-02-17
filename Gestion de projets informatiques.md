@@ -186,4 +186,11 @@ DRCI = Délai de récupération des capitaux investis
 DRCI entre année 1 et 2
 	A la fin de l'année 1 => il manque 18000€ (-85000+67000)
 	Durant l'année 2 => le projet rapport 67000€, soit $\dfrac{67000}{365}$€/jour 
-	$\df
+	$\dfrac{18000}{67000/365}=98.06$ 
+	DRCI = 1 an et 99 jours <= on arrondie au jour suivant
+
+Limite de la formule du calcul de DRCI
+	On peut remettre en cause : 
+		L'hypothèse selon laquelle le projet rapport des gains 365j/an
+		L'hypothèse selon laquelle les projet rapport des montants identiques chaque jour
+		Le fait que les données se soient pas actualisées
