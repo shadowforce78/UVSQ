@@ -125,17 +125,19 @@ Chemin critique : A -> E -> H -> J
 ![[Drawing 2025-02-14 11.47.04.excalidraw]] 
 
 
-| semaines     | 1    | 2   | 3   | 4    | 5    | 6   | 7   | 8   | 9   | 10  | $\sum$ Total (k€) |
-| ------------ | ---- | --- | --- | ---- | ---- | --- | --- | --- | --- | --- | ----------------- |
-| A            | 2.5  | 2.5 |     |      |      |     |     |     |     |     | 5                 |
-| B            |      |     | 2   | 2    | 2    | 2   | 2   | 2   |     |     | 12                |
-| C            |      |     | 2   | 2    | 2    | 2   | 2   |     |     |     | 10                |
-| D            |      |     |     |      |      |     |     | 3   | 3   | 3   | 9                 |
-| VP           | 2.5  | 5   | 9   | 13   | 17   | 21  | 25  | 30  | 33  | 36  | 36 = BAA          |
-| CR           | 3    | 5   | 8   | 14   | 18   |     |     |     |     |     |                   |
-| VA           | (1)  | (2) | (3) | (4)  | (5)  |     |     |     |     |     |                   |
-| ED = VA - VP | -0.5 | 0   | +1  | +0.2 | -0.4 |     |     |     |     |     |                   |
-| EC = VA - CR | -1   | 0   | +2  |      |      |     |     |     |     |     |                   |
+| semaines     | 1    | 2   | 3   | 4    | 5    | 6                   | 7   | 8   | 9   | 10  | $\sum$ Total (k€) |
+| ------------ | ---- | --- | --- | ---- | ---- | ------------------- | --- | --- | --- | --- | ----------------- |
+| A            | 2.5  | 2.5 |     |      |      |                     |     |     |     |     | 5                 |
+| B            |      |     | 2   | 2    | 2    | 2                   | 2   | 2   |     |     | 12                |
+| C            |      |     | 2   | 2    | 2    | 2                   | 2   |     |     |     | 10                |
+| D            |      |     |     |      |      |                     |     | 3   | 3   | 3   | 9                 |
+| VP           | 2.5  | 5   | 9   | 13   | 17   | 21                  | 25  | 30  | 33  | 36  | 36 = BAA          |
+| CR           | 3    | 5   | 8   | 14   | 18   |                     |     |     |     |     |                   |
+| VA           | (1)  | (2) | (3) | (4)  | (5)  |                     |     |     |     |     |                   |
+| ED = VA - VP | -0.5 | 0   | +1  | +0.2 | -0.4 | <= retard           |     |     |     |     |                   |
+| EC = VA - CR | -1   | 0   | +2  | -0.8 | -1.4 | <= sur-consommation |     |     |     |     |                   |
+
+
 
 (1) = 40% X 5 = 2 
 (2) = 100% X 5 = 5
@@ -148,6 +150,11 @@ VP = Valeur planifié
 ED = Ecart de délai
 EC = Ecart de cout
 
+Finir semaine 5 : 
+	J'ai prévu de dépenser 17k€ ($VP_5$)
+	J'ai réellement dépensé 18k€ ($CR_5$) 
+	Compte tenu du travail technique réellement effectué, j'aurais dû dépenser 16.6k€ ($VA_5$)
+	
 
 | Tâche | Semaine        | 1        | 2         | 3        | 4        | 5        |
 | ----- | -------------- | -------- | --------- | -------- | -------- | -------- |
@@ -155,8 +162,6 @@ EC = Ecart de cout
 | B     | Réel % achevée |          |           | 1<br>25% | 4<br>35% | 2<br>55% |
 | C     | Réel % achevée |          |           | 2<br>20% | 2<br>40% | 2<br>50% |
 
-Finir semaine 5 : 
-	J'ai prévu de dépenser 17k€ ($VP_5$)
-	J'ai réellement dépensé 18k€ ($CR_5$) 
-	Compte tenu du travail technique réellement effectué, j'aurais dû dépenser 16.6k€ ($VA_5$)
-	
+Prévision pour la fin de projet en semaine 5 :
+	$PAA_5$ = $CR_5$ + ($BAA-VA_5$) = 18 + (36-16.6) = 37.4k€
+	Sans nouveau incident sur le projet, je prévois en semaine 5 de terminer le projet avec un budget de 37.4k€ au lieu de 36k€ (=BAA) doit un dépassement budgétaire de +1.4k€, soit $\dfrac{1.4}{36}=$ 3.9%
