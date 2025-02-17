@@ -155,3 +155,12 @@
 
 4) Relevez les articles concernant les pouvoirs du Président de République vis-à-vis du Gouvernement de l'Assemblée nationale, de l'armée
 	1) Article 8 et 9
+5) Que signifie l'article 16 ? Quelle est la différence avec l'état d'urgence ? Durant quelle période récente l'état d'urgence a-t-il été déclarer en France
+	1) Cf TD 2 part 1 q13
+6) Quels sont les pouvoirs du Gouvernement vis-à-vis de l'administration ? de l'armée ?
+	1) Pour l'administration, il conduit la politique de la nation et est responsable devant le Parlement
+	2) Pour l'armée, il dispose de l'administration et de la force armée
+7) Quelles sont les fonctions du premier ministre ?
+	1) Il dirige le Gouvernement, la défense nationale, l'exécution des lois.
+8) Quel est le rôle du Parlement d'après la Constitution
+	1) Il vote la loi, contrôle l'action du Gouvernement, évalue les politiques du 
