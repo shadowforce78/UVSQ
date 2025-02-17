@@ -165,3 +165,25 @@ Finir semaine 5 :
 Prévision pour la fin de projet en semaine 5 :
 	$PAA_5$ = $CR_5$ + ($BAA-VA_5$) = 18 + (36-16.6) = 37.4k€
 	Sans nouveau incident sur le projet, je prévois en semaine 5 de terminer le projet avec un budget de 37.4k€ au lieu de 36k€ (=BAA) doit un dépassement budgétaire de +1.4k€, soit $\dfrac{1.4}{36}=$ 3.9%
+
+
+
+# Analyse des coûts d'un projet
+
+IO = Investissement initial du projet (cout du projet)
+FTi = Flux de trésorerie généré par le projet et en année (= gain net du projet) 
+a = taux d'actualisation
+N = durée de vie du projet
+VAN = Valeur actualisé Nette
+
+VAN = -IO + $\dfrac{FTi}{1+a}+\dfrac{FTi}{(1+a)^2}+\dfrac{FTi}{(1+a)^3} + .... + \dfrac{FTi}{(1+a)^N}$ 
+VAN = -IO + $\sum^{N}_{i=1}\dfrac{FTi}{(1+a)^i}$ 
+
+Si VAN > 0, le projet est rentable
+
+DRCI = Délai de récupération des capitaux investis
+
+DRCI entre année 1 et 2
+	A la fin de l'année 1 => il manque 18000€ (-85000+67000)
+	Durant l'année 2 => le projet rapport 67000€, soit $\dfrac{67000}{365}$€/jour 
+	$\df
