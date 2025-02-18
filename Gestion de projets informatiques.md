@@ -193,4 +193,4 @@ Limite de la formule du calcul de DRCI
 	On peut remettre en cause : 
 		L'hypothèse selon laquelle le projet rapport des gains 365jour par an
 		L'hypothèse selon laquelle les projet rapport des montants identiques chaque jour
-		Le fait que les données se soient pas actualisées
+		Le fait que les données ne se soient pas actualisées
