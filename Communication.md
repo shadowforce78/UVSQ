@@ -286,7 +286,7 @@ Partie 2
 	- La jeunesse parisienne (doc 1) le jeune couple (doc 4 et 3)
 	- La jeunesse du monde entier (doc 1)
 	- Les jeunes femmes et hommes (doc 1-3-4)
-	- Les jeunes d'ajd (doc 1) et d'hier (doc 4)
+	- Les jeunes d'aujourd'hui (doc 1) et d'hier (doc 4)
 
 - Une incompréhension des parents
 	- Un phénomène régressif qui va contre l'idée du progrès (doc 1)
