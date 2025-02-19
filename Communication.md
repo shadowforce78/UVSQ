@@ -293,5 +293,7 @@ Partie 2
 	- tendance considérée comme une lubie, un caprice, perte de temps (doc 4)
 
 Partie 3
-- Les raisons plus profondes d'un tel engouement
-	- 
+- L'expression de la nostalgie pour un passé porteur d'histoire
+	- Faire revivre une France éternelle puisant dans les clichés des temps anciens (doc 3) "revenir aux vraies valeurs"
+	- Chérir les temps anciens (doc 4)
+	- Mettre a distance la société actuelle en plongeant dans le passé (doc 1)
