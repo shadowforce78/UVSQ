@@ -261,6 +261,7 @@ Le vintage est devenu un phénomène incontournable, touchant aussi bien la mode
 
 # Correction :
 
+Partie 1 :
 -  Les objets et la mode :
 	 - Les vêtements : se vêtir a la mode de l'ancien temps (doc 1) même si cela est fait de manière ponctuelle et festive (doc 3), porter des tenues de haute couture  remontant a plusieurs décennies (doc 2)
 	 
@@ -273,3 +274,24 @@ Le vintage est devenu un phénomène incontournable, touchant aussi bien la mode
 	- La musique (doc 1)
 	- Le cinéma et série (doc 1)
 	- La photographie 
+
+
+- Le mode de vie
+	- Rouler a velo (doc 3)
+	- Courir les anthiquaire (doc 1)
+	- Se rendre dans les musées (doc 4)
+
+Partie 2
+- Les jeunes au coeur du phénomène
+	- La jeunesse parisienne (doc 1) le jeune couple (doc 4 et 3)
+	- La jeunesse du monde entier (doc 1)
+	- Les jeunes femmes et hommes (doc 1-3-4)
+	- Les jeunes d'ajd (doc 1) et d'hier (doc 4)
+
+- Une incompréhension des parents
+	- Un phénomène régressif qui va contre l'idée du progrès (doc 1)
+	- tendance considérée comme une lubie, un caprice, perte de temps (doc 4)
+
+Partie 3
+- Les raisons plus profondes d'un tel engouement
+	- 
