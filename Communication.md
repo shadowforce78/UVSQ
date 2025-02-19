@@ -215,3 +215,45 @@ Le slogan **"Le ridicule tue"** dénonce avec ironie et provocation l’industri
 | **Doc 2** | Aude Lasjaunias, _M, le magazine du Monde_, 5 juillet 2012                         | Interview d’un spécialiste du vintage dans la mode | Le vintage comme phénomène de distinction sociale et de quête d’exclusivité. Critique des tendances éphémères de la mode contemporaine. Le vêtement vintage vu comme un patrimoine culturel.                          |
 | **Doc 3** | Affiche de l’édition 2014 de l’Anjou Vélo Vintage                                  | Affiche Publicitaire                               | Illustration du vintage dans les événements culturels et sportifs. Mise en scène d’un mode de vie rétro valorisé. Preuve que le vintage est devenu un phénomène collectif et populaire.                               |
 | **Doc 4** | Nathalie Sarraute, _Le Planétarium_, Éditions Gallimard, 1959                      | Extrait de roman                                   | Regard critique sur l’obsession pour les objets anciens. Vision du vintage comme une fuite du réel et une perte de temps. Opposition entre passion pour le vintage et préoccupations matérielles et professionnelles. |
+
+### **Introduction**
+
+Le vintage est devenu un phénomène incontournable, touchant aussi bien la mode, le design, la musique que les modes de consommation. Mais au-delà d’une simple tendance esthétique, il soulève des interrogations profondes sur les valeurs contemporaines. S’agit-il d’une simple nostalgie ou d’un véritable changement sociétal ? À travers l’analyse des documents du dossier, nous verrons comment le vintage oscille entre effet de mode et transformation des pratiques culturelles et économiques.
+
+---
+
+### **PARTIE 1 : Le vintage, une quête d’authenticité et de distinction**
+
+**Idée directrice :** Le vintage séduit par son caractère unique, sa qualité et son authenticité, en opposition à la production de masse et à la fast fashion.
+
+1. **Un retour aux sources et une recherche d’authenticité**
+    
+    - Le vintage comme réponse à la standardisation des objets et à la production industrielle (Doc 1).
+    - La volonté de posséder des objets chargés d’histoire, perçus comme plus durables et authentiques (Doc 2).
+2. **Un marqueur identitaire et social**
+    
+    - Le vintage utilisé comme un outil de distinction sociale dans la mode et le design (Doc 2).
+    - La volonté d’affirmer une singularité à travers des choix esthétiques rétro (Doc 1).
+3. **Un phénomène valorisé par des événements et des pratiques collectives**
+    
+    - Le succès de manifestations comme l’Anjou Vélo Vintage illustre l’attrait du collectif pour un mode de vie rétro (Doc 3).
+    - Le vintage n’est pas qu’une affaire individuelle, mais une tendance culturelle de masse.
+
+---
+
+### **PARTIE 2 : Entre nostalgie et critique du présent, une tendance qui divise**
+
+**Idée directrice :** Si le vintage est plébiscité, il suscite aussi des débats : certains y voient une fuite du présent et une idéalisation du passé.
+
+1. **Un regard nostalgique sur le passé**
+    
+    - Le vintage repose sur une idéalisation des décennies passées, souvent perçues comme plus authentiques et élégantes (Doc 1).
+    - Il témoigne d’un rejet du présent jugé trop rapide, consumériste et impersonnel (Doc 2).
+2. **Une fuite du réel ou un frein à l’innovation ?**
+    
+    - Certains considèrent que l’attachement au vintage empêche d’aller de l’avant et d’embrasser les innovations modernes (Doc 4).
+    - Opposition entre nostalgie rassurante et nécessité de vivre avec son époque.
+3. **Un effet de mode ou un changement durable ?**
+    
+    - Si le vintage est omniprésent aujourd’hui, il pourrait s’agir d’une simple tendance passagère (Doc 1).
+    - Cependant, son intégration dans de nombreux domaines (mode, musique, design) laisse penser à une évolution durable des pratiques culturelles.
