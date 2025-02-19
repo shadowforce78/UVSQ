@@ -307,4 +307,12 @@ Partie 4
 
 INTRODUCTION :
 
-	
+	Annoncer le thème du corpus
+	Présenter l'ensemble des documents
+	Annoncer la problématique
+	Annoncer le plan
+
+
+CONCLUSION :
+
+	Reprendre les grandes idées de la note de synthèse en répondant à la problématique 
