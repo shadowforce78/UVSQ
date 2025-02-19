@@ -257,3 +257,19 @@ Le vintage est devenu un phénomène incontournable, touchant aussi bien la mode
     
     - Si le vintage est omniprésent aujourd’hui, il pourrait s’agir d’une simple tendance passagère (Doc 1).
     - Cependant, son intégration dans de nombreux domaines (mode, musique, design) laisse penser à une évolution durable des pratiques culturelles.
+
+
+# Correction :
+
+-  Les objets et la mode :
+	 - Les vêtements : se vêtir a la mode de l'ancien temps (doc 1) même si cela est fait de manière ponctuelle et festive (doc 3), porter des tenues de haute couture  remontant a plusieurs décennies (doc 2)
+	 
+	 - Les meubles d'un ancien temps : les meubles de Pierre Paulin (doc 1) la bergère d'époque (doc 4)
+
+	- Les vélos, vielles voitures : (doc 3)
+
+
+- Les arts :
+	- La musique (doc 1)
+	- Le cinéma et série (doc 1)
+	- La photographie 
