@@ -297,3 +297,14 @@ Partie 3
 	- Faire revivre une France éternelle puisant dans les clichés des temps anciens (doc 3) "revenir aux vraies valeurs"
 	- Chérir les temps anciens (doc 4)
 	- Mettre a distance la société actuelle en plongeant dans le passé (doc 1)
+
+Partie 4
+- Une cohabitation entre modernité et tradition
+	- Le vintage ne signifie pas le rejet de toute forme de modernité, les deux cohabitent (vinyle avec prise iPod (doc 1))  
+	- Le vintage a une dimension festive ce n'est pas au quotidien (doc 3)
+	- Faire de l'ancien quelque chose d'intemporel (doc 2)
+
+
+INTRODUCTION :
+
+	
