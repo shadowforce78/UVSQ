@@ -269,3 +269,26 @@ Soit le nuage de points suivant :
 1) Représenter le nuage de points
 2) Déterminer l'équation de la droite de régression obtenue par la méthode de Mayer
 3) Tracer la Droit de Mayer
+
+## Exercice 13)
+
+Soit $x;y$ une série statistique double 
+
+1) Démontrer que : 
+$cov(x,y)=\dfrac{1}{n}\sum^{i=n}_{i=1}(\bar x x_i)(\bar y -y_i) = \dfrac{1}{n}\sum^{i=n}_{i=i}x_i y_i - \bar x \bar y$ 
+- Départ : `cov(x, y) = (1/n) Σ(xi - x̄)(yi - ȳ)`
+- Développement : `(xi - x̄)(yi - ȳ) = xi*yi - xi*ȳ - x̄*yi + x̄*ȳ`
+- Somme : `Σ(xi - x̄)(yi - ȳ) = Σ(xi*yi) - ȳ*Σ(xi) - x̄*Σ(yi) + Σ(x̄*ȳ)`
+- Simplification (Σ(xi) = n_x̄, Σ(yi) = n_ȳ) : `Σ(xi - x̄)(yi - ȳ) = Σ(xi*yi) - n*x̄*ȳ`
+- Division par n : `(1/n) Σ(xi - x̄)(yi - ȳ) = (1/n) Σ(xi*yi) - x̄*ȳ`
+- **Conclusion : cov(x,y) = (1/n) Σ(xi - x̄)(yi - ȳ) = (1/n) Σxi yi - x̄ ȳ**
+
+
+1) Démontrer que si y = $ax+b$ alors $\sigma_{x,y}=a\sigma^2_x$ 
+
+- Départ : `σxy = (1/n) Σ(xi - x̄)(yi - ȳ)` et `y = ax + b => yi = axi + b et ȳ = a*x̄ + b`
+- Substitution : `σxy = (1/n) Σ(xi - x̄)((axi + b) - (a*x̄ + b))`
+- Simplification : `σxy = (1/n) Σ(xi - x̄)(a(xi - x̄))`
+- Factorisation : `σxy = (a/n) Σ(xi - x̄)²`
+- Reconnaissance : `σ²x = (1/n) Σ(xi - x̄)²`
+- **Conclusion : σxy = a * σ²x**
