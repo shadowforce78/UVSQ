@@ -276,19 +276,25 @@ Soit $x;y$ une série statistique double
 
 1) Démontrer que : 
 $cov(x,y)=\dfrac{1}{n}\sum^{i=n}_{i=1}(\bar x x_i)(\bar y -y_i) = \dfrac{1}{n}\sum^{i=n}_{i=i}x_i y_i - \bar x \bar y$ 
-- Départ : `cov(x, y) = (1/n) Σ(xi - x̄)(yi - ȳ)`
-- Développement : `(xi - x̄)(yi - ȳ) = xi*yi - xi*ȳ - x̄*yi + x̄*ȳ`
-- Somme : `Σ(xi - x̄)(yi - ȳ) = Σ(xi*yi) - ȳ*Σ(xi) - x̄*Σ(yi) + Σ(x̄*ȳ)`
-- Simplification (Σ(xi) = n_x̄, Σ(yi) = n_ȳ) : `Σ(xi - x̄)(yi - ȳ) = Σ(xi*yi) - n*x̄*ȳ`
-- Division par n : `(1/n) Σ(xi - x̄)(yi - ȳ) = (1/n) Σ(xi*yi) - x̄*ȳ`
-- **Conclusion : cov(x,y) = (1/n) Σ(xi - x̄)(yi - ȳ) = (1/n) Σxi yi - x̄ ȳ**
+$$\begin{aligned}
+cov(x,y) &= \frac{1}{n} \sum_{i=1}^{n} (x_i - \bar{x})(y_i - \bar{y}) \\
+&= \frac{1}{n} \sum_{i=1}^{n} (x_i y_i - x_i \bar{y} - \bar{x} y_i + \bar{x} \bar{y}) \\
+&= \frac{1}{n} \left( \sum_{i=1}^{n} x_i y_i - \bar{y} \sum_{i=1}^{n} x_i - \bar{x} \sum_{i=1}^{n} y_i + \sum_{i=1}^{n} \bar{x} \bar{y} \right) \\
+&= \frac{1}{n} \left( \sum_{i=1}^{n} x_i y_i - \bar{y} (n \bar{x}) - \bar{x} (n \bar{y}) + n \bar{x} \bar{y} \right) \\
+&= \frac{1}{n} \left( \sum_{i=1}^{n} x_i y_i - n \bar{x} \bar{y} - n \bar{x} \bar{y} + n \bar{x} \bar{y} \right) \\
+&= \frac{1}{n} \left( \sum_{i=1}^{n} x_i y_i - n \bar{x} \bar{y} \right) \\
+&= \frac{1}{n} \sum_{i=1}^{n} x_i y_i - \bar{x} \bar{y}
+\end{aligned}$$
 
 
 1) Démontrer que si y = $ax+b$ alors $\sigma_{x,y}=a\sigma^2_x$ 
 
-- Départ : `σxy = (1/n) Σ(xi - x̄)(yi - ȳ)` et `y = ax + b => yi = axi + b et ȳ = a*x̄ + b`
-- Substitution : `σxy = (1/n) Σ(xi - x̄)((axi + b) - (a*x̄ + b))`
-- Simplification : `σxy = (1/n) Σ(xi - x̄)(a(xi - x̄))`
-- Factorisation : `σxy = (a/n) Σ(xi - x̄)²`
-- Reconnaissance : `σ²x = (1/n) Σ(xi - x̄)²`
-- **Conclusion : σxy = a * σ²x**
+$$\begin{aligned}
+\text{Si } y_i &= ax_i + b \text{, alors } \bar{y} = a\bar{x} + b \\
+\sigma_{xy} &= \frac{1}{n} \sum_{i=1}^{n} (x_i - \bar{x})(y_i - \bar{y}) \\
+&= \frac{1}{n} \sum_{i=1}^{n} (x_i - \bar{x})(ax_i + b - (a\bar{x} + b)) \\
+&= \frac{1}{n} \sum_{i=1}^{n} (x_i - \bar{x})(ax_i - a\bar{x}) \\
+&= \frac{a}{n} \sum_{i=1}^{n} (x_i - \bar{x})(x_i - \bar{x}) \\
+&= \frac{a}{n} \sum_{i=1}^{n} (x_i - \bar{x})^2 \\
+&= a \sigma^2_x
+\end{aligned}$$ 
