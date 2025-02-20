@@ -224,3 +224,39 @@ What is the benefit of having expansion slots?
 
 **Bryan**: You too, Adam! See you around.
 
+
+
+1) Traduire
+	- **Handle:** Gérer, traiter, manipuler (selon le contexte)
+    - **Fit for purpose:** Adapté à l'usage prévu, conforme à son objectif, approprié
+    - **Entitlements:** Droits, prérogatives, avantages (auxquels on a droit)
+    - **Accountants:** Comptables
+    - **Lay people:** Les profanes, le grand public, les non-spécialistes
+    - **Under siege:** Assiégé, sous pression, en difficulté
+    - **File their tax returns:** Déclarer leurs impôts, produire leur déclaration de revenus
+    - **The best-known legal brand in the US:** La marque juridique la plus connue aux États-Unis
+    - **Document drafting service:** Service de rédaction de documents
+    - **Handcrafted:** Fait à la main, artisanal
+    - **Earnings reports:** Rapports de bénéfices, bilans financiers
+    - **Rest upon:** Reposer sur, dépendre de
+    - **Difficult computation:** Calcul difficile, opération complexe
+    - **A range of increasingly capable systems:** Une gamme de systèmes de plus en plus performants
+    - **In the long run:** À long terme, sur le long terme
+    - **Dismantling:** Démantèlement, déconstruction
+    - **The latest evidence:** Les dernières preuves, les données les plus récentes
+    - **Constrain the march of technology:** Freiner la progression de la technologie, limiter l'avancée technologique
+    - **Embrace radical change:** Adopter un changement radical, s'adapter à un changement profond
+    - **Are creaking:** Craquent, sont à bout de souffle, montrent des signes de faiblesse
+    - **Affordable access:** Accès abordable, accès à un prix raisonnable
+    - **Woefully:** Lamentablement, pitoyablement, terriblement
+    - **Locked Up:** Enfermé, emprisonné, bloqué
+    - **Buried:** Enterré, enfoui, dissimulé
+    - **A less prominent role:** Un rôle moins important, un rôle plus effacé
+    - **Underlying:** Sous-jacent, fondamental, implicite
+    - **Undertake:** Entreprendre, s'engager à
+    - **Pounce:** Se jeter sur, bondir, attaquer
+    - **Achieve:** Atteindre, réaliser, accomplir
+    - **Lawsuits:** Poursuites judiciaires, procès
+    - **Features:** Caractéristiques, fonctionnalités, propriétés
+    - **Distort our judgment:** Déformer notre jugement, fausser notre appréciation
+    - **On the grounds:** Au motif que, pour la raison que, sur la base de
