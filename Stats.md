@@ -217,4 +217,25 @@ Rappel : le trinôme $AX^2+BX+C$ (A>0)
 $E(\dfrac{1}{x})$ 
 $\boxed{H=\dfrac{1}{E(\dfrac{1}{x})}}=\dfrac{N}{\sum^P_{i=1}\dfrac{n_i}{x_i}}$
 
-## Exercice 9) 
+
+## Exercice 11)
+
+Soit (y; n) la série statistique suivante 
+
+| Caractère y | 101 | 102 | 103 | 104 | 105 | 106 |
+| ----------- | --- | --- | --- | --- | --- | --- |
+| effectif n  | 2   | 3   | 2   | 1   | 4   | 1   |
+
+On donne les résultats suivants :
+$\bar y = 103.38$
+$\sigma^2_y = 2.7$
+
+Soit (x; n) la série statistique suivante :
+
+
+| Caractère x | 1   | 1.01 | 1.02 | 1.03 | 1.04 | 1.05 |
+| ----------- | --- | ---- | ---- | ---- | ---- | ---- |
+| effectif n  | 2   | 3    | 2    | 1    | 4    | 1    |
+
+1) Déterminer deux réels a et b tels que $x=ay+b$
+2) En déduire $\bar x$ et $\sigma^2_y$ 
