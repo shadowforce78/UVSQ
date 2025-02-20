@@ -239,3 +239,33 @@ Soit (x; n) la série statistique suivante :
 
 1) Déterminer deux réels a et b tels que $x=ay+b$
 2) En déduire $\bar x$ et $\sigma^2_y$ 
+
+- **Calcul de x̄ :**
+
+- `x̄ = aȳ + b`
+    
+    - `x̄ = (0.01)(103.38) - 0.01`
+    - `x̄ = 1.0338 - 0.01`
+    - `x̄ = 1.0238`
+
+- **Calcul de σ²ₓ :**
+
+- `σ²ₓ = a²σ²ᵧ`
+    
+    - `σ²ₓ = (0.01)² (2.7)`
+    - `σ²ₓ = (0.0001)(2.7)`
+    - `σ²ₓ = 0.00027`
+
+
+
+## Exercice 12)
+
+Soit le nuage de points suivant : 
+
+| x   | 1   | 2   | 3   | 4   | 5   | 6   |
+| --- | --- | --- | --- | --- | --- | --- |
+| y   | 2   | 4   | 3   | 5   | 3   | 4   |
+
+1) Représenter le nuage de points
+2) Déterminer l'équation de la droite de régression obtenue par la méthode de Mayer
+3) Tracer la Droit de Mayer
