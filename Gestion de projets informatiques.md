@@ -203,4 +203,43 @@ VAN = $-IO + \sum^{N}_{i=1}\dfrac{FTi}{(1+a)^i}$
 
 1) Investissement = IO = 985k€ en 2020 (On ne compte pas les maintenances annuelle)
 2) Exploitation = 42k€
-3) Economie **2022 et 2023** : 415 000 + 8 000 = **423 000 €** 
+3) Economie :
+	1) **2021** : 415 000 + 9000 = 424 000 €
+	2) **2022 et 2023** : 415 000 + 8 000 = **423 000 €** 
+4) 
+- **2021** : 424 000 - 42 000 = **382 000 €**
+- **2022** : 423 000 - 42 000 = **381 000 €**
+- **2023** : 423 000 - 42 000 = **381 000 €**
+
+5) 
+Le **flux de trésorerie annuel** correspond aux gains nets générés chaque année, en tenant compte de l’investissement initial en 2020 (**-985 000 €**).
+
+|                | 2020       | 2021      | 2022      | 2023      |
+| -------------- | ---------  | --------- | --------- | --------- |
+| **INVESTISSEMENT** |           |           |           |           |
+| Salaire        | **-354 000** |           |           |           |
+| Matériel       | **-89 000**  |           |           |           |
+| Usine          | **-542 000** |           |           |           |
+| **Total**      | **-985 000** |           |           |           |
+| **EXPLOITATION** |           |           |           |           |
+| Maintenance    |             | **-42 000** | **-42 000** | **-42 000** |
+| Éco personnel  |             | **+415 000** | **+415 000** | **+415 000** |
+| Éco matériel   |             | **+9 000**  | **+8 000**  | **+8 000**  |
+| **Total**      | **-985 000** | **+382 000** | **+381 000** | **+381 000** |
+| **Flux de trésorerie annuel (FT)** | **-985 000** | **+382 000** | **+381 000** | **+381 000** |
+
+
+6) L'actualisation des flux de trésorerie permet de tenir compte de la **valeur temporelle de l'argent**. Un euro aujourd’hui vaut plus qu’un euro demain en raison de l’inflation et du coût d’opportunité. En actualisant les flux, on obtient une meilleure estimation de la rentabilité réelle du projet.
+
+7) On actualise les flux de trésorerie avec un **taux d'actualisation de 6%** :
+	1) - **IO** : Investissement initial (**985 000 €**)
+	- **NNN** : Nombre d'années d'exploitation (**3 ans**)
+	- **FTiFT_iFTi​** : Flux de trésorerie de l’année iii
+	- **aaa** : Taux d'actualisation (**6% soit 0,06**)
+	
+	### **Calcul détaillé de la VAN**
+	
+	VAN=$−985000+382000(1,06)1+381000(1,06)2+381000(1,06)$
+	VAN = $-985 000 + \dfrac{382 000}{(1,06)^1} + \dfrac{381 000}{(1,06)^2} + \dfrac{381 000}{(1,06)^3}$
+	VAN=$−985000+(1,06)1382000​+(1,06)2381000​+(1,06)3381000​$
+	VAN=$−985000+3820001,06+3810001,1236+3810001,191VAN = -985 000 + \dfrac{382 000}{1,06} + \dfrac{381 000}{1,1236} + \dfrac{381 000}{1,191}VAN=−985000+1,06382000​+1,1236381000​+1,191381000​ VAN=−985000+360377+339243+319985VAN = -985 000 + 360 377 + 339 243 + 319 985VAN=−985000+360377+339243+319985 VAN=−985000+1019605VAN = -985 000 + 1 019 605VAN=−985000+1019605 VAN=34605VAN = 34 605VAN=34605
