@@ -232,14 +232,54 @@ Le **flux de trésorerie annuel** correspond aux gains nets générés chaque an
 6) L'actualisation des flux de trésorerie permet de tenir compte de la **valeur temporelle de l'argent**. Un euro aujourd’hui vaut plus qu’un euro demain en raison de l’inflation et du coût d’opportunité. En actualisant les flux, on obtient une meilleure estimation de la rentabilité réelle du projet.
 
 7) On actualise les flux de trésorerie avec un **taux d'actualisation de 6%** :
-	1) - **IO** : Investissement initial (**985 000 €**)
-	- **NNN** : Nombre d'années d'exploitation (**3 ans**)
-	- **FTiFT_iFTi​** : Flux de trésorerie de l’année iii
-	- **aaa** : Taux d'actualisation (**6% soit 0,06**)
-	
-	### **Calcul détaillé de la VAN**
-	
-	VAN=$−985000+382000(1,06)1+381000(1,06)2+381000(1,06)$
-	VAN = $-985 000 + \dfrac{382 000}{(1,06)^1} + \dfrac{381 000}{(1,06)^2} + \dfrac{381 000}{(1,06)^3}$
-	VAN=$−985000+(1,06)1382000​+(1,06)2381000​+(1,06)3381000​$
-	VAN=$−985000+3820001,06+3810001,1236+3810001,191VAN = -985 000 + \dfrac{382 000}{1,06} + \dfrac{381 000}{1,1236} + \dfrac{381 000}{1,191}VAN=−985000+1,06382000​+1,1236381000​+1,191381000​ VAN=−985000+360377+339243+319985VAN = -985 000 + 360 377 + 339 243 + 319 985VAN=−985000+360377+339243+319985 VAN=−985000+1019605VAN = -985 000 + 1 019 605VAN=−985000+1019605 VAN=34605VAN = 34 605VAN=34605
+	### Formule : $$VAN = -IO + \sum^{N}_{i=1} \dfrac{FT_i}{(1+a)^i}$$ Avec : 
+	- **\(IO\)** : Investissement initial (**985 000 €**) 
+	- **\(N\)** : Nombre d'années d'exploitation (**3 ans**) 
+	- **\(FT_i\)** : Flux de trésorerie de l’année \(i\) 
+	- **\(a\)** : Taux d'actualisation (**6% soit 0,06**) 
+
+	### Calcul détaillé : 
+	#### Application de la formule : $$VAN = -985 000 + \dfrac{382 000}{(1,06)^1} + \dfrac{381 000}{(1,06)^2} + \dfrac{381 000}{(1,06)^3}$$ Développement des divisions : $$VAN = -985 000 + \dfrac{382 000}{1,06} + \dfrac{381 000}{1,1236} + \dfrac{381 000}{1,191}$$ Calcul des valeurs actualisées : $$VAN = -985 000 + 360 377 + 339 243 + 319 985$$ Addition des valeurs : $$VAN = -985 000 + 1 019 605$$ **Résultat final :** $$VAN = 34 605 €$$ 
+
+8) Ce projet est-il rentable ?**
+
+	Oui, car la **VAN est positive** (**34 605 €**). Cela signifie que le projet crée de la valeur et couvre les investissements initiaux.
+
+---
+
+9) Calcul du solde financier par année (hors actualisation)**
+
+Cumul des flux de treˊsorerie=Somme des flux jusqu’aˋ l’anneˊe en cours\text{Cumul des flux de trésorerie} = \text{Somme des flux jusqu’à l’année en cours}Cumul des flux de treˊsorerie=Somme des flux jusqu’aˋ l’anneˊe en cours
+
+| Année | Flux de trésorerie | Cumul des flux |
+| ----- | ------------------ | -------------- |
+| 2020  | **-985 000**       | **-985 000**   |
+| 2021  | **+382 000**       | **-603 000**   |
+| 2022  | **+381 000**       | **-222 000**   |
+| 2023  | **+381 000**       | **+159 000**   |
+
+👉 Le projet devient **bénéficiaire en 2023** (**+159 000 €**).  
+👉 Sans actualisation, l’investissement est remboursé en **2 ans et quelques mois**.
+
+---
+
+10) Calcul du Délai de Récupération du Capital Investi (DRCI)**
+
+Le **DRCI** est le moment où l’investissement initial est récupéré grâce aux gains d’exploitation.
+
+- Après 2021, il reste **-603 000 €**.
+- Après 2022, il reste **-222 000 €**.
+- En 2023, on récupère **+381 000 €**, donc :
+
+222000381000=0,58 anneˊe\frac{222 000}{381 000} = 0,58 \text{ année}381000222000​=0,58 anneˊe
+
+👉 **DRCI ≈ 2,58 ans (2 ans et environ 7 mois)**  
+👉 Le projet est rentable en moins de **3 ans**, ce qui est un bon indicateur.
+
+---
+
+11) Le DRCI peut-il être un critère de rentabilité ?**
+
+Oui, le **Délai de Récupération du Capital Investi** est un bon indicateur pour voir **combien de temps** il faut pour récupérer l’investissement initial. Cependant, il **ne prend pas en compte la valeur temporelle de l’argent**, contrairement à la VAN.
+
+Dans certains cas, un **DRCI court** peut être privilégié, mais pour une vraie évaluation financière, la VAN reste plus fiable.
