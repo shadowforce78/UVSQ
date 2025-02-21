@@ -194,3 +194,13 @@ Limite de la formule du calcul de DRCI
 		L'hypothèse selon laquelle le projet rapport des gains 365jour par an
 		L'hypothèse selon laquelle les projet rapport des montants identiques chaque jour
 		Le fait que les données ne se soient pas actualisées
+
+# TD4
+
+ROI = $\dfrac{moy(Benefice \ \ 3 \ \ années)}{Cout\ \ Du \ \ Projet}$ %
+
+VAN = $-IO + \sum^{N}_{i=1}\dfrac{FTi}{(1+a)^i}$ 
+
+1) Investissement = IO = 985k€ en 2020 (On ne compte pas les maintenances annuelle)
+2) Exploitation = 42k€
+3) Economie **2022 et 2023** : 415 000 + 8 000 = **423 000 €** 
