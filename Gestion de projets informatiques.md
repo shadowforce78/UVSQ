@@ -271,15 +271,48 @@ Le **DRCI** est le moment où l’investissement initial est récupéré grâce 
 - Après 2022, il reste **-222 000 €**.
 - En 2023, on récupère **+381 000 €**, donc :
 
-222000381000=0,58 anneˊe\frac{222 000}{381 000} = 0,58 \text{ année}381000222000​=0,58 anneˊe
+$\dfrac{222 000}{381 000} = 0,58 \text{ année}$ 
 
 👉 **DRCI ≈ 2,58 ans (2 ans et environ 7 mois)**  
 👉 Le projet est rentable en moins de **3 ans**, ce qui est un bon indicateur.
 
 ---
 
-11) Le DRCI peut-il être un critère de rentabilité ?**
+1) Le DRCI peut-il être un critère de rentabilité ?
 
 Oui, le **Délai de Récupération du Capital Investi** est un bon indicateur pour voir **combien de temps** il faut pour récupérer l’investissement initial. Cependant, il **ne prend pas en compte la valeur temporelle de l’argent**, contrairement à la VAN.
 
 Dans certains cas, un **DRCI court** peut être privilégié, mais pour une vraie évaluation financière, la VAN reste plus fiable.
+
+
+
+## Application 1 : Rentabilité d'un logiciel de gestion
+
+
+| Années | Dépense | Gains |
+| ------ | :-----: | ----- |
+| 0      |   700   | 0     |
+| 1      |  1400   | 300   |
+| 2      |  1300   | 1000  |
+| 3      |  1150   | 2000  |
+| 4      |   950   | 2500  |
+| 5      |   900   | 3000  |
+| 6      |  1000   | 3000  |
+| 7      |  1500   | 3000  |
+| Total  |  8900   | 14800 |
+
+
+$$VAN = \sum \frac{(Gains - Dépenses)}{(1 + T)^t}$$ avec : 
+- $( T = 4.5$%$= 0.045 )$
+- ( t ) allant de 0 à 7
+
+
+| Année | Dépenses (k€) | Gains (k€) | Flux Net (k€) | Actualisation \( (1.045)^t \) | Valeur Actualisée (k€) | 
+|-------|--------------|------------|---------------|----------------------------|----------------------| | 0 | 700 | 0 | -700 | 1.000 | -700.00 | 
+| 1 | 1 400 | 0 | -1 400 | 1.045 | -1 339.43 | 
+| 2 | 1 300 | 1 000 | -300 | 1.092 | -274.73 | 
+| 3 | 1 150 | 2 000 | 850 | 1.141 | 744.80 | 
+| 4 | 950 | 2 500 | 1 550 | 1.192 | 1 300.17 | 
+| 5 | 900 | 3 000 | 2 100 | 1.245 | 1 687.39 | 
+| 6 | 1 000 | 3 000 | 2 000 | 1.300 | 1 538.46 | 
+| 7 | 1 000 | 3 000 | 2 000 | 1.357 | 1 473.64 |
