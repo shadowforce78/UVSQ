@@ -189,3 +189,21 @@
 
 15) Que signifie la première phrase de l'article 62 ?
 	1) Que les décisions ne peuvent être changées
+
+
+## TD3 
+
+1) Quelles sont les deux missions principales de la Cour de cassation ?
+	1) Contrôler l'exacte application du droit par les tribunaux et les cours d'appel
+	2) Unifier la jurisprudence (Quand une loi n'existe pas)
+2) Compléter ce tableau 
+
+| Situation                                                                                                                                                                                                                                   | Compétence d'attribution | Compétence territoriale | Appel possible |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------ | ----------------------- | -------------- |
+| Théo Dule, habitant Le Havre, est technicien de maintenance aux établissements Dubois situés à Rouen. Il poursuit son employeur pour non-paiement de ses indemnités de congés payés (1500€)                                                 |                          |                         |                |
+| Les enfants de Johnny Halliday contestent le testament rédigé par leur père.                                                                                                                                                                |                          |                         |                |
+| Mme Balmain a acheté des meubles de cuisine (valeur 12 000€) à la société Cuisilux située à Lyon pour aménager sa maison située à Aix en Provence. Après trois ans, la façade des meubles est déjà usée. Cuisilux ne veut pas les remplacer |                          |                         |                |
+| La société Coulisfruit installée a Reims a livré des confiture au magasin "Cuisine et saveurs de France" située à Paris                                                                                                                     |                          |                         |                |
+| 5                                                                                                                                                                                                                                           |                          |                         |                |
+| 6                                                                                                                                                                                                                                           |                          |                         |                |
+| 7                                                                                                                                                                                                                                           |                          |                         |                |
