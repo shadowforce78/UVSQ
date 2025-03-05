@@ -17,3 +17,11 @@
 1) ![[Drawing 2025-03-05 12.28.47.excalidraw]]
 2) ![[Drawing 2025-03-05 12.31.44.excalidraw]]
 3) ![[Drawing 2025-03-05 12.36.06.excalidraw]]
+
+## Exercice 4
+
+1) Ordre, taille, degré
+	1) Ordre = 8
+	2) Taille = 12
+	3) Degré :
+		1) $\Epsilon$
