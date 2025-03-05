@@ -42,4 +42,8 @@
 
 ## Exercice 5
 
-$0
+- 0<m<$\dfrac{n(n-1)}{2}$ 
+
+## Exercice 6
+
+![[Drawing 2025-03-05 13.18.13.excalidraw]]
