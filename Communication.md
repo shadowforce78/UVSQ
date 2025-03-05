@@ -351,7 +351,9 @@ Résumé au quart :
 
 ### Introduction
 
-L'orthographe française, souvent perçue comme un pilier de notre langue, suscite de nombreux débats. Symbolisant à la fois rigueur et confusion, elle est vue par certains comme une montagne insurmontable. Tandis que certains veulent une évolution pour mieux coller aux usages modernes, d'autres préfèrent la maintenir fidèle à son héritage. Faut-il réformer l'orthographe ? Et si oui, comment éviter de tout retransformer ? Nous allons d'abord explorer les arguments en faveur d'une réforme, puis les obstacles à surmonter, avant de proposer des solutions adaptées pour ne pas dénaturer la langue.
+L'orthographe française, souvent perçue comme un pilier de notre langue, suscite de nombreux débats. Symbolisant à la fois rigueur et confusion, elle est vue par certains comme difficile. Tandis que certains veulent une évolution pour mieux coller aux usages modernes, d'autres préfèrent la maintenir fidèle à son héritage.
+
+Faut-il réformer l'orthographe ? Et si oui, comment éviter de tout retransformer ? Nous allons d'abord explorer les arguments en faveur d'une réforme, puis les obstacles à surmonter, avant de proposer des solutions adaptées pour ne pas dénaturer la langue.
 
 ### I. Les arguments en faveur de la réforme de l'orthographe
 
