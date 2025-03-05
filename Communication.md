@@ -316,3 +316,6 @@ INTRODUCTION :
 CONCLUSION :
 
 	Reprendre les grandes idées de la note de synthèse en répondant à la problématique 
+
+
+	
