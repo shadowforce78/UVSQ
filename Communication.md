@@ -357,7 +357,7 @@ L'orthographe française, souvent perçue comme un pilier de notre langue, susci
 
 1. **Simplification et accessibilité**
     
-    - L'orthographe française est un vrai casse-tête pour de nombreux élèves, et cela se traduit souvent par des échecs scolaires. Qui n’a pas eu du mal à savoir quand écrire _"école"_ et _"écolle"_ ? Ou encore à se demander pourquoi on écrit _"nénuphar"_ et non _"nenuphar"_ ? Une réforme permettrait de simplifier tout ça, rendant la langue plus facile à apprendre et à comprendre, surtout pour ceux qui ont du mal à l’intégrer.
+    - L'orthographe française est une véritable horreur pour de nombreux élèves, et cela se traduit souvent par des échecs scolaires. Une réforme permettrait de simplifier de nombreux cas récurrent, rendant la langue plus facile à apprendre et à comprendre, surtout pour ceux qui ont du mal à l’intégrer.
     
 2. **Liberté d’expression et créativité**
     
@@ -401,4 +401,4 @@ L'orthographe française, souvent perçue comme un pilier de notre langue, susci
 
 ### Conclusion
 
-Réformer l'orthographe est une question complexe, qui touche aussi bien à notre histoire qu’à notre avenir. Loin d’être une nécessité absolue, une réforme partielle pourrait cependant apporter des solutions pragmatiques. La vraie question est de savoir comment allier tradition et modernité, tout en rendant la langue plus accessible sans la dénaturer. Une meilleure pédagogie, plus de tolérance et quelques ajustements pourraient bien être la clé d’un compromis entre passé et présent.
+Réformer l'orthographe est une question complexe, qui touche aussi bien à notre histoire qu’à notre avenir. Loin d’être une nécessité absolue, une réforme partielle pourrait cependant apporter des solutions pratiques. La vraie question est de savoir comment allier tradition et modernité, tout en rendant la langue plus accessible sans la dénaturer. Une meilleure éducation, plus de tolérance et quelques ajustements pourraient bien être le compromis entre passé et présent.
