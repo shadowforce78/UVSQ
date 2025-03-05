@@ -20,8 +20,26 @@
 
 ## Exercice 4
 
+
+![[Drawing 2025-03-05 13.00.42.excalidraw]]
+
 1) Ordre, taille, degré
 	1) Ordre = 8
 	2) Taille = 12
 	3) Degré :
-		1) $\Epsilon$
+		1) $\delta$(a) = 3
+		2) $\delta$(b) = 4
+		3) $\delta$(c) = 3
+		4) $\delta$(d) = 4
+		5) $\delta$(e) = 3
+		6) $\delta$(f) = 2
+		7) $\delta$(g) = 3
+		8) $\delta$(h) = 2
+		9) Total = 24
+2) Déterminer un cycle, le plus court possible, passant par chaque sommets :
+	1) a d c b f g h e a
+	2) ![[Drawing 2025-03-05 13.02.59.excalidraw]] 
+
+## Exercice 5
+
+$0
