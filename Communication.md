@@ -336,12 +336,12 @@ Roland Barthes Le Monde de l'Education
 
 Résumé au quart : 
 
-- **Bouvard et Pécuchet**, s’ils s’étaient penchés sur l’orthographe, auraient vite été déconcertés par ses contradictions et son arbitraire, se demandant pourquoi des sons identiques s’écrivent différemment.
+- **Bouvard et Pécuchet**, s’ils avaient étudié l’orthographe, auraient rapidement été troublés par ses contradictions et son caractère arbitraire, se demandant pourquoi des sons identiques s’écrivent de façons différentes.
     
-- Bien que chaque règle ait une origine historique ou logique, l’ensemble de ces justifications demeure incohérent et injuste, d’autant plus que l’orthographe est imposée par l’éducation et peut gravement pénaliser ceux qui la maîtrisent mal.
+- Même si chaque règle a une explication historique ou logique, leur ensemble reste incohérent et injuste, d’autant plus que l’orthographe est imposée par l’école et peut lourdement pénaliser ceux qui la maîtrisent mal.
     
-- Si l’orthographe était plus libre, elle permettrait une écriture plus personnelle et créative, où les « fautes » pourraient refléter la sensibilité, la mémoire ou même l’imaginaire du scripteur, plutôt que d’être perçues comme des erreurs.
+- Une orthographe plus souple permettrait une écriture plus personnelle et créative, où les « fautes » ne seraient plus considérées comme des erreurs, mais comme l’expression de la sensibilité, de la mémoire ou de l’imaginaire de chacun.
     
-- Parce qu’elle est strictement codifiée et sanctionnée, l’orthographe engendre une anxiété excessive, empêchant d’écrire avec plaisir et transformant chaque hésitation en source d’angoisse comparable à une obsession.
+- Parce qu’elle est strictement encadrée et sanctionnée, l’orthographe provoque une anxiété excessive, empêchant d’écrire librement et transformant chaque hésitation en source d’angoisse, comme une obsession.
     
-- Réformer l’orthographe ne suffirait pas : il faudrait surtout cesser d’en faire un critère discriminant, en acceptant davantage de souplesse et en détachant l’écriture de son contrôle institutionnel.
+- Modifier l’orthographe ne suffirait pas : il faudrait surtout cesser d’en faire un critère d’exclusion, en acceptant plus de tolérance et en réduisant son contrôle institutionnel.
