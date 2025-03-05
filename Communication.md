@@ -345,3 +345,7 @@ Résumé au quart :
 - Parce qu’elle est strictement encadrée et sanctionnée, l’orthographe provoque une anxiété excessive, empêchant d’écrire librement et transformant chaque hésitation en source d’angoisse, comme une obsession.
     
 - Modifier l’orthographe ne suffirait pas : il faudrait surtout cesser d’en faire un critère d’exclusion, en acceptant plus de tolérance et en réduisant son contrôle institutionnel.
+
+
+### Faut-il et peut-on réformer l'orthographe ?
+
