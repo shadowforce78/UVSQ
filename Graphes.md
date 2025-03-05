@@ -11,3 +11,9 @@
 1) ![[Drawing 2025-03-05 12.11.23.excalidraw]]
 2) ![[Drawing 2025-03-05 12.13.10.excalidraw]]
 3) ![[Drawing 2025-03-05 12.21.01.excalidraw]]
+
+## Exercice 3
+
+1) ![[Drawing 2025-03-05 12.28.47.excalidraw]]
+2) ![[Drawing 2025-03-05 12.31.44.excalidraw]]
+3) ![[Drawing 2025-03-05 12.36.06.excalidraw]]
