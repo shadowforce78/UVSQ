@@ -46,4 +46,6 @@
 
 ## Exercice 6
 
+Graphe de Brujin
 ![[Drawing 2025-03-05 13.18.13.excalidraw]]
+
