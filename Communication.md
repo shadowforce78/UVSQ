@@ -318,4 +318,30 @@ CONCLUSION :
 	Reprendre les grandes idées de la note de synthèse en répondant à la problématique 
 
 
-	
+# La réforme de l'orthographe
+
+Il manque au dernier roman de Flaubert un chapitre sur l'orthographe. On y aurait vu Bouvard et Pécuchet commander à Dumouchel toute une petite bibliothèque de manuels orthographiques, commencer par s'en enchanter, puis s'étonner du caractère comminatoire et contradictoire des règles prescrites, s'exciter enfin l'un et l'autre et ergoter à perte de vue : pourquoi cette graphie, précisément? Pourquoi écrire Caen, Paon, Lampe, Vent, Rang, alors qu'il s'agit du même son ? Pourquoi Quatre et Caille, puisque ces deux mots ont originairement la même initiale ? A la suite de quoi Pécuchet n'aurait pas manqué de conclure en baissant la tête : "L'orthographe pourrait être une blague !"
+
+Cette blague, on le sait, n'est pas innocente. Certes, pour un historien de la langue, les accidents de l'orthographe française sont explicables : chacun a sa raison, analogique, étymologique ou fonctionnelle ; mais l'ensemble de ces raisons est déraisonnable, et, lorsque cette déraison est imposée, par voie d'éducation, à tout un peuple, elle devient coupable. Ce n'est pas le caractère arbitraire de notre orthographe qui est choquant, c'est que cet arbitraire soit légal. Depuis 1835, l'orthographe officielle de l'Académie a valeur de loi aux yeux mêmes de l'Etat ; dès les premières études du jeune Français, la 《 faute d'orthographe 》 est sanctionnée : combien de vies ratées pour quelques fautes d'orthographe
+
+Le premier effet de l'orthographe est discriminatoire ; mais elle a aussi des effets secondaires, d'ordre psychologique. Si l'orthographe était libre - libre d'être simplifiée ou non, selon l'envie du sujet, - elle pourrait constituer une pratique très positive d'expression ; la physionomie écrite du mot pourrait acquérir une valeur proprement poétique, dans la mesure où elle surgirait de la fantasmatique du scripteur, et non d'une loi uniforme et réductrice ; que l'on songe à la sorte d'ivresse, de jubilation baroque, qui éclate à travers les "aberrations" orthographiques des anciens manuscrits, des textes d'enfants et des lettres d’étrangers : ne dirait-on pas que dans ces efflorescences le sujet cherche sa liberté : de tracer, de rêver, de se souvenir, d'entendre ? Ne nous arrive-t-il pas de rencontrer des fautes d'orthographe particulièrement "heureuses", comme si le scripteur écrivait alors sous la dictée non de la loi scolaire, mais d'un commandement mystérieux qui lui vient de sa propre histoire -peut-être même de son corps?
+
+A l'inverse, dès lors que l'orthographe est uniformisée, légalisée, sanctionnée par voie d'Etat, dans sa complication et son irrationalité mêmes, c'est la névrose obsessionnelle qui s'installe : la faute d'orthographe devient la Faute. Je viens de poster une lettre de candidature à un emploi qui peut changer ma vie ; mais ai-je bien mis un "s" à ce pluriel ? Ai-je bien mis deux "p" et un seul "l" à appeler ?Je doute, je m'angoisse, tel le vacancier qui ne se rappelle plus s'il a bien fermé le gaz et l'eau de son domicile et s'il ne s'ensuivra pas un incendie ou une inondation. Et, de même qu'un tel doute empêche notre "vacancier" de profiter de ses vacances, l'orthographe légalisée empêche le scripteur de jouir de l'écriture, ce geste heureux qui permet de mettre dans le tracé d'un mot un peu plus que sa simple intention de communiquer.
+
+Réformer l'orthographe ? On l'a voulu plusieurs fois, on le veut périodiquement. Mais à quoi bon refaire un code, même amélioré, si c'est de nouveau pour l'imposer, le légaliser, en faire un instrument de sélection notablement arbitraire ? Ce n'est pas l'orthographe qui doit être réformée, c'est la loi qui en prescrit les minuties. Ce qui peut être demandé, c'est seulement ceci : un certain "laxisme" de l'institution. S'il me plaît d'écrire "correctement y, j'en suis bien libre, comme de trouver du plaisir à lire aujourd'hui Racine ou Gide ; l'orthographe légale n'est pas sans charme, car elle n'est pas sans perversité ; mais que les "ignorances" et les "étourderies" ne soient plus pénalisées ; qu'elles cessent d'être perçues comme des aberrations ou des débilités ; que la société accepte enfin (ou accepte de nouveau) de décrocher l'écriture de l'appareil d'Etat dont elle fait aujourd'hui partie ; bref, qu'on arrête d'exclure pour motif d'orthographe.
+
+Roland Barthes Le Monde de l'Education
+
+
+
+Résumé au quart : 
+
+- **Bouvard et Pécuchet**, s’ils avaient étudié l’orthographe, auraient vite été déconcertés par ses contradictions et son arbitraire, se demandant pourquoi des sons identiques s’écrivent différemment et finissant par douter du bien-fondé des règles imposées.
+    
+- Chaque règle orthographique a une justification historique, analogique ou étymologique, mais leur ensemble forme un système incohérent et rigide, transformé en norme officielle depuis 1835. Cette rigidité, imposée dès l’enfance par l’éducation, a des conséquences graves, pouvant pénaliser injustement des individus et influencer leur avenir.
+    
+- Une orthographe plus libre permettrait une écriture plus personnelle et expressive, où les variations seraient des manifestations créatives plutôt que des fautes. Les écarts orthographiques pourraient ainsi traduire une sensibilité, une mémoire ou un imaginaire propre à chacun, au lieu d’être systématiquement stigmatisés.
+    
+- La normalisation excessive de l’orthographe génère une angoisse permanente : la moindre erreur devient une faute lourde de conséquences, empêchant le plaisir d’écrire et instaurant une peur comparable aux obsessions anxieuses du quotidien.
+    
+- Plutôt que de vouloir réformer l’orthographe en l’adaptant, il faudrait surtout relâcher son contrôle institutionnel et accepter plus de tolérance, afin qu’elle ne soit plus un critère de discrimination dans l’éducation et la société.
