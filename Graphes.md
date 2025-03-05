@@ -55,3 +55,4 @@ $G = (V,E)$
 $V=\{a,b,c,d,e\}$
 Ordre $n = |V| = \binom{5}{2}=\dfrac{5!}{2!(5-2)!}= \dfrac{5\times4\times3\times2\times1}{2!\times3!}$ 
 
+![[Drawing 2025-03-05 13.53.07.excalidraw]] 
