@@ -336,12 +336,12 @@ Roland Barthes Le Monde de l'Education
 
 Résumé au quart : 
 
-- **Bouvard et Pécuchet**, s’ils avaient étudié l’orthographe, auraient vite été déconcertés par ses contradictions et son arbitraire, se demandant pourquoi des sons identiques s’écrivent différemment et finissant par douter du bien-fondé des règles imposées.
+- **Bouvard et Pécuchet**, s’ils s’étaient penchés sur l’orthographe, auraient vite été déconcertés par ses contradictions et son arbitraire, se demandant pourquoi des sons identiques s’écrivent différemment.
     
-- Chaque règle orthographique a une justification historique, analogique ou étymologique, mais leur ensemble forme un système incohérent et rigide, transformé en norme officielle depuis 1835. Cette rigidité, imposée dès l’enfance par l’éducation, a des conséquences graves, pouvant pénaliser injustement des individus et influencer leur avenir.
+- Bien que chaque règle ait une origine historique ou logique, l’ensemble de ces justifications demeure incohérent et injuste, d’autant plus que l’orthographe est imposée par l’éducation et peut gravement pénaliser ceux qui la maîtrisent mal.
     
-- Une orthographe plus libre permettrait une écriture plus personnelle et expressive, où les variations seraient des manifestations créatives plutôt que des fautes. Les écarts orthographiques pourraient ainsi traduire une sensibilité, une mémoire ou un imaginaire propre à chacun, au lieu d’être systématiquement stigmatisés.
+- Si l’orthographe était plus libre, elle permettrait une écriture plus personnelle et créative, où les « fautes » pourraient refléter la sensibilité, la mémoire ou même l’imaginaire du scripteur, plutôt que d’être perçues comme des erreurs.
     
-- La normalisation excessive de l’orthographe génère une angoisse permanente : la moindre erreur devient une faute lourde de conséquences, empêchant le plaisir d’écrire et instaurant une peur comparable aux obsessions anxieuses du quotidien.
+- Parce qu’elle est strictement codifiée et sanctionnée, l’orthographe engendre une anxiété excessive, empêchant d’écrire avec plaisir et transformant chaque hésitation en source d’angoisse comparable à une obsession.
     
-- Plutôt que de vouloir réformer l’orthographe en l’adaptant, il faudrait surtout relâcher son contrôle institutionnel et accepter plus de tolérance, afin qu’elle ne soit plus un critère de discrimination dans l’éducation et la société.
+- Réformer l’orthographe ne suffirait pas : il faudrait surtout cesser d’en faire un critère discriminant, en acceptant davantage de souplesse et en détachant l’écriture de son contrôle institutionnel.
