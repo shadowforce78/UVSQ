@@ -87,3 +87,11 @@ Ordre $n = |V| = \binom{5}{2}=\dfrac{5!}{2!(5-2)!}= \dfrac{5\times4\times3\times
 ## Le graphe biparti complet $K_{2,4}$ 
 
 ![[Drawing 2025-03-06 14.18.28.excalidraw]]
+
+## Le graphe biparti complet $K_{p,q}$
+
+![[Drawing 2025-03-06 14.24.16.excalidraw]]
+
+## La grille 2D de côté 4
+
+![[Drawing 2025-03-06 14.35.28.excalidraw]]
