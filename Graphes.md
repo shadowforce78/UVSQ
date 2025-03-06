@@ -78,3 +78,12 @@ Ordre $n = |V| = \binom{5}{2}=\dfrac{5!}{2!(5-2)!}= \dfrac{5\times4\times3\times
 
 ## Le graphe complet à 5 sommets
 
+![[Drawing 2025-03-06 14.05.06.excalidraw]]
+
+## Le graphe complet à n sommets
+
+![[Drawing 2025-03-06 14.09.29.excalidraw]]
+
+## Le graphe biparti complet $K_{2,4}$ 
+
+![[Drawing 2025-03-06 14.18.28.excalidraw]]
