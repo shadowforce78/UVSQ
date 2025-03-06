@@ -67,3 +67,14 @@ Ordre $n = |V| = \binom{5}{2}=\dfrac{5!}{2!(5-2)!}= \dfrac{5\times4\times3\times
 ## La chaîne a $n$ sommets
 
 ![[Drawing 2025-03-06 13.46.04.excalidraw]]
+
+## Le cycle a 7 sommets
+
+![[Drawing 2025-03-06 13.53.06.excalidraw]]
+
+## Le cycle a n sommets 
+
+![[Drawing 2025-03-06 13.58.04.excalidraw]]
+
+## Le graphe complet à 5 sommets
+
