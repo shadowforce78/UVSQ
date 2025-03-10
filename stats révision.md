@@ -1,115 +1,71 @@
-Voici une fiche de révision reprenant les points essentiels du document :
 
 ---
 
-# Fiche de Révision : Statistiques Descriptives
+# **Fiche de Révision - Statistiques** 📊
 
-## 1. Informations Pratiques
-- **Durée du module :** 4 semaines  
-- **Répartition horaire :**  
-  - CM : 1h (3 à 4 séances)  
-  - TD : 1h30 en doublé  
-  - TP : 1h30 en salle machine (R)  
-- **Évaluation :**  
-  - 1 DS en fin de module  
-  - Possiblement une participation de SAé
+## **I. Statistiques Descriptives**
 
----
+### **1. Définitions de base**
 
-## 2. Statistiques Descriptives
+- **Population** : Ensemble étudié.
+- **Individu** : Un élément de la population.
+- **Caractère** : Propriété mesurée sur un individu.
+    - **Quantitatif** : Nombre (ex : âge).
+    - **Qualitatif** : Catégorie (ex : couleur des yeux).
+    - **Discret** : Valeurs isolées (ex : nombre d’enfants).
+    - **Continu** : Intervalle de valeurs (ex : taille).
+- **Modalités** : Différentes valeurs possibles d’un caractère.
 
-### A. Histoire et Étymologie
-- **Origine du terme :**  
-  - Latin : *Status* (état)  
-  - Italien : *Statistira* (vers 1700)  
-  - Allemand : *Statistite* (vers 1750)  
-  - Anglais : *Political Arithmetic* (vers 1750)
+### **2. Notations**
 
-### B. Contexte et Représentations
-- Le document mentionne des schémas/dessins illustrant certains concepts (par exemple, la répartition des effectifs ou le découpage en quartiles).
+|Variable|Notation|
+|---|---|
+|Caractère|xx|
+|Modalités|x1,x2,…x_1, x_2, \dots|
+|Effectifs|n1,n2,…n_1, n_2, \dots|
+|Effectif total|N=∑niN = \sum n_i|
+|Fréquence|fi=niNf_i = \frac{n_i}{N}|
 
-### C. Vocabulaire Fondamental
-- **Population :** L’ensemble des événements ou individus étudiés.  
-- **Individu :** Un membre de la population.  
-- **Caractère (ou variable) :** Une caractéristique mesurée sur chaque individu.  
-  - **Modalités :** Les différentes valeurs que peut prendre une variable.  
-    - **Modalités discrètes** : (ex. x₁, x₂, x₃, …)  
-    - **Modalités continues** : représentées par des intervalles (ex. [x₁, x₂[, [x₃, x₄[,…)
+### **3. Indicateurs de Position**
 
-### D. Notations et Fréquences
-- **Variables :** Souvent notées x, y, z.  
-- **Modalités d’une variable :**  
-  - On les note sous forme d’un vecteur : x = c(x₁, x₂, x₃, …)
-- **Effectifs :**  
-  - Pour chaque modalité xᵢ, on a un effectif nᵢ.
-  - **Total des effectifs :** N = ∑₍ᵢ₌₁₎ᴾ nᵢ.
-  - **Fréquence relative :** fᵢ = nᵢ/N, avec ∑₍ᵢ₌₁₎ᴾ fᵢ = 1.
+- **Mode** : Valeur la plus fréquente.
+- **Médiane** : Valeur séparant la population en deux groupes égaux.
+    - Si NN impair : m=xN+12m = x_{\frac{N+1}{2}}.
+    - Si NN pair : m=xN2+xN2+12m = \frac{x_{\frac{N}{2}} + x_{\frac{N}{2}+1}}{2}.
+- **Moyenne** : xˉ=1N∑nixi\bar{x} = \frac{1}{N} \sum n_i x_i.
 
-### E. Indicateurs de Position
-1. **Mode :**  
-   - Valeur(s) de la variable ayant l’effectif le plus élevé.
-2. **Médiane :**  
-   - La valeur qui partage la distribution en deux parties égales.
-   - Pour une série triée :  
-     - Si N est pair :  
-       m = (x[N/2] + x[N/2 + 1]) / 2  
-     - Si N est impair :  
-       m = x[(N + 1)/2]
-3. **Moyenne arithmétique :**  
-   - Formule :  
-    $\bar{x} = \frac{1}{N}\sum_{i=1}^{P} n_i\,x_i$
-   - **Propriété de linéarité :**  
-     Pour y = a·x + b, on a  
-     $\bar{y} = a\bar{x} + b$
+### **4. Indicateurs de Dispersion**
 
-### F. Indicateurs de Dispersion
-1. **Étendue :**  
-   - e = max(x) − min(x)
-2. **Écart interquartile (IQR) :**  
-   - Calculé à partir du 1er (Q₁) et du 3ème quartile (Q₃)  
-   - IQR = Q₃ − Q₁
-3. **Variance et Écart-type :**  
-   - **Variance :**  
-     $\text{var}(x) = \sigma^2_x = \frac{1}{N}\sum_{i=1}^{P} n_i\,(x_i-\bar{x})^2$ 
-   - **Écart-type :**  
-     $\sigma_x = \sqrt{\text{var}(x)}$
-   - **Propriété alternative :**  
-	   $\sigma^2_x = \frac{1}{N}\sum_{i=1}^{P} n_i\,x_i^2 - (\bar{x})^2$ 
+- **Étendue** : e=max⁡(x)−min⁡(x)e = \max(x) - \min(x).
+- **Écart interquartile** : Q3−Q1Q_3 - Q_1.
+- **Variance** : σ2=1N∑ni(xi−xˉ)2\sigma^2 = \frac{1}{N} \sum n_i (x_i - \bar{x})^2.
+- **Écart-type** : σ=σ2\sigma = \sqrt{\sigma^2}.
 
 ---
 
-## 3. Exemples et Exercices
+## **II. Statistiques à Deux Variables**
 
-### Exercice 1
-- **Données :**  
-  Une distribution avec 12 modalités, N = 50 individus (N pair).  
-- **Calculs :**  
-  - **Médiane :**  
-    La 25ᵉ et 26ᵉ note sont utilisées :  
-    $m = \frac{10 + 10}{2} = 10$
-  - **Quartiles :**  
-    - Q₁ = 8 (13ᵉ note)  
-    - Q₃ = 12 (38ᵉ note)  
-  - **Écart interquartile :**  
-    IQR = 12 − 8 = 4
+### **1. Covariance et Corrélation**
 
-### Exercice 2
-- **Données :**  
-  Distribution avec 15 modalités, N = 60 individus (N pair).  
-- **Calculs :**  
-  - **Médiane :**  
-    La 30ᵉ et 31ᵉ note :  
-    $m = \frac{10 + 10}{2} = 10$
-  - **Quartiles :**  
-    - Q₁ = 8 (médiane de la première moitié, calculée sur la 15ᵉ et 16ᵉ note)  
-    - Q₃ = 11,5 (médiane des notes 45ᵉ et 46ᵉ)
-  - **Écart interquartile :**  
-    IQR = 11,5 − 8 = 3,5
+- **Covariance** : cov(x,y)=1N∑(xi−xˉ)(yi−yˉ)cov(x, y) = \frac{1}{N} \sum (x_i - \bar{x}) (y_i - \bar{y})
+- **Coefficient de corrélation** : r=cov(x,y)σxσy,−1≤r≤1r = \frac{cov(x, y)}{\sigma_x \sigma_y}, \quad -1 \leq r \leq 1
+    - r>0r > 0 : Corrélation positive
+    - r<0r < 0 : Corrélation négative
+    - r=0r = 0 : Pas de corrélation
 
-### Exercice 3
-- (Les éléments de l'exercice 3 ne sont pas développés dans le document fourni.)
+### **2. Droite de régression (Méthode des Moindres Carrés)**
+
+Équation de la droite :
+
+y=mx+py = m x + p
+
+- **Pente** : m=∑(xi−xˉ)(yi−yˉ)∑(xi−xˉ)2m = \frac{\sum (x_i - \bar{x})(y_i - \bar{y})}{\sum (x_i - \bar{x})^2}
+- **Ordonnée à l'origine** : p=yˉ−mxˉp = \bar{y} - m \bar{x}
 
 ---
 
-Cette fiche de révision reprend les concepts clés tels que présentés dans le document : notions de population, variables et modalités, calculs d’indicateurs de position (mode, médiane, moyenne) et de dispersion (étendue, IQR, variance, écart-type), ainsi que quelques exercices pratiques pour appliquer ces notions.  
-N’hésitez pas à compléter par des schémas ou à refaire les calculs sur d’autres séries de données pour renforcer votre compréhension.
+## **III. Formules Importantes**
+
+- **Variance** : σ2=E(x2)−xˉ2\sigma^2 = E(x^2) - \bar{x}^2.
+- **Moyenne harmonique** : H=N∑nixiH = \frac{N}{\sum \frac{n_i}{x_i}}
+- **Covariance si y=ax+by = ax + b** : cov(x,y)=aσx2cov(x, y) = a \sigma_x^2
