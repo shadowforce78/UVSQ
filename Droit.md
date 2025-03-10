@@ -208,4 +208,8 @@
 | Alban D est parisien. De passage à Antibes, il est pris en état d'ivresse après avoir brûlé deux feux rouges. Son permis de conduire lui avait déjà été retiré.                                                                              | Tribunal correctionnel   | Lieu de l’infraction (Antibes)                                | Oui, Cour d’appel                           |
 | J Dupond habitant Brest commet un meurtre à Toulouse. Il est arrêté à Angers.                                                                                                                                                                | Cour d’assises           | Lieu du crime (Toulouse)                                      | Oui, Cour d’assises d’appel                 |
 
-1) 1990 => Uderzo porte plainte contre Dargaud 
+# Exercice 5)
+
+Affaire Franck, qui étais gardien du véhicule ?
+
+![[Drawing 2025-03-10 09.38.50.excalidraw]]
