@@ -222,4 +222,5 @@ Revirement de jurisprudence : La Cours de cassation a changé d'avis
 # Exercice 4)
 
 Cas 1)
-	
+	![[Drawing 2025-03-10 10.37.22.excalidraw]]
+	Mme. X (et ses enfants) intente une action en justice contre Mr Z et Mr Y pour obtenir un dédommagement (devant le tribunal judiciaire)
