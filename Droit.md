@@ -212,10 +212,14 @@
 
 Affaire Franck, qui étais gardien du véhicule ?
 
-![[Drawing 2025-03-10 09.38.50.excalidraw]]
+
+
+
 
 Revirement de jurisprudence : La Cours de cassation a changé d'avis 
 
 
 # Exercice 4)
 
+Cas 1)
+	
