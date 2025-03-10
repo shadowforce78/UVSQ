@@ -18,59 +18,50 @@
 
 flowchart TD
 
-    A{a > 0?} -->|Oui| B{b > 0?}
+    A{a > 0?} -->|Oui| B{b > 0?}
+    A -->|Non| C{a = 0?}
 
-    A -->|Non| C{a = 0?}
+    B -->|Oui| P1[P1: c = a + b > 0]
+    B -->|Non| B1{b = 0?}
 
-    B -->|Oui| P1[P1: c=a+b>0]
+    B1 -->|Oui| P3[P3: c = a > 0]
+    B1 -->|Non| P11[P11: Vérifier si a > b]
 
-    B -->|Non| B1{b = 0?}
+    C -->|Oui| D{b > 0?}
+    C -->|Non| E{b > 0?}
 
-    B1 -->|Oui| P3[P3: c=a>0]
+    D -->|Oui| P2[P2: c = b > 0]
+    D -->|Non| D1{b = 0?}
 
-    B1 -->|Non| P11[P11: a>|b|? c=a+b>0]
+    D1 -->|Oui| P7[P7: c = 0]
+    D1 -->|Non| P5[P5: c < 0]
 
-    C -->|Oui| D{b > 0?}
+    E -->|Oui| E1{Vérifier a et b}
+    E -->|Non| E2{b = 0?}
 
-    C -->|Non| E{b > 0?}
+    E1 -->|Oui| P8[P8: c < 0]
+    E1 -->|Non| P9[P9: c > 0]
+    E1 -->|Cas égalité| P10[P10: c = 0]
 
-    D -->|Oui| P2[P2: c=b>0]
+    E2 -->|Oui| P6[P6: c < 0]
+    E2 -->|Non| P4[P4: c < 0]
 
-    D -->|Non| D1{b = 0?}
-
-    D1 -->|Oui| P7[P7: c=0]
-
-    D1 -->|Non| P5[P5: c=b<0]
-
-    E -->|Oui| E1{|a| > b?}
-
-    E -->|Non| E2{b = 0?}
-
-    E1 -->|Oui| P8[P8: c=a+b<0]
-
-    E1 -->|Non, |a|<b| P9[P9: c=a+b>0]
-
-    E1 -->|Non, |a|=b| P10[P10: c=a+b=0]
-
-    E2 -->|Oui| P6[P6: c=a<0]
-
-    E2 -->|Non| P4[P4: c=a+b<0]
 
 ```
 
 # Opération qui calcule la soustraction de deux nombres entiers relatifs a et b
 
-| Classe | a   | b   | résultat attendu |
-| ------ | --- | --- | ---------------- |
-| P1     | a>0 | b>0 | c = a-b>0        |
-| P2     | a=0 | b>0 | c = -b<0         |
-| P3     | a>0 | b=0 | c = a>0          |
-| P4     | a<0 | b<0 | c = a-b<0        |
-| P5     | a=0 | b<0 | c = -b>0         |
-| P6     | a<0 | b=0 | c = a<0          |
-| P7     | a=0 | b=0 | c = 0            |
-| P8     | a<0 | b>0 | c = a-b<0        |
-| P9     | a>0 | b<0 | c = a-b>0        |
+| Classe | a   | b   | résultat attendu  |
+| ------ | --- | --- | ----------------- |
+| P1     | a>0 | b>0 | c = a-b>0         |
+| P2     | a=0 | b>0 | c = -b<0          |
+| P3     | a>0 | b=0 | c = a>0           |
+| P4     | a<0 | b<0 | c = a-b<0         |
+| P5     | a=0 | b<0 | c = -b>0          |
+| P6     | a<0 | b=0 | c = a<0           |
+| P7     | a=0 | b=0 | c = 0             |
+| P8     | a<0 | b>0 | c = a-b<0         |
+| P9     | a>0 | b<0 | c = a-b>0         |
 
 ```mermaid
 
@@ -112,17 +103,17 @@ flowchart TD
 
 # Opération qui calcule la multiplication de deux nombres entiers relatifs a et b
 
-| Classe | a   | b   | résultat attendu |
-| ------ | --- | --- | ---------------- |
-| P1     | a>0 | b>0 | c = a\*b>0        |
-| P2     | a=0 | b>0 | c = 0            |
-| P3     | a>0 | b=0 | c = 0            |
-| P4     | a<0 | b<0 | c = a\*b>0        |
-| P5     | a=0 | b<0 | c = 0            |
-| P6     | a<0 | b=0 | c = 0            |
-| P7     | a=0 | b=0 | c = 0            |
-| P8     | a<0 | b>0 | c = a\*b<0        |
-| P9     | a>0 | b<0 | c = a\*b<0        |
+| Classe | a   | b   | résultat attendu   |
+| ------ | --- | --- | ------------------ |
+| P1     | a>0 | b>0 | c = a\*b>0         |
+| P2     | a=0 | b>0 | c = 0              |
+| P3     | a>0 | b=0 | c = 0              |
+| P4     | a<0 | b<0 | c = a\*b>0         |
+| P5     | a=0 | b<0 | c = 0              |
+| P6     | a<0 | b=0 | c = 0              |
+| P7     | a=0 | b=0 | c = 0              |
+| P8     | a<0 | b>0 | c = a\*b<0         |
+| P9     | a>0 | b<0 | c = a\*b<0         |
 
 ```mermaid
 
@@ -156,17 +147,18 @@ flowchart TD
 
 # Opération qui calcule la division de deux nombres entiers relatifs a et b
 
-| Classe | a   | b   | résultat attendu |
-| ------ | --- | --- | ---------------- |
-| P1     | a>0 | b>0 | c = a/b>0        |
-| P2     | a=0 | b>0 | c = 0            |
-| P3     | a>0 | b=0 | c = erreur       |
-| P4     | a<0 | b<0 | c = a/b>0        |
-| P5     | a=0 | b<0 | c = 0            |
-| P6     | a<0 | b=0 | c = erreur       |
-| P7     | a=0 | b=0 | c = erreur       |
-| P8     | a<0 | b>0 | c = a/b<0        |
-| P9     | a>0 | b<0 | c = a/b<0        |
+| Classe | a   | b   | résultat attendu  |
+| ------ | --- | --- | ----------------- |
+| P1     | a>0 | b>0 | c = a/b>0         |
+| P2     | a=0 | b>0 | c = 0             |
+| P3     | a>0 | b=0 | c = erreur        |
+| P4     | a<0 | b<0 | c = a/b>0         |
+| P5     | a=0 | b<0 | c = 0             |
+| P6     | a<0 | b=0 | c = erreur        |
+| P7     | a=0 | b=0 | c = erreur        |
+| P8     | a<0 | b>0 | c = a/b<0         |
+| P9     | a>0 | b<0 | c = a/b<0         |
+
 
 ```mermaid
 
@@ -197,3 +189,4 @@ flowchart TD
     E -->|Non| P4[P4: c=a/b>0]
 
 ```
+
