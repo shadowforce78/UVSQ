@@ -57,14 +57,10 @@ Voici une fiche de révision reprenant les points essentiels du document :
        m = x[(N + 1)/2]
 3. **Moyenne arithmétique :**  
    - Formule :  
-     \[
-     \bar{x} = \frac{1}{N}\sum_{i=1}^{P} n_i\,x_i
-     \]
+    $\bar{x} = \frac{1}{N}\sum_{i=1}^{P} n_i\,x_i$
    - **Propriété de linéarité :**  
      Pour y = a·x + b, on a  
-     \[
-     \bar{y} = a\bar{x} + b
-     \]
+     $\bar{y} = a\bar{x} + b$
 
 ### F. Indicateurs de Dispersion
 1. **Étendue :**  
@@ -74,17 +70,11 @@ Voici une fiche de révision reprenant les points essentiels du document :
    - IQR = Q₃ − Q₁
 3. **Variance et Écart-type :**  
    - **Variance :**  
-     \[
-     \text{var}(x) = \sigma^2_x = \frac{1}{N}\sum_{i=1}^{P} n_i\,(x_i-\bar{x})^2
-     \]
+     $\text{var}(x) = \sigma^2_x = \frac{1}{N}\sum_{i=1}^{P} n_i\,(x_i-\bar{x})^2$ 
    - **Écart-type :**  
-     \[
-     \sigma_x = \sqrt{\text{var}(x)}
-     \]
+     $\sigma_x = \sqrt{\text{var}(x)}$
    - **Propriété alternative :**  
-     \[
-     \sigma^2_x = \frac{1}{N}\sum_{i=1}^{P} n_i\,x_i^2 - (\bar{x})^2
-     \]
+	   $\sigma^2_x = \frac{1}{N}\sum_{i=1}^{P} n_i\,x_i^2 - (\bar{x})^2$ 
 
 ---
 
@@ -96,9 +86,7 @@ Voici une fiche de révision reprenant les points essentiels du document :
 - **Calculs :**  
   - **Médiane :**  
     La 25ᵉ et 26ᵉ note sont utilisées :  
-    \[
-    m = \frac{10 + 10}{2} = 10
-    \]
+    $m = \frac{10 + 10}{2} = 10$
   - **Quartiles :**  
     - Q₁ = 8 (13ᵉ note)  
     - Q₃ = 12 (38ᵉ note)  
@@ -111,9 +99,7 @@ Voici une fiche de révision reprenant les points essentiels du document :
 - **Calculs :**  
   - **Médiane :**  
     La 30ᵉ et 31ᵉ note :  
-    \[
-    m = \frac{10 + 10}{2} = 10
-    \]
+    $m = \frac{10 + 10}{2} = 10$
   - **Quartiles :**  
     - Q₁ = 8 (médiane de la première moitié, calculée sur la 15ᵉ et 16ᵉ note)  
     - Q₃ = 11,5 (médiane des notes 45ᵉ et 46ᵉ)
