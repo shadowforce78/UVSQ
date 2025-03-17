@@ -1,5 +1,11 @@
 # TD1
 
+## Exercice 1
+
 1) ![[Drawing 2025-03-17 12.14.48.excalidraw]] 
 2) ![[Drawing 2025-03-17 12.21.09.excalidraw]]
-3) 
+3) ![[Drawing 2025-03-17 12.26.50.excalidraw]]
+## Exercice 2
+
+1) ![[Drawing 2025-03-17 12.35.16.excalidraw]]
+2) ![[Drawing 2025-03-17 12.39.04.excalidraw]] 
