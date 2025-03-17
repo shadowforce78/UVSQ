@@ -244,8 +244,22 @@ Elina est titulaire d'un patrimoine :
 b)
 
 
-| **Catégorie**                                                                            | **Éléments**                                                                                                                                                                                                           |
-| ---------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Droits patrimoniaux** _(biens et revenus ayant une valeur économique)_                 | - Propriétaire d’un appartement acheté avec un emprunt  <br>- Propriétaire d’une voiture utilisée pour le travail <br>- Salaire mensuel de **2 500 €**  <br>- Pension alimentaire de **300 €** versée par son ex-époux |
-| **Droits extrapatrimoniaux** _(liés à la personne, sans valeur économique)_              | - Déléguée syndicale pour la défense des salariés <br>- Droit de vote (inscription sur les listes électorales) <br>- Droit de voyager (demande de passeport pour le Canada)                                            |
-| **Droits mixtes** _(droits intellectuels : à la fois patrimoniaux et extrapatrimoniaux)_ | - Droits d’auteur sur son futur roman                                                                                                                                                                                  |
+| **Catégorie**                                                                            | **Éléments**                                                                                                                                                                                                                     |
+| ---------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Droits patrimoniaux** _(biens et revenus ayant une valeur économique)_                 | - Propriétaire d’un appartement acheté avec un emprunt  <br>- Propriétaire d’une voiture utilisée pour le travail <br>- Salaire mensuel de **2 500 €**  <br>- Pension alimentaire de **300 €** versée par son ex-époux (créance) |
+| **Droits extrapatrimoniaux** _(liés à la personne, sans valeur économique)_              | - Déléguée syndicale pour la défense des salariés <br>- Droit de vote (inscription sur les listes électorales) <br>- Droit de voyager (demande de passeport pour le Canada)<br>- Droit de garde sur son enfant                   |
+| **Droits mixtes** _(droits intellectuels : à la fois patrimoniaux et extrapatrimoniaux)_ | - Droits d’auteur sur son futur roman                                                                                                                                                                                            |
+
+- **Obligation financière** :
+    - Remboursement de son emprunt immobilier auprès de sa banque. Elle doit honorer les mensualités du prêt contracté pour l’achat de son appartement.
+    
+- **Obligations professionnelles** :
+	- Respect des engagements liés à son emploi et aux missions pour lesquelles elle est rémunérée.
+    - Participation aux actions syndicales en tant que déléguée syndicale, ce qui implique des responsabilités et un respect du cadre légal.
+
+- **Obligations familiales** :
+	- Assurer l’éducation et l’entretien de son enfant en ayant sa garde. Cela inclut les besoins quotidiens et l’attention nécessaire à son bien-être.
+	
+- **Obligation administrative** :
+    - Effectuer les démarches d’inscription sur les listes électorales pour pouvoir voter.
+    - Demander un passeport pour pouvoir voyager au Canada.
