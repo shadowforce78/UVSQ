@@ -224,3 +224,28 @@ Revirement de jurisprudence : La Cours de cassation a changé d'avis
 Cas 1)
 	![[Drawing 2025-03-10 10.37.22.excalidraw]]
 	Mme. X (et ses enfants) intente une action en justice contre Mr Z et Mr Y pour obtenir un dédommagement (devant le tribunal judiciaire)
+
+## TD5
+
+### 1. Les Droits subjectifs
+
+a)
+
+Elina est titulaire d'un patrimoine :
+	**Actifs (ce qu’elle possède) :**
+		- Appartement : **200 000 €**
+		- Créance sur son frère : **10 000 €**
+		- Droits d’auteur : **5 000 €**
+	**Passifs (ce qu’elle doit) :**
+		- Dettes envers ses créanciers : **350 000 €**
+
+215 000 - 350 000 = -135 000€
+
+b)
+
+
+| **Catégorie**                                                                            | **Éléments**                                                                                                                                                                                                           |
+| ---------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Droits patrimoniaux** _(biens et revenus ayant une valeur économique)_                 | - Propriétaire d’un appartement acheté avec un emprunt  <br>- Propriétaire d’une voiture utilisée pour le travail <br>- Salaire mensuel de **2 500 €**  <br>- Pension alimentaire de **300 €** versée par son ex-époux |
+| **Droits extrapatrimoniaux** _(liés à la personne, sans valeur économique)_              | - Déléguée syndicale pour la défense des salariés <br>- Droit de vote (inscription sur les listes électorales) <br>- Droit de voyager (demande de passeport pour le Canada)                                            |
+| **Droits mixtes** _(droits intellectuels : à la fois patrimoniaux et extrapatrimoniaux)_ | - Droits d’auteur sur son futur roman                                                                                                                                                                                  |
