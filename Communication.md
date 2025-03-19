@@ -404,3 +404,6 @@ Faut-il réformer l'orthographe ? Et si oui, comment éviter de tout retransform
 ### Conclusion
 
 Réformer l'orthographe est une question complexe, qui touche aussi bien à notre histoire qu’à notre avenir. Loin d’être une nécessité absolue, une réforme partielle pourrait cependant apporter des solutions pratiques. La vraie question est de savoir comment allier tradition et modernité, tout en rendant la langue plus accessible sans la dénaturer. Une meilleure éducation, plus de tolérance et quelques ajustements pourraient bien être le compromis entre passé et présent.
+
+
+
