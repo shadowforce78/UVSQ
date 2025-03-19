@@ -407,11 +407,12 @@ Réformer l'orthographe est une question complexe, qui touche aussi bien à notr
 
 
 ![[Pasted image 20250319155422.png]]
-Cette publicité de Total met en avant l’énergie éolienne comme une solution d’avenir. L’image est composée de deux éléments principaux : une éolienne en mouvement sous un ciel bleu et une libellule dont les ailes rappellent les pales de l’éolienne. Ce parallèle entre la nature et la technologie suggère que l’innovation peut s’inspirer du vivant pour créer des solutions plus durables.
+
+Cette publicité de Total met en avant l’énergie éolienne comme une solution d’avenir. L’image est composée de deux éléments principaux : une éolienne en mouvement sous un ciel bleu et une libellule dont les ailes rappellent les pales de l’éolienne. Ce parallèle entre la nature et la technologie suggère que l’innovation peut coexister avec le vivant pour créer des solutions plus durables.
 
 Le message de la publicité insiste sur le fait que le vent est une ressource naturelle et inépuisable, et que Total investit dans les énergies renouvelables pour préparer l’avenir. L’utilisation de couleurs naturelles, avec le bleu du ciel et le blanc des nuages, renforce cette idée d’une énergie propre et accessible à tous.
 
-Cette publicité s’adresse à un public large, notamment aux consommateurs soucieux de l’environnement, aux investisseurs et aux institutions qui peuvent soutenir ce type de projet. Elle vise à montrer que Total, une entreprise historiquement liée au pétrole, évolue vers des solutions plus respectueuses de la planète.
+Cette publicité s’adresse à un public large, notamment aux consommateurs soucieux de l’environnement, aux investisseurs et aux organisation qui peuvent soutenir ce type de projet. Elle vise à montrer que Total, une entreprise historiquement liée au pétrole, évolue vers des solutions plus respectueuses de la planète.
 
 Le slogan **"Pour vous, notre énergie est inépuisable"** joue sur un double sens : il met en avant le fait que le vent est une source d’énergie renouvelable, mais aussi que Total se positionne comme un fournisseur fiable et durable. Ce message rassurant cherche à améliorer l’image de l’entreprise en la présentant comme un acteur engagé dans la transition énergétique.
 
