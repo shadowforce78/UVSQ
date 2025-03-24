@@ -296,4 +296,12 @@ b)
 2) Application pratique
 	1) Léo et Léa signent un contrat de location en deux exemplaires
 		1) Acte sous signature privée
-		2) 
+		2) Preuve parfaite
+		3) L'exemplaire unique devient une preuve imparfaite
+		4) Copie fiable a condition d'avoir l'autre exemplaire original
+	2) Vous reconnaissez par écrit sur un coin de nappe en papier de devoir 500€ à votre ami Alex
+		1) Reconnaissance de dette
+		2) C'est une preuve imparfaite
+		3) Nous devons tout les deux prouver nos dire, les preuves peuvent être :
+			1) Compte bancaire
+			2) Accord 
