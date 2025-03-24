@@ -283,6 +283,17 @@ b)
 ### 3. La charge de la preuve : Qui doit prouver ?
 
 1) Un employeur n'aurait pas payer son employé qui porte plainte contre lui, c'est un procès civil
-2) Le demandeur est l'employé
-3) Jean Pierre doit prouver qu'il n'a pas été payé, Jacques n'a a prouvé qu'il a payé Jean Pierre uniquement si se dernier prouve qu'il n'a pas reçu de paiement
-4) Il doit trancher pour savoir qui a raison et doit vérifirer
+2) Le demandeur est l'employé car c'est lui qui demande la preuve
+3) Jean Pierre doit prouver qu'il n'a pas été payé, Jacques doit aussi prouver qu'il a payé Jean Pierre
+4) Il doit trancher pour savoir qui a raison et doit vérifier que l'article 1353 du Code Civil est bien respecté
+
+### 4. Les moyens de preuve et leur admissibilité : comment prouver ?
+
+
+1) Acte juridique : importance de l'écrit
+	Fait juridique : preuve par tous les moyens
+
+2) Application pratique
+	1) Léo et Léa signent un contrat de location en deux exemplaires
+		1) Acte sous signature privée
+		2) 
