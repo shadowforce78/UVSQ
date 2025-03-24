@@ -305,3 +305,9 @@ b)
 		3) Nous devons tout les deux prouver nos dire, les preuves peuvent être :
 			1) Compte bancaire
 			2) Accord 
+3) Preuve numérique
+	1) Intégrité : un document ne peux pas être modifié volontairement ou par inadvertance
+	2) Sur le chiffrement
+	3) C'est une preuve
+	4) Une preuve parfait parce qu'elle est intègre
+	5) Notamment pour le télétravail
