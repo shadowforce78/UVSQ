@@ -263,3 +263,26 @@ b)
 - **Obligation administrative** :
     - Effectuer les démarches d’inscription sur les listes électorales pour pouvoir voter.
     - Demander un passeport pour pouvoir voyager au Canada.
+
+### 2. Les sources des droits subjectifs
+
+
+|                                                       | Acte Juridique | Fait Juridique |
+| ----------------------------------------------------- | -------------- | -------------- |
+| Prêt entre amis, sans intérêts                        | X              |                |
+| Souscription d'un contrat d'assurance pour sa voiture | X              |                |
+| Embauche d'un vendeur dans un magasin de jeux vidéo   | X              |                |
+| Location d'un logement étudiant                       | X              |                |
+| Naissance d'un petit Luc                              |                | X              |
+| Vol d'un scouter                                      |                | X              |
+| Perte de sa carte bancaire                            |                | X              |
+| Création d'une société                                | X              |                |
+| Décès de la doyenne des Français                      |                | X              |
+| Accident causé en refusant une priorité               |                | X              |
+
+### 3. La charge de la preuve : Qui doit prouver ?
+
+1) Un employeur n'aurait pas payer son employé qui porte plainte contre lui, c'est un procès civil
+2) Le demandeur est l'employé
+3) Jean Pierre doit prouver qu'il n'a pas été payé, Jacques n'a a prouvé qu'il a payé Jean Pierre uniquement si se dernier prouve qu'il n'a pas reçu de paiement
+4) Il doit trancher pour savoir qui a raison et doit vérifirer
