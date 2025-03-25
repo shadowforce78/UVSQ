@@ -100,3 +100,8 @@ Ordre $n = |V| = \binom{5}{2}=\dfrac{5!}{2!(5-2)!}= \dfrac{5\times4\times3\times
 
 ## Exercice 7
 ![[Drawing 2025-03-25 14.53.54.excalidraw]]
+
+## Exercice 8
+
+![[Drawing 2025-03-25 15.29.43.excalidraw]]
+
