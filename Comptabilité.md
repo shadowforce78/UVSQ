@@ -24,4 +24,4 @@ Le bilan est une image financière de l'entreprise à une date déterminée
 
 ## Exercice 1
 
-1) Bilan de départ :
+![[Drawing 2025-03-25 10.11.40.excalidraw]]
