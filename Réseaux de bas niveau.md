@@ -37,3 +37,9 @@ Type de réseau :
 			- Hébergeur
 			- hardware : routeur, datacenter
 			- technologies : GSM, fibre, antienne relais
+
+- Topologie des LAN :
+	![[Pasted image 20250325102838.png]]
+	Topologie maillée : ![[Pasted image 20250325103632.png]]
+Concept de réseau
+![[Pasted image 20250325103921.png]]
