@@ -16,3 +16,6 @@
 1) ![[Drawing 2025-03-21 10.09.49.excalidraw]]
 2) ![[Drawing 2025-03-21 10.17.44.excalidraw]]
 3) ![[Drawing 2025-03-21 10.37.52.excalidraw]]
+# Chapitre 2
+
+Le bilan est une image financière de l'entreprise à une date déterminée
