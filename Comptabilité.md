@@ -21,3 +21,7 @@
 Le bilan est une image financière de l'entreprise à une date déterminée
 
 ![[Pasted image 20250325100333.png]]
+
+## Exercice 1
+
+1) Bilan de départ :
