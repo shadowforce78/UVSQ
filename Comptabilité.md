@@ -58,7 +58,29 @@ Le bilan est une image financière de l'entreprise à une date déterminée
 | **Actif**       | **Montant (€)**                       | **Passif**              | **Montant (€)**               |
 | --------------- | ------------------------------------- | ----------------------- | ----------------------------- |
 | **Banque**      | 295 000                               | **Capitaux propres**    | 250 000                       |
-|                 |                                       | **Résultat**            | 6 400                         |
+|                 |                                       | **Résultat**            | +1 200                        |
 | **Stocks**      | 3800 (annulation dettes fournisseurs) | **Dette financière**    | 40 000                        |
 | **Total Actif** | **295 000**                           | **Dettes fournisseurs** | 3 800 (annulation des stocks) |
 |                 |                                       | **Total Passif**        | **295 000**                   |
+25 000 + 40 000 + 6 400 - 1 400 = 295 000
+3 800 - 3 800 = 0
+
+
+| Charges                    | Montant     | Produits                               | Montant       |
+| -------------------------- | ----------- | -------------------------------------- | ------------- |
+| **Charges d'exploitation** |             | **Produits d'exploitation**            |               |
+| Achats de marchandises     | 3 800       | Ventes de marchandises                 | 995 000       |
+|                            |             | Prestations de services                | 25 000        |
+|                            |             | **Sous-total Produits d'exploitation** | **1 020 000** |
+|                            |             |                                        |               |
+|                            |             | **Produits financiers**                |               |
+|                            |             | Revenus de titres                      | 12 600        |
+|                            |             |                                        |               |
+|                            |             |                                        |               |
+|                            |             | **Produits financiers**                | **12 600**    |
+|                            |             |                                        |               |
+|                            |             | **Produits exceptionnels**             |               |
+|                            |             | (Néant)                                | 0             |
+|                            |             |                                        |               |
+| **Total des charges**      | **949 600** | **Total des produits**                 | **1 032 600** |
+|                            |             | **Résultat de l'exercice (Bénéfice)**  | **83 000**    |
