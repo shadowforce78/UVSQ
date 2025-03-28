@@ -66,21 +66,33 @@ Le bilan est une image financière de l'entreprise à une date déterminée
 3 800 - 3 800 = 0
 
 
-| Charges                    | Montant     | Produits                               | Montant       |
-| -------------------------- | ----------- | -------------------------------------- | ------------- |
-| **Charges d'exploitation** |             | **Produits d'exploitation**            |               |
-| Achats de marchandises     | 3 800       | Ventes de marchandises                 | 995 000       |
-|                            |             | Prestations de services                | 25 000        |
-|                            |             | **Sous-total Produits d'exploitation** | **1 020 000** |
-|                            |             |                                        |               |
-|                            |             | **Produits financiers**                |               |
-|                            |             | Revenus de titres                      | 12 600        |
-|                            |             |                                        |               |
-|                            |             |                                        |               |
-|                            |             | **Produits financiers**                | **12 600**    |
-|                            |             |                                        |               |
-|                            |             | **Produits exceptionnels**             |               |
-|                            |             | (Néant)                                | 0             |
-|                            |             |                                        |               |
-| **Total des charges**      | **949 600** | **Total des produits**                 | **1 032 600** |
-|                            |             | **Résultat de l'exercice (Bénéfice)**  | **83 000**    |
+| Charges                     | Montant   | Produits                    | Montant   |
+| --------------------------- | --------- | --------------------------- | --------- |
+| **Charges d'exploitation**  |           | **Produits d'exploitation** |           |
+| Achats de marchandises      | 3 800     | Ventes de marchandises      | 6 400     |
+| Publicité                   | 1 400     |                             |           |
+|                             |           |                             |           |
+| **Charges financières**     |           | **Produits financiers**     | 0         |
+| Intérêts d'emprunt          | 0         |                             |           |
+|                             |           | **Produits exceptionnels**  |           |
+| **Charges exceptionnelles** |           | (Néant)                     | 0         |
+| Amende fiscale              | 0         |                             |           |
+| **Résultat**                | 1 200     |                             |           |
+|                             |           |                             |           |
+| **Total des charges**       | **6 400** | **Total des produits**      | **6 400** |
+
+
+| **Actif**  | **€** | **Passif** | **€** |
+| ---------- | ----- | ---------- | ----- |
+| Actif Immo | 0     | Capital    | 5 000 |
+| Dispo      | 5 000 | Dettes     | 0     |
+| *Total*    | 5 000 | *Total*    | 5 000 |
+
+| **Actif**           | **€**  | **Passif**           | **€** |
+| ------------------- | ------ | -------------------- | ----- |
+| Actif immo          | 0      |                      |       |
+| **Actif circulant** |        | **Capitaux propres** |       |
+| Stocks (1)          | 0      | Captial              | 5 000 |
+| Dispos (2)          | 32 950 | **Dettes**           |       |
+|                     |        | Dettes fi            |       |
+|                     |        |                      |       |
