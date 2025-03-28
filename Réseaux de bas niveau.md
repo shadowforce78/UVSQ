@@ -55,11 +55,9 @@ Concept de réseau
 3) Un protocole est utilisé dans une communication de bout a bout pour établir une connexion entre deux système via un réseau
 4) Il faudrait 45 liaison ($\dfrac{n(n-1)}{2}$) 
 5) Le réseau Renater => Gros MAN ou petit WAN
-Le réseau de l'UVSQ => Man
-Le réseau de TC à Rambouillet => LAN
-Le réseau du groupe Orange => WAN
-Le réseau Amazon => WAN
-Internet => Gros WAN
+Le réseau de l'UVSQ => Man<br>Le réseau de TC à Rambouillet => LAN<br>Le réseau du groupe Orange => WAN<br>Le réseau Amazon => WAN<br>Internet => Gros WAN
 
 6) Ethernet (RJ45), Wifi, 4G, Bluetooth
-7) 
+## Exercice 2
+1) ![[Drawing 2025-03-28 09.05.40.excalidraw]]C'est un domaine de diffusion, ce modèle ne peut gérer qu'une seul connexion a la fois, si deux station émette en même temps, le hub va planter, il y aura collision
+2) 
