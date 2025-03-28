@@ -63,3 +63,4 @@ Le réseau de l'UVSQ => Man<br>Le réseau de TC à Rambouillet => LAN<br>Le rés
 2) Scénario : 
 	1) Broadcast / Diffusion
 	2) ![[Drawing 2025-03-28 09.20.35.excalidraw]]
+	3) 
