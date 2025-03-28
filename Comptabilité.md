@@ -26,28 +26,37 @@ Le bilan est une image financière de l'entreprise à une date déterminée
 
 ![[Drawing 2025-03-25 10.11.40.excalidraw]]
 
-#### **I. Produits (Ressources de l'entreprise)**
+## Exercice 2
 
-- **Ventes de marchandises** → _Produit d’exploitation_ → **995 000**
-    
-- **Prestations de services** → _Produit d’exploitation_ → **25 000**
-    
-- **Revenus de titres** (ex : dividendes, placements) → _Produit financier_ → **12 600**  
-    🔹 **Total des produits :** **1 032 600**
+| Charges                      | Montant     | Produits                               | Montant       |
+| ---------------------------- | ----------- | -------------------------------------- | ------------- |
+| **Charges d'exploitation**   |             | **Produits d'exploitation**            |               |
+| Achats de marchandises       | 440 000     | Ventes de marchandises                 | 995 000       |
+| Variation de stock           | 15 000      | Prestations de services                | 25 000        |
+| Salaires et charges sociales | 380 000     | **Sous-total Produits d'exploitation** | **1 020 000** |
+| Fournitures de bureau        | 5 000       |                                        |               |
+| Publicité                    | 90 000      | **Produits financiers**                |               |
+|                              |             | Revenus de titres                      | 12 600        |
+|                              |             |                                        |               |
+| **Charges financières**      |             |                                        |               |
+| Intérêts d'emprunt           | 18 600      | **Produits financiers**                | **12 600**    |
+|                              |             |                                        |               |
+| **Charges exceptionnelles**  |             | **Produits exceptionnels**             |               |
+| Amende fiscale               | 1 000       | (Néant)                                | 0             |
+|                              |             |                                        |               |
+| **Total des charges**        | **949 600** | **Total des produits**                 | **1 032 600** |
+|                              |             | **Résultat de l'exercice (Bénéfice)**  | **83 000**    |
 
-#### **II. Charges (Dépenses de l'entreprise)**
+## Exercice 3
 
-- **Achats de marchandises** → _Charge d’exploitation_ → **440 000**
-    
-- **Variation de stock** (Stock final - Stock initial) → _Charge d’exploitation (-15 000, car diminution du stock = gain)_ → **-15 000**
-    
-- **Salaires et charges sociales** → _Charge d’exploitation_ → **380 000**
-    
-- **Fournitures de bureau** → _Charge d’exploitation_ → **5 000**
-    
-- **Publicité** → _Charge d’exploitation_ → **90 000**
-    
-- **Intérêts d’emprunt** (coût des crédits) → _Charge financière_ → **18 600**
-    
-- **Amende fiscale** (non déductible fiscalement) → _Charge exceptionnelle_ → **1 000**  
-    🔹 **Total des charges :** **919 600**
+
+| **Actif** | **Montant (€)** | **Passif** | **Montant (€)** |
+| --------- | --------------- | ---------- | --------------- |
+
+|            |         |                      |         |
+| ---------- | ------- | -------------------- | ------- |
+| **Banque** | 250 000 | **Capitaux propres** | 250 000 |
+
+|   |   |   |   |
+|---|---|---|---|
+|**Total Actif**|**250 000**|**Total Passif**|**250 000**|
