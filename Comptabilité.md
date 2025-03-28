@@ -88,11 +88,13 @@ Le bilan est une image financière de l'entreprise à une date déterminée
 | Dispo      | 5 000 | Dettes     | 0     |
 | *Total*    | 5 000 | *Total*    | 5 000 |
 
-| **Actif**           | **€**  | **Passif**           | **€** |
-| ------------------- | ------ | -------------------- | ----- |
-| Actif immo          | 0      |                      |       |
-| **Actif circulant** |        | **Capitaux propres** |       |
-| Stocks (1)          | 0      | Captial              | 5 000 |
-| Dispos (2)          | 32 950 | **Dettes**           |       |
-|                     |        | Dettes fi            |       |
-|                     |        |                      |       |
+| **Actif**           | **€**      | **Passif**            | **€**      |
+| ------------------- | ---------- | --------------------- | ---------- |
+| Actif immo          | 0          |                       |            |
+| **Actif circulant** |            | **Capitaux propres**  |            |
+| Stocks (1)          | 0          | Captial               | 5 000      |
+| Dispos (2)          | 32 950     | Résultat              | 550        |
+|                     |            | **Dettes**            |            |
+|                     |            | Dettes financières    | 15 000     |
+|                     |            | Dettes d'exploitation | 13 500     |
+| **Total**           | **32 950** | **Total**             | **32 950** |
