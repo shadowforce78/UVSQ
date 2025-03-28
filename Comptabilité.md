@@ -50,13 +50,15 @@ Le bilan est une image financière de l'entreprise à une date déterminée
 ## Exercice 3
 
 
-| **Actif** | **Montant (€)** | **Passif** | **Montant (€)** |
-| --------- | --------------- | ---------- | --------------- |
+| **Actif**       | **Montant (€)** | **Passif**           | **Montant (€)** |
+| --------------- | --------------- | -------------------- | --------------- |
+| **Banque**      | 250 000         | **Capitaux propres** | 250 000         |
+| **Total Actif** | **250 000**     | **Total Passif**     | **250 000**     |
 
-|            |         |                      |         |
-| ---------- | ------- | -------------------- | ------- |
-| **Banque** | 250 000 | **Capitaux propres** | 250 000 |
-
-|   |   |   |   |
-|---|---|---|---|
-|**Total Actif**|**250 000**|**Total Passif**|**250 000**|
+| **Actif**       | **Montant (€)**                       | **Passif**              | **Montant (€)**               |
+| --------------- | ------------------------------------- | ----------------------- | ----------------------------- |
+| **Banque**      | 295 000                               | **Capitaux propres**    | 250 000                       |
+|                 |                                       | **Résultat**            | 6 400                         |
+| **Stocks**      | 3800 (annulation dettes fournisseurs) | **Dette financière**    | 40 000                        |
+| **Total Actif** | **295 000**                           | **Dettes fournisseurs** | 3 800 (annulation des stocks) |
+|                 |                                       | **Total Passif**        | **295 000**                   |
