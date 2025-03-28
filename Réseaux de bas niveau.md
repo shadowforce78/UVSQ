@@ -43,3 +43,13 @@ Type de réseau :
 	Topologie maillée : ![[Pasted image 20250325103632.png]]
 Concept de réseau
 ![[Pasted image 20250325103921.png]]
+
+# TD/TP 1
+
+## Exercice 1
+
+1) TCP / IP : 4 couches; OSI : 7 couche
+![[Drawing 2025-03-28 08.40.53.excalidraw]]
+
+2) Bus, Anneau, Etoiles, Arbre, Maillée
+3) Un protocole est utilisé dans une communication de bout a bout 
