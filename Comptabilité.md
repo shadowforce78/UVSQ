@@ -25,3 +25,29 @@ Le bilan est une image financière de l'entreprise à une date déterminée
 ## Exercice 1
 
 ![[Drawing 2025-03-25 10.11.40.excalidraw]]
+
+#### **I. Produits (Ressources de l'entreprise)**
+
+- **Ventes de marchandises** → _Produit d’exploitation_ → **995 000**
+    
+- **Prestations de services** → _Produit d’exploitation_ → **25 000**
+    
+- **Revenus de titres** (ex : dividendes, placements) → _Produit financier_ → **12 600**  
+    🔹 **Total des produits :** **1 032 600**
+
+#### **II. Charges (Dépenses de l'entreprise)**
+
+- **Achats de marchandises** → _Charge d’exploitation_ → **440 000**
+    
+- **Variation de stock** (Stock final - Stock initial) → _Charge d’exploitation (-15 000, car diminution du stock = gain)_ → **-15 000**
+    
+- **Salaires et charges sociales** → _Charge d’exploitation_ → **380 000**
+    
+- **Fournitures de bureau** → _Charge d’exploitation_ → **5 000**
+    
+- **Publicité** → _Charge d’exploitation_ → **90 000**
+    
+- **Intérêts d’emprunt** (coût des crédits) → _Charge financière_ → **18 600**
+    
+- **Amende fiscale** (non déductible fiscalement) → _Charge exceptionnelle_ → **1 000**  
+    🔹 **Total des charges :** **919 600**
