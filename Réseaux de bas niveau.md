@@ -80,4 +80,13 @@ Le réseau de l'UVSQ => Man<br>Le réseau de TC à Rambouillet => LAN<br>Le rés
 | st5         | Port correspondant à st5 |
 | sw1         | Port vers `sw1`          |
 
-## Exercice 4 
+## Exercice 7
+
+![[Drawing 2025-03-28 10.06.34.excalidraw]]
+**Tout le monde reçoit tout** → pas de confidentialité
+**Bruit réseau infernal** → chaque machine reçoit des données qui ne la concernent pas.
+
+
+## Exercice 8
+![[Drawing 2025-03-28 10.10.05.excalidraw]]
+Il faut activer le STP (Spanning Tree Protocol)
