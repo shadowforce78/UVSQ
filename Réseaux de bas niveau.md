@@ -63,4 +63,21 @@ Le réseau de l'UVSQ => Man<br>Le réseau de TC à Rambouillet => LAN<br>Le rés
 2) Scénario : 
 	1) Broadcast / Diffusion
 	2) ![[Drawing 2025-03-28 09.20.35.excalidraw]]
-	3) 
+## Exercice 5 :
+![[Drawing 2025-03-28 09.57.56.excalidraw]]
+
+|Adresse MAC|Port|
+|---|---|
+|st1|Port correspondant à st1|
+|st2|Port correspondant à st2|
+|st6|Port correspondant à st6|
+|sw2|Port vers `sw2`|
+
+| Adresse MAC | Port                     |
+| ----------- | ------------------------ |
+| st3         | Port correspondant à st3 |
+| st4         | Port correspondant à st4 |
+| st5         | Port correspondant à st5 |
+| sw1         | Port vers `sw1`          |
+
+## Exercice 4 
