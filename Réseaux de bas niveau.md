@@ -52,4 +52,14 @@ Concept de réseau
 ![[Drawing 2025-03-28 08.40.53.excalidraw]]
 
 2) Bus, Anneau, Etoiles, Arbre, Maillée
-3) Un protocole est utilisé dans une communication de bout a bout 
+3) Un protocole est utilisé dans une communication de bout a bout pour établir une connexion entre deux système via un réseau
+4) Il faudrait 45 liaison ($\dfrac{n(n-1)}{2}$) 
+5) Le réseau Renater => Gros MAN ou petit WAN
+Le réseau de l'UVSQ => Man
+Le réseau de TC à Rambouillet => LAN
+Le réseau du groupe Orange => WAN
+Le réseau Amazon => WAN
+Internet => Gros WAN
+
+6) Ethernet (RJ45), Wifi, 4G, Bluetooth
+7) 
