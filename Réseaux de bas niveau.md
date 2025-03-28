@@ -60,4 +60,6 @@ Le réseau de l'UVSQ => Man<br>Le réseau de TC à Rambouillet => LAN<br>Le rés
 6) Ethernet (RJ45), Wifi, 4G, Bluetooth
 ## Exercice 2
 1) ![[Drawing 2025-03-28 09.05.40.excalidraw]]C'est un domaine de diffusion, ce modèle ne peut gérer qu'une seul connexion a la fois, si deux station émette en même temps, le hub va planter, il y aura collision
-2) 
+2) Scénario : 
+	1) Broadcast / Diffusion
+	2) 192.168.1.255
