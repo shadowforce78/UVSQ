@@ -82,6 +82,9 @@ Le bilan est une image financière de l'entreprise à une date déterminée
 | **Total des charges**       | **6 400** | **Total des produits**      | **6 400** |
 
 
+
+## Exercice 4
+
 | **Actif**  | **€** | **Passif** | **€** |
 | ---------- | ----- | ---------- | ----- |
 | Actif Immo | 0     | Capital    | 5 000 |
@@ -98,3 +101,27 @@ Le bilan est une image financière de l'entreprise à une date déterminée
 |                     |            | Dettes financières    | 15 000     |
 |                     |            | Dettes d'exploitation | 13 500     |
 | **Total**           | **32 950** | **Total**             | **32 950** |
+
+|                                                                     | **Impact sur le compte de résultat** |
+| ------------------------------------------------------------------- | ------------------------------------ |
+| -           Emprunt de 15 000 € à votre banque                      | Pas d'impôt                          |
+| -           Achat à crédit pour 13 500 € d’ordinateurs<br>          | Charges d'exploitations              |
+| -           Vente au comptant de vos marchandises pour 21 500 €<br> | Produits d'exploitations             |
+| -           Versement d’un salaire de 6 300 €<br>                   | Charges d'exploitations              |
+| -           Location annuelle d’un petit local : 2 250 €.<br>       | Charges d'exploitations              |
+
+**Compte de résultat
+
+
+| **Charges**              | **(€)** | **(€)** |              **Produits** |
+| :----------------------- | :-----: | :-----: | ------------------------: |
+| *Charges d'exploitation* |         |         | *Produits d'exploitation* |
+| - Achat de marchandises  | 13 500  | 21 500  |    - Vente de marchandise |
+| - Salaires               |  6 300  |         |                           |
+| - Location               |  2 250  |         |                           |
+| *Charges financières*    |    /    |    /    |     *Produits financiers* |
+| *Charges exceptionnels*  |    /    |    /    |  *Produits exceptionnels* |
+|                          |         |   550   |                - Résultat |
+| *Total*                  | 22 050  | 22 050  |                   *Total* |
+
+9) Le résultat est trop haut, ça veut dire que l'entreprise n'est pas rentable en prévisions 
