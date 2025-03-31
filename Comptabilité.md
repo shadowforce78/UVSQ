@@ -129,14 +129,13 @@ Le bilan est une image financière de l'entreprise à une date déterminée
 # TD 3
 
 ## Exercice 1
-
 | Éléments                                                                                        | Immobilisation Oui/Non | Exploitation Oui/Non | Justification |
 | ----------------------------------------------------------------------------------------------- | ---------------------- | -------------------- | ------------- |
-| Achat de 2 guitares : 1 100 €                                                                   |                        | Oui                  |               |
-| Achat d’un nouvel ordinateur afin de faciliter le conseil des vendeurs à la clientèle : 1 500 € | Oui                    |                      |               |
-| Achat de 20 cartouches d’encre pour les imprimantes : 520 €                                     |                        | Oui                  |               |
-| Établissement des fiches de paye du mois : 13 542 €                                             |                        | Oui                  |               |
-| Achat d’un local mitoyen au magasin afin d’aménager l’auditorium : 83 000 €                     | Non                    |                      |               |
-| Travaux de modernisation des locaux de vente (extension du réseau électrique) : 4 680 €         | Non                    |                      |               |
-| Achat d’un piano à queue commandé par un client : 17 000 €                                      |                        |                      |               |
-| Achat d’un piano à queue destiné à être utilisé lors des récitals dans l’auditorium : 16 000 €  |                        |                      |               |
+| Achat de 2 guitares : 1 100 €                                                                   | Non                    | Oui                  | Achat destiné à la revente (stock). |
+| Achat d’un nouvel ordinateur afin de faciliter le conseil des vendeurs à la clientèle : 1 500 € | Oui                    | Non                  | Matériel durable utilisé pour l'activité de l'entreprise. |
+| Achat de 20 cartouches d’encre pour les imprimantes : 520 €                                     | Non                    | Oui                  | Consommable nécessaire au fonctionnement de l'entreprise. |
+| Établissement des fiches de paye du mois : 13 542 €                                             | Non                    | Oui                  | Charge liée au personnel, dépense récurrente. |
+| Achat d’un local mitoyen au magasin afin d’aménager l’auditorium : 83 000 €                     | Oui                    | Non                  | Acquisition d'un bien immobilier pour l'activité de l'entreprise. |
+| Travaux de modernisation des locaux de vente (extension du réseau électrique) : 4 680 €         | Oui                    | Non                  | Amélioration des infrastructures pour l'exploitation. |
+| Achat d’un piano à queue commandé par un client : 17 000 €                                      | Non                    | Oui                  | Achat destiné à la revente (commande client). |
+| Achat d’un piano à queue destiné à être utilisé lors des récitals dans l’auditorium : 16 000 €  | Oui                    | Non                  | Bien durable utilisé pour les événements de l'entreprise. |
