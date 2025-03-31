@@ -125,3 +125,18 @@ Le bilan est une image financière de l'entreprise à une date déterminée
 | *Total*                  | 22 050  | 22 050  |                   *Total* |
 
 9) Le résultat est trop haut, ça veut dire que l'entreprise n'est pas rentable en prévisions 
+
+# TD 3
+
+## Exercice 1
+
+| Éléments                                                                                        | Immobilisation Oui/Non | Exploitation Oui/Non | Justification |
+| ----------------------------------------------------------------------------------------------- | ---------------------- | -------------------- | ------------- |
+| Achat de 2 guitares : 1 100 €                                                                   |                        | Oui                  |               |
+| Achat d’un nouvel ordinateur afin de faciliter le conseil des vendeurs à la clientèle : 1 500 € | Oui                    |                      |               |
+| Achat de 20 cartouches d’encre pour les imprimantes : 520 €                                     |                        | Oui                  |               |
+| Établissement des fiches de paye du mois : 13 542 €                                             |                        | Oui                  |               |
+| Achat d’un local mitoyen au magasin afin d’aménager l’auditorium : 83 000 €                     | Non                    |                      |               |
+| Travaux de modernisation des locaux de vente (extension du réseau électrique) : 4 680 €         | Non                    |                      |               |
+| Achat d’un piano à queue commandé par un client : 17 000 €                                      |                        |                      |               |
+| Achat d’un piano à queue destiné à être utilisé lors des récitals dans l’auditorium : 16 000 €  |                        |                      |               |
