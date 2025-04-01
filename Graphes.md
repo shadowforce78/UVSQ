@@ -107,3 +107,62 @@ Ordre $n = |V| = \binom{5}{2}=\dfrac{5!}{2!(5-2)!}= \dfrac{5\times4\times3\times
 
 ![[Drawing 2025-04-01 15.56.49.excalidraw]]
 ![[Drawing 2025-04-01 16.20.41.excalidraw]]
+### Exercice 4
+
+#### a) Connexité de $G$
+
+**Preuve :**  
+Supposons $G$ non connexe. Alors $G$ a deux composantes $C_1$ et $C_2$ d'ordres $n_1$ et $n_2$.  
+Degré minimal $\geq n$ implique $n_1 \geq n + 1$ et $n_2 \geq n + 1$, donc $n_1 + n_2 \geq 2n + 2$. Contradiction avec $n_1 + n_2 = 2n$.  
+**Conclusion :** $G$ est connexe.  
+
+---
+
+#### b) Diamètre $\leq 2$
+
+**Preuve :**  
+Pour deux sommets $u$ et $v$ :  
+- Si adjacents : $d(u, v) = 1$.  
+- Sinon, $|N(u) \cap N(v)| \geq 2$ (car $\delta_G \geq n$), donc $d(u, v) = 2$.  
+**Conclusion :** diamètre $\leq 2$.  
+
+### Exercice 5
+
+#### a) Graphes 2-réguliers et 3-réguliers
+
+**Ordre 4 :**
+- 2-régulier : Carré (4-cycle $C_4$)
+- 3-régulier : $K_4$ (graphe complet)
+
+**Ordre 5 :**
+- 2-régulier : 5-cycle $C_5$
+- 3-régulier : N'existe pas (somme des degrés impaire)
+
+---
+
+#### b) Conditions sur $k$ et $n$
+
+**Parité :**  
+$\sum \text{deg} = kn$ doit être pair ⇒ $k$ et $n$ pas tous deux impairs.
+
+**Connexité si $n - 2k - 2 < 0$ :**  
+Preuve par l'absurde : si non connexe, une composante aurait $\leq k+1$ sommets ⇒ impossible car degré minimal $k$.
+
+---
+
+#### c) Complément d'un graphe régulier
+
+**Preuve :**  
+Si $G$ est $k$-régulier d'ordre $n$, chaque sommet de $\overline{G}$ a degré $(n-1) - k$ ⇒ $\overline{G}$ est $(n-k-1)$-régulier.
+
+---
+
+#### d) Graphe complémentaire $\overline{G}$
+
+**Données :**  
+$G$ 5-régulier d'ordre 12.
+
+**Propriétés de $\overline{G}$ :**  
+- Ordre : 12 (inchangé)
+- Degré : $12 - 1 - 5 = 6$ ⇒ 6-régulier
+- Taille : $\frac{12 \times 6}{2} = 36$ arêtes
