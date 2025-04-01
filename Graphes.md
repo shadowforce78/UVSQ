@@ -105,3 +105,4 @@ Ordre $n = |V| = \binom{5}{2}=\dfrac{5!}{2!(5-2)!}= \dfrac{5\times4\times3\times
 
 ![[Drawing 2025-03-25 15.29.43.excalidraw]]
 
+![[Drawing 2025-04-01 15.56.49.excalidraw]]
