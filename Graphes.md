@@ -169,4 +169,4 @@ $G$ 5-régulier d'ordre 12.
 
 ### Exercice 6
 
-![[Drawing 2025-04-02 14.04.12.excalidraw]] 
+![[Drawing 2025-04-02 14.04.12.excalidraw]]
