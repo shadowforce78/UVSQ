@@ -135,7 +135,7 @@ Pour deux sommets $u$ et $v$ :
 - 3-régulier : $K_4$ (graphe complet)
 
 **Ordre 5 :**
-- 2-régulier : 5-cycle $C_5$
+- 2-régulier : Pentagone (5-cycle $C_5$)
 - 3-régulier : N'existe pas (somme des degrés impaire)
 
 ---
