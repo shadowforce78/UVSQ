@@ -167,3 +167,6 @@ $G$ 5-régulier d'ordre 12.
 - Degré : $12 - 1 - 5 = 6$ ⇒ 6-régulier
 - Taille : $\frac{12 \times 6}{2} = 36$ arêtes
 
+### Exercice 6
+
+![[Drawing 2025-04-02 14.04.12.excalidraw]] 
