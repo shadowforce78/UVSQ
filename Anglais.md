@@ -1,4 +1,4 @@
---
+
 Les langues diffèrent en fonction de la fréquence
 
 Français => 120Hz a 1200Hz
