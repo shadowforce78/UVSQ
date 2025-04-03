@@ -90,3 +90,6 @@ Le réseau de l'UVSQ => Man<br>Le réseau de TC à Rambouillet => LAN<br>Le rés
 ## Exercice 8
 ![[Drawing 2025-03-28 10.10.05.excalidraw]]
 Il faut activer le STP (Spanning Tree Protocol)
+
+# Chapitre 2 : Adresse IP
+
