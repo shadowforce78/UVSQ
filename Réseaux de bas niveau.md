@@ -92,4 +92,3 @@ Le réseau de l'UVSQ => Man<br>Le réseau de TC à Rambouillet => LAN<br>Le rés
 Il faut activer le STP (Spanning Tree Protocol)
 
 # Chapitre 2 : Adresse IP
-
