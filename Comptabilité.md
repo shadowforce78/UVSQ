@@ -173,3 +173,11 @@ Cout amortissement par heure : $\dfrac{ValeurBrute}{TotalHeuresPrévues}=\dfrac{
 | N+3      | 2 500                         | 6 400            | 1 280                       | 5 632                   | 768     |
 | N+4      | 1 400                         | 6 400            | 717                         | 6 349                   | 51      |
 | N+5      | 100                           | 6 400            | 51                          | 6 400                   | 0       |
+
+
+
+|Actif|Montant au 31/12/N (€)|Montant au 31/12/N+1 (€)|
+|---|---|---|
+|**Immobilisation brute**|6 400|6 400|
+|**Amortissements cumulés**|(1 280)|(2 816)|
+|**Valeur nette comptable (VNC)**|**5 120**|**3 584**|
