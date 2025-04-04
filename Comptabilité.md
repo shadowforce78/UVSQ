@@ -159,3 +159,17 @@ Le bilan est une image financière de l'entreprise à une date déterminée
 	- **Valeur Nette Comptable (VNC)** : Obtenue par différence entre le coût d'acquisition et le cumul des amortissements pratiqués, représente la fraction de la valeur de la machine dont on peux encore attendre des avantages économique  
 
 3) La VNC à la fin du plan d’amortissement est de **0 €** car la machine a été **entièrement amortie**. Cela signifie que **toute sa valeur a été répartie** en charges sur sa durée d'utilisation prévue (5 ans), elle **n’a donc plus de valeur comptable**, même si elle fonctionne encore.
+
+# Application 4 TD3
+
+
+Cout amortissement par heure : $\dfrac{ValeurBrute}{TotalHeuresPrévues}=\dfrac{6400}{12500}=0.512$€/heure 
+
+| Exercice | Nombre d’heures d’utilisation | Valeur brute (€) | Annuité d’amortissement (€) | Cumul amortissement (€) | VNC (€) |
+| -------- | ----------------------------- | ---------------- | --------------------------- | ----------------------- | ------- |
+| N        | 2 500                         | 6 400            | 1 280                       | 1 280                   | 5 120   |
+| N+1      | 3 000                         | 6 400            | 1 536                       | 2 816                   | 3 584   |
+| N+2      | 3 000                         | 6 400            | 1 536                       | 4 352                   | 2 048   |
+| N+3      | 2 500                         | 6 400            | 1 280                       | 5 632                   | 768     |
+| N+4      | 1 400                         | 6 400            | 717                         | 6 349                   | 51      |
+| N+5      | 100                           | 6 400            | 51                          | 6 400                   | 0       |
