@@ -142,5 +142,20 @@ Le bilan est une image financière de l'entreprise à une date déterminée
 
 # Application 3 TD3
 
-1) On prend le coût d'acquisitions en montant a amortir donc ici 6 400€ sur 5 ans donc $\dfrac{6400}{5}=1280$ par an
+1) On prend le coût d'acquisitions en montant a amortir donc ici 6 400€ sur 5 ans donc $\dfrac{6400}{5}\times\dfrac{10.5}{12}=1120$ par an (On part de 16 février de l'année N)
 
+| Exercice | Valeur brute (€) | Annuité d’amortissement (€) | Cumul des amortissements (€) | VNC (€) |
+| -------- | ---------------- | --------------------------- | ---------------------------- | ------- |
+| N        | 6 400            | 1 120                       | 1 120                        | 5 280   |
+| N+1      | 6 400            | 1 280                       | 2 400                        | 4 000   |
+| N+2      | 6 400            | 1 280                       | 3 680                        | 2 720   |
+| N+3      | 6 400            | 1 280                       | 4 960                        | 1 440   |
+| N+4      | 6 400            | 1 280                       | 6 240                        | 160     |
+| N+5      | 6 400            | 160                         | 6 400                        | 0       |
+
+2) 
+	- **Annuité d’amortissement** : Représente une fraction de la valeur d'acquisition de la machine qui a été consommée au cours d'une année afin de profiter de ses avantages économique. 
+
+	- **Valeur Nette Comptable (VNC)** : Obtenue par différence entre le coût d'acquisition et le cumul des amortissements pratiqués, représente la fraction de la valeur de la machine dont on peux encore attendre des avantages économique  
+
+3) La VNC à la fin du plan d’amortissement est de **0 €** car la machine a été **entièrement amortie**. Cela signifie que **toute sa valeur a été répartie** en charges sur sa durée d'utilisation prévue (5 ans), elle **n’a donc plus de valeur comptable**, même si elle fonctionne encore.
