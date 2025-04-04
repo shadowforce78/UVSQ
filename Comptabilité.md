@@ -139,3 +139,8 @@ Le bilan est une image financière de l'entreprise à une date déterminée
 | Travaux de modernisation des locaux de vente (extension du réseau électrique) : 4 680 €         | Oui                    | Non                  | Amélioration des infrastructures pour l'exploitation. |
 | Achat d’un piano à queue commandé par un client : 17 000 €                                      | Non                    | Oui                  | Achat destiné à la revente (commande client). |
 | Achat d’un piano à queue destiné à être utilisé lors des récitals dans l’auditorium : 16 000 €  | Oui                    | Non                  | Bien durable utilisé pour les événements de l'entreprise. |
+
+# Application 3 TD3
+
+1) On prend le coût d'acquisitions en montant a amortir donc ici 6 400€ sur 5 ans donc $\dfrac{6400}{5}=1280$ par an
+
