@@ -480,4 +480,17 @@ Voici un affichage plus propre et clair de ton début de TD 6, bien structuré a
 - Pour connaitre le tribunal compétent en cas de litige 
 
 #### 1.8) A quelle date le contrat ci-dessus est-il conclu ?
-	Le
+- Le 6 mars, au moment ou le document est posté
+
+### Le consentement des parties ne doit pas être vicié
+
+#### 2.1) Quels sont les 3 vices de consentements pouvant porter atteinte au consentement des contractants  
+- Erreurs
+- Dol ou tromperie
+- Violence
+
+#### 2.2) Déterminer pour chaque cas le vice de consentement  
+- Cas A : Violence
+- Cas B : Dol
+- Cas C : Dol
+- Cas D : Erreur
