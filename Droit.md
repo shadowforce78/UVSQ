@@ -316,6 +316,7 @@ Voici un affichage plus propre et clair de ton début de TD 6, bien structuré a
 
 ---
 
+
 # 📝 TD 6 – **Classification des contrats**
 
 ---
@@ -383,6 +384,7 @@ Voici un affichage plus propre et clair de ton début de TD 6, bien structuré a
 - À exécution instantanée
     
 - Individuel
+    
 
 ---
 
@@ -395,15 +397,13 @@ Voici un affichage plus propre et clair de ton début de TD 6, bien structuré a
 - Synallagmatique
     
 - À exécution successive
-	
-- Individuel
     
 - À titre onéreux
     
-- Consensuel 
-	
+- Consensuel
+    
 - Solennel
-
+    
 
 ---
 
@@ -412,35 +412,72 @@ Voici un affichage plus propre et clair de ton début de TD 6, bien structuré a
 ➡️ **Contrat** :
 
 - Solennel
-
+    
 - Collectif
     
 - À exécution successive
     
 - Synallagmatique
-	 
+    
 - De gré à gré
     
 - Consensuel
-	 
-- A titre gratuit
+    
+- À titre gratuit
+    
 
 ---
 
-## Les conditions de validité d'un contrat : 
-- Offre et acceptation
-- Consentement des parties ne doit pas être vicié
-- Capacité juridique
-- Contenue du contrat
+## III. Les conditions de validité d'un contrat
 
-## Offre et acceptation
-1.1) A quel moment un contrat est-il formé ?
-	Il est formé dès qu'il y a une offre et une acceptation
-1.2) A quel moment un contrat de vente en ligne est-il formé ?
-	Il est formé depuis le 21 Juin 2004 au moment du clic de validation de payement
-1.3) L'exposition d'objets en vitrine, une petite annonce consituent elles des offres ?
-	Oui, ce sont des offres exprimées
-1.4) L'acceptation peut être expresse ou tacite
-	Oui
-1.5) En principe le silence ne vaut pas acceptation : pourquoi protéger le consommateur ?
-	Les règles existent pour éviter que le consommateur se retrouve dans un contrat par accident
+1. **Offre et acceptation**
+    
+2. **Consentement des parties ne doit pas être vicié**
+    
+3. **Capacité juridique**
+    
+4. **Contenu du contrat** (licite et certain)
+    
+
+---
+
+### **Offre et acceptation**
+
+#### 1.1) **À quel moment un contrat est-il formé ?**
+
+- Un contrat est formé dès qu’il y a une **offre** et une **acceptation**.
+    
+
+#### 1.2) **À quel moment un contrat de vente en ligne est-il formé ?**
+
+- Il est formé depuis le **21 juin 2004**, au moment du clic de validation de paiement.
+    
+
+#### 1.3) **L’exposition d’objets en vitrine, une petite annonce constituent-elles des offres ?**
+
+- Oui, ce sont des **offres exprimées**.
+    
+
+#### 1.4) **L’acceptation peut-elle être expresse ou tacite ?**
+
+- Oui, l’acceptation peut être **expresse** (verbalement ou par écrit) ou **tacite** (par des actes qui traduisent l'acceptation).
+    
+
+#### 1.5) **En principe, le silence ne vaut pas acceptation : pourquoi protéger le consommateur ?**
+
+- Les règles existent pour éviter que le consommateur se retrouve dans un contrat par accident. Cela permet de protéger ses droits.
+    
+
+#### 1.6) **Une exception : la tacite reconduction et son encadrement**
+
+- **Définition de la tacite reconduction** :  
+    La **tacite reconduction d’un contrat** signifie que, lorsqu’un contrat arrive à échéance, il se renouvelle automatiquement, sans qu’il soit nécessaire de le renégocier ou de le signer à nouveau, sauf si l’une des parties décide de le résilier.
+    
+- **Objectif de la loi Chatel de 2005** :  
+    L’objectif de l’article de la **loi Chatel de 2005** est de **protéger les consommateurs** contre les abus liés à cette reconduction automatique. Il impose aux entreprises d'informer les consommateurs de la reconduction de leur contrat et de leur donner un délai suffisant pour le résilier avant qu’il ne soit renouvelé.
+
+#### 1.7) Pourquoi c'est important de préciser le lieu de formation d'un contrat ?
+- Pour connaitre le tribunal compétent en cas de litige 
+
+#### 1.8) A quelle date le contrat ci-dessus est-il conclu ?
+	Le
