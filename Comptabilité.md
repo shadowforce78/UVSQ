@@ -195,4 +195,16 @@ Cout amortissement par heure : $\dfrac{ValeurBrute}{TotalHeuresPrévues}=\dfrac{
 | TVA                |           | 2845, -  | 2995, -  | 2805, -  |
 | Autres charges     | 7700      | 8300     | 8890     | 9200     |
 | Balance 31/08/N    | 12750     |          |          |          |
-| Total décaissement | 29252.56  | 22530    |          |          |
+| Total décaissement | 29252.56  | 22530.92 | 23318.76 | 25962.32 |
+
+|                       | Septembre  | Octobre    | Novembre   | Decembre   |
+| --------------------- | ---------- | ---------- | ---------- | ---------- |
+| Trésorerie initiale + | - 200      | - 15452.56 | - 19183.48 | - 10208.24 |
+| Encaissements +       | 14000      | 18800      | 32300      | 33625      |
+| Décaissements -       | 29252.56   | 22530.92   | 23318.76   | 25962.32   |
+| Trésorerie finale     | - 15452.56 | - 19183.48 | - 10208.24 | - 2545.56  |
+
+6) Dotation et investissements, même si elles sont comptabilisé en charges (chap3), elle ne sont pas compté comme des décaissement car ce sont des charges "fictives"
+7) Non, en Septembre l'entreprise n'est qu'a -200 donc ce n'est pas inquiétant au départ
+8) Oui car la trésorerie devrait ce dégrader fortement entre Septembre et Novembre, il faut agir rapidement
+9) 
