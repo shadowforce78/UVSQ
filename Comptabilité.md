@@ -181,3 +181,8 @@ Cout amortissement par heure : $\dfrac{ValeurBrute}{TotalHeuresPrévues}=\dfrac{
 |**Immobilisation brute**|6 400|6 400|
 |**Amortissements cumulés**|(1 280)|(2 816)|
 |**Valeur nette comptable (VNC)**|**5 120**|**3 584**|
+# TD 4
+
+1) Les montants figurant sur 'Balance 31/08/N' corresponde au montant encaissé au moins d'Aout déjà présent sur le compte 512
+2) TTC, car la TVA est encaissé au même moment
+3) 
