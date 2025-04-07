@@ -312,25 +312,118 @@ b)
 	4) Une preuve parfait parce qu'elle est intègre
 	5) Notamment pour le télétravail
 
-# TD 6
+Voici un affichage plus propre et clair de ton début de TD 6, bien structuré avec une hiérarchisation nette pour chaque partie :
 
-## Classification des contrats :
+---
 
-1) Def. => Contrat
-	1) Une des parties au contrat impose à l'autre le contenu du contrat => Contrat d'adhésion
-	2) Une seule partie au contrat a des obligations => Contrat unilatéral
-	3) Il se forme par le seul échange de contentement => Contrat consensuel
-	4) Chaque contractant s'engage personnellement => Contrat individuel
-	5) L'exécution des obligations est étalée dans le temps => Contrat à exécution succesive
-	6) Il crée des obligations réciproques entre les contractants => Contrat synallagmatique
-	7) Prestations exécutées en une fois => Contrat à exécution instantanée
-	8) Contrat sans contrepartie => Contrat à titre gratuit
-	9) Contrat avec contrepartie (monétaire) => Contrat à titre onéreux
-	10) Les signataires du contrat engagent un groupe de personnes => Contrat collectif
-	11) Il doit respecter un certain formalisme => Contrat solennel
-	12) Les modalités et le contenu du contrat peuvent être discutés => Contrat de gré à gré
-2) Nommer chaque contrat en fonction de la situation, il peut y en avoir plusieurs
-	1) Madame Dupin achète une baguette à la boulangerie =>
-	2) Par acte notarié établi par Maître Depuis, M Généraux donne un terrain de 200m² à son fils =>
-	3) Monsieur Roulvite a conclu par écrit un contrat d'assurance automobile avec la mutuelle MMAA =>
-	4) L'Union des Industries Métallurgiques et Minières a conclu une convention collective avec des syndicats représentatifs des salariés. Aucune durée n'a été prévue pour l'application de cette convention collective =>
+# 📝 TD 6 – **Classification des contrats**
+
+---
+
+## I. Définitions des différents types de contrats
+
+1. **Contrat d’adhésion** : Une des parties impose à l’autre le contenu du contrat.
+    
+2. **Contrat unilatéral** : Une seule partie a des obligations.
+    
+3. **Contrat consensuel** : Il se forme par le simple échange des consentements.
+    
+4. **Contrat individuel** : Chaque contractant s’engage personnellement.
+    
+5. **Contrat à exécution successive** : L’exécution des obligations est étalée dans le temps.
+    
+6. **Contrat synallagmatique** : Il crée des obligations réciproques entre les parties.
+    
+7. **Contrat à exécution instantanée** : Les prestations sont exécutées en une fois.
+    
+8. **Contrat à titre gratuit** : Il ne comporte pas de contrepartie.
+    
+9. **Contrat à titre onéreux** : Il comporte une contrepartie, souvent monétaire.
+    
+10. **Contrat collectif** : Il engage un groupe de personnes (ex. : employeurs/salariés).
+    
+11. **Contrat solennel** : Il nécessite un formalisme particulier pour être valide.
+    
+12. **Contrat de gré à gré** : Son contenu peut être discuté et négocié.
+    
+
+---
+
+## II. Qualification des contrats selon les situations
+
+### 1. **Madame Dupin achète une baguette à la boulangerie**
+
+➡️ **Contrat** :
+
+- Consensuel
+    
+- À titre onéreux
+    
+- Synallagmatique
+    
+- À exécution instantanée
+    
+- D’adhésion
+    
+- Individuel
+    
+
+---
+
+### 2. **M. Généraux donne un terrain de 200m² à son fils, par acte notarié établi par Maître Depuis**
+
+➡️ **Contrat** :
+
+- Unilatéral
+    
+- À titre gratuit
+    
+- Solennel
+    
+- À exécution instantanée
+    
+- Individuel
+
+---
+
+### 3. **M. Roulvite conclut un contrat d’assurance automobile avec la mutuelle MMAA**
+
+➡️ **Contrat** :
+
+- D’adhésion
+    
+- Synallagmatique
+    
+- À exécution successive
+	
+- Individuel
+    
+- À titre onéreux
+    
+- Consensuel 
+	
+- Solennel
+
+
+---
+
+### 4. **L’Union des Industries Métallurgiques et Minières signe une convention collective avec des syndicats représentatifs**
+
+➡️ **Contrat** :
+
+- Solennel
+
+- Collectif
+    
+- À exécution successive
+    
+- Synallagmatique
+	 
+- De gré à gré
+    
+- Consensuel
+	 
+- A titre gratuit
+
+---
+
