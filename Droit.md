@@ -427,3 +427,20 @@ Voici un affichage plus propre et clair de ton début de TD 6, bien structuré a
 
 ---
 
+## Les conditions de validité d'un contrat : 
+- Offre et acceptation
+- Consentement des parties ne doit pas être vicié
+- Capacité juridique
+- Contenue du contrat
+
+## Offre et acceptation
+1.1) A quel moment un contrat est-il formé ?
+	Il est formé dès qu'il y a une offre et une acceptation
+1.2) A quel moment un contrat de vente en ligne est-il formé ?
+	Il est formé depuis le 21 Juin 2004 au moment du clic de validation de payement
+1.3) L'exposition d'objets en vitrine, une petite annonce consituent elles des offres ?
+	Oui, ce sont des offres exprimées
+1.4) L'acceptation peut être expresse ou tacite
+	Oui
+1.5) En principe le silence ne vaut pas acceptation : pourquoi protéger le consommateur ?
+	Les règles existent pour éviter que le consommateur se retrouve dans un contrat par accident
