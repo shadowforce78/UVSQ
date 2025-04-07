@@ -311,3 +311,26 @@ b)
 	3) C'est une preuve
 	4) Une preuve parfait parce qu'elle est intègre
 	5) Notamment pour le télétravail
+
+# TD 6
+
+## Classification des contrats :
+
+1) Def. => Contrat
+	1) Une des parties au contrat impose à l'autre le contenu du contrat => Contrat d'adhésion
+	2) Une seule partie au contrat a des obligations => Contrat unilatéral
+	3) Il se forme par le seul échange de contentement => Contrat consensuel
+	4) Chaque contractant s'engage personnellement => Contrat individuel
+	5) L'exécution des obligations est étalée dans le temps => Contrat à exécution succesive
+	6) Il crée des obligations réciproques entre les contractants => Contrat synallagmatique
+	7) Prestations exécutées en une fois => Contrat à exécution instantanée
+	8) Contrat sans contrepartie => Contrat à titre gratuit
+	9) Contrat avec contrepartie (monétaire) => Contrat à titre onéreux
+	10) Les signataires du contrat engagent un groupe de personnes => Contrat collectif
+	11) Il doit respecter un certain formalisme => Contrat solennel
+	12) Les modalités et le contenu du contrat peuvent être discutés => Contrat de gré à gré
+2) Nommer chaque contrat en fonction de la situation, il peut y en avoir plusieurs
+	1) Madame Dupin achète une baguette à la boulangerie =>
+	2) Par acte notarié établi par Maître Depuis, M Généraux donne un terrain de 200m² à son fils =>
+	3) Monsieur Roulvite a conclu par écrit un contrat d'assurance automobile avec la mutuelle MMAA =>
+	4) L'Union des Industries Métallurgiques et Minières a conclu une convention collective avec des syndicats représentatifs des salariés. Aucune durée n'a été prévue pour l'application de cette convention collective =>
