@@ -185,4 +185,14 @@ Cout amortissement par heure : $\dfrac{ValeurBrute}{TotalHeuresPrévues}=\dfrac{
 
 1) Les montants figurant sur 'Balance 31/08/N' corresponde au montant encaissé au moins d'Aout déjà présent sur le compte 512
 2) TTC, car la TVA est encaissé au même moment
-3) 
+3) Vente : 15% a 30J ($\dfrac{4800}{32000}\times100$) et 85% a 60J ($\dfrac{27000}{32000}\times100$)
+4) Achat 80% Le mois même, 20% le mois suivant : les conditions générales d'achat sont défavorables par rapport au conditions générale de payements
+5) 
+
+|                    | Septembre | Octobre  | Novembre | Decembre |
+| ------------------ | --------- | -------- | -------- | -------- |
+| Achats             | 8802.56   | 11385.92 | 11493.76 | 13957.32 |
+| TVA                |           | 2845, -  | 2995, -  | 2805, -  |
+| Autres charges     | 7700      | 8300     | 8890     | 9200     |
+| Balance 31/08/N    | 12750     |          |          |          |
+| Total décaissement | 29252.56  | 22530    |          |          |
