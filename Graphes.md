@@ -210,3 +210,36 @@ Soit $G = (V, E)$ et $\bar{G} = (V, \bar{E})$ son complémentaire.
 **Conclusion :**  
 - $G$ connexe $\nRightarrow$ $\bar{G}$ non connexe.  
 - $G$ non connexe $\Rightarrow$ $\bar{G}$ connexe (sauf cas spécifique).  
+
+# TD 4
+
+## Exercice 6
+
+#### **Graphe de précédence :**
+- **Sommets** : \( T_1 \) à \( T_8 \).
+- **Arcs** (contraintes) :
+  - \( T_5 \to T_2 \), \( T_5 \to T_6 \), \( T_5 \to T_4 \), \( T_5 \to T_8 \),
+  - \( T_6 \to T_1 \), \( T_6 \to T_4 \),
+  - \( T_8 \to T_1 \),
+  - \( T_2 \to T_3 \), \( T_4 \to T_3 \), \( T_4 \to T_8 \),
+  - \( T_1 \to T_7 \).
+
+#### **Ordre topologique possible :**
+1. **Sources initiales** : \( T_5 \) (seule tâche sans prédécesseur).
+2. **Étapes** :
+   - Retirer \( T_5 \) → nouvelles sources : \( T_6 \), \( T_2 \), \( T_4 \), \( T_8 \).
+   - Retirer \( T_6 \) → nouvelles sources : \( T_2 \), \( T_4 \), \( T_8 \).
+   - Retirer \( T_2 \) → \( T_4 \), \( T_8 \) restent.
+   - Retirer \( T_4 \) → \( T_8 \), \( T_3 \) deviennent sources.
+   - Retirer \( T_8 \) → \( T_1 \), \( T_3 \) restent.
+   - Retirer \( T_1 \) → \( T_3 \), \( T_7 \) restent.
+   - Retirer \( T_3 \), puis \( T_7 \).
+
+#### **Solution :**
+Un ordre valide est :  
+**\( T_5, T_6, T_2, T_4, T_8, T_1, T_3, T_7 \)**.  
+
+**Validation** : Toutes les contraintes sont respectées (ex: \( T_5 \) avant \( T_6 \), \( T_6 \) avant \( T_1 \), etc.).
+
+
+![[Drawing 2025-04-10 14.51.29.excalidraw]]
