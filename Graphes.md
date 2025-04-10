@@ -243,3 +243,7 @@ Un ordre valide est :
 
 
 ![[Drawing 2025-04-10 14.51.29.excalidraw]]
+
+## *Diagramme de Hasse*
+
+![[Drawing 2025-04-10 15.17.26.excalidraw]] 
