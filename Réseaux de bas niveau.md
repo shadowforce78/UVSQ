@@ -109,3 +109,5 @@ Un VLAN permet de séparer un réseaux en sous réseaux de plusieurs machine a p
 802.1q Pour la propagation de VLAN
 
 
+CIDR => ClassLess Inter Domain Routing
+Le slash de l'adresse ip correspond a son masque (127.0.0.1/24 et 24 bits de masque)
