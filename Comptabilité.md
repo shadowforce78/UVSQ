@@ -208,4 +208,6 @@ Cout amortissement par heure : $\dfrac{ValeurBrute}{TotalHeuresPrévues}=\dfrac{
 7) Non, en Septembre l'entreprise n'est qu'a -200 donc ce n'est pas inquiétant au départ
 8) Oui car la trésorerie devrait ce dégrader fortement entre Septembre et Novembre, il faut agir rapidement
 9) Non, il ne faut aller s'endetter pour régler un découvert qui n'arrivera que dans 3 mois, un prêt règle des soucis a long terme, ici c'est a court termes
-10) Oui, exceptionnellement, il peut demander une augmentation du plafond de découvert autorisé 
+10) Oui, exceptionnellement, il peut demander une augmentation du plafond de découvert autorisé
+11) Oui, l'ouverture de capitale est réservé pour des opérations de long termes
+![[Drawing 2025-04-11 11.08.00.excalidraw]]
