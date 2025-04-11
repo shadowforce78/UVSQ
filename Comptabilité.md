@@ -221,8 +221,3 @@ Cout amortissement par heure : $\dfrac{ValeurBrute}{TotalHeuresPrévues}=\dfrac{
 	3) vendre ses VMP
 	4) renégocier avec la banque pour augmenter le plafond de découvert autorisé, 
 	5) ! EN DERNIER LIEU ! faire un prêt a cours termes a la banque (coût élevé)
-
-
-
-# Chapitre 5
-
