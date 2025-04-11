@@ -101,3 +101,4 @@ Il faut activer le STP (Spanning Tree Protocol)
 	la seconde couche est séparée en deux (LLC et MAC, ici on étudie MAC)
 	
 HDLC => Highlevel Data Link Control
+
