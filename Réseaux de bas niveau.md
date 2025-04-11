@@ -102,3 +102,13 @@ Il faut activer le STP (Spanning Tree Protocol)
 	
 HDLC => Highlevel Data Link Control
 
+
+# TP1 suite
+
+Un VLAN permet de séparer un réseaux en sous réseaux de plusieurs machine a partir d'un seul switch
+802.1q Pour la propagation de VLAN
+
+# TD 2 
+
+128.10.216.39 Classe B
+
