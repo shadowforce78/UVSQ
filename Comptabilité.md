@@ -216,5 +216,13 @@ Cout amortissement par heure : $\dfrac{ValeurBrute}{TotalHeuresPrévues}=\dfrac{
 15) Au moins de décembre on commence a voir un excédant, on a réduit le BFR
 16) Faire payer ses clients plus tôt
 17) On pourrait proposer a Cyril Gal un mix de choses, tout d'abord,
-	1) réduction du BFR (Allonger le délais de reglement des fournisseurs et raccourcir le le délais de payement des clients)
-	2) 
+	1) réduction du BFR (Allonger le délais de règlement des fournisseurs et raccourcir le le délais de payement des clients)
+	2) prêter de l'argent a l'entreprise, compte courant d'association 
+	3) vendre ses VMP
+	4) renégocier avec la banque pour augmenter le plafond de découvert autorisé, 
+	5) ! EN DERNIER LIEU ! faire un prêt a cours termes a la banque (coût élevé)
+
+
+
+# Chapitre 5
+
