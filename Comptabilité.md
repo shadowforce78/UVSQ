@@ -211,3 +211,10 @@ Cout amortissement par heure : $\dfrac{ValeurBrute}{TotalHeuresPrévues}=\dfrac{
 10) Oui, exceptionnellement, il peut demander une augmentation du plafond de découvert autorisé
 11) Oui, l'ouverture de capitale est réservé pour des opérations de long termes
 ![[Drawing 2025-04-11 11.08.00.excalidraw]]
+
+.
+15) Au moins de décembre on commence a voir un excédant, on a réduit le BFR
+16) Faire payer ses clients plus tôt
+17) On pourrait proposer a Cyril Gal un mix de choses, tout d'abord,
+	1) réduction du BFR (Allonger le délais de reglement des fournisseurs et raccourcir le le délais de payement des clients)
+	2) 
