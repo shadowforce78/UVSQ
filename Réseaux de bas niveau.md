@@ -111,3 +111,6 @@ Un VLAN permet de séparer un réseaux en sous réseaux de plusieurs machine a p
 
 CIDR => ClassLess Inter Domain Routing
 Le slash de l'adresse ip correspond a son masque (127.0.0.1/24 et 24 bits de masque)
+
+
+@IP = 192.168.1.1/23 => @MASK = 255.255.248.0
