@@ -494,3 +494,26 @@ Voici un affichage plus propre et clair de ton début de TD 6, bien structuré a
 - Cas B : Dol
 - Cas C : Dol
 - Cas D : Erreur
+
+
+## Définition du contrat
+	Un contrat doit respecter 4 conditions de validité
+		Offre et acceptation
+		Le consentement non vicié des contractants
+		Capacité juridique des contractant
+		Contenu du contrat
+## 3 - La capacité juridique
+### 3.1) Définitions de la capacité juridique :
+	Capacité de pouvoir conclure un contrat
+
+### 3.2) Applications
+	Le grand père peut s'opposer car il est le tuteur légal, l'enfant est mineur donc n'est pas en capacité juridique de signer un contrat
+
+## 4 - Le contenu du contrat 
+### 4.1) Vente d'immeuble
+	- La vente sur plan, l'immeuble en futur construction peut etre vendu car la préstation est futur
+	- La Tour Eiffel ne peut être vendu car ce n'est pas possible, le contenu du contrat n'est pas possible
+
+### 4.2) Contrat de prêt
+	- Le contenu du contrat est possible, c'est un contrat de prêt 
+	- Non, ici le contrat déroge a l'odre public, le contenu est 
