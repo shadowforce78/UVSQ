@@ -574,4 +574,8 @@ Voici un affichage plus propre et clair de ton début de TD 6, bien structuré a
 		2) Le souscritpeure (assuré) : verser les fonds a la compagnie d'assurance
 	2) Au décès du souscripteur, les fonds sont versés a un bénéficiaire (tiers) qui n'a pas contracté 
 
-## 4 
+## 4 - Inexécution du contrat, la responsabilité contractuelle
+1) C'est un contrat d'abonnement
+2) L'opérateur et l'abonné, obligation de résultat de la part de l'operateur, obligation de l'abonné a payer son abonnement
+3) Si l'obligation de résultat n'est pas respecté par l'operateur alors le contrat est annulé
+4) Mise en demeure par lettre recommandé
