@@ -254,3 +254,86 @@ Cout amortissement par heure : $\dfrac{ValeurBrute}{TotalHeuresPrévues}=\dfrac{
 6) .
 7) .
 8) Résultat courant impot = REX + résultat financier
+
+
+# Application 1 : Calcul de l’excédent brut d’exploitation et du résultat d’exploitation
+
+---
+
+## 1) Précisez la nature de l’activité de chaque entreprise.
+
+- **Entreprise MARTIN** : L’entreprise MARTIN exerce une **activité industrielle**. Elle produit des biens qu’elle revend, comme l’indiquent les postes "production vendue" et "production stockée".
+    
+- **Entreprise FIREST** : L’entreprise FIREST exerce une **activité commerciale**. Elle achète des marchandises pour les revendre sans transformation, ce qui ressort du poste "ventes de marchandises".
+    
+
+---
+
+## 2) Pour chaque entreprise, calculez l’excédent brut d’exploitation (EBE).
+
+**Formule utilisée** :
+
+$EBE=Valeur Ajouteˊe (VA)−Salaires et traitements−Charges sociales−Impoˆts et taxesEBE = \text{Valeur Ajoutée (VA)} - \text{Salaires et traitements} - \text{Charges sociales} - \text{Impôts et taxes}$
+
+### Étapes :
+
+**Entreprise MARTIN** :
+
+- Valeur de la production : 14 100 + 330 + 105 = **14 535**
+    
+- Consommations intermédiaires : 3 750 + 465 = **4 215**
+    
+
+Donc :
+
+$VAMARTIN=14535−4215=10320VA_{MARTIN} = 14 535 - 4 215 = 10 320$
+
+Puis :
+
+$EBEMARTIN=10320−(1650+660+630)EBE_{MARTIN} = 10 320 - (1 650 + 660 + 630)$ $EBEMARTIN=10320−2940=7380EBE_{MARTIN} = 10 320 - 2 940 = \boxed{7 380}$
+
+---
+
+**Entreprise FIREST** :
+
+- Valeur de la production : 12 300 + 90 = **12 390**
+    
+- Consommations intermédiaires : 2 850 + 360 = **3 210**
+    
+
+Donc :
+
+$VAFIREST=12390−3210=9180VA_{FIREST} = 12 390 - 3 210 = 9 180$
+
+Puis :
+
+$EBEFIREST=9180−(1320+525+555)EBE_{FIREST} = 9 180 - (1 320 + 525 + 555)$$EBEFIREST=9180−2400=6780EBE_{FIREST} = 9 180 - 2 400 = \boxed{6 780}$
+
+---
+
+## 3) Quel est le résultat d’exploitation dégagé par chacune de ces deux entreprises ?
+
+**Formule utilisée** :
+
+$REX=EBE+Reprises sur amortissements−Dotations aux amortissementsREX = EBE + \text{Reprises sur amortissements} - \text{Dotations aux amortissements}$
+
+### Calculs :
+
+**Entreprise MARTIN** :
+
+$REXMARTIN=7380+45−75REX_{MARTIN} = 7 380 + 45 - 75 REXMARTIN=7350REX_{MARTIN} = \boxed{7 350}$
+
+---
+
+**Entreprise FIREST** :
+
+$REXFIREST=6780+60−45REX_{FIREST} = 6 780 + 60 - 45 REXFIREST=6795REX_{FIREST} = \boxed{6 795}$
+
+---
+
+# Résumé final :
+
+| Entreprise | Activité     | EBE   | REX   |
+| ---------- | ------------ | ----- | ----- |
+| MARTIN     | Industrielle | 7 380 | 7 350 |
+| FIREST     | Commerciale  | 6 780 | 6 795 |
