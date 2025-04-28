@@ -221,3 +221,14 @@ Cout amortissement par heure : $\dfrac{ValeurBrute}{TotalHeuresPrévues}=\dfrac{
 	3) vendre ses VMP
 	4) renégocier avec la banque pour augmenter le plafond de découvert autorisé, 
 	5) ! EN DERNIER LIEU ! faire un prêt a cours termes a la banque (coût élevé)
+
+# TD 5 
+
+
+| SIG                                | Mode de calcul simplifié                                          | Définitions                                                                                |
+| ---------------------------------- | ----------------------------------------------------------------- | ------------------------------------------------------------------------------------------ |
+| Valeur ajouté VA                   | Valeur de la production - valeur des consommations intermédiaires | Valeur qu'apporte son entreprise a ses consommations intermédiaire par ses transformations |
+| Excédent brut d'exploitation EBE   | VA - salaires - cotisations sociales - taxe d'apprentissage       | Mesure les fonds générés par les sites d'exploitation de l'entreprise                      |
+| Résultat d'exploitation REX        | EBE - Amortissements                                              | Mesure le résultat dégagé par l'activité normal d'exploitation de l'entreprise             |
+| Résultat courant avant impôts RCAI | REX + Résultat financier                                          |                                                                                            |
+| Résultat avant impôts RNAI         | RCAI + Résultat Exceptionnels                                     |                                                                                            |
