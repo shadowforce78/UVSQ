@@ -114,3 +114,6 @@ Le slash de l'adresse ip correspond a son masque (127.0.0.1/24 et 24 bits de mas
 
 
 @IP = 192.168.1.1/23 => @MASK = 255.255.248.0
+
+
+Identification avec MF pour prévenir de plusieurs packets, multiple de 8...
