@@ -532,7 +532,7 @@ Voici un affichage plus propre et clair de ton début de TD 6, bien structuré a
 
 # TD 7 - Exécution du contrat
 ---
-
+## 1 - Les obligations contractuelles
 **1. Le débiteur d'une obligation de résultat :**  
 ✅ a. S'engage à atteindre un objectif préalablement fixé et convenu 
 
@@ -547,12 +547,23 @@ Voici un affichage plus propre et clair de ton début de TD 6, bien structuré a
 
 **5. Colis Express garantit la livraison sous 24h :**  
 ✅ b. Obligation de résultat
+✅ d. Obligation de garantie comportant des exceptions
 
 **6. Un médecin a une :**  
 ✅ a. Obligation de moyens
 
 **7. La jurisprudence a créé une obligation de :**  
+✅ b. Information
 ✅ d. Sécurité
 
 **8. La modification du contrat est possible dans les situations suivantes :**
+✅ a. Accord des parties
+✅ d. Décision unilatérale d'une des parties au contrat et accord du juge
 
+## 2 - La modification du contrat
+1) Le juge ne peut pas modifier le contenu d'un contrat
+2) Les clauses abusives : 
+	1) Le juge est autorisé a intervenir dans le cas ou une clause exposée par un professionnels n'est pas claire
+	2) Non, le reste du contrat n'est pas remis en cause
+
+## 3 - Les effets du contrat
