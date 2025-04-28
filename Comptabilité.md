@@ -230,5 +230,17 @@ Cout amortissement par heure : $\dfrac{ValeurBrute}{TotalHeuresPrévues}=\dfrac{
 | Valeur ajouté VA                   | Valeur de la production - valeur des consommations intermédiaires | Valeur qu'apporte son entreprise a ses consommations intermédiaire par ses transformations |
 | Excédent brut d'exploitation EBE   | VA - salaires - cotisations sociales - taxe d'apprentissage       | Mesure les fonds générés par les sites d'exploitation de l'entreprise                      |
 | Résultat d'exploitation REX        | EBE - Amortissements                                              | Mesure le résultat dégagé par l'activité normal d'exploitation de l'entreprise             |
-| Résultat courant avant impôts RCAI | REX + Résultat financier                                          |                                                                                            |
-| Résultat avant impôts RNAI         | RCAI + Résultat Exceptionnels                                     |                                                                                            |
+| Résultat courant avant impôts RCAI | REX + Résultat financier                                          | Mesure la profitabilité de l'entreprise en tenant compte de sa structure financière        |
+| Résultat avant impôts RNAI         | RCAI + Résultat Exceptionnels                                     | Résultat global dégagé par l'entreprise avant impôts                                       |
+
+2) Valeur ajouté : Représente l'accroissement de valeur que l'entreprise rapporte au bien et services acheté dans le cadre de son activité 
+	1) VA = Valeur de la production - Valeur des couts intérmédiaires
+	2) VA = (126 000 + 3 300 000 - 4 000 + 6 000) - (78 000 + 2 400 + 2 266 600 - 5 900 + 2 800)
+	3) VA = 3428000 - 2343900
+	4) VA = 1 084 100€
+3) Pour payer les salaires
+4) 
+
+| Valeur ajouté : |     |
+| --------------- | --- |
+|                 |     |
