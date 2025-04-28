@@ -524,7 +524,35 @@ Voici un affichage plus propre et clair de ton début de TD 6, bien structuré a
 	- Nullité absolue : contenu du contrat
 	- Nullité relative : offre et acceptation, consentement, capacité juridique
 	1) Absolue (Prix manquant => Contenu du contrat)
-	2) Absolue (Illegal => Contenu du contrat)
+	2) Absolue (Illégal => Contenu du contrat)
 	3) Relative (Age => capacité juridique)
-	4) Relative (Condamnati)
-	5) Absolue (Information caché a la vente => Contenu du contrat)
+	4) Relative (Condamnations => Vice de consentement)
+	5) Relative (Information caché a la vente => Vice de consentement)
+
+
+# TD 7 - Exécution du contrat
+---
+
+**1. Le débiteur d'une obligation de résultat :**  
+✅ a. S'engage à atteindre un objectif préalablement fixé et convenu 
+
+**2. Le transporteur :**  
+✅ a. S'engage à atteindre un objectif préalablement fixé et convenu 
+
+**3. Le débiteur d'une obligation de moyens :**  
+✅ b. S'oblige à mettre en œuvre tous les moyens possibles pour atteindre l'objectif convenu
+
+**4. Le débiteur d'une obligation de garantie :**  
+✅ c. Garantit tous les cas d'inobservation du résultat
+
+**5. Colis Express garantit la livraison sous 24h :**  
+✅ b. Obligation de résultat
+
+**6. Un médecin a une :**  
+✅ a. Obligation de moyens
+
+**7. La jurisprudence a créé une obligation de :**  
+✅ d. Sécurité
+
+**8. La modification du contrat est possible dans les situations suivantes :**
+
