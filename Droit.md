@@ -516,4 +516,15 @@ Voici un affichage plus propre et clair de ton début de TD 6, bien structuré a
 
 ### 4.2) Contrat de prêt
 	- Le contenu du contrat est possible, c'est un contrat de prêt 
-	- Non, ici le contrat déroge a l'odre public, le contenu est 
+	- Non, ici le contrat déroge a l'odre public, le contenu est illicite
+
+# IV - Conséquence : la nullité du contrat 
+1) Si une des quatre conditions n'est pas valide, alors le contrat de peut être déclaré comme NUL 
+2) Application :
+	- Nullité absolue : contenu du contrat
+	- Nullité relative : offre et acceptation, consentement, capacité juridique
+	1) Absolue (Prix manquant => Contenu du contrat)
+	2) Absolue (Illegal => Contenu du contrat)
+	3) Relative (Age => capacité juridique)
+	4) Relative (Condamnati)
+	5) Absolue (Information caché a la vente => Contenu du contrat)
