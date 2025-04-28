@@ -241,6 +241,16 @@ Cout amortissement par heure : $\dfrac{ValeurBrute}{TotalHeuresPrévues}=\dfrac{
 3) Pour payer les salaires
 4) 
 
-| Valeur ajouté : |     |
-| --------------- | --- |
-|                 |     |
+| Valeur ajouté :            | 1 084 100€ |
+| -------------------------- | ---------- |
+| Subvention d'exploitation  | + 1 200    |
+| Impôts, taxes et versement |            |
+|                            |            |
+|                            |            |
+
+5) REX = Produits d'exploitation - charges d'exploitation
+	1) = 3 433 580 - 3 150 320
+	2) 283 260€
+6) .
+7) .
+8) Résultat courant impot = REX + résultat financier
