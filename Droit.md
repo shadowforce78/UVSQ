@@ -567,3 +567,11 @@ Voici un affichage plus propre et clair de ton début de TD 6, bien structuré a
 	2) Non, le reste du contrat n'est pas remis en cause
 
 ## 3 - Les effets du contrat
+1) Les effets d'un contrat légalement formé :
+2) Application : 
+	1) Parties et obligations
+		1) La compagnie d'assurance : gérer les fonds et les verser a un bénéficiaire identifiable
+		2) Le souscritpeure (assuré) : verser les fonds a la compagnie d'assurance
+	2) Au décès du souscripteur, les fonds sont versés a un bénéficiaire (tiers) qui n'a pas contracté 
+
+## 4 
