@@ -295,3 +295,41 @@ Les graphes connexes qui se déconnectent en retirant **une seule arête** sont 
 
 **Conclusion :**  
 Les graphes vérifiant cette propriété sont **exactement les arbres**.  
+
+## **Exercice 4**
+
+### **Partie a) Analyse des graphes proposés**
+*(Les graphes décrits correspondent aux cas classiques suivants :)*
+
+1. **Graphe 1 (Cycle simple, ex : C₄)**  
+   - **Eulérien ? Oui**  
+   - **Justification :** Tous les degrés sont pairs (2) et le graphe est connexe.  
+
+2. **Graphe 2 (Deux cycles partageant un sommet, ex : "∞")**  
+   - **Eulérien ? Non**  
+   - **Justification :** Le sommet commun a degré 4 (pair), mais l'ensemble n'est pas un seul cycle (nécessiterait un parcours unique).  
+
+3. **Graphe 3 (Arbre, ex : chemin P₃)**  
+   - **Eulérien ? Non**  
+   - **Justification :** Présence de sommets de degré impair (comme 1 pour les feuilles).  
+
+4. **Graphe 4 (Cycle avec une diagonale, ex : K₃)**  
+   - **Eulérien ? Oui**  
+   - **Justification :** Tous les degrés pairs (ex : dans K₃, chaque sommet a degré 2).  
+
+---
+
+### **Partie b) Condition nécessaire sur les degrés**
+Un graphe non orienté est eulérien **si et seulement si** :  
+1. **Tous les sommets ont un degré pair**,  
+2. **Le graphe est connexe** (à l'exception des sommets isolés, qui doivent être absents ici).  
+
+**Preuve (intuition) :**  
+- Un cycle eulérien doit entrer et sortir de chaque sommet autant de fois → degré pair.  
+- La connexité assure un parcours unique.  
+
+**Remarque :**  
+- Un graphe avec exactement **2 sommets de degré impair** admet un **chemin eulérien** (non fermé), mais n'est pas eulérien.  
+
+---  
+*Les autres exercices ne sont pas traités ici.*
