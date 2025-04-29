@@ -247,3 +247,27 @@ Un ordre valide est :
 ## *Diagramme de Hasse*
 
 ![[Drawing 2025-04-10 15.17.26.excalidraw]] 
+
+## Exercice 2
+
+### 1. Ensemble \( E \) des arêtes en extension :
+À partir de la liste d'adjacence :  
+- Le sommet **0** est adjacent à **1**, **4**, **5** → arêtes : \( \{0,1\}, \{0,4\}, \{0,5\} \).  
+- Le sommet **1** est adjacent à **0**, **2** → arête : \( \{1,2\} \) (déjà comptée pour \( \{0,1\} \)).  
+- Le sommet **2** est adjacent à **1**, **4** → arête : \( \{2,4\} \) (déjà comptée pour \( \{1,2\} \)).  
+- Le sommet **3** n'a pas de voisins → aucune arête.  
+- Le sommet **4** est adjacent à **0**, **2** → arêtes déjà comptées.  
+- Le sommet **5** est adjacent à **0** → arête déjà comptée.  
+
+**Ensemble final \( E \)** :  
+$E = \big\{ \{0,1\}, \{0,4\}, \{0,5\}, \{1,2\}, \{2,4\} \big\}$
+
+---
+
+### 2. Ordre et taille à partir de la liste d'adjacence :
+- **Ordre** : Nombre de sommets \( |V| \). Ici, \( V = [0;5] \) → ordre = **6**.  
+- **Taille** :  
+  - Méthode 1 : Compter les arêtes dans \( E \) → taille = **5** (voir ci-dessus).  
+  - Méthode 2 : Somme des degrés divisée par 2.  
+    Degrés : \( 3 \) (sommet 0), \( 2 \) (1), \( 2 \) (2), \( 0 \) (3), \( 2 \) (4), \( 1 \) (5).  
+    $( \frac{3+2+2+0+2+1}{2} = \frac{10}{2} = 5 ).$ 
