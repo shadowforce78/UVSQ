@@ -117,3 +117,13 @@ Le slash de l'adresse ip correspond a son masque (127.0.0.1/24 et 24 bits de mas
 
 
 Identification avec MF pour prévenir de plusieurs packets, multiple de 8...
+
+# Chapitre 4
+
+Protocole TCP/IP
+
+Transmission Control Protocol 
+Septembre 1981
+
+__Définition__ : TCP est un protocole de niveau transport en mode connecté chargé d'établir et  de maintenir une connexion entre 2 réseaux
+
