@@ -271,3 +271,27 @@ $E = \big\{ \{0,1\}, \{0,4\}, \{0,5\}, \{1,2\}, \{2,4\} \big\}$
   - Méthode 2 : Somme des degrés divisée par 2.  
     Degrés : \( 3 \) (sommet 0), \( 2 \) (1), \( 2 \) (2), \( 0 \) (3), \( 2 \) (4), \( 1 \) (5).  
     $( \frac{3+2+2+0+2+1}{2} = \frac{10}{2} = 5 ).$ 
+
+
+## **Exercice 3 **
+
+### **Partie a)**
+Oui, si on retire **une arête quelconque d'un cycle** dans un graphe connexe, le graphe reste connexe.  
+**Explication :** Un cycle est un chemin fermé. Si on enlève une arête, les sommets restent connectés par l'autre partie du cycle.  
+
+**Contre-exemple si le graphe n'a pas de cycle (arbre) :** Retirer une arête déconnecte le graphe.  
+
+---
+
+### **Partie b)**
+Les graphes connexes qui se déconnectent en retirant **une seule arête** sont **les arbres** (graphes connexes sans cycle).  
+**Caractérisation :**  
+- Un arbre a exactement **\(n-1\) arêtes** (où \(n =\) nombre de sommets).  
+- Toute arête est un **isthme** (son retrait déconnecte le graphe).  
+
+**Preuve :**  
+- Dans un arbre, il existe un unique chemin entre deux sommets. Si on retire une arête, ce chemin est rompu.  
+- À l’inverse, un graphe avec un cycle reste connexe après suppression d’une arête du cycle.  
+
+**Conclusion :**  
+Les graphes vérifiant cette propriété sont **exactement les arbres**.  
