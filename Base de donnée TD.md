@@ -22,12 +22,12 @@ Pour trouver les clés candidates, on cherche les ensembles minimaux d'attributs
 ### **2. Décomposition en R1(ABC) et R2(ADE) est-elle sans perte d’information (SPI) ?**
 
 **Critère SPI :**  
-Une décomposition \( \{R_1, R_2\} \) est SPI si \( R_1 \cap R_2 \rightarrow R_1 \) ou \( R_1 \cap R_2 \rightarrow R_2 \).
+Une décomposition $( {R_1, R_2} )$ est SPI si $( R_1 \cap R_2 \rightarrow R_1 )$ ou $( R_1 \cap R_2 \rightarrow R_2 )$.
 
-- \( R_1 = ABC \), \( R_2 = ADE \).
-- \( R_1 \cap R_2 = A \).
+- $( R_1 = ABC )$, $( R_2 = ADE )$.
+- $( R_1 \cap R_2 = A )$.
 
-On sait que \( A \rightarrow ABC \) (car \( A \rightarrow BC \in F \)), donc \( R_1 \cap R_2 \rightarrow R_1 \).  
+On sait que $( A \rightarrow ABC )$ (car $( A \rightarrow BC \in F )$), donc $( R_1 \cap R_2 \rightarrow R_1 )$.  
 **Conclusion :** La décomposition est SPI.
 
 ---
