@@ -347,4 +347,13 @@ $REXFIREST=6780+60−45REX_{FIREST} = 6 780 + 60 - 45 REXFIREST=6795REX_{FIREST}
 11) CAF = EBE (314 900€) + PRODUIT ENCAISSABLE EN AVAL DE L'EBE - CHARGES DECAISSABLES EN AVAL DE L'EBE
 	1) 314.900 + (120 + 260 + 1.400 + 2.000 + 4.200 + 500) - (1.020 + 30.000 + 1.400 + 28.000 + 73.546) = 314.900 + 8.480 - 133.966 = 189 414€
 12) Faite dans la 11
-13) 
+13) CAF = Résultat Net - (PRODUIT NON ENCAISSABLES) + (CHARGE NON DECAISSABLES) 
+		1) CAF = 147 094 - (4000 + 2000 + 2600 + 140) + (35 000 + 1460 + 6200 + 6600)
+		2) CAF = 189 414€
+
+![[Drawing 2025-05-05 11.45.08.excalidraw]]
+
+## Application 2
+
+VA = 4095k€
+Elle ne fais que vendre des marchandises, pas de production 
