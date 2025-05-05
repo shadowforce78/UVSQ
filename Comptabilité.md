@@ -337,3 +337,10 @@ $REXFIREST=6780+60−45REX_{FIREST} = 6 780 + 60 - 45 REXFIREST=6795REX_{FIREST}
 | ---------- | ------------ | ----- | ----- |
 | MARTIN     | Industrielle | 7 380 | 7 350 |
 | FIREST     | Commerciale  | 6 780 | 6 795 |
+
+
+# TD 5 pt.2
+
+9) Il y a souvent un décalage entre le produit et son encaissement et entre la charge et son décaissement. Un potentiel de trésorerie car au moment de son calcul, les produits ne sont pas encore tous encaissé ni les charges touts décaissé 
+10) Le calcul de la CAF peut prendre l'EBE comme point de départ car ce solde est entièrement constitué de produit encaissable et de charges décaissables puisqu'il représente un excédent potentiel de trésorerie généré par les activités d'exploitation de l'entreprise, Ainsi, l'EBE contribue, dans sa totalité, à la formation de la CAF.
+    Le calcul de la CAF à partir de l'EBE est la méthode préconisé par le PCG
