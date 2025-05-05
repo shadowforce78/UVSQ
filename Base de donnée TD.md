@@ -2,10 +2,10 @@
 ### **1. Calcul des clés minimales (candidates) de R(ABCDE) avec F = {A → BC, CD → E, B → D, E → A}**
 
 **Méthode :**  
-Pour trouver les clés candidates, on cherche les ensembles minimaux d'attributs \( K \) tels que \( K^+ = ABCDE \).
+Pour trouver les clés candidates, on cherche les ensembles minimaux d'attributs $( K )$ tels que $( K^+ = ABCDE )$.
 
 1. **Calcul des fermetures :**
-   - \( A^+ = A \) → \( A → BC \) ⇒ \( A^+ = ABC \) → \( B → D \) ⇒ \( A^+ = ABCD \) → \( CD → E \) ⇒ \( A^+ = ABCDE \) ⇒ **A est une clé candidate**.
+   - $( A^+ = A )$ → $( A → BC )$ ⇒ $( A^+ = ABC )$ → $( B → D )$ ⇒ $( A^+ = ABCD )$ → $( CD → E )$ ⇒ $( A^+ = ABCDE )$ ⇒ **A est une clé candidate**.
    - \( E^+ = E \) → \( E → A \) ⇒ \( E^+ = A^+ = ABCDE \) ⇒ **E est une clé candidate**.
    - \( CD^+ = CD \) → \( CD → E \) ⇒ \( CD^+ = CDE \) → \( E → A \) ⇒ \( CD^+ = ACDE \) → \( A → BC \) ⇒ \( CD^+ = ABCDE \) ⇒ **CD est une clé candidate**.
    - Test d'autres combinaisons (B, C, D, etc.) :
@@ -35,16 +35,16 @@ On sait que $( A \rightarrow ABC )$ (car $( A \rightarrow BC \in F )$), donc $( 
 ### **3. Cette décomposition est-elle sans perte de dépendances (SPD) ?**
 
 **Définition :**  
-Une décomposition est SPD si la fermeture des DF projetées sur \( R_1 \) et \( R_2 \) est équivalente à \( F^+ \).
+Une décomposition est SPD si la fermeture des DF projetées sur $( R_1)$ et $( R_2 )$ est équivalente à $( F^+ )$.
 
 - **Projection sur \( R_1(ABC) \) :**
-  - \( F[ABC] = \{A \rightarrow BC, B \rightarrow D\} \) (mais \( D \notin ABC \), donc seule \( A \rightarrow BC \) est conservée).
-- **Projection sur \( R_2(ADE) \) :**
-  - \( F[ADE] = \{E \rightarrow A, A \rightarrow BC\} \) (mais \( B, C \notin ADE \), donc seule \( E \rightarrow A \) est conservée).
+  - $( F[ABC] = {A \rightarrow BC, B \rightarrow D})$ (mais $( D \notin ABC)$, donc seule $( A \rightarrow BC )$ est conservée).
+- **Projection sur $( R_2(ADE) )$ :**
+  - $( F[ADE] = \{E \rightarrow A, A \rightarrow BC\} )$ (mais $( B, C \notin ADE )$, donc seule $( E \rightarrow A )$ est conservée).
 
 **Problème :**  
-- La DF \( CD \rightarrow E \) est perdue (car \( CD \) n'est pas incluse dans \( R_1 \) ou \( R_2 \)).
-- La DF \( B \rightarrow D \) est perdue (car \( B \) n'est pas dans \( R_2 \)).
+- La DF $( CD \rightarrow E )$ est perdue (car $( CD )$ n'est pas incluse dans $( R_1 )$ ou $( R_2 )$).
+- La DF $( B \rightarrow D )$ est perdue (car $( B )$ n'est pas dans $( R_2 )$).
 
 **Conclusion :** La décomposition n'est pas SPD.
 
