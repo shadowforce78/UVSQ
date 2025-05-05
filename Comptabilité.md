@@ -344,3 +344,7 @@ $REXFIREST=6780+60−45REX_{FIREST} = 6 780 + 60 - 45 REXFIREST=6795REX_{FIREST}
 9) Il y a souvent un décalage entre le produit et son encaissement et entre la charge et son décaissement. Un potentiel de trésorerie car au moment de son calcul, les produits ne sont pas encore tous encaissé ni les charges touts décaissé 
 10) Le calcul de la CAF peut prendre l'EBE comme point de départ car ce solde est entièrement constitué de produit encaissable et de charges décaissables puisqu'il représente un excédent potentiel de trésorerie généré par les activités d'exploitation de l'entreprise, Ainsi, l'EBE contribue, dans sa totalité, à la formation de la CAF.
     Le calcul de la CAF à partir de l'EBE est la méthode préconisé par le PCG
+11) CAF = EBE (314 900€) + PRODUIT ENCAISSABLE EN AVAL DE L'EBE - CHARGES DECAISSABLES EN AVAL DE L'EBE
+	1) 314.900 + (120 + 260 + 1.400 + 2.000 + 4.200 + 500) - (1.020 + 30.000 + 1.400 + 28.000 + 73.546) = 314.900 + 8.480 - 133.966 = 189 414€
+12) Faite dans la 11
+13) 
