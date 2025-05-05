@@ -332,4 +332,37 @@ Un graphe non orienté est eulérien **si et seulement si** :
 - Un graphe avec exactement **2 sommets de degré impair** admet un **chemin eulérien** (non fermé), mais n'est pas eulérien.  
 
 ---  
-*Les autres exercices ne sont pas traités ici.*
+
+
+# Exo 6 p2
+
+0 => [1,2]
+	0
+1 => [2]
+	1
+2 => [5]
+	2
+3 => [2,4]
+	0
+4 => [5]
+	1
+5 => []
+	2
+
+S = [0,3]
+	On commence par 0 ou 3 qui n'on pas de prédecesseurs
+	Ici on commence avec 0 :
+		CH = 0
+		0 => [1,2]
+			0
+		1 => [2]
+			0
+		2 => [5]
+			1
+		3 => [2,4]
+			0
+		4 => [5]
+			1
+		5 => [ ]
+			2
+	
