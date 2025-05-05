@@ -355,5 +355,15 @@ $REXFIREST=6780+60−45REX_{FIREST} = 6 780 + 60 - 45 REXFIREST=6795REX_{FIREST}
 
 ## Application 2
 
-VA = 4095k€
 Elle ne fais que vendre des marchandises, pas de production 
+VA = 4095k€
+EBE = VA - SALAIRE - IMPOT ET TAXES - CHARGES SOCIALES
+EBE = 4095k - 3975k = 120k€ 
+REX = EBE + REPRISE AMO - DOTATIONS AMO
+REX = 120k + 165k - 270k = 15k€ 
+RCAI = REX + RESULTAT FINANCIER 
+RCAI = 26k€
+CAF = EBE + (PRODUIT ENCAISSABLE) - (CHARGE DECAISSABLE)
+	= 120 + (90 + 75 + 15) - (90 + 19 + 8 + 68)
+	= 120 + 180 - 185
+	= 115k€
