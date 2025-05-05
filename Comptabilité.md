@@ -367,3 +367,8 @@ CAF = EBE + (PRODUIT ENCAISSABLE) - (CHARGE DECAISSABLE)
 	= 120 + (90 + 75 + 15) - (90 + 19 + 8 + 68)
 	= 120 + 180 - 185
 	= 115k€
+
+CAF (Méthode Additive) = RESULTAT NET - PRODUIT NON ENCAISSABLE + CHARGES NON DECAISSABLES 
+	= -34k - (165 + 72 + 33 + 22) + (270 + 117 + 42 + 12) 
+	= -34k - 295k + 441k
+	= 112k€
