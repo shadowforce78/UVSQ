@@ -4,14 +4,14 @@
 **Énoncé :**  
 Déterminer la raison $r$ de la suite arithmétique (un)(u_n), définie pour tout n∈Nn \in \mathbb{N}, sachant que :
 
-u0=3etu5=96u_0 = 3 \quad \text{et} \quad u_5 = 96
+$u_0 = 3 \quad \text{et} \quad u_5 = 96$ 
 
 **Solution :**  
 On sait que dans une suite arithmétique, chaque terme s’exprime en fonction du premier terme u0u_0 et de la raison rr de la manière suivante :
 
-un=u0+n⋅ru_n = u_0 + n \cdot r
+$u_n = u_0 + n \cdot r$ 
 
-En particulier, pour n=5n = 5, on a :
+En particulier, pour $n=5$, on a :
 
 $u5=u0+5$ 
 
@@ -27,4 +27,8 @@ $r=935r = \frac{93}{5}$
 $r=18,6$
 
 **Conclusion :**  
-La raison rr de la suite arithmétique est $\boxed{18{,}6}$.
+La raison $r$ de la suite arithmétique est $\boxed{18{,}6}$.
+
+
+
+### b)
