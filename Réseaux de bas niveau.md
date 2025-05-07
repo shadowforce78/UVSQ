@@ -151,3 +151,5 @@ Car : $sin(t+2\pi) = sin(t)$   $\forall t \in \mathbb{R}$
 	1) La pulsation est : $\omega = \dfrac{\pi}{4}$ 
 	2) $T=\dfrac{2\pi}{\omega}=\dfrac{2\pi}{\dfrac{\pi}{4}}=8$ 
 	3) $f = \dfrac{1}{T} = \dfrac{1}{8}$ 
+
+La fragmentation IP sert a envoie des données plus grosse que le réseaux lui même.
