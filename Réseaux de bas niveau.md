@@ -154,3 +154,10 @@ Car : $sin(t+2\pi) = sin(t)$   $\forall t \in \mathbb{R}$
 
 La fragmentation IP sert a envoie des données plus grosse que le réseaux lui même.
 
+
+# Exercice 6 (TD 4)
+Cas A :
+@RESEAU 192.168.20.128/25
+@PREMIERE 192.168.20.129/25
+@BROADCAST 192.168.20.191/25
+@DERNIERE 192.168.20.190/25
