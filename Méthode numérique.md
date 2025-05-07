@@ -60,4 +60,67 @@ La raison qq de la suite géométrique est **$\boxed{2}$**.
 
 ---
 
-Tu veux que je rédige aussi l'expression générale de unu_n avec cette raison ?
+## Exercice 3
+
+**a) Déterminer le réel \( k \)**
+
+On a la suite $((u_n)_{n \in \mathbb{N}})$ définie par :
+$[ u_0 = -1 ]$ 
+$[ u_{n+1} = \frac{\sqrt{3}}{2} u_n - \frac{1}{2} ]$
+
+On définit une nouvelle suite $((v_n)_{n \in \mathbb{N}})$ par :
+$[ v_n = u_n + k ]$
+où $((v_n))$ est une suite géométrique de raison $( \frac{\sqrt{3}}{2} )$.
+
+**Étape 1 : Exprimer $( v_{n+1} )$ de deux manières**
+
+1. **En utilisant la définition de $( v_n )$ :**
+   $[ v_{n+1} = u_{n+1} + k = \frac{\sqrt{3}}{2} u_n - \frac{1}{2} + k ]$
+
+2. **Comme suite géométrique :**
+   $[ v_{n+1} = \frac{\sqrt{3}}{2} v_n = \frac{\sqrt{3}}{2} (u_n + k) ]$
+
+**Étape 2 : Égaliser les deux expressions de $( v_{n+1} )$**
+$[ \frac{\sqrt{3}}{2} u_n - \frac{1}{2} + k = \frac{\sqrt{3}}{2} u_n + \frac{\sqrt{3}}{2} k ]$
+
+Simplifions :
+$[ -\frac{1}{2} + k = \frac{\sqrt{3}}{2} k ]$
+$[ k - \frac{\sqrt{3}}{2} k = \frac{1}{2}]$
+$[ k \left(1 - \frac{\sqrt{3}}{2}\right) = \frac{1}{2} ]$
+$[ k = \frac{\frac{1}{2}}{1 - \frac{\sqrt{3}}{2}} = \frac{1}{2 - \sqrt{3}} ]$ 
+
+Rationalisons le dénominateur :
+$[ k = \frac{1}{2 - \sqrt{3}} \times \frac{2 + \sqrt{3}}{2 + \sqrt{3}} = \frac{2 + \sqrt{3}}{(2)^2 - (\sqrt{3})^2} = \frac{2 + \sqrt{3}}{4 - 3} = 2 + \sqrt{3} ]$
+
+**Réponse :**
+$[ \boxed{k = 2 + \sqrt{3}} ]$
+
+---
+
+**b) Exprimer \( u_n \) en fonction de \( n \) et déterminer sa limite**
+
+**Étape 1 : Exprimer \( v_n \) en fonction de \( n \)**
+
+La suite \((v_n)\) est géométrique de raison \( \frac{\sqrt{3}}{2} \) et de premier terme :
+\[ v_0 = u_0 + k = -1 + (2 + \sqrt{3}) = 1 + \sqrt{3} \]
+
+Ainsi :
+\[ v_n = v_0 \left( \frac{\sqrt{3}}{2} \right)^n = (1 + \sqrt{3}) \left( \frac{\sqrt{3}}{2} \right)^n \]
+
+**Étape 2 : Exprimer \( u_n \) en fonction de \( v_n \)**
+\[ u_n = v_n - k = (1 + \sqrt{3}) \left( \frac{\sqrt{3}}{2} \right)^n - (2 + \sqrt{3}) \]
+
+**Étape 3 : Calculer la limite de \( u_n \) quand \( n \to +\infty \)**
+
+On sait que \( \left| \frac{\sqrt{3}}{2} \right| \approx 0.866 < 1 \), donc :
+\[ \lim_{n \to +\infty} \left( \frac{\sqrt{3}}{2} \right)^n = 0 \]
+
+Ainsi :
+\[ \lim_{n \to +\infty} u_n = 0 - (2 + \sqrt{3}) = - (2 + \sqrt{3}) \]
+
+**Réponses :**
+- Expression de \( u_n \) :
+  \[ \boxed{u_n = (1 + \sqrt{3}) \left( \frac{\sqrt{3}}{2} \right)^n - (2 + \sqrt{3})} \]
+
+- Limite de \( u_n \) :
+  \[ \boxed{\lim_{n \to +\infty} u_n = - (2 + \sqrt{3})} \]
