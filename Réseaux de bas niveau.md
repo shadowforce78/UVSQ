@@ -146,4 +146,8 @@ Car : $sin(t+2\pi) = sin(t)$   $\forall t \in \mathbb{R}$
 4) $S(t) = \dfrac{4}{3}sin(\pi t)$
 	1) L'amplitude est de $\dfrac{4}{3}$
 5) $S(t)=sin(2\pi t + \dfrac{\pi}{4})$ 
-	1) La phase du signal est : $\dfrac{\pi}
+	1) La phase du signal est : $\dfrac{\pi}{4}$
+6) $S(t)=sin(\dfrac{\pi}{4}t + \dfrac{\pi}{5})$
+	1) La pulsation est : $\omega = \dfrac{\pi}{4}$ 
+	2) $T=\dfrac{2\pi}{\omega}=\dfrac{2\pi}{\dfrac{\pi}{4}}=8$ 
+	3) $f = \dfrac{1}{T} = \dfrac{1}{8}$ 
