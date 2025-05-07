@@ -127,3 +127,23 @@ Septembre 1981
 
 __Définition__ : TCP est un protocole de niveau transport en mode connecté chargé d'établir et  de maintenir une connexion entre 2 réseaux
 
+# Exercice 10 (TD 1)
+
+1) ![[Pasted image 20250507103531.png]]
+$\boxed{\omega = 2\pi}$ C'est la pulsation
+$T=\dfrac{2\pi}{\omega}$ 
+Ici comme $\omega = 2\pi$ ici $T=1$
+
+$f(t)=sin(t)$ est périodique de période $2\pi$ 
+Car : $sin(t+2\pi) = sin(t)$   $\forall t \in \mathbb{R}$ 
+
+
+2) ![[Pasted image 20250507103624.png]]
+3) $S(t)=sin(\pi t)+sin(2\pi t)$
+	1) La période du signal est : $T_0 = 2$ et $T_1 = 1$ 
+		Donc $T = 2$ 
+
+4) $S(t) = \dfrac{4}{3}sin(\pi t)$
+	1) L'amplitude est de $\dfrac{4}{3}$
+5) $S(t)=sin(2\pi t + \dfrac{\pi}{4})$ 
+	1) La phase du signal est : $\dfrac{\pi}
