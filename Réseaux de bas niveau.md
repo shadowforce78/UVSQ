@@ -153,3 +153,4 @@ Car : $sin(t+2\pi) = sin(t)$   $\forall t \in \mathbb{R}$
 	3) $f = \dfrac{1}{T} = \dfrac{1}{8}$ 
 
 La fragmentation IP sert a envoie des données plus grosse que le réseaux lui même.
+
