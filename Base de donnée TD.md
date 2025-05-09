@@ -46,7 +46,7 @@ Une décomposition est SPD si la fermeture des DF projetées sur $( R_1)$ et $( 
 - La DF $( CD \rightarrow E )$ est perdue (car $( CD )$ n'est pas incluse dans $( R_1 )$ ou $( R_2 )$).
 - La DF $( B \rightarrow D )$ est perdue (car $( B )$ n'est pas dans $( R_2 )$).
 
-**Conclusion :** La décomposition n'est pas SPD.
+**Conclusion :** La décomposition n'est pas sans perte de dépendance
 
 ---
 
@@ -54,10 +54,10 @@ Une décomposition est SPD si la fermeture des DF projetées sur $( R_1)$ et $( 
 
 **Construction d'une instance \( r \) où la jointure crée des tuples fantômes :**
 
-| A | B | C | D | E |
-|---|---|---|---|---|
-| a1| b1| c1| d1| e1| (original)
-| a2| b2| c1| d2| e2| (original)
+| A   | B   | C   | D   | E   |            |
+| --- | --- | --- | --- | --- | ---------- |
+| a1  | b1  | c1  | d1  | e1  | (original) |
+| a2  | b2  | c1  | d2  | e2  | (original) |
 
 - **Projection sur \( R1(ABC) \):**
   - (a1, b1, c1)
