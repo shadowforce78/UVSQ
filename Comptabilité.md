@@ -438,76 +438,22 @@ Bénéfice Net = 65 800
 
 **Calcul de la Capacité d'Autofinancement (CAF) pour FAPELLE au 31/12/N**  
 
-### **1. Méthode Soustractive (à partir du bénéfice net)**  
+### **1. Méthode Soustractive**  
 ```
-CAF = Bénéfice Net + Dotations aux amortissements et provisions - Reprises sur amortissements et provisions + Valeur comptable des éléments d'actif cédés - Produits de cession  
-```  
-**Données :**  
-- Bénéfice Net = **65 800**  
-- Dotations totales (exploitation + financières + exceptionnelles) = 25 500 (exploitation) + 1 500 (financières) + 900 (exceptionnelles) = **27 900**  
-- Reprises totales (exploitation + financières + exceptionnelles) = 4 500 (exploitation) + 1 575 (financières) + 600 (exceptionnelles) = **6 675**  
-- *Hypothèse : Aucune cession d'actif n'est mentionnée dans le document.*  
-
-**Calcul :**  
+CAF = EBE + Produits encaissables (en aval de l'EBE) - Charges décaissables (en aval de l'EBE) 
+CAF = 122 850 + (2850+6075+3300+300)-(1350+6750+1800+720+32900)
+CAF = 84 775€
 ```
-CAF = 65 800 + 27 900 - 6 675  
-CAF (soustractive) = 87 025  
-```  
-
 ---
 
-### **2. Méthode Additive (à partir de l'EBE)**  
+### **2. Méthode Additive**  
 ```
-CAF = EBE + Produits encaissables - Charges décaissables  
-```  
-**Données :**  
-- EBE = **123 900**  
-- **Produits encaissables** (hors subventions déjà incluses dans l'EBE) :  
-  - Autres produits d'exploitation = **2 850**  
-  - Produits financiers (intérêts) = **3 300 + 6 075** = 9 375  
-  - Produits exceptionnels encaissables = **300 (gestion) + 4 200 (capital)** = 4 500  
-  - Total produits encaissables = 2 850 + 9 375 + 4 500 = **16 725**  
-
-- **Charges décaissables** :  
-  - Charges financières (intérêts) = **6 750**  
-  - Charges exceptionnelles décaissables = **1 800 (gestion) + 1 950 (capital)** = 3 750  
-  - Participation des salariés = **7 200**  
-  - Impôt sur les bénéfices = **32 900**  
-  - Total charges décaissables = 6 750 + 3 750 + 7 200 + 32 900 = **50 600**  
-
-**Calcul :**  
-```
-CAF = 123 900 + 16 725 - 50 600  
-CAF (additive) = 90 025  
+CAF = Résultat Net + Produits non encaissables - Charges non décaissables  
+CAF = 65 800 + (4500+1575+4200+600)+(25500+1500+1950+900)
+CAF = 84 775€
 ```  
 
----
 
-### **Synthèse des Résultats**  
-| Méthode       | Calcul                      | CAF         |  
-|---------------|-----------------------------|-------------|  
-| **Soustractive** | 65 800 + 27 900 - 6 675    | **87 025**  |  
-| **Additive**     | 123 900 + 16 725 - 50 600  | **90 025**  |  
 
-**Écart :** 3 000 (dû aux approximations ou inclusions différenciées de produits/charges).  
-
-### **Valeur à retenir :**  
-- **CAF moyenne = (87 025 + 90 025) / 2 ≈ 88 525**  
-- *Privilégiez la méthode soustractive (87 025) si les dotations/reprises sont mieux documentées.*  
-
-**Formules prêtes pour Obsidian :**  
-```markdown
-### CAF (Méthode Soustractive)
-```
-CAF = Bénéfice Net + Dotations - Reprises  
-    = 65 800 + 27 900 - 6 675  
-CAF = 87 025
-```
-
-### CAF (Méthode Additive)
-```
-CAF = EBE + Produits encaissables - Charges décaissables  
-    = 123 900 + 16 725 - 50 600  
-CAF = 90 025
-```
-``` 
+Les résultats de profitabilité sont globalement conforme a ceux du secteur
+Seul la performance industrielle de l'entreprise est plus faible que celle des concurrent, mais la performance globale et la capacité a s'autofinancer sont meilleur que celle des concurrent
