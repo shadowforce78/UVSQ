@@ -372,3 +372,10 @@ CAF (Méthode Additive) = RESULTAT NET - PRODUIT NON ENCAISSABLE + CHARGES NON D
 	= -34k - (165 + 72 + 33 + 22) + (270 + 117 + 42 + 12) 
 	= -34k - 295k + 441k
 	= 112k€
+
+# 3) 
+Chiffre d'affaire année N => 3 426 000
+Chiffre d'affaire année N-1 => 3 112 000
+![[Pasted image 20250509104911.png]]
+
+![[Drawing 2025-05-09 10.48.47.excalidraw]]
