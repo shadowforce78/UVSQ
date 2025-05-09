@@ -379,3 +379,6 @@ Chiffre d'affaire année N-1 => 3 112 000
 ![[Pasted image 20250509104911.png]]
 
 ![[Drawing 2025-05-09 10.48.47.excalidraw]]
+
+Le taux de marge brut d'exploitation qui mesure la performance industrielle et commerciale de l'entreprise connait la plus forte baisse de 4.2 points, le taux de marge bénéficiaires connait la moins forte baisse de 2.8 points
+Enfin, le taux de capacité d'autofinancement qui mesure la part du chiffre d'affaire pouvant être affecter a l'investissement a diminué de 3 points 
