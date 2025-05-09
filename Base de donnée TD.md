@@ -103,24 +103,38 @@ Le tableau final contient des symboles distincts ⇒ **La décomposition n'est p
 
 **Méthode :**  
 Utilisation de l'algorithme de synthèse (Bernstein) :
-1. **Couverture minimale de \( F \) :**  
-   - \( A \rightarrow B \), \( A \rightarrow C \), \( CD \rightarrow E \), \( B \rightarrow D \), \( E \rightarrow A \).
-2. **Regroupement par DF :**  
-   - \( R1(AB) \) (pour \( A \rightarrow B \)),  
-   - \( R2(AC) \) (pour \( A \rightarrow C \)),  
-   - \( R3(CDE) \) (pour \( CD \rightarrow E \)),  
-   - \( R4(BD) \) (pour \( B \rightarrow D \)),  
-   - \( R5(EA) \) (pour \( E \rightarrow A \)).  
-3. **Élimination des redondances :**  
-   - \( R1(ABC) \) (fusion de \( R1 \) et \( R2 \)),  
-   - \( R3(CDE) \),  
-   - \( R4(BD) \),  
-   - \( R5(EA) \).  
-4. **Ajout d'une clé candidate si nécessaire :**  
-   - \( CD \) est déjà incluse dans \( R3 \).
 
-**Décomposition finale :**  
-✅ \( R1(ABC) \), \( R2(CDE) \), \( R3(BD) \), \( R4(EA) \).  
+1. **Couverture minimale de $F$ :**  
+   - $A \rightarrow B$  
+   - $A \rightarrow C$  
+   - $CD \rightarrow E$  
+   - $B \rightarrow D$  
+   - $E \rightarrow A$
+
+2. **Regroupement par dépendance fonctionnelle :**  
+   - $R_1(AB)$ (pour $A \rightarrow B$)  
+   - $R_2(AC)$ (pour $A \rightarrow C$)  
+   - $R_3(CDE)$ (pour $CD \rightarrow E$)  
+   - $R_4(BD)$ (pour $B \rightarrow D$)  
+   - $R_5(EA)$ (pour $E \rightarrow A$)
+
+3. **Élimination des redondances :**  
+   - $R_1(ABC)$ (fusion de $R_1$ et $R_2$)  
+   - $R_3(CDE)$  
+   - $R_4(BD)$  
+   - $R_5(EA)$
+
+4. **Ajout d'une clé candidate si nécessaire :**  
+   - $CD$ est déjà incluse dans $R_3$
+
+---
+
+### **Décomposition finale :**  
+✅ $R_1(ABC)$  
+✅ $R_2(CDE)$  
+✅ $R_3(BD)$  
+✅ $R_4(EA)$  
+
 - **SPI** : Car couverture complète et préservation des DF.  
 - **3NF** : Toutes les DF sont préservées et aucun attribut non-prime ne dépend transitivement d'une clé.
 
