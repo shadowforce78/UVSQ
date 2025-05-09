@@ -144,9 +144,9 @@ Utilisation de l'algorithme de synthèse (Bernstein) :
 
 **Stratégie :**  
 Choisir une clé candidate comme point de départ.  
-- **Clé candidate :** \( A \).  
+- **Clé candidate :** $( A )$.  
 - **Dépendances violant la FNBC :**  
-  - \( B \rightarrow D \) (car \( B \) n'est pas une super-clé).
+  - $( B \rightarrow D )$ (car $( B )$ n'est pas une super-clé).
 
 **Décomposition :**  
 1. \( R1(BD) \) (pour \( B \rightarrow D \)),  
