@@ -457,3 +457,10 @@ CAF = 84 775€
 
 Les résultats de profitabilité sont globalement conforme a ceux du secteur
 Seul la performance industrielle de l'entreprise est plus faible que celle des concurrent, mais la performance globale et la capacité a s'autofinancer sont meilleur que celle des concurrent
+
+
+# Chapitre 6
+## Rentabilité économique 
+
+![[Drawing 2025-05-09 11.49.07.excalidraw]]
+
