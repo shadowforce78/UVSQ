@@ -474,3 +474,18 @@ $Rentabilité \quad Financière = \dfrac{Resultat \quad Net}{Capitaux \quad Prop
 
 $RF = \dfrac{5}{85}=5.9$%
 
+Le placement de Medhi et celui de Léo sont différent
+Medhi => 5.9% alors que Léo => 2.5%
+Medhi est plus rentable que Léo ici
+
+Medhi attendait une RF de 10% mais il n'a obtenu que 5.9%
+
+La prise de risque ici fait que Medhi a plus gagné
+
+Jules => Sa rentabilité dépend de l'efficience de sa gestion
+Medhi => Sa rentabilité porte sur le rendement de son placement
+
+
+9) Montant d'emprunt : 
+	1) Cas 1 => 0€
+	2) Cas 2 => 60% de 130 000
