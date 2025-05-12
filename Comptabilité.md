@@ -462,5 +462,15 @@ Seul la performance industrielle de l'entreprise est plus faible que celle des c
 # Chapitre 6
 ## Rentabilité économique 
 
+$RE = \dfrac{REX}{IMMO + BFR}$%
+
 ![[Drawing 2025-05-09 11.49.07.excalidraw]]
+
+![[Drawing 2025-05-12 11.06.06_0.excalidraw]]
+
+On peut augmenter/améliorer la rentabilité économique en diminuant les stocks, en allongeant les délais de payement des fournisseurs, ou en révisant le cout des achats 
+
+$Rentabilité \quad Financière = \dfrac{Resultat \quad Net}{Capitaux \quad Propres}$%
+
+$RF = \dfrac{5}{85}=5.9$%
 
