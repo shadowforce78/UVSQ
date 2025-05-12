@@ -499,3 +499,12 @@ Cas 2 => $Résultat \quad net =6000-2340-\dfrac{1}{3}(6000-2340)=2440$€
 ![[Drawing 2025-05-12 11.41.18.excalidraw]]
 
 La rentabilité économique n'est pas impacté par le montant emprunté, en revanche, la rentabilité financière augmente lorsqu'on a recours a l'emprunt 
+
+![[Drawing 2025-05-12 11.50.08.excalidraw]]
+
+En empruntant d'avantage, la rentabilité financière augmente
+
+Maintenant on a un taux de 2% au lieu de 3%
+![[Drawing 2025-05-12 11.55.52.excalidraw]]
+
+![[Drawing 2025-05-12 12.01.06.excalidraw]]
