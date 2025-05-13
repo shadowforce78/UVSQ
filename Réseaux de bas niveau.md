@@ -189,4 +189,3 @@ LAN C :
 	7) Requetes / Réponse
 	8) Reponse sur TCP
 	9) Disponible sur les port 80, 8080, 8000, 443 (https)
-2) 
