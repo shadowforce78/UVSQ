@@ -174,3 +174,19 @@ LAN C :
 @BROADCAST 192.168.20.a faire
 @DERNIERE 192.168.20.a faire
 
+
+# Chapitre 5 protocole HTTP
+
+1) Généralité
+	1) Hyper Text Transfer Protocol
+		1) 1.0 en 1997
+		2) 3.0 en 2022
+	2) Protocole de niveau application
+	3) Rapatriement de documents (ressources)
+	4) Envoyer des formulaires
+	5) Protocole sans état
+	6) Bidirectionnel
+	7) Requetes / Réponse
+	8) Reponse sur TCP
+	9) Disponible sur les port 80, 8080, 8000, 443 (https)
+2) 
