@@ -97,30 +97,31 @@ $[ \boxed{k = 2 + \sqrt{3}} ]$
 
 ---
 
-**b) Exprimer \( u_n \) en fonction de \( n \) et déterminer sa limite**
+**b) Exprimer $( u_n )$ en fonction de $( n )$ et déterminer sa limite**
 
-**Étape 1 : Exprimer \( v_n \) en fonction de \( n \)**
+**Étape 1 : Exprimer $( v_n )$ en fonction de $( n )$**
 
-La suite \((v_n)\) est géométrique de raison \( \frac{\sqrt{3}}{2} \) et de premier terme :
-\[ v_0 = u_0 + k = -1 + (2 + \sqrt{3}) = 1 + \sqrt{3} \]
+La suite $(v_n)$ est géométrique de raison $( \frac{\sqrt{3}}{2} )$ et de premier terme :
+$[ v_0 = u_0 + k = -1 + (2 + \sqrt{3}) = 1 + \sqrt{3} ]$ 
 
 Ainsi :
-\[ v_n = v_0 \left( \frac{\sqrt{3}}{2} \right)^n = (1 + \sqrt{3}) \left( \frac{\sqrt{3}}{2} \right)^n \]
+$[ v_n = v_0 \left( \frac{\sqrt{3}}{2} \right)^n = (1 + \sqrt{3}) \left( \frac{\sqrt{3}}{2} \right)^n ]$
 
 **Étape 2 : Exprimer \( u_n \) en fonction de \( v_n \)**
-\[ u_n = v_n - k = (1 + \sqrt{3}) \left( \frac{\sqrt{3}}{2} \right)^n - (2 + \sqrt{3}) \]
+$[ u_n = v_n - k = (1 + \sqrt{3}) \left( \frac{\sqrt{3}}{2} \right)^n - (2 + \sqrt{3}) ]$
 
 **Étape 3 : Calculer la limite de \( u_n \) quand \( n \to +\infty \)**
 
-On sait que \( \left| \frac{\sqrt{3}}{2} \right| \approx 0.866 < 1 \), donc :
-\[ \lim_{n \to +\infty} \left( \frac{\sqrt{3}}{2} \right)^n = 0 \]
+On sait que $( \left| \frac{\sqrt{3}}{2} \right| \approx 0.866 < 1 )$, donc :
+$[ \lim_{n \to +\infty} \left( \frac{\sqrt{3}}{2} \right)^n = 0 ]$
 
 Ainsi :
-\[ \lim_{n \to +\infty} u_n = 0 - (2 + \sqrt{3}) = - (2 + \sqrt{3}) \]
+$\lim_{n \to +\infty} u_n = 0 - (2 + \sqrt{3}) = - (2 + \sqrt{3})$
 
 **Réponses :**
-- Expression de \( u_n \) :
-  \[ \boxed{u_n = (1 + \sqrt{3}) \left( \frac{\sqrt{3}}{2} \right)^n - (2 + \sqrt{3})} \]
+- Expression de $( u_n )$ :
+  $\boxed{u_n = (1 + \sqrt{3}) \left( \frac{\sqrt{3}}{2} \right)^n - (2 + \sqrt{3})}$
 
-- Limite de \( u_n \) :
-  \[ \boxed{\lim_{n \to +\infty} u_n = - (2 + \sqrt{3})} \]
+- Limite de $( u_n )$ :
+  $\boxed{\lim_{n \to +\infty} u_n = - (2 + \sqrt{3})}$ 
+

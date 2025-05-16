@@ -508,3 +508,42 @@ Maintenant on a un taux de 2% au lieu de 3%
 ![[Drawing 2025-05-12 11.55.52.excalidraw]]
 
 ![[Drawing 2025-05-12 12.01.06.excalidraw]]
+
+# Exercice :
+
+1) Pour chaque hypothèse : 
+	1) H1 => 2% $\times$ (50% de 170 000) = 1700€/an
+	2) H2 => 2% $\times$ (70% de 170 000) = 2380€/an
+
+2) 
+
+|                        | Prévision Optimiste |         | Prévision Pessimistes |        |
+| :--------------------: | :-----------------: | :-----: | :-------------------: | :----: |
+|                        |         H1          |   H2    |          H1           |   H2   |
+|           CA           |       120 000       | 120 000 |        80 000         | 80 000 |
+| Charges d'exploitation |       110 000       | 110 000 |        78 000         | 78 000 |
+|          REX           |       10 000        | 10 000  |         2000          |  2000  |
+|   Interet d'emprunt    |        1700         |  2380   |         1700          |  2380  |
+|        IS (1/3)        |        2766         |  2540   |          100          |  -127  |
+|      Résultat net      |        5 534        |  5 080  |          200          |  -253  |
+| Rentabilité économique |        5,90%        |  5,90%  |         1,20%         | 1,20%  |
+| Rentabilité financière |        6,50%        |  9,90%  |         0.20%         |   <0   |
+
+La rentabilité économique n'est pas impacté par le choix de financement du projet
+Pour les prévisions optimistes ont mets en évidence un effet de levier : 
+	- La rentabilité financière augmente avec l'endettement car le taux d'emprunt (2%) est inférieure a la rentabilité économique (5.9%) 
+Pour les prévisions pessimiste, ont mets en évidence un effet de massue car le taux d'emprunt est supérieure a la rentabilité économique 
+
+
+# Chapitre 8
+
+## Exercice 1
+
+1) Le chiffre d'affaire (valeur) et la quantité vendue (volume)
+2) L'activité a augmentée
+3) Cout moyen unitaire = $CM_{unitaire}$ = $\dfrac{Cout\quad total\quad de\quad production}{Nombre\quad d'unité\quad produit}$ 
+	1) N-1 => CM = $\dfrac{470 550}{82} = 5738.41$€
+	2) N => CM = $\dfrac{511 050}{97} = 52 68.75$€
+4) Baisse du CM quand l'activité augment (à structure inchangées) = mise en évidence d'échelle
+
+![[Drawing 2025-05-16 11.41.16.excalidraw]]
