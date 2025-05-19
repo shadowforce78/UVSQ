@@ -127,3 +127,65 @@ Septembre 1981
 
 __Définition__ : TCP est un protocole de niveau transport en mode connecté chargé d'établir et  de maintenir une connexion entre 2 réseaux
 
+# Exercice 10 (TD 1)
+
+1) ![[Pasted image 20250507103531.png]]
+$\boxed{\omega = 2\pi}$ C'est la pulsation
+$T=\dfrac{2\pi}{\omega}$ 
+Ici comme $\omega = 2\pi$ ici $T=1$
+
+$f(t)=sin(t)$ est périodique de période $2\pi$ 
+Car : $sin(t+2\pi) = sin(t)$   $\forall t \in \mathbb{R}$ 
+
+
+2) ![[Pasted image 20250507103624.png]]
+3) $S(t)=sin(\pi t)+sin(2\pi t)$
+	1) La période du signal est : $T_0 = 2$ et $T_1 = 1$ 
+		Donc $T = 2$ 
+
+4) $S(t) = \dfrac{4}{3}sin(\pi t)$
+	1) L'amplitude est de $\dfrac{4}{3}$
+5) $S(t)=sin(2\pi t + \dfrac{\pi}{4})$ 
+	1) La phase du signal est : $\dfrac{\pi}{4}$
+6) $S(t)=sin(\dfrac{\pi}{4}t + \dfrac{\pi}{5})$
+	1) La pulsation est : $\omega = \dfrac{\pi}{4}$ 
+	2) $T=\dfrac{2\pi}{\omega}=\dfrac{2\pi}{\dfrac{\pi}{4}}=8$ 
+	3) $f = \dfrac{1}{T} = \dfrac{1}{8}$ 
+
+La fragmentation IP sert a envoie des données plus grosse que le réseaux lui même.
+
+
+# Exercice 6 (TD 4)
+LAN A :
+@RSX 192.168.20.128/26
+@PREMIERE 192.168.20.129/26
+@BROADCAST 192.168.20.191/26
+@DERNIERE 192.168.20.190/26
+
+LAN B : 
+@RSX 192.168.20.192/26
+@PREMIERE 192.168.20.193/26
+@BROADCAST 192.168.20.255
+@DERNIERE 192.168.20.254
+
+LAN C : 
+@RSX 192.168.20.0/24
+@PREMIERE 192.168.20.1/24
+@BROADCAST 192.168.20.a faire
+@DERNIERE 192.168.20.a faire
+
+
+# Chapitre 5 protocole HTTP
+
+1) Généralité
+	1) Hyper Text Transfer Protocol
+		1) 1.0 en 1997
+		2) 3.0 en 2022
+	2) Protocole de niveau application
+	3) Rapatriement de documents (ressources)
+	4) Envoyer des formulaires
+	5) Protocole sans état
+	6) Bidirectionnel
+	7) Requetes / Réponse
+	8) Reponse sur TCP
+	9) Disponible sur les port 80, 8080, 8000, 443 (https)

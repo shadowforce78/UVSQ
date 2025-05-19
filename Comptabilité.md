@@ -372,3 +372,178 @@ CAF (Méthode Additive) = RESULTAT NET - PRODUIT NON ENCAISSABLE + CHARGES NON D
 	= -34k - (165 + 72 + 33 + 22) + (270 + 117 + 42 + 12) 
 	= -34k - 295k + 441k
 	= 112k€
+
+# 3) 
+Chiffre d'affaire année N => 3 426 000
+Chiffre d'affaire année N-1 => 3 112 000
+![[Pasted image 20250509104911.png]]
+
+![[Drawing 2025-05-09 10.48.47.excalidraw]]
+
+Le taux de marge brut d'exploitation qui mesure la performance industrielle et commerciale de l'entreprise connait la plus forte baisse de 4.2 points, le taux de marge bénéficiaires connait la moins forte baisse de 2.8 points
+Enfin, le taux de capacité d'autofinancement qui mesure la part du chiffre d'affaire pouvant être affecter a l'investissement a diminué de 3 points 
+
+**Indicateurs Clés pour FAPELLE au 31/12/N :**  
+
+### **1. Valeur Ajoutée (VA)**  
+```
+VA = Production de l'exercice + Subventions d'exploitation - Consommations intermédiaires  
+    = (600 000 - 2 400) + 3 000 - (82 500 + 750 + 18 000 + 1 950)  
+    = 597 600 + 3 000 - 103 200  
+VA = 497 400  
+```
+
+### **2. Excédent Brut d'Exploitation (EBE)**  
+```
+EBE = VA + Subventions d'exploitation - Charges de personnel - Impôts et taxes  
+     = 497 400 + 3 000 - (246 000 + 117 000) - 13 500  
+EBE = 123 900  
+```
+
+### **3. Résultat d'Exploitation (RE)**  
+```
+RE = EBE + Reprises sur provisions - Dotations aux amortissements + Autres produits  
+    = 123 900 + 4 500 - 25 500 + 2 850  
+RE = 105 750  
+```
+
+### **4. Résultat Courant Avant Impôts (RCAI)**  
+```
+RCAI = RE + Résultat Financier  
+      = 105 750 + (10 950 - 8 250)  
+RCAI = 108 450  
+```
+
+### **5. Bénéfice Net**  
+```
+Bénéfice Net = RCAI + Résultat Exceptionnel - Participation des salariés - Impôts  
+             = 108 450 + (5 100 - 4 650) - 7 200 - 32 900  
+Bénéfice Net = 65 800  
+```
+
+**Synthèse :**  
+- **VA :** 497 400  
+- **EBE :** 123 900  
+- **RE :** 105 750  
+- **RCAI :** 108 450  
+- **Bénéfice Net :** 65 800  
+
+*Note :* Les calculs sont basés sur une interprétation stricte du compte de résultat. Les écarts mineurs avec vos valeurs initiales peuvent venir de l'inclusion/exclusion de postes spécifiques (ex: "autres charges").  
+
+**Formules utilisées :**  
+- **VA** = Production vendue + Production stockée + Subventions - (Achats + Variations de stocks + Charges externes)  
+- **EBE** = VA - Charges de personnel - Impôts  
+- **RE** = EBE + Reprises - Dotations + Produits divers  
+- **RCAI** = RE + (Produits financiers - Charges financières)  
+
+**Calcul de la Capacité d'Autofinancement (CAF) pour FAPELLE au 31/12/N**  
+
+### **1. Méthode Soustractive**  
+```
+CAF = EBE + Produits encaissables (en aval de l'EBE) - Charges décaissables (en aval de l'EBE) 
+CAF = 122 850 + (2850+6075+3300+300)-(1350+6750+1800+720+32900)
+CAF = 84 775€
+```
+---
+
+### **2. Méthode Additive**  
+```
+CAF = Résultat Net + Produits non encaissables - Charges non décaissables  
+CAF = 65 800 + (4500+1575+4200+600)+(25500+1500+1950+900)
+CAF = 84 775€
+```  
+
+
+
+Les résultats de profitabilité sont globalement conforme a ceux du secteur
+Seul la performance industrielle de l'entreprise est plus faible que celle des concurrent, mais la performance globale et la capacité a s'autofinancer sont meilleur que celle des concurrent
+
+
+# Chapitre 6
+## Rentabilité économique 
+
+$RE = \dfrac{REX}{IMMO + BFR}$%
+
+![[Drawing 2025-05-09 11.49.07.excalidraw]]
+
+![[Drawing 2025-05-12 11.06.06_0.excalidraw]]
+
+On peut augmenter/améliorer la rentabilité économique en diminuant les stocks, en allongeant les délais de payement des fournisseurs, ou en révisant le cout des achats 
+
+$Rentabilité \quad Financière = \dfrac{Resultat \quad Net}{Capitaux \quad Propres}$%
+
+$RF = \dfrac{5}{85}=5.9$%
+
+Le placement de Medhi et celui de Léo sont différent
+Medhi => 5.9% alors que Léo => 2.5%
+Medhi est plus rentable que Léo ici
+
+Medhi attendait une RF de 10% mais il n'a obtenu que 5.9%
+
+La prise de risque ici fait que Medhi a plus gagné
+
+Jules => Sa rentabilité dépend de l'efficience de sa gestion
+Medhi => Sa rentabilité porte sur le rendement de son placement
+
+
+9) Montant d'emprunt : 
+	1) Cas 1 => 0€
+	2) Cas 2 => 60% de 130 000 = 78 000€
+10) Cout de financement : 
+	1) Cas 1 => 0€
+	2) Cas 2 => 3% par le montant emprunté : 0.03 $\times$ 78 000 = 2340€ 
+
+Cas 1 => $Résultat \quad net = 6000 - \dfrac{1}{3}\times 6000 = 4000$€
+Cas 2 => $Résultat \quad net =6000-2340-\dfrac{1}{3}(6000-2340)=2440$€
+
+![[Drawing 2025-05-12 11.41.18.excalidraw]]
+
+La rentabilité économique n'est pas impacté par le montant emprunté, en revanche, la rentabilité financière augmente lorsqu'on a recours a l'emprunt 
+
+![[Drawing 2025-05-12 11.50.08.excalidraw]]
+
+En empruntant d'avantage, la rentabilité financière augmente
+
+Maintenant on a un taux de 2% au lieu de 3%
+![[Drawing 2025-05-12 11.55.52.excalidraw]]
+
+![[Drawing 2025-05-12 12.01.06.excalidraw]]
+
+# Exercice :
+
+1) Pour chaque hypothèse : 
+	1) H1 => 2% $\times$ (50% de 170 000) = 1700€/an
+	2) H2 => 2% $\times$ (70% de 170 000) = 2380€/an
+
+2) 
+
+|                        | Prévision Optimiste |         | Prévision Pessimistes |        |
+| :--------------------: | :-----------------: | :-----: | :-------------------: | :----: |
+|                        |         H1          |   H2    |          H1           |   H2   |
+|           CA           |       120 000       | 120 000 |        80 000         | 80 000 |
+| Charges d'exploitation |       110 000       | 110 000 |        78 000         | 78 000 |
+|          REX           |       10 000        | 10 000  |         2000          |  2000  |
+|   Interet d'emprunt    |        1700         |  2380   |         1700          |  2380  |
+|        IS (1/3)        |        2766         |  2540   |          100          |  -127  |
+|      Résultat net      |        5 534        |  5 080  |          200          |  -253  |
+| Rentabilité économique |        5,90%        |  5,90%  |         1,20%         | 1,20%  |
+| Rentabilité financière |        6,50%        |  9,90%  |         0.20%         |   <0   |
+
+La rentabilité économique n'est pas impacté par le choix de financement du projet
+Pour les prévisions optimistes ont mets en évidence un effet de levier : 
+	- La rentabilité financière augmente avec l'endettement car le taux d'emprunt (2%) est inférieure a la rentabilité économique (5.9%) 
+Pour les prévisions pessimiste, ont mets en évidence un effet de massue car le taux d'emprunt est supérieure a la rentabilité économique 
+
+
+# Chapitre 8
+
+## Exercice 1
+
+1) Le chiffre d'affaire (valeur) et la quantité vendue (volume)
+2) L'activité a augmentée
+3) Cout moyen unitaire = $CM_{unitaire}$ = $\dfrac{Cout\quad total\quad de\quad production}{Nombre\quad d'unité\quad produit}$ 
+	1) N-1 => CM = $\dfrac{470 550}{82} = 5738.41$€
+	2) N => CM = $\dfrac{511 050}{97} = 52 68.75$€
+4) Baisse du CM quand l'activité augment (à structure inchangées) = mise en évidence d'échelle
+
+![[Drawing 2025-05-16 11.41.16.excalidraw]]
