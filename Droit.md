@@ -571,11 +571,65 @@ Voici un affichage plus propre et clair de ton début de TD 6, bien structuré a
 2) Application : 
 	1) Parties et obligations
 		1) La compagnie d'assurance : gérer les fonds et les verser a un bénéficiaire identifiable
-		2) Le souscritpeure (assuré) : verser les fonds a la compagnie d'assurance
+		2) Le souscripteur (assuré) : verser les fonds a la compagnie d'assurance
 	2) Au décès du souscripteur, les fonds sont versés a un bénéficiaire (tiers) qui n'a pas contracté 
 
 ## 4 - Inexécution du contrat, la responsabilité contractuelle
-1) C'est un contrat d'abonnement
-2) L'opérateur et l'abonné, obligation de résultat de la part de l'operateur, obligation de l'abonné a payer son abonnement
-3) Si l'obligation de résultat n'est pas respecté par l'operateur alors le contrat est annulé
-4) Mise en demeure par lettre recommandé
+
+1) Cas 1 : 
+	1) C'est un contrat de développement logiciel entre deux entreprises
+	2) Matox = client & Logis = fournisseur, Matox doit payer, et Logis doit fournir le logiciel demandé (avant le 15 octobre 2015 (obligation de résultat)) et en attendant, fournir un logiciel temporaire transitoire (obligation de moyen) pour permettre a l'entreprise de fonctionner quand même
+	3) Si l'obligation de moyen ou l'obligation de résultat n'est pas respecté, alors le contrat est annulé, c'est le cas ici
+	4) Mise en demeure par lettre recommandé
+	
+2) Cas 2 :
+	1) C'est un contrat d'abonnement
+	2) L'opérateur et l'abonné, obligation de résultat de la part de l'operateur, obligation de l'abonné a payer son abonnement
+	3) Si l'obligation de résultat n'est pas respecté par l'operateur alors le contrat est annulé
+	4) Mise en demeure par lettre recommandé
+
+
+# Chapitre 8
+
+Base de négociation pour l'appel d'offre (pour rechercher le fournisseur)
+C'est souvent le fournisseur qui intente une action en justice, souvent devant le tribunal de commerce
+
+Obligation de coopération du client (important pour les contrats de développement agile)
+
+### Résolution de l'exemple 1 :
+
+**Objet du litige :**  
+Le litige porte sur le manquement du prestataire informatique à ses obligations d'information, de mise en garde et de conseil envers son client, notamment en ne réalisant pas un audit préalable du système informatique existant et en utilisant un cahier des charges obsolète sans le critiquer.
+
+**Origine de l'action en justice :**  
+L'action en justice a été initiée par le client, qui reproche au prestataire de ne pas avoir rempli ses obligations contractuelles et précontractuelles.
+
+**Décision de justice :**  
+La Cour d'appel de Lyon a jugé que le prestataire avait manqué à son obligation de conseil, qualifiée d'obligation de moyen renforcée. Les obligations non respectées par le prestataire sont :  
+1. L'absence de réalisation d'un audit ou état des lieux du système informatique du client.  
+2. L'utilisation d'un cahier des charges ancien sans formuler de critiques ou de mises en garde sur son adéquation au projet.  
+
+Le prestataire aurait dû informer le client des risques et ne pas s'engager dans un projet qu'il savait irréaliste en termes de temps et de moyens. La décision met en évidence la responsabilité du prestataire en raison de sa expertise technique et de la complexité des prestations fournies.  
+
+
+### Résolution de l'exemple 2 :
+
+**Objet du litige :**  
+Le litige concerne le développement d'applications mobiles et Internet. Le client reprochait au prestataire d'avoir manqué à ses obligations contractuelles, notamment en ne respectant pas les besoins spécifiques du client et en ne réalisant pas les tests nécessaires. Cependant, la cour a rejeté ces arguments.  
+
+**Origine de l'action en justice :**  
+L'action en justice a été initiée par le client, qui estimait que le prestataire n'avait pas fourni une prestation conforme à ses attentes.  
+
+**Décision de justice :**  
+La cour d'appel de Paris a confirmé le jugement du tribunal de commerce, statuant que :  
+1. Le client n'avait pas exprimé clairement ses besoins et objectifs spécifiques.  
+2. Le client avait signé les procès-verbaux de recette, attestant que la livraison était conforme à ses attentes.  
+3. Les deux parties étaient des professionnels ayant eu de nombreux échanges, ce qui impliquait une collaboration active du client dans un projet Agile.  
+
+La cour a donc estimé que le client n'avait pas rempli son obligation de figer ses besoins et de collaborer efficacement, tout en soulignant son obligation de paiement. Le prestataire n'a pas été reconnu responsable des manquements allégués.  
+
+
+# POUR LE DS
+Chap 4 
+5 a 8
+TD 5 a 8  

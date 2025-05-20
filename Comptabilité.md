@@ -545,5 +545,53 @@ Pour les prévisions pessimiste, ont mets en évidence un effet de massue car le
 	1) N-1 => CM = $\dfrac{470 550}{82} = 5738.41$€
 	2) N => CM = $\dfrac{511 050}{97} = 52 68.75$€
 4) Baisse du CM quand l'activité augment (à structure inchangées) = mise en évidence d'échelle
+5) 
 
 ![[Drawing 2025-05-16 11.41.16.excalidraw]]
+
+6) Une charge variable augmente quand l'activité augmente, les charges fixes restent stables quand l'activité augmente, enfin les charges semi variable augmente pour leur part variable et reste stable pour leur part fixe 
+
+
+7) Charges fixes pour N : 
+	1) CF
+	2) Loyer, Charges d'assurances, Charges personnels, Charges sociales et dotation
+	3) 57650 + 11400 + 96000 + 68400 + 15700 = 249 150€
+8) Charges variables pour N
+	1) CV
+	2) Matière premières, charges d'entretien, Charges sociales (commissions)
+	3) 194825 + 34338 + 32737 = 261 900€
+
+CA - CV - CF = Résultat
+
+Complément a la question 8 =>
+	On définit le cout variable unitaire CVu avec : 
+	CVu = CV / Q (quantité produite) = 261 900 / 97 = 2700€
+
+9) ![[Drawing 2025-05-19 11.20.15.excalidraw]]
+10) 
+	1) Première méthode : MSCVu = MSCV / Q = 392850 / 97 = 4050€
+	2) Deuxième méthode : MSCVu = PVht - CVu = 6750 - 2700 = 4050€
+	3) Troisième méthode : MSCVu = PVht $\times$TMSCV = 6750 $\times$ 60% = 4050€
+
+11) Sur la vente d'un dragon, l'entreprise dégage une marge de 4050€ par rapport au charges variables (uniquement) qu'elle a engagé pour ce produit
+12) Le 60% est appelé le taux de marge sur le couts variables (TMSCV)
+	1) TMSCV = MSCVu / PVht = 4050 / 6750 = 60%
+13) Comme la proportion des charges variables (CV) dans le chiffres d'affaire (CA) restes stables (40%) alors la proportion de marge sur cout variable (MSCV) par rapport au CA reste stables aussi (100-40)
+14) $\Delta$Résultat = 159900 - 143700 = +16200
+15) 16200 = 4050 $\times$ 4 = MSCVu $\times$ 4 
+16) Vendre plus
+
+$\boxed{Résultat = CA - CV - CF }$
+$\boxed{Résultat = MSCV - CF}$ 
+
+
+![[Drawing 2025-05-19 11.50.12.excalidraw]]
+
+18) Au point d'intersection, on peut dire que MSCV = CF 
+19) On sait que Résultat = CA - CV - CF = MSCV - CF
+	1) Au point d'intersection, MSCV - CF = 0 donc résultat nul
+20) C'est le seuil de rentabilité, il est atteint autour des 400€ de CA
+21) SR = CF / TMSCV = 249150 / 60% = 415 250€
+22) Le seuil de rentabilité est atteint pour un chiffre d'affaire de 415 250€
+23) 415 250 / 6750 = 62 dragon pour être rentable (au moins)
+24) 
