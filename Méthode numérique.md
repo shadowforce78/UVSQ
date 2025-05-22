@@ -136,3 +136,81 @@ $\lim_{n \to +\infty} u_n = 0 - (2 + \sqrt{3}) = - (2 + \sqrt{3})$
 ![[Pasted image 20250522134106.png]]
 ![[Pasted image 20250522134117.png]]
 ![[Pasted image 20250522134131.png]]
+
+## Exercice 12
+Pour déterminer la dérivée d'ordre $N$ (où $N$ est un entier naturel) de la fonction inverse définie sur $\mathbb{R}^* = \mathbb{R} \setminus \{0\}$ par :
+
+$$
+f(x) = \frac{1}{x}
+$$
+
+nous allons procéder par récurrence.
+
+### **Calcul des premières dérivées :**
+
+1. **Dérivée première ($N = 1$) :**
+   $$
+   f'(x) = -\frac{1}{x^2}
+   $$
+   On peut aussi écrire :
+   $$
+   f'(x) = (-1)^1 \cdot \frac{1!}{x^{2}}
+   $$
+
+2. **Dérivée seconde ($N = 2$) :**
+   $$
+   f''(x) = \frac{2}{x^3}
+   $$
+   Ou :
+   $$
+   f''(x) = (-1)^2 \cdot \frac{2!}{x^{3}}
+   $$
+
+3. **Dérivée troisième ($N = 3$) :**
+   $$
+   f'''(x) = -\frac{6}{x^4}
+   $$
+   Ou :
+   $$
+   f'''(x) = (-1)^3 \cdot \frac{3!}{x^{4}}
+   $$
+
+### **Hypothèse de récurrence :**
+
+Supposons que pour un certain entier $N \geq 1$, la dérivée $N$-ième de $f$ est donnée par :
+
+$$
+f^{(N)}(x) = (-1)^N \cdot \frac{N!}{x^{N+1}}
+$$
+
+### **Étape de récurrence :**
+
+Dérivons $f^{(N)}(x)$ pour obtenir $f^{(N+1)}(x)$ :
+
+$$
+f^{(N+1)}(x) = \frac{d}{dx} \left( f^{(N)}(x) \right) = \frac{d}{dx} \left( (-1)^N \cdot \frac{N!}{x^{N+1}} \right)
+$$
+
+En utilisant la règle de dérivation des puissances :
+
+$$
+f^{(N+1)}(x) = (-1)^N \cdot N! \cdot \frac{d}{dx} \left( x^{-(N+1)} \right) = (-1)^N \cdot N! \cdot \left( -(N+1) \cdot x^{-(N+2)} \right)
+$$
+
+Simplifions :
+
+$$
+f^{(N+1)}(x) = (-1)^{N+1} \cdot (N+1)! \cdot \frac{1}{x^{N+2}}
+$$
+
+Ce qui correspond bien à la formule générale pour $N+1$.
+
+### **Conclusion :**
+
+Par récurrence, nous avons montré que pour tout entier naturel $N$, la dérivée $N$-ième de $f(x) = \frac{1}{x}$ est :
+
+$$
+\boxed{f^{(N)}(x) = (-1)^N \cdot \frac{N!}{x^{N+1}}}
+$$
+
+où $N!$ désigne la factorielle de $N$.
