@@ -125,3 +125,4 @@ $\lim_{n \to +\infty} u_n = 0 - (2 + \sqrt{3}) = - (2 + \sqrt{3})$
 - Limite de $( u_n )$ :
   $\boxed{\lim_{n \to +\infty} u_n = - (2 + \sqrt{3})}$ 
 
+![[Pasted image 20250521144019.png]]![[Pasted image 20250521144027.png]]![[Pasted image 20250521144034.png]]![[Pasted image 20250521144045.png]]![[Pasted image 20250521144056.png]]![[Pasted image 20250521144104.png]]![[Pasted image 20250521144123.png]]![[Pasted image 20250521144130.png]]![[Pasted image 20250521144144.png]]
