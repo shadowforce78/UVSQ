@@ -594,4 +594,13 @@ $\boxed{Résultat = MSCV - CF}$
 21) SR = CF / TMSCV = 249150 / 60% = 415 250€
 22) Le seuil de rentabilité est atteint pour un chiffre d'affaire de 415 250€
 23) 415 250 / 6750 = 62 dragon pour être rentable (au moins)
-24) 
+
+24)  .
+25) Les charges fixes augmentes car il y a de nouveaux equipements
+26) ![[Drawing 2025-05-26 10.39.14.excalidraw]]
+27) $\Delta$Résultat = 158 250 - 143 700 = +14 500€
+28) Le seuil de rentabilité va augmenter car les charges fixe augmente
+29) $SR_{val}$ = $\dfrac{CF}{TMSCV}=\dfrac{307 500}{0.6}=512 500$€
+	1) $SR_{vol}$ = $\dfrac{512500}{6750} = 75.9$ => 76 Dragons
+	2) L'entreprise devra vendre (76-62) 14 dragons en plus pour être rentable
+30) 

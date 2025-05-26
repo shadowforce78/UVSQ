@@ -588,7 +588,48 @@ Voici un affichage plus propre et clair de ton début de TD 6, bien structuré a
 	3) Si l'obligation de résultat n'est pas respecté par l'operateur alors le contrat est annulé
 	4) Mise en demeure par lettre recommandé
 
+## 5 - Analyse d'un contrat
 
+1. **Le nom du contrat**  
+   - **Contrat de vente d’un véhicule automobile**.
+
+2. **Les parties au contrat**  
+   - **Vendeur** : Nom, prénom, adresse complète.  
+   - **Acquéreur** : Nom, prénom, adresse complète.
+
+3. **L’objet du contrat**  
+   - La vente d’un véhicule automobile décrit avec ses caractéristiques (marque, type, puissance, millésime, date de première mise en circulation, numéro d’immatriculation, numéro de série, équipements particuliers, état du véhicule, anomalies, réparations importantes, kilométrage).
+
+4. **La cause vraisemblable du contrat**  
+   - Le transfert de propriété du véhicule du vendeur à l’acquéreur contre le paiement d’un prix convenu.
+
+5. **Les caractéristiques du contrat**  
+   - Contrat synallagmatique (engagements réciproques).  
+   - Contrat consensuel (formation par accord des parties).  
+   - Contrat à titre onéreux (vente moyennant un prix).  
+   - Contrat a exécution instantanée 
+   - Contrat civil (si entre particuliers) ou commercial (si impliquant un professionnel).
+
+6. **Les clauses de responsabilité éventuelles**  
+   - Le vendeur certifie l’exactitude des renseignements fournis.  
+   - L’acquéreur accepte les anomalies mentionnées, sauf si elles constituent des vices cachés au sens de l’article 1641 du Code Civil.  
+   - Obligation pour le vendeur de fournir un contrôle technique valide (si le véhicule a plus de 4 ans).  
+
+7. **Les obligations de chacun des contractants**  
+   - **Vendeur** :  
+     - Fournir le véhicule conforme à la description.  
+     - Remettre les documents obligatoires (certificat d’immatriculation, déclaration de cession, contrôle technique si applicable, certificat de situation administrative).  
+     - Effectuer la télédéclaration de la cession sur le site de l’ANTS.  
+   - **Acquéreur** :  
+     - Payer le prix convenu.  
+     - Procéder au transfert du certificat d’immatriculation dans les délais légaux.  
+     - Vérifier l’état du véhicule et assumer les réparations sauf vices cachés.  
+
+8. **Le tribunal compétent en cas de litige**  
+   - Le contrat ne mentionne pas explicitement le tribunal compétent. En droit français, en l’absence de clause spécifique, le tribunal compétent est généralement :  
+     - Le tribunal du lieu où demeure le défendeur (vendeur ou acquéreur selon le cas).  
+     - Pour les litiges civils entre particuliers : Tribunal judiciaire.  
+     - Si le vendeur est un professionnel : Tribunal compétent peut être celui du lieu de livraison du véhicule ou du domicile de l’acquéreur (consommateur).  
 # Chapitre 8
 
 Base de négociation pour l'appel d'offre (pour rechercher le fournisseur)
@@ -636,21 +677,20 @@ La cour a donc estimé que le client n'avait pas rempli son obligation de figer 
 	2) **Jeux d’essais** : Données de test fournies par le client pour vérifier que le logiciel fonctionne comme prévu.
 3) Le code source appartient au fournisseur
 4) Garantir la confidentialité et sécurité des données
-	1) Obligations : 
-	2) **Fournisseur (GESTINFO)** :
-    
-	    - Développer le logiciel (article 2).
-	        
+5) Obligations : 
+	1) **Fournisseur (GESTINFO)** :
+		- Développer le logiciel (article 2).
 	    - Corriger les éventuels défauts (article 7).
-	        
 	    - Ne pas être responsable si le client fournit des informations incomplètes (article 4).
         
-	3) **Client (CRIPOL)** :
-	    
-	    - Fournir les spécifications complètes et les jeux d’essais (articles 5 et 6).
-	        
-	    - Valider le logiciel après tests (article 7).
-		 
+	2) **Client (CRIPOL)** :
+		1) Fournir les spécifications complètes et les jeux d’essais (articles 5 et 6).
+		2) Valider le logiciel après tests (article 7).
+6) Si les jeux d’essais ne sont pas fournis à temps (article 6) ou sont incorrects, le fournisseur **n’est pas responsable** des échecs de validation (article 7). La charge de la preuve repose sur le client.	 
+7) Equilibre du contrat : 
+	- **Pour le client** : Exigeant (45 jours pour tout fournir, sous peine de frais supplémentaires).
+	- **Pour le fournisseur** : Protégé (ne paie pas pour les retards causés par le client).
+	- **Équilibre** : Assez déséquilibré en faveur du fournisseur, mais classique dans les contrats de développement.
 # POUR LE DS
 Chap 4 
 5 a 8
