@@ -616,3 +616,152 @@ $\boxed{Résultat = MSCV - CF}$
 | Une charge de structure est une charge variable.                                                             |          |    ✅     |                           Une charge de structure est une charge fixe, donc l’affirmation est fausse. |
 | Quand l’entreprise atteint son seuil de rentabilité, la marge sur coût variable est égale aux charges fixes. |    ✅     |          |                                                     C’est la définition même du seuil de rentabilité. |
 | Quand on produit davantage sans changer la structure, le coût moyen d’un produit fabriqué augmente.          |          |    ✅     | Le coût moyen diminue, car les charges fixes sont réparties sur une plus grande quantité de produits. |
+
+## **1. Repérage des charges fixes et variables**
+
+**Charges variables (par participant) :**
+
+- Billet d’avion : 330 €
+    
+- Repas : 160 €
+    
+- Inscription aux tournois et compétitions : 45 €  
+    **→ Total charges variables : 535 €**
+    
+
+**Charges fixes (communes à tous les participants) :**
+
+- Location d’une pension : 1 970 €
+    
+- Location d’une camionnette : 680 €
+    
+- Frais de personnel (moniteurs, éducateurs, professeurs) : 4 414 €  
+    **→ Total charges fixes : 7 064 €**
+    
+
+---
+
+## **2. Coût total du séjour**
+
+Si on note **x** le nombre de participants, alors :  
+**Coût total du séjour = 535 × x + 7 064**
+
+---
+
+## **3. Marge sur coût variable**
+
+**Prix de vente par participant : 1 320 €**  
+**Coût variable : 535 €**  
+**→ Marge sur coût variable = 1 320 – 535 = 785 € par participant**
+
+---
+
+## **4. Seuil de rentabilité**
+
+Pour atteindre la rentabilité, il faut que la **marge globale** couvre les **charges fixes** :
+
+$785×x=7064⇒x=\dfrac{7064}{785}​≈9$
+
+**→ Il faut donc au minimum 9 participants pour que le séjour soit rentable.**
+
+---
+
+## **5. Prix minimum pour un participant de dernière minute**
+
+Une fois les charges fixes couvertes, il suffit de couvrir les charges variables pour les participants supplémentaires :
+
+**→ Prix minimum = 535 €**
+
+---
+
+## **Conclusion**
+
+- Le séjour devient rentable à partir de **9 participants**.
+    
+- En dessous de **535 €**, l’entreprise vend à perte pour les réservations de dernière minute.
+
+
+# Application 7.3
+
+---
+
+### **Données clés :**
+
+- Prix de vente unitaire (PV) = 1 490 €
+    
+- Quantité produite = 1 780 unités
+    
+- Charges variables totales = 1 564 798 €
+    
+- Charges fixes = 321 000 €
+    
+
+---
+
+### **1. Compte de résultat différentiel d’exploitation en N**
+
+**Chiffre d’affaires** = 1 490 × 1 780 = **2 652 200 €**  
+**- Charges variables** = **1 564 798 €**  
+**= Marge sur coût variable (MCV)** = 2 652 200 - 1 564 798 = **1 087 402 €**  
+**- Charges fixes** = 321 000 €  
+**= Résultat d’exploitation** = 1 087 402 - 321 000 = **766 402 €**
+
+---
+
+### **2. Seuil de rentabilité en valeur et volume**
+
+**Taux de MCV** = MCV / CA = 1 087 402 / 2 652 200 ≈ **0,41** (ou 41%)
+
+- **Seuil de rentabilité en valeur** = Charges fixes / Taux de MCV  
+    = 321 000 / 0,41 ≈ **782 927 €**
+    
+- **Seuil de rentabilité en volume** = 782 927 / 1 490 ≈ **526 unités**
+    
+
+---
+
+### **3. Interprétation**
+
+L’entreprise doit vendre **au moins 526 trampolines** pour couvrir ses charges et **atteindre l’équilibre (zéro bénéfice, zéro perte)**.
+
+---
+
+### **4. Coût variable unitaire**
+
+= Charges variables / Quantité  
+= 1 564 798 / 1 780 ≈ **879,66 €**
+
+---
+
+### **5. Marge sur coût variable unitaire**
+
+= Prix de vente - Coût variable unitaire  
+= 1 490 - 879,66 ≈ **610,34 €**
+
+---
+
+### **6. Seuil de rentabilité en volume via la marge unitaire**
+
+= Charges fixes / MCV unitaire  
+= 321 000 / 610,34 ≈ **526 unités** (arrondi)
+
+---
+
+### **DOC 1 - Nouvelle commande**
+
+Commande de **250 produits**, mêmes conditions de production.
+
+---
+
+### **7. Impact sur le résultat**
+
+Marge sur coût variable unitaire × Quantité supplémentaire =  
+610,34 × 250 = **152 585 €**
+
+> 👉 Résultat d’exploitation **augmente de 152 585 €**
+
+---
+
+### **8. Vérification**
+
+Oui, la variation du résultat **correspond bien à la marge sur coût variable unitaire × la nouvelle quantité vendue**.
