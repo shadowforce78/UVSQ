@@ -628,7 +628,29 @@ La cour d'appel de Paris a confirmé le jugement du tribunal de commerce, statua
 
 La cour a donc estimé que le client n'avait pas rempli son obligation de figer ses besoins et de collaborer efficacement, tout en soulignant son obligation de paiement. Le prestataire n'a pas été reconnu responsable des manquements allégués.  
 
+## Exercice 2 
 
+1) Ce contrat est un contrat de développement 
+2) Définition : 
+	1) **Spécifications** : Description détaillée des fonctionnalités du logiciel (exigences techniques, attendus).
+	2) **Jeux d’essais** : Données de test fournies par le client pour vérifier que le logiciel fonctionne comme prévu.
+3) Le code source appartient au fournisseur
+4) Garantir la confidentialité et sécurité des données
+	1) Obligations : 
+	2) **Fournisseur (GESTINFO)** :
+    
+	    - Développer le logiciel (article 2).
+	        
+	    - Corriger les éventuels défauts (article 7).
+	        
+	    - Ne pas être responsable si le client fournit des informations incomplètes (article 4).
+        
+	3) **Client (CRIPOL)** :
+	    
+	    - Fournir les spécifications complètes et les jeux d’essais (articles 5 et 6).
+	        
+	    - Valider le logiciel après tests (article 7).
+		 
 # POUR LE DS
 Chap 4 
 5 a 8
