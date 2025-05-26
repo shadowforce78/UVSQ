@@ -603,4 +603,16 @@ $\boxed{Résultat = MSCV - CF}$
 29) $SR_{val}$ = $\dfrac{CF}{TMSCV}=\dfrac{307 500}{0.6}=512 500$€
 	1) $SR_{vol}$ = $\dfrac{512500}{6750} = 75.9$ => 76 Dragons
 	2) L'entreprise devra vendre (76-62) 14 dragons en plus pour être rentable
-30) 
+30) .
+31) La première limite concerne les charges variables dont les stricte proportionnalité peut être remis en cause.
+	1) Deuxièmement, 
+
+| **Affirmations**                                                                                             | **Vrai** | **Faux** |                                                                                    **Justifications** |
+| :----------------------------------------------------------------------------------------------------------- | :------: | :------: | ----------------------------------------------------------------------------------------------------: |
+| Le niveau d’activité désigne la quantité de produits fabriquée et vendue.                                    |    ✅     |          |                                                             C’est la définition du niveau d’activité. |
+| Le montant des charges fixes varie suivant le niveau d’activité.                                             |          |    ✅     |              Les charges fixes ne varient pas avec le niveau d’activité (ex : loyer, salaires fixes). |
+| Le montant des charges variables augmente proportionnellement au niveau d’activité.                          |    ✅     |          |                    Les charges variables (ex : matières premières) varient en fonction de l’activité. |
+| Quand l’entreprise atteint le seuil de rentabilité, son résultat est égal à zéro.                            |    ✅     |          |    Au seuil de rentabilité, les recettes couvrent exactement les coûts totaux (ni perte ni bénéfice). |
+| Une charge de structure est une charge variable.                                                             |          |    ✅     |                           Une charge de structure est une charge fixe, donc l’affirmation est fausse. |
+| Quand l’entreprise atteint son seuil de rentabilité, la marge sur coût variable est égale aux charges fixes. |    ✅     |          |                                                     C’est la définition même du seuil de rentabilité. |
+| Quand on produit davantage sans changer la structure, le coût moyen d’un produit fabriqué augmente.          |          |    ✅     | Le coût moyen diminue, car les charges fixes sont réparties sur une plus grande quantité de produits. |
