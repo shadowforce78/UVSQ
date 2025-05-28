@@ -214,3 +214,270 @@ $$
 $$
 
 où $N!$ désigne la factorielle de $N$.
+
+
+# 📘 Exercice 13 – Approche de √5 par une suite
+
+## a) Étude de la suite définie par :  
+On considère la fonction réelle définie par :
+
+> ∀ x ∈ ℝ₊*,  
+> **f(x) = ½ (x + 5/x)**
+
+et la suite réelle (uₙ)ₙ∈ℕ définie par :
+
+> u₀ = 1  
+> ∀ n ∈ ℕ, **uₙ₊₁ = ½ (uₙ + 5/uₙ)**
+
+---
+
+### 🔹 (i) Calcul des premiers termes :  
+On calcule u₁, u₂ et u₃ :
+
+- u₀ = 1  
+- u₁ = ½ (1 + 5/1) = ½ (6) = **3**  
+- u₂ = ½ (3 + 5/3) = ½ (3 + 1.666...) = ½ (4.666...) ≈ **2.333...**  
+- u₃ = ½ (2.333... + 5/2.333...)  
+   → approx 5 / 2.333... ≈ 2.1429  
+   → u₃ ≈ ½ (2.333 + 2.1429) ≈ ½ (4.4759) ≈ **2.23795**
+
+---
+
+### 🔹 (ii) Montrer :  
+> uₙ₊₁ = ((uₙ - √5)²)/(2uₙ) + √5
+
+On part de :
+
+> uₙ₊₁ = ½ (uₙ + 5/uₙ)
+
+Écrivons 5 comme (√5)² :
+
+> uₙ₊₁ = ½ (uₙ + (√5)²/uₙ) = ½ [(uₙ² + 5) / uₙ]  
+> ⇒ uₙ₊₁ = (uₙ² + 5) / (2uₙ)
+
+Or :
+
+> (uₙ - √5)² = uₙ² - 2√5·uₙ + 5  
+⇒ ((uₙ - √5)²)/(2uₙ) = (uₙ² - 2√5·uₙ + 5) / (2uₙ)
+
+Donc :
+
+> ((uₙ - √5)²)/(2uₙ) + √5 = (uₙ² + 5) / (2uₙ) = uₙ₊₁ ✔️
+
+---
+
+### 🔹 (iii) Montrer que :  
+> ∀ n ∈ ℕ, uₙ > 0  
+> ⇒ en déduire ∀ n ∈ ℕ*, uₙ > √5
+
+Par récurrence :
+
+- Initialisation : u₀ = 1 > 0
+- Hérédité : si uₙ > 0, alors 5/uₙ > 0, donc uₙ₊₁ = ½ (uₙ + 5/uₙ) > 0
+
+Donc ∀ n ∈ ℕ, uₙ > 0 ✔️
+
+Ensuite, on utilise l’expression trouvée en (ii) :
+
+> uₙ₊₁ = ((uₙ - √5)²)/(2uₙ) + √5
+
+Or ((uₙ - √5)²)/(2uₙ) > 0 donc uₙ₊₁ > √5 ✔️
+
+---
+
+### 🔹 (iv) Montrer que :  
+> 0 < (uₙ - √5)/(2uₙ) < ½  
+> ⇒ en déduire : uₙ₊₁ - √5 < uₙ - √5
+
+On sait que :
+
+> uₙ₊₁ - √5 = ((uₙ - √5)²)/(2uₙ)
+
+On pose **εₙ = uₙ - √5**, donc :
+
+> uₙ₊₁ - √5 = (εₙ²) / (2uₙ)
+
+Puisque uₙ > √5 ⇒ uₙ > 0, donc :
+
+> 0 < εₙ² / (2uₙ) < εₙ  
+⇒ uₙ₊₁ - √5 < uₙ - √5 ✔️
+
+La suite des erreurs εₙ est donc strictement décroissante.
+
+---
+
+### 🔹 (v) Nature de la suite (uₙ) et sa limite :
+
+- On a montré que uₙ > √5 pour tout n
+- Et que uₙ₊₁ < uₙ ⇒ suite décroissante et minorée
+
+Donc :
+
+> ✅ La suite (uₙ) est **strictement décroissante** et **minorée par √5**,  
+> donc elle est **convergente**.  
+> ✅ De plus, lim (uₙ - √5) = 0  
+> 	⇒ lim uₙ = √5 ✔️
+
+---
+
+## b) Généralisation (remplacer 1 et 5 par u₀ > 0 et a > 0)
+
+Soit :
+
+> u₀ > 0  
+> uₙ₊₁ = ½ (uₙ + a/uₙ)
+
+Même raisonnement :
+
+- uₙ₊₁ = ((uₙ - √a)²)/(2uₙ) + √a  
+- uₙ > 0 ⇒ uₙ > √a  
+- Suite décroissante et minorée par √a  
+- Donc lim uₙ = √a ✔️
+
+---
+
+## c) 💻 Programme Python – Affichage des 20 premières valeurs de (uₙ - √5)
+
+```python
+import math
+
+# Paramètres
+u = 1  # u0
+a = 5  # valeur à approcher
+sqrt_a = math.sqrt(a)
+
+# Calcul et affichage des 20 premières valeurs
+print(f"{'n':>3} | {'u_n':>12} | {'u_n - √5':>12}")
+print("-" * 35)
+
+for n in range(20):
+    diff = u - sqrt_a
+    print(f"{n:>3} | {u:>12.8f} | {diff:>12.8f}")
+    u = 0.5 * (u + a / u)
+
+```
+
+
+# Exercice 6 : Étude de suites récurrentes
+
+## Énoncé
+
+Soit la suite $(u_n)_{n\in\mathbb{N}}$ définie par : $\begin{cases} u_0 = 1 \ \forall n \in \mathbb{N}, u_{n+1} = 2 + \frac{3}{u_n} \end{cases}$
+
+---
+
+## a) Expression de $u_{n+2}$ en fonction de $u_n$
+
+**Calcul :** $$u_{n+2} = 2 + \frac{3}{u_{n+1}}$$
+
+En substituant l'expression de $u_{n+1}$ : $$u_{n+2} = 2 + \frac{3}{2 + \frac{3}{u_n}}$$
+
+**Simplification du dénominateur :** $$2 + \frac{3}{u_n} = \frac{2u_n + 3}{u_n}$$
+
+Donc : $$u_{n+2} = 2 + \frac{3}{\frac{2u_n + 3}{u_n}} = 2 + \frac{3u_n}{2u_n + 3}$$
+
+**Réduction au même dénominateur :** $$u_{n+2} = \frac{2(2u_n + 3) + 3u_n}{2u_n + 3} = \frac{4u_n + 6 + 3u_n}{2u_n + 3}$$
+
+$$\boxed{u_{n+2} = \frac{7u_n + 6}{2u_n + 3}}$$
+
+---
+
+## b) Étude des suites extraites et monotonie
+
+### Définition des suites extraites
+
+- $(v_n)_{n\in\mathbb{N}}$ : $v_n = u_{2n}$ (termes de rang pair)
+- $(w_n)_{n\in\mathbb{N}}$ : $w_n = u_{2n+1}$ (termes de rang impair)
+
+### Calcul des premiers termes
+
+**Pour $(u_n)$ :**
+
+- $u_0 = 1$
+- $u_1 = 2 + \frac{3}{1} = 5$
+- $u_2 = 2 + \frac{3}{5} = \frac{13}{5} = 2,6$
+- $u_3 = 2 + \frac{3}{\frac{13}{5}} = 2 + \frac{15}{13} = \frac{41}{13} \approx 3,15$
+- $u_4 = 2 + \frac{3}{\frac{41}{13}} = 2 + \frac{39}{41} = \frac{121}{41} \approx 2,95$
+
+**Pour les suites extraites :**
+
+- $(v_n)$ : $v_0 = u_0 = 1$, $v_1 = u_2 = \frac{13}{5}$, $v_2 = u_4 = \frac{121}{41}$
+- $(w_n)$ : $w_0 = u_1 = 5$, $w_1 = u_3 = \frac{41}{13}$
+
+### Étude de la monotonie
+
+**Pour $(v_n)$ :** $$v_{n+1} = u_{2(n+1)} = u_{2n+2} = \frac{7u_{2n} + 6}{2u_{2n} + 3} = \frac{7v_n + 6}{2v_n + 3}$$
+
+Étudions $v_{n+1} - v_n$ : $$v_{n+1} - v_n = \frac{7v_n + 6}{2v_n + 3} - v_n = \frac{7v_n + 6 - v_n(2v_n + 3)}{2v_n + 3}$$
+
+$$= \frac{7v_n + 6 - 2v_n^2 - 3v_n}{2v_n + 3} = \frac{4v_n + 6 - 2v_n^2}{2v_n + 3}$$
+
+$$= \frac{-2(v_n^2 - 2v_n - 3)}{2v_n + 3} = \frac{-2(v_n - 3)(v_n + 1)}{2v_n + 3}$$
+
+**Analyse du signe :**
+
+- Pour $v_n \in ]1, 3[$ : $(v_n - 3) < 0$ et $(v_n + 1) > 0$, donc $v_{n+1} - v_n > 0$
+- $(v_n)$ est **croissante** sur l'intervalle $]1, 3[$
+
+**Pour $(w_n)$ :** Par le même raisonnement : $$w_{n+1} - w_n = \frac{-2(w_n - 3)(w_n + 1)}{2w_n + 3}$$
+
+- Pour $w_n \in ]3, 5]$ : $(w_n - 3) > 0$ et $(w_n + 1) > 0$, donc $w_{n+1} - w_n < 0$
+- $(w_n)$ est **décroissante** sur l'intervalle $]3, 5]$
+
+### Majoration et minoration
+
+**Montrons par récurrence que $1 \leq v_n < 3$ :**
+
+_Initialisation :_ $v_0 = 1$, donc $1 \leq v_0 < 3$ ✓
+
+_Hérédité :_ Supposons $1 \leq v_n < 3$
+
+- $v_{n+1} = \frac{7v_n + 6}{2v_n + 3}$
+- Pour $v_n = 1$ : $v_{n+1} = \frac{13}{5} = 2,6 > 1$
+- Pour $v_n \to 3^-$ : $v_{n+1} \to \frac{27}{9} = 3$
+- La fonction $f(x) = \frac{7x + 6}{2x + 3}$ est croissante sur $[1, 3[$
+
+Donc $1 < v_{n+1} < 3$ pour tout $n \geq 1$.
+
+**Montrons par récurrence que $3 < w_n \leq 5$ :**
+
+_Initialisation :_ $w_0 = 5$, donc $3 < w_0 \leq 5$ ✓
+
+_Hérédité :_ Par un raisonnement similaire, on montre que $3 < w_{n+1} \leq 5$.
+
+---
+
+## c) Limites des suites
+
+### Convergence des suites extraites
+
+**Pour $(v_n)$ :**
+
+- $(v_n)$ est croissante et majorée par 3
+- Par le théorème de convergence monotone : $(v_n)$ converge
+
+**Calcul de la limite :** Si $\lim_{n \to +\infty} v_n = \ell_v$, alors : $$\ell_v = \frac{7\ell_v + 6}{2\ell_v + 3}$$
+
+$$\ell_v(2\ell_v + 3) = 7\ell_v + 6$$ $$2\ell_v^2 + 3\ell_v = 7\ell_v + 6$$ $$2\ell_v^2 - 4\ell_v - 6 = 0$$ $$\ell_v^2 - 2\ell_v - 3 = 0$$
+
+**Résolution :** $(\ell_v - 3)(\ell_v + 1) = 0$
+
+Donc $\ell_v = 3$ ou $\ell_v = -1$
+
+Comme $v_n \geq 1 > -1$, on a $\boxed{\lim_{n \to +\infty} v_n = 3}$
+
+**Pour $(w_n)$ :**
+
+- $(w_n)$ est décroissante et minorée par 3
+- Par le même calcul : $\boxed{\lim_{n \to +\infty} w_n = 3}$
+
+### Conclusion pour $(u_n)$
+
+Puisque :
+
+- $\lim_{n \to +\infty} u_{2n} = \lim_{n \to +\infty} v_n = 3$
+- $\lim_{n \to +\infty} u_{2n+1} = \lim_{n \to +\infty} w_n = 3$
+
+**Théorème :** Si les suites extraites $(u_{2n})$ et $(u_{2n+1})$ convergent vers la même limite $\ell$, alors $(u_n)$ converge vers $\ell$.
+
+$$\boxed{\lim_{n \to +\infty} u_n = 3}$$
