@@ -801,4 +801,4 @@ Le 5.42 viens de l'arrondie
 
 ![[Pasted image 20250605165307.png]]
 
-Il n'y a pas de stock initial car c'est la première fois que l'on produit les long board
+Il n'y a pas de stock initial car c'est la première fois que l'on produit les longboard
