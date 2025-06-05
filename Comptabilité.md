@@ -792,4 +792,13 @@ C'est le montant de charges indirect qui est affecté a une unité d'œuvre
 
 ![[Pasted image 20250605163711.png]]
 
-Coût = prix
+Le prix d'achat correspond au tarifs unitaire du prix du bois alors que le coût d'achat prend en compte les charges indirect d'approvisionnement 
+
+
+Le bois acheté pendant la période constitue l'entrée en stock
+Le 5.42 viens de l'arrondie
+
+
+![[Pasted image 20250605165307.png]]
+
+Il n'y a pas de stock initial car c'est la première fois que l'on produit les long board
