@@ -765,3 +765,31 @@ Marge sur coût variable unitaire × Quantité supplémentaire =
 ### **8. Vérification**
 
 Oui, la variation du résultat **correspond bien à la marge sur coût variable unitaire × la nouvelle quantité vendue**.
+
+
+
+
+
+
+
+# Chapitre 7
+
+![[Drawing 2025-06-05 16.13.19.excalidraw]]
+
+Une charge direct peut être imputé précisément au coût d'un produit, une charge indirect est une charge qui concerne plusieurs produit elle ne peut donc pas être directement affecté au coût d'un produit 
+
+
+L'unité d'œuvre c'est l'élément qui permet la répartition des charges indirectes 
+
+
+
+C'est le montant de charges indirect qui est affecté a une unité d'œuvre
+
+![[Pasted image 20250605163059.png]]
+
+31-12 = 19K Snowboard
+
+
+![[Pasted image 20250605163711.png]]
+
+Coût = prix
